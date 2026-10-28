@@ -134,10 +134,6 @@ let sampleArticles = [
 },
 
 ];
-
-// These values are fictional layout examples. They are intentionally marked DEMO.
-const demoMarketData = [
-  
 async function loadFetchedNews() {
   try {
     const response = await fetch("./news.json");
@@ -176,7 +172,9 @@ async function loadFetchedNews() {
     console.error("Automatic news loading failed:", error);
   }
 }
-];
+// These values are fictional layout examples. They are intentionally marked DEMO.
+const demoMarketData = [
+  ];
 
 const storyGrid = document.querySelector("#story-grid");
 const marketGrid = document.querySelector("#market-grid");
