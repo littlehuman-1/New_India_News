@@ -229,7 +229,7 @@ function renderStories() {
           <span class="meta-dot" aria-hidden="true"></span>
           <time datetime="${escapeHTML(article.date)}">${escapeHTML(formatDate(article.date))}</time>
         </div>
-        <span class="sample-label">DEMO CONTENT · VERIFY BEFORE USE</span>
+        ${article.isSample === false ? "" : '<span class="sample-label">DEMO CONTENT · VERIFY BEFORE USE</span>'}
         <h3>${escapeHTML(article.title)}</h3>
         <p class="story-summary">${escapeHTML(article.summary)}</p>
         <div class="story-source">
