@@ -281,6 +281,7 @@ menuToggle.addEventListener("click", () => {
 });
 
 
+
 primaryNav.addEventListener("click", (event) => {
   const link = event.target.closest("a");
   if (!link) return;
@@ -295,12 +296,9 @@ primaryNav.addEventListener("click", (event) => {
     "markets": "Markets"
   };
 
-  console.log("Clicked navigation link:", label);
-
   if (Object.prototype.hasOwnProperty.call(navCategories, label)) {
     event.preventDefault();
     setActiveCategory(navCategories[label]);
-
     document.querySelector("#main")?.scrollIntoView({
       behavior: "smooth"
     });
@@ -309,8 +307,7 @@ primaryNav.addEventListener("click", (event) => {
   primaryNav.classList.remove("open");
   menuToggle.setAttribute("aria-expanded", "false");
 });
-
-  
+ 
 
 
  // Keyboard shortcut: press / to focus the search field, unless already typing.
