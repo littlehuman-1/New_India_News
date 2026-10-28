@@ -280,9 +280,12 @@ menuToggle.addEventListener("click", () => {
   menuToggle.setAttribute("aria-expanded", String(isOpen));
 });
 
+
 primaryNav.addEventListener("click", (event) => {
   const link = event.target.closest("a");
   if (!link) return;
+
+  const label = link.textContent.trim().toLowerCase();
 
   const navCategories = {
     "top stories": "All",
@@ -291,6 +294,21 @@ primaryNav.addEventListener("click", (event) => {
     "business": "Business",
     "markets": "Markets"
   };
+
+  console.log("Clicked navigation link:", label);
+
+  if (Object.prototype.hasOwnProperty.call(navCategories, label)) {
+    event.preventDefault();
+    setActiveCategory(navCategories[label]);
+
+    document.querySelector("#main")?.scrollIntoView({
+      behavior: "smooth"
+    });
+  }
+
+  primaryNav.classList.remove("open");
+  menuToggle.setAttribute("aria-expanded", "false");
+});
 
   const label = link.textContent.trim().toLowerCase();
 
