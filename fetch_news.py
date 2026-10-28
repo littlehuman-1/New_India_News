@@ -11,7 +11,9 @@ from urllib.parse import urlparse
 OUTPUT_FILE = Path("news.json")
 MAX_ARTICLES = 100
 
+
 FEEDS = [
+    # Environment, forests, climate and conservation
     {
         "name": "Mongabay India",
         "url": "https://india.mongabay.com/feed/",
@@ -22,33 +24,96 @@ FEEDS = [
         "url": "https://www.downtoearth.org.in/rss",
         "category": "Development",
     },
+
+    # Clean energy and renewable technology
     {
         "name": "SolarQuarter",
         "url": "https://solarquarter.com/feed/",
         "category": "Innovation",
     },
+
+    # Official Government of India announcements
+    {
+        "name": "Press Information Bureau",
+        "url": "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=1",
+        "category": "Development",
+    },
+
+    # Infrastructure, transport, industry and public technology
+    {
+        "name": "ET Government - Smart Infrastructure",
+        "url": "https://government.economictimes.indiatimes.com/rss/smart-infra",
+        "category": "Development",
+    },
+    {
+        "name": "ET Government - Digital India",
+        "url": "https://government.economictimes.indiatimes.com/rss/digital-india",
+        "category": "Innovation",
+    },
+    {
+        "name": "ET Government - Technology",
+        "url": "https://government.economictimes.indiatimes.com/rss/technology",
+        "category": "Innovation",
+    },
+    {
+        "name": "ET Government - Mobility",
+        "url": "https://government.economictimes.indiatimes.com/rss/mobility",
+        "category": "Business",
+    },
+    {
+        "name": "ET Government - Defence",
+        "url": "https://government.economictimes.indiatimes.com/rss/Defence",
+        "category": "Innovation",
+    },
+    {
+        "name": "ET Government - Economy",
+        "url": "https://government.economictimes.indiatimes.com/rss/economy",
+        "category": "Markets",
+    },
+    {
+        "name": "ET Government - Policy",
+        "url": "https://government.economictimes.indiatimes.com/rss/policy",
+        "category": "Development",
+    },
 ]
+
+
 
 KEYWORDS = {
     "Development": [
-        "india", "rural", "education", "health", "infrastructure",
-        "development", "farmer", "agriculture", "water", "village",
+        "india", "rural", "education", "health", "hospital",
+        "infrastructure", "development", "farmer", "agriculture",
+        "water", "village", "railway", "railways", "train",
+        "highway", "road", "bridge", "metro", "port",
         "renewable", "solar", "clean energy", "conservation",
+        "forest", "wildlife", "biodiversity", "climate",
+        "environment", "electricity", "sanitation",
     ],
     "Innovation": [
-        "india", "technology", "innovation", "research", "scientist",
-        "startup", "solar", "battery", "renewable", "electric vehicle",
-        "clean energy",
+        "india", "technology", "innovation", "research",
+        "scientist", "startup", "semiconductor", "chip",
+        "artificial intelligence", "robotics", "drone",
+        "space", "satellite", "isro", "defence", "defense",
+        "research and development", "battery", "electric vehicle",
+        "clean energy", "telecom", "5g", "6g", "digital",
     ],
     "Business": [
-        "india", "business", "startup", "manufacturing", "employment",
-        "small business", "export", "investment",
+        "india", "business", "startup", "manufacturing",
+        "employment", "small business", "export", "investment",
+        "automotive", "automobile", "electric vehicle",
+        "factory", "production", "industrial", "industry",
+        "electronics", "semiconductor", "job creation",
+        "infrastructure project",
     ],
     "Markets": [
-        "india", "market", "economy", "trade", "industry", "exports",
+        "india", "market", "economy", "trade", "industry",
+        "exports", "stock market", "nifty", "sensex",
+        "rbi", "interest rate", "repo rate", "inflation",
+        "banking", "financial results", "quarterly results",
+        "profit", "revenue", "fixed deposit", "fd rate",
+        "loan rate", "interest income", "investment",
     ],
 }
-
 
 def text_of(element, path):
     found = element.find(path)
