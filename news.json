@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T13:21:56.888320+00:00",
+  "updatedAt": "2026-10-28T14:17:32.550450+00:00",
   "articles": [
     {
       "title": "Winged wayfarers of the ocean",
@@ -208,6 +208,24 @@
       "sourceUrl": "https://solarquarter.com/",
       "articleUrl": "https://solarquarter.com/2026/10/28/selec-controls-combines-technology-showcase-with-on-grid-solar-training-at-rei-expo-2026/",
       "summary": "Selec Controls showcased its range of Made-in-India solar on-grid inverters at the Renewable Energy India Expo 2026, highlighting their efficiency and local support. The event included a hands-on training session for grid-connected solar systems. This initiative strengthened brand awareness and fostered relationships within the renewable energy sector, enhancing technical knowledge among industry professionals. The post Selec Controls Combines Technology Showcase with On-Grid Solar Training at R",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "Senvion India Secures 54.6 MW Wind Order From Prozeal Green In Gujarat",
+      "category": "Innovation",
+      "date": "2026-10-28",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/10/28/senvion-india-secures-54-6-mw-wind-order-from-prozeal-green-in-gujarat/",
+      "summary": "Senvion India has received a 54.6 MW wind power project order from Prozeal Green Private Limited, set in Gujarat. This will involve installing 13 upgraded Senvion 4.2M160 wind turbines. Senvion will provide installation and 25 years of maintenance services. The project aims to enhance wind energy capacity for commercial and industrial needs. The post Senvion India Secures 54.6 MW Wind Order From Prozeal Green In Gujarat appeared first on SolarQuarter .",
       "icon": "📰",
       "visualBg": "#e2f0ed",
       "visualInk": "#276b5c",
