@@ -1,0 +1,309 @@
+/*
+  Positive India — starter data and interactions.
+
+  IMPORTANT:
+  - The stories below are illustrative sample content, NOT verified news reports.
+  - Replace each sample with a verified story and the direct article URL before launch.
+  - Source-site links below lead to the publishers' official sites, not to the sample story.
+  - Market figures are fictional demo values and must never be presented as live data.
+*/
+
+const sampleArticles = [
+  {
+    id: 1,
+    title: "How to follow India's infrastructure and public works updates",
+    category: "Development",
+    date: "2026-10-25",
+    source: "Press Information Bureau",
+    sourceShort: "PIB",
+    sourceUrl: "https://www.pib.gov.in/",
+    articleUrl: "https://www.pib.gov.in/",
+    summary: "A sample card showing how a development story could be presented. Replace this text with a concise, fact-checked summary of a specific published announcement.",
+    icon: "🏗",
+    visualBg: "#e5efe3",
+    visualInk: "#2c6747",
+    tags: ["infrastructure", "public works", "development", "india"]
+  },
+  {
+    id: 2,
+    title: "A guide to discovering space research and science updates",
+    category: "Innovation",
+    date: "2026-10-24",
+    source: "Indian Space Research Organisation",
+    sourceShort: "ISRO",
+    sourceUrl: "https://www.isro.gov.in/",
+    articleUrl: "https://www.isro.gov.in/",
+    summary: "This placeholder demonstrates a science story card. Add a verified mission, research milestone or technology update and link directly to its original report.",
+    icon: "🛰",
+    visualBg: "#e7e9f7",
+    visualInk: "#4d5698",
+    tags: ["space", "science", "research", "technology", "innovation"]
+  },
+  {
+    id: 3,
+    title: "Manufacturing and export stories: what readers can track",
+    category: "Business",
+    date: "2026-10-22",
+    source: "Invest India",
+    sourceShort: "Invest India",
+    sourceUrl: "https://www.investindia.gov.in/",
+    articleUrl: "https://www.investindia.gov.in/",
+    summary: "A sample business card for future coverage of manufacturing, exports, investment and company expansion. Replace with a source-backed story before publishing.",
+    icon: "⚙",
+    visualBg: "#f8ead6",
+    visualInk: "#8c6026",
+    tags: ["manufacturing", "exports", "investment", "business"]
+  },
+  {
+    id: 4,
+    title: "Renewable energy projects and clean-technology progress",
+    category: "Development",
+    date: "2026-10-20",
+    source: "Ministry of New and Renewable Energy",
+    sourceShort: "MNRE",
+    sourceUrl: "https://mnre.gov.in/",
+    articleUrl: "https://mnre.gov.in/",
+    summary: "A demonstration summary for a potential clean-energy story. For a real entry, include the project's location, capacity, timeline and source-confirmed details.",
+    icon: "☀",
+    visualBg: "#f7efcf",
+    visualInk: "#8d7023",
+    tags: ["renewable energy", "solar", "clean technology", "development"]
+  },
+  {
+    id: 5,
+    title: "How to track company results and business expansion",
+    category: "Business",
+    date: "2026-10-18",
+    source: "National Stock Exchange of India",
+    sourceShort: "NSE",
+    sourceUrl: "https://www.nseindia.com/",
+    articleUrl: "https://www.nseindia.com/",
+    summary: "This sample illustrates a company and economy card. Use an actual company filing, exchange announcement or licensed news source for a published item.",
+    icon: "📈",
+    visualBg: "#e2f0ed",
+    visualInk: "#276b5c",
+    tags: ["company results", "business", "economy", "markets"]
+  },
+  {
+    id: 6,
+    title: "Understanding official Indian market information",
+    category: "Markets",
+    date: "2026-10-16",
+    source: "BSE India",
+    sourceShort: "BSE",
+    sourceUrl: "https://www.bseindia.com/",
+    articleUrl: "https://www.bseindia.com/",
+    summary: "A market-category placeholder. Replace with a dated, verified market update and include the relevant index or company, reporting period and source link.",
+    icon: "₹",
+    visualBg: "#f1e5ef",
+    visualInk: "#80517b",
+    tags: ["stock market", "sensex", "markets", "finance", "india"]
+  },
+
+{
+  id: 7,
+  title: "India has 5.3GWh of operational BESS, with 185GWh under development, CEA official says",
+  category: "Development",
+  date: "2026-10-27",
+  source: "Energy-Storage.News",
+  sourceShort: "ESN",
+  sourceUrl: "https://www.energy-storage.news/",
+  articleUrl: "https://www.energy-storage.news/india-has-5-3gwh-of-operational-bess-with-185gwh-under-development-cea-official-says/",
+  summary: "India has 5.3GWh of operational battery energy storage capacity, with a further 185GWh of projects under development, according to a Central Electricity Authority official. The article discusses energy storage expansion, renewable energy integration and the challenges of delivering projects.",
+  icon: "🔋",
+  visualBg: "#e2f0ed",
+  visualInk: "#276b5c",
+  tags: [
+    "battery storage",
+    "renewable energy",
+    "clean energy",
+    "infrastructure",
+    "development"
+  ],
+  isSample: false
+},
+
+];
+
+// These values are fictional layout examples. They are intentionally marked DEMO.
+const demoMarketData = [
+  { name: "NIFTY 50", code: "NSE · DEMO", value: "24,850.00", change: "+0.42%", direction: "up" },
+  { name: "SENSEX", code: "BSE · DEMO", value: "81,240.00", change: "+0.31%", direction: "up" },
+  { name: "DEMO STOCK A", code: "EXAMPLE · DEMO", value: "₹1,245.00", change: "−0.18%", direction: "down" },
+  { name: "DEMO STOCK B", code: "EXAMPLE · DEMO", value: "₹785.50", change: "+0.76%", direction: "up" }
+];
+
+const storyGrid = document.querySelector("#story-grid");
+const marketGrid = document.querySelector("#market-grid");
+const searchInput = document.querySelector("#search-input");
+const sortSelect = document.querySelector("#sort-select");
+const categoryFilters = document.querySelector("#category-filters");
+const storyCount = document.querySelector("#story-count");
+const emptyState = document.querySelector("#empty-state");
+const resetFiltersButton = document.querySelector("#reset-filters");
+const menuToggle = document.querySelector("#menu-toggle");
+const primaryNav = document.querySelector("#primary-nav");
+
+let activeCategory = "All";
+
+function escapeHTML(value) {
+  return String(value).replace(/[&<>"']/g, (character) => ({
+    "&": "&amp;",
+    "<": "&lt;",
+    ">": "&gt;",
+    '"': "&quot;",
+    "'": "&#39;"
+  })[character]);
+}
+
+function formatDate(dateString) {
+  const date = new Date(`${dateString}T12:00:00`);
+  if (Number.isNaN(date.getTime())) return "Date not provided";
+  return new Intl.DateTimeFormat("en-IN", {
+    day: "numeric",
+    month: "short",
+    year: "numeric"
+  }).format(date);
+}
+
+function renderMarketCards() {
+  marketGrid.innerHTML = demoMarketData.map((item) => `
+    <article class="market-card">
+      <div class="market-card-top">
+        <span class="market-name">${escapeHTML(item.name)}</span>
+        <span class="market-code">${escapeHTML(item.code)}</span>
+      </div>
+      <div class="market-value">${escapeHTML(item.value)}</div>
+      <div class="market-change ${item.direction === "down" ? "negative" : ""}">
+        ${escapeHTML(item.change)} <span aria-hidden="true">${item.direction === "down" ? "↘" : "↗"}</span>
+      </div>
+      <div class="market-card-foot">Illustrative value · Not live</div>
+    </article>
+  `).join("");
+}
+
+function getVisibleArticles() {
+  const query = searchInput.value.trim().toLowerCase();
+
+  const visible = sampleArticles.filter((article) => {
+    const matchesCategory = activeCategory === "All" || article.category === activeCategory;
+    const searchableText = [
+      article.title,
+      article.category,
+      article.source,
+      article.summary,
+      ...(article.tags || [])
+    ].join(" ").toLowerCase();
+
+    return matchesCategory && searchableText.includes(query);
+  });
+
+  const sortMode = sortSelect.value;
+  visible.sort((a, b) => {
+    if (sortMode === "oldest") return new Date(a.date) - new Date(b.date);
+    if (sortMode === "az") return a.title.localeCompare(b.title);
+    return new Date(b.date) - new Date(a.date);
+  });
+
+  return visible;
+}
+
+function renderStories() {
+  const articles = getVisibleArticles();
+
+  storyCount.textContent = `${articles.length} ${articles.length === 1 ? "story" : "stories"}`;
+  emptyState.hidden = articles.length !== 0;
+  storyGrid.hidden = articles.length === 0;
+
+  storyGrid.innerHTML = articles.map((article, index) => `
+    <article class="story-card">
+      <div class="story-visual"
+        style="--visual-bg:${escapeHTML(article.visualBg)};--visual-ink:${escapeHTML(article.visualInk)}"
+        aria-hidden="true">
+        <span class="visual-icon">${escapeHTML(article.icon)}</span>
+        <span class="visual-index">STORY ${String(index + 1).padStart(2, "0")}</span>
+      </div>
+      <div class="story-content">
+        <div class="story-meta">
+          <span class="story-category">${escapeHTML(article.category)}</span>
+          <span class="meta-dot" aria-hidden="true"></span>
+          <time datetime="${escapeHTML(article.date)}">${escapeHTML(formatDate(article.date))}</time>
+        </div>
+        <span class="sample-label">DEMO CONTENT · VERIFY BEFORE USE</span>
+        <h3>${escapeHTML(article.title)}</h3>
+        <p class="story-summary">${escapeHTML(article.summary)}</p>
+        <div class="story-source">
+          <span class="source-avatar" aria-hidden="true">${escapeHTML(article.sourceShort.slice(0, 3).toUpperCase())}</span>
+          <span class="source-copy">
+            <strong>${escapeHTML(article.source)}</strong>
+            <small>Publisher website</small>
+          </span>
+          <a class="source-link" href="${escapeHTML(article.articleUrl)}"
+            target="_blank" rel="noopener noreferrer"
+            aria-label="Visit ${escapeHTML(article.source)} website (opens in a new tab)">
+            Visit source ↗
+          </a>
+        </div>
+      </div>
+    </article>
+  `).join("");
+}
+
+function setActiveCategory(category) {
+  activeCategory = category;
+  categoryFilters.querySelectorAll("[data-category]").forEach((button) => {
+    const isActive = button.dataset.category === category;
+    button.classList.toggle("selected", isActive);
+    button.setAttribute("aria-pressed", String(isActive));
+  });
+  renderStories();
+}
+
+categoryFilters.addEventListener("click", (event) => {
+  const button = event.target.closest("[data-category]");
+  if (!button) return;
+  setActiveCategory(button.dataset.category);
+});
+
+searchInput.addEventListener("input", renderStories);
+sortSelect.addEventListener("change", renderStories);
+
+resetFiltersButton.addEventListener("click", () => {
+  searchInput.value = "";
+  sortSelect.value = "newest";
+  setActiveCategory("All");
+  searchInput.focus();
+});
+
+menuToggle.addEventListener("click", () => {
+  const isOpen = primaryNav.classList.toggle("open");
+  menuToggle.setAttribute("aria-expanded", String(isOpen));
+});
+
+primaryNav.addEventListener("click", (event) => {
+  if (event.target.closest("a")) {
+    primaryNav.classList.remove("open");
+    menuToggle.setAttribute("aria-expanded", "false");
+  }
+});
+
+// Keyboard shortcut: press / to focus the search field, unless already typing.
+document.addEventListener("keydown", (event) => {
+  const target = event.target;
+  const isTyping = target instanceof HTMLElement &&
+    (target.isContentEditable || ["INPUT", "TEXTAREA", "SELECT"].includes(target.tagName));
+
+  if (event.key === "/" && !isTyping && !event.ctrlKey && !event.metaKey && !event.altKey) {
+    event.preventDefault();
+    searchInput.focus();
+  }
+
+  if (event.key === "Escape" && document.activeElement === searchInput) {
+    searchInput.value = "";
+    renderStories();
+    searchInput.blur();
+  }
+});
+
+renderMarketCards();
+renderStories();

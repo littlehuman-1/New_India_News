@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Positive India — a curated view of development, innovation, business and markets.">
+  <meta name="theme-color" content="#123b2d">
+  <title>Positive India — Development, Innovation & Markets</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="#" aria-label="Positive India home">
+        <span class="brand-mark" aria-hidden="true">✳</span>
+        <span class="brand-copy">
+          <strong>Positive India</strong>
+          <small>Development · Innovation · Markets</small>
+        </span>
+      </a>
+
+      <button class="menu-toggle" id="menu-toggle" type="button"
+        aria-expanded="false" aria-controls="primary-nav">
+        <span class="menu-icon" aria-hidden="true">☰</span>
+        <span class="sr-only">Toggle navigation</span>
+      </button>
+
+      <nav class="primary-nav" id="primary-nav" aria-label="Main navigation">
+        <a class="nav-link active" href="#top-stories">Top stories</a>
+        <a class="nav-link" href="#development">Development</a>
+        <a class="nav-link" href="#innovation">Innovation</a>
+        <a class="nav-link" href="#business">Business</a>
+        <a class="nav-link" href="#markets">Markets</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="welcome-wrap" id="top">
+      <div class="welcome">
+        <div class="welcome-copy">
+          <p class="eyebrow"><span class="live-dot"></span> A constructive view of what's moving forward</p>
+          <h1>Good things are<br><em>moving forward.</em></h1>
+          <p class="welcome-description">
+            A curated space for stories about India's development, science,
+            innovation, business and financial markets — with links to the original sources.
+          </p>
+          <a class="button button-light" href="#top-stories">Explore the stories <span aria-hidden="true">↘</span></a>
+        </div>
+        <div class="welcome-art" aria-hidden="true">
+          <div class="art-sun"></div>
+          <div class="art-orbit orbit-one"></div>
+          <div class="art-orbit orbit-two"></div>
+          <div class="art-hill hill-back"></div>
+          <div class="art-hill hill-front"></div>
+          <div class="art-stem stem-one"></div>
+          <div class="art-stem stem-two"></div>
+          <div class="art-leaf leaf-one"></div>
+          <div class="art-leaf leaf-two"></div>
+          <div class="art-leaf leaf-three"></div>
+          <div class="art-caption">Progress, in focus.</div>
+        </div>
+      </div>
+      <div class="principles" aria-label="Editorial principles">
+        <span><span aria-hidden="true">✓</span> Constructive developments</span>
+        <span><span aria-hidden="true">↗</span> Original-source links</span>
+        <span><span aria-hidden="true">◎</span> No party-political or religious coverage</span>
+      </div>
+    </section>
+
+    <section class="market-section page-section" id="markets">
+      <div class="section-heading market-heading">
+        <div>
+          <p class="eyebrow">THE MARKET DESK</p>
+          <h2>Market snapshot</h2>
+          <p class="section-description">A layout preview for a future market-data integration.</p>
+        </div>
+        <span class="demo-label"><span aria-hidden="true">●</span> DEMO DATA · NOT LIVE</span>
+      </div>
+      <div class="market-grid" id="market-grid" aria-label="Demonstration market indicators">
+        <!-- Filled by script.js. All values are clearly marked as demo data. -->
+      </div>
+      <p class="market-disclaimer">
+        These figures are fictional placeholders for design testing. They are not current market prices,
+        investment advice or a representation of actual index performance.
+      </p>
+    </section>
+
+    <section class="page-section stories-section" id="top-stories">
+      <div class="section-heading story-heading">
+        <div>
+          <p class="eyebrow">THE LATEST</p>
+          <h2>Stories worth following</h2>
+          <p class="section-description">Explore constructive developments across sectors.</p>
+        </div>
+        <span class="story-count" id="story-count" aria-live="polite">Loading stories…</span>
+      </div>
+
+      <div class="toolbar">
+        <label class="search-box">
+          <span class="search-symbol" aria-hidden="true">⌕</span>
+          <span class="sr-only">Search stories</span>
+          <input id="search-input" type="search" placeholder="Search topics, sources or keywords…" autocomplete="off">
+          <kbd>/</kbd>
+        </label>
+        <label class="sort-control">
+          <span class="sr-only">Sort stories</span>
+          <select id="sort-select">
+            <option value="newest">Newest first</option>
+            <option value="oldest">Oldest first</option>
+            <option value="az">Headline A–Z</option>
+          </select>
+        </label>
+      </div>
+
+      <div class="category-list" id="category-filters" aria-label="Filter stories by category">
+        <button class="category-chip selected" type="button" data-category="All" aria-pressed="true">All stories</button>
+        <button class="category-chip" type="button" data-category="Development" aria-pressed="false">Development</button>
+        <button class="category-chip" type="button" data-category="Innovation" aria-pressed="false">Science & innovation</button>
+        <button class="category-chip" type="button" data-category="Business" aria-pressed="false">Business</button>
+        <button class="category-chip" type="button" data-category="Markets" aria-pressed="false">Markets</button>
+      </div>
+
+      <div class="story-grid" id="story-grid" aria-live="polite">
+        <!-- Story cards are rendered by script.js from the sample data below. -->
+      </div>
+
+      <div class="empty-state" id="empty-state" hidden>
+        <div class="empty-icon" aria-hidden="true">⌕</div>
+        <h3>No stories match that search</h3>
+        <p>Try a different keyword or choose another category.</p>
+        <button class="button button-dark" id="reset-filters" type="button">Reset filters</button>
+      </div>
+
+      <p class="editorial-note">
+        <strong>Editorial note:</strong> This prototype prioritises constructive development stories.
+        Before publishing real stories, verify the facts, date and source, and check the publisher's
+        reuse terms. A positive framing should never change the facts.
+      </p>
+    </section>
+
+    <section class="about-section" id="about">
+      <div class="about-inner">
+        <div class="about-symbol" aria-hidden="true">✳</div>
+        <div>
+          <p class="eyebrow">OUR PURPOSE</p>
+          <h2>Progress deserves a closer look.</h2>
+          <p>
+            Positive India is a learning project exploring how a focused news experience can make
+            development, research, enterprise and market information easier to discover. Each real
+            story should identify its publisher and link readers to the original source.
+          </p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <a class="brand footer-brand" href="#top">
+        <span class="brand-mark" aria-hidden="true">✳</span>
+        <span class="brand-copy">
+          <strong>Positive India</strong>
+          <small>Constructive stories. Clear sources.</small>
+        </span>
+      </a>
+      <p>Independent learning project · Built with HTML, CSS and JavaScript</p>
+      <a class="back-top" href="#top">Back to top ↑</a>
+    </div>
+  </footer>
+</body>
+</html>
