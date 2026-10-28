@@ -9,21 +9,31 @@
 */
 
 const sampleArticles = [
-  {
-    id: 1,
-    title: "How to follow India's infrastructure and public works updates",
-    category: "Development",
-    date: "2026-10-25",
-    source: "Press Information Bureau",
-    sourceShort: "PIB",
-    sourceUrl: "https://www.pib.gov.in/",
-    articleUrl: "https://www.pib.gov.in/",
-    summary: "A sample card showing how a development story could be presented. Replace this text with a concise, fact-checked summary of a specific published announcement.",
-    icon: "🏗",
-    visualBg: "#e5efe3",
-    visualInk: "#2c6747",
-    tags: ["infrastructure", "public works", "development", "india"]
-  },
+  
+{
+  id: 1,
+  title: "Gujarat Adds Rooftop Solar Subsidy for Eligible Households",
+  category: "Development",
+  date: "2026-10-27",
+  source: "SolarQuarter",
+  sourceShort: "SQ",
+  sourceUrl: "https://solarquarter.com/",
+  articleUrl: "https://solarquarter.com/2026/10/27/gujarat-offers-additional-subsidy-for-rooftop-solar-systems-up-to-2-18-kwp-under-pm-surya-ghar-scheme/",
+  summary: "Gujarat has announced additional state subsidy support for eligible households installing rooftop solar systems of up to 2.18 kWp under the PM Surya Ghar scheme. Reported household contributions are limited to 5% of benchmark cost for SC/ST beneficiaries and 10% for other residential consumers, after accounting for central assistance. Eligible support is subject to the scheme's conditions.",
+  icon: "☀️",
+  visualBg: "#f7efcf",
+  visualInk: "#8d7023",
+  tags: [
+    "Gujarat",
+    "rooftop solar",
+    "renewable energy",
+    "PM Surya Ghar",
+    "subsidy",
+    "development"
+  ],
+  isSample: false
+},
+
   {
     id: 2,
     title: "A guide to discovering space research and science updates",
