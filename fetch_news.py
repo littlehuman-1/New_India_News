@@ -151,11 +151,41 @@ def main():
     )[:MAX_ARTICLES]
 
         if not by_url:
+        
+def main():
+    existing = (
+        json.loads(OUTPUT_FILE.read_text(encoding="utf-8"))
+        if OUTPUT_FILE.exists()
+        else {"articles": []}
+    )
+
+    by_url = {}
+    for article in existing.get("articles", []):
+        if article.get("articleUrl"):
+            by_url[article["articleUrl"]] = article
+
+    successful_feeds = 0
+
+    for feed in FEEDS:
+        try:
+            articles = fetch_feed(feed)
+            for article in articles:
+                by_url[article["articleUrl"]] = article
+            successful_feeds += 1
+            print(f"Fetched: {feed['name']} ({len(articles)} articles)")
+        except Exception as error:
+            print(f"Feed failed: {feed['name']}: {error}")
+
+    if successful_feeds == 0:
         raise RuntimeError(
-            "No articles available. Keeping the existing news.json unchanged."
+            "All feeds failed. Keeping existing news.json unchanged."
         )
 
-    # Keep the newest articles first and avoid duplicate links.
+    if not by_url:
+        raise RuntimeError(
+            "No articles available. Keeping existing news.json unchanged."
+        )
+
     articles = sorted(
         by_url.values(),
         key=lambda article: article.get("date", ""),
@@ -163,13 +193,19 @@ def main():
     )[:MAX_ARTICLES]
 
     OUTPUT_FILE.write_text(
-        json.dumps({
-            "updatedAt": datetime.now(timezone.utc).isoformat(),
-            "articles": articles,
-        }, ensure_ascii=False, indent=2) + "\n",
+        json.dumps(
+            {
+                "updatedAt": datetime.now(timezone.utc).isoformat(),
+                "articles": articles,
+            },
+            ensure_ascii=False,
+            indent=2,
+        )
+        + "\n",
         encoding="utf-8",
     )
     print(f"Saved {len(articles)} articles to {OUTPUT_FILE}")
+
 
 if __name__ == "__main__":
     main()
