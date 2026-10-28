@@ -174,29 +174,26 @@ async function loadFetchedNews() {
 }
 // These values are fictional layout examples. They are intentionally marked DEMO.
 
-const demoMarketData = [
+
+let marketData = [
   {
     name: "Nifty 50",
     code: "NSE",
-    value: "24,500.00",
-    change: "+0.45%",
+    value: "—",
+    change: "Daily close",
     direction: "up"
   },
   {
     name: "Sensex",
     code: "BSE",
-    value: "80,500.00",
-    change: "+0.32%",
+    value: "—",
+    change: "Daily close",
     direction: "up"
-  },
-  {
-    name: "Bank Nifty",
-    code: "NSE",
-    value: "55,200.00",
-    change: "-0.18%",
-    direction: "down"
   }
 ];
+
+let marketDataDate = "";
+
 const storyGrid = document.querySelector("#story-grid");
 const marketGrid = document.querySelector("#market-grid");
 const searchInput = document.querySelector("#search-input");
@@ -231,21 +228,24 @@ function formatDate(dateString) {
 }
 
 function renderMarketCards() {
-  marketGrid.innerHTML = demoMarketData.map((item) => `
+  marketGrid.innerHTML = marketData.map((item) => `
     <article class="market-card">
       <div class="market-card-top">
         <span class="market-name">${escapeHTML(item.name)}</span>
         <span class="market-code">${escapeHTML(item.code)}</span>
       </div>
       <div class="market-value">${escapeHTML(item.value)}</div>
-      <div class="market-change ${item.direction === "down" ? "negative" : ""}">
-        ${escapeHTML(item.change)} <span aria-hidden="true">${item.direction === "down" ? "↘" : "↗"}</span>
+      <div class="market-change">
+        ${escapeHTML(item.change)}
       </div>
-      <div class="market-card-foot">Illustrative value · Not live</div>
+      <div class="market-card-foot">
+        ${marketDataDate
+          ? `Latest available close · ${escapeHTML(formatDate(marketDataDate))}`
+          : "Loading daily closing data…"}
+      </div>
     </article>
   `).join("");
 }
-
 function getVisibleArticles() {
   const query = searchInput.value.trim().toLowerCase();
 
