@@ -173,9 +173,30 @@ async function loadFetchedNews() {
   }
 }
 // These values are fictional layout examples. They are intentionally marked DEMO.
-const demoMarketData = [
-  ];
 
+const demoMarketData = [
+  {
+    name: "Nifty 50",
+    code: "NSE",
+    value: "24,500.00",
+    change: "+0.45%",
+    direction: "up"
+  },
+  {
+    name: "Sensex",
+    code: "BSE",
+    value: "80,500.00",
+    change: "+0.32%",
+    direction: "up"
+  },
+  {
+    name: "Bank Nifty",
+    code: "NSE",
+    value: "55,200.00",
+    change: "-0.18%",
+    direction: "down"
+  }
+];
 const storyGrid = document.querySelector("#story-grid");
 const marketGrid = document.querySelector("#market-grid");
 const searchInput = document.querySelector("#search-input");
