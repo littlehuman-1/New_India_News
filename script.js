@@ -8,7 +8,7 @@
   - Market figures are fictional demo values and must never be presented as live data.
 */
 
-const sampleArticles = [
+let sampleArticles = [
   
 {
   id: 1,
