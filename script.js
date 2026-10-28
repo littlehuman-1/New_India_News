@@ -246,6 +246,86 @@ function renderMarketCards() {
     </article>
   `).join("");
 }
+
+async function loadMarketData() {
+  const apiUrl =
+    "https://api.tigzig.com/tremor/v1/market_series?symbols=%5ENSEI%2C%5EBSESN";
+
+  try {
+    const response = await fetch(apiUrl);
+
+    if (!response.ok) {
+      throw new Error(`Market API returned ${response.status}`);
+    }
+
+    const result = await response.json();
+
+    const rows = (Array.isArray(result.data) ? result.data : [])
+      .filter((row) =>
+        row.date &&
+        Number.isFinite(Number(row["^NSEI"])) &&
+        Number.isFinite(Number(row["^BSESN"]))
+      )
+      .sort((a, b) => a.date.localeCompare(b.date));
+
+    if (rows.length === 0) {
+      throw new Error("No valid market data was returned.");
+    }
+
+    const latest = rows[rows.length - 1];
+    const previous = rows.length > 1 ? rows[rows.length - 2] : null;
+
+    function makeMarketItem(name, code, symbol) {
+      const value = Number(latest[symbol]);
+      const oldValue = previous ? Number(previous[symbol]) : null;
+
+      let change = "Previous close unavailable";
+      let direction = "up";
+
+      if (oldValue !== null && oldValue !== 0) {
+        const percent = ((value - oldValue) / oldValue) * 100;
+
+        direction = percent < 0 ? "down" : "up";
+
+        change = `${percent > 0 ? "+" : ""}${percent.toFixed(2)}% vs previous close`;
+      }
+
+      return {
+        name,
+        code,
+        value: value.toLocaleString("en-IN", {
+          minimumFractionDigits: 2,
+          maximumFractionDigits: 2
+        }),
+        change,
+        direction
+      };
+    }
+
+    marketData = [
+      makeMarketItem("Nifty 50", "NSE", "^NSEI"),
+      makeMarketItem("Sensex", "BSE", "^BSESN")
+    ];
+
+    marketDataDate = latest.date;
+
+    renderMarketCards();
+
+    console.log("Market data loaded for:", marketDataDate);
+  } catch (error) {
+    console.error("Could not load market data:", error);
+
+    marketDataDate = "";
+    marketData = marketData.map((item) => ({
+      ...item,
+      value: "Unavailable",
+      change: "Data temporarily unavailable"
+    }));
+
+    renderMarketCards();
+  }
+}
+
 function getVisibleArticles() {
   const query = searchInput.value.trim().toLowerCase();
 
@@ -402,3 +482,4 @@ document.addEventListener("keydown", (event) => {
 renderMarketCards();
 renderStories();
 loadFetchedNews();
+loadMarketData();
