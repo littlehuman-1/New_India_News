@@ -150,6 +150,18 @@ def main():
         reverse=True,
     )[:MAX_ARTICLES]
 
+        if not by_url:
+        raise RuntimeError(
+            "No articles available. Keeping the existing news.json unchanged."
+        )
+
+    # Keep the newest articles first and avoid duplicate links.
+    articles = sorted(
+        by_url.values(),
+        key=lambda article: article.get("date", ""),
+        reverse=True,
+    )[:MAX_ARTICLES]
+
     OUTPUT_FILE.write_text(
         json.dumps({
             "updatedAt": datetime.now(timezone.utc).isoformat(),
