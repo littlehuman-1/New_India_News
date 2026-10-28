@@ -281,10 +281,30 @@ menuToggle.addEventListener("click", () => {
 });
 
 primaryNav.addEventListener("click", (event) => {
-  if (event.target.closest("a")) {
-    primaryNav.classList.remove("open");
-    menuToggle.setAttribute("aria-expanded", "false");
+  const link = event.target.closest("a");
+  if (!link) return;
+
+  const navCategories = {
+    "top stories": "All",
+    "development": "Development",
+    "innovation": "Innovation",
+    "business": "Business",
+    "markets": "Markets"
+  };
+
+  const label = link.textContent.trim().toLowerCase();
+
+  if (navCategories[label]) {
+    event.preventDefault();
+    setActiveCategory(navCategories[label]);
+
+    document.querySelector("#main")?.scrollIntoView({
+      behavior: "smooth"
+    });
   }
+
+  primaryNav.classList.remove("open");
+  menuToggle.setAttribute("aria-expanded", "false");
 });
 
 // Keyboard shortcut: press / to focus the search field, unless already typing.
