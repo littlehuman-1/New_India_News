@@ -137,10 +137,45 @@ let sampleArticles = [
 
 // These values are fictional layout examples. They are intentionally marked DEMO.
 const demoMarketData = [
-  { name: "NIFTY 50", code: "NSE · DEMO", value: "24,850.00", change: "+0.42%", direction: "up" },
-  { name: "SENSEX", code: "BSE · DEMO", value: "81,240.00", change: "+0.31%", direction: "up" },
-  { name: "DEMO STOCK A", code: "EXAMPLE · DEMO", value: "₹1,245.00", change: "−0.18%", direction: "down" },
-  { name: "DEMO STOCK B", code: "EXAMPLE · DEMO", value: "₹785.50", change: "+0.76%", direction: "up" }
+  
+async function loadFetchedNews() {
+  try {
+    const response = await fetch("./news.json");
+
+    if (!response.ok) {
+      throw new Error(`Could not load news.json: ${response.status}`);
+    }
+
+    const data = await response.json();
+    const existingUrls = new Set(
+      sampleArticles.map((article) => article.articleUrl)
+    );
+
+    const fetchedArticles = (
+      Array.isArray(data.articles) ? data.articles : []
+    )
+      .filter(
+        (article) =>
+          article.articleUrl && !existingUrls.has(article.articleUrl)
+      )
+      .map((article, index) => ({
+        ...article,
+        id: `auto-${index}`,
+        isSample: false,
+        icon: article.icon || "📰",
+        visualBg: article.visualBg || "#e2f0ed",
+        visualInk: article.visualInk || "#276b5c",
+        tags: Array.isArray(article.tags) ? article.tags : [],
+      }));
+
+    sampleArticles.push(...fetchedArticles);
+    renderStories();
+
+    console.log(`Loaded ${fetchedArticles.length} fetched news stories.`);
+  } catch (error) {
+    console.error("Automatic news loading failed:", error);
+  }
+}
 ];
 
 const storyGrid = document.querySelector("#story-grid");
@@ -347,3 +382,4 @@ document.addEventListener("keydown", (event) => {
 
 renderMarketCards();
 renderStories();
+loadFetchedNews();
