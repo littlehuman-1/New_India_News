@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T12:02:00.176751+00:00",
+  "updatedAt": "2026-10-29T13:24:14.803326+00:00",
   "articles": [
     {
       "title": "GE Vernova To Acquire Trench Group For $9 Billion To Expand High-Voltage Grid Equipment Business",
@@ -340,6 +340,25 @@
       "tags": [
         "development",
         "mongabay india"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "India-US trade deal will not compromise farmers&#039; interests, will give India strong comparative advantage: Piyush Goyal",
+      "category": "Markets",
+      "date": "2026-10-29",
+      "source": "ET Government - Economy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/india-us-trade-deal-will-not-compromise-farmers-interests-will-give-india-strong-comparative-advantage-piyush-goyal/135307359",
+      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-159120/135307359.cms",
+      "summary": "The India-US free trade agreement would not compromise the sensitive interests of Indian farmers or any other stakeholders and would place India at a “very strong comparative advantage” once its details are made public, said Union Commerce and Industry Minister Piyush Goyal.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "markets",
+        "et government - economy"
       ],
       "isSample": false
     },
@@ -1868,25 +1887,6 @@
       "tags": [
         "innovation",
         "et government - technology"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "MoD signs ₹770 crore contract with BEL for Army’s low-level light-weight radars",
-      "category": "Innovation",
-      "date": "2026-10-21",
-      "source": "ET Government - Defence",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/defence/mod-signs-770-crore-contract-with-bel-for-armys-low-level-light-weight-radars/135090449",
-      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-147409/135090449.cms",
-      "summary": "The LLLR-I systems can track fighter-sized aerial targets and mini and micro drones, strengthening the Army’s capability to counter unmanned aerial threats and advancing indigenous air defence manufacturing.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "et government - defence"
       ],
       "isSample": false
     }
