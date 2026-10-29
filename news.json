@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T04:06:47.372938+00:00",
+  "updatedAt": "2026-10-29T05:05:33.567642+00:00",
   "articles": [
     {
       "title": "GE Vernova To Acquire Trench Group For $9 Billion To Expand High-Voltage Grid Equipment Business",
@@ -34,6 +34,78 @@
       "tags": [
         "innovation",
         "et government - technology"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "Adani Wind Secures 696.2 MW Turbine Orders From Five Power Producers In India",
+      "category": "Innovation",
+      "date": "2026-10-29",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/10/29/adani-wind-secures-696-2-mw-turbine-orders-from-five-power-producers-in-india/",
+      "summary": "Adani Wind has received orders totaling 696.2 MW from five Indian power producers, enhancing its role in the wind energy sector. Notable orders include 300 MW from Purvah Green Power and 155 MW from Jindal India Power. These projects, across Karnataka, Gujarat, and Maharashtra, reflect the growing demand for renewable energy solutions in India. The post Adani Wind Secures 696.2 MW Turbine Orders From Five Power Producers In India appeared first on SolarQuarter .",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "Shoto And ACME Complete Commissioning Of 100 MW/400 MWh Battery Energy Storage Project In Rajasthan",
+      "category": "Innovation",
+      "date": "2026-10-29",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/10/29/shoto-and-acme-complete-commissioning-of-100-mw-400-mwh-battery-energy-storage-project-in-rajasthan/",
+      "summary": "Shoto (Shuangdeng Group) and ACME Group have completed the commissioning of a 100 MW/400 MWh battery energy storage system (BESS) project in Rajasthan, India, marking another development in the country&#8217;s [&#8230;] The post Shoto And ACME Complete Commissioning Of 100 MW/400 MWh Battery Energy Storage Project In Rajasthan appeared first on SolarQuarter .",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "CEA Seeks Manufacturer Readiness Data For Advanced 400 kV And 765 kV Transmission Technologies",
+      "category": "Innovation",
+      "date": "2026-10-29",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/10/29/cea-seeks-manufacturer-readiness-data-for-advanced-400-kv-and-765-kv-transmission-technologies/",
+      "summary": "The Central Electricity Authority (CEA) is gathering information from transmission equipment manufacturers to improve India's power transmission network by addressing Right of Way challenges. In a memorandum, they seek details on technical readiness, manufacturing capabilities, and cost estimations for advanced technologies, including high-capacity pole structures, to enhance infrastructure efficiency and resilience. The post CEA Seeks Manufacturer Readiness Data For Advanced 400 kV And 765 kV T",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "India Highlights 308 GW Non-Fossil Capacity At Singapore International Energy Week 2026",
+      "category": "Innovation",
+      "date": "2026-10-29",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/10/29/india-highlights-308-gw-non-fossil-capacity-at-singapore-international-energy-week-2026/",
+      "summary": "Shri Shripad Yesso Naik, India's Union Minister for Power, led a delegation to Singapore International Energy Week 2026, highlighting India's renewable energy advancements. He discussed energy cooperation with Singapore and Bhutan, reviewed significant projects, and explored partnerships in clean energy and infrastructure. The visit showcased India's commitment to sustainable energy transition. The post India Highlights 308 GW Non-Fossil Capacity At Singapore International Energy Week 2026 appea",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
       ],
       "isSample": false
     },
@@ -1726,78 +1798,6 @@
       "tags": [
         "innovation",
         "et government - technology"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "India’s Zorawar light tank faces protection and performance trade-off",
-      "category": "Innovation",
-      "date": "2026-10-17",
-      "source": "ET Government - Defence",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/defence/indias-zorawar-light-tank-faces-protection-and-performance-trade-off/135014324",
-      "summary": "India&#039;s Zorawar light tank program is facing a critical design challenge in upgrading protection without sacrificing mobility. The Indian Army requires stronger armour to resist more powerful ammunition and threats.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "et government - defence"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "India developing integrated defence logistics system for three services",
-      "category": "Innovation",
-      "date": "2026-10-17",
-      "source": "ET Government - Defence",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/defence/india-developing-integrated-defence-logistics-system-for-three-services/135009063",
-      "summary": "India&#039;s Union government is establishing an integrated logistics system aimed at improving coordination among its defense services. This initiative is modelled after the successful US Defense Logistics Agency&#039;s operational framework.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "et government - defence"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "As the Ganga treaty nears expiry, renewed concerns over water sharing arise",
-      "category": "Development",
-      "date": "2026-10-16",
-      "source": "Mongabay India",
-      "sourceShort": "MON",
-      "sourceUrl": "https://india.mongabay.com/",
-      "articleUrl": "https://india.mongabay.com/2026/10/as-the-ganga-treaty-nears-expiry-bihar-renews-concerns-over-water-sharing/",
-      "summary": "As the Ganga water-sharing treaty between India and Bangladesh ends this year, Bihar seeks to resolve its long-standing demands before the treaty is renewed. The treaty, signed in December 1996, governs the sharing of the Ganga river&#8217;s water between upstream India and downstream Bangladesh, particularly during the lean season when river flows are low. Under [&#8230;]",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "mongabay india"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "Light may influence morning basking behaviour in captive gharials",
-      "category": "Development",
-      "date": "2026-10-16",
-      "source": "Mongabay India",
-      "sourceShort": "MON",
-      "sourceUrl": "https://india.mongabay.com/",
-      "articleUrl": "https://india.mongabay.com/2026/10/light-may-influence-morning-basking-behaviour-in-captive-gharials/",
-      "summary": "Like all crocodilians, Gangetic gharials regulate their body temperature using external heat sources. They warm their enormous bodies, which can grow to 15 to 20 feet in length, by basking on sandbanks, making it an important daily activity. Both temperature and light are important environmental cues for basking. However, a recent study on captive Gangetic [&#8230;]",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "mongabay india"
       ],
       "isSample": false
     }
