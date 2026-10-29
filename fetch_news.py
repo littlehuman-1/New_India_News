@@ -8,6 +8,21 @@ from email.utils import parsedate_to_datetime
 from pathlib import Path
 from urllib.parse import urlparse, urljoin
 
+def improve_image_url(image_url, article_title=""):
+    """Prefer a known sharper image URL for this specific article."""
+    if not image_url:
+        return image_url
+
+    if (
+        "Direct-to-device connectivity and satellite IoT"
+        in article_title
+        and "etimg.etb2bimg.com" in image_url
+    ):
+        return "https://etimg.etb2bimg.com/photo/135286434.cms"
+
+    return image_url
+
+
 OUTPUT_FILE = Path("news.json")
 MAX_ARTICLES = 100
 
@@ -257,7 +272,10 @@ def fetch_feed(feed):
             "sourceShort": feed["name"][:3].upper(),
             "sourceUrl": f"https://{domain}/",
             "articleUrl": link,
-            "imageUrl": image_url_of(item, link),
+            "imageUrl": improve_image_url(
+            image_url_of(item, link),
+            title
+              ),
             "summary": summary[:500],
             "icon": "📰",
             "visualBg": "#e2f0ed",
