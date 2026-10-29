@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T06:30:51.063810+00:00",
+  "updatedAt": "2026-10-29T07:25:38.502235+00:00",
   "articles": [
     {
       "title": "GE Vernova To Acquire Trench Group For $9 Billion To Expand High-Voltage Grid Equipment Business",
@@ -169,6 +169,44 @@
       "tags": [
         "innovation",
         "solarquarter"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "“India’s Energy Storage Market Is Set for Strong Growth Over the Next 3–5 Years”: William Gui, Sineng Electric",
+      "category": "Innovation",
+      "date": "2026-10-29",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/10/29/indias-energy-storage-market-is-set-for-strong-growth-over-the-next-3-5-years-william-gui-sineng-electric/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/10/Exclusive-Interview_-Indias-Energy-Storage-Growth.png?fit=1672%2C941&amp;quality=80&amp;ssl=1",
+      "summary": "India's energy storage market is set for rapid growth, emphasising grid stability, efficiency, and advanced technologies. Sineng Electric's General Manager highlights the importance of grid-forming technology in supporting renewable energy integration. The company aims to enhance local operations and develop efficient solutions aligned with India's energy transition and project demands. The post “India’s Energy Storage Market Is Set for Strong Growth Over the Next 3–5 Years”: William Gui, Sineng",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "India ready to share &#039;battle-tested&#039; anti-terror expertise with ASEAN, its dialogue partners: Rajnath Singh",
+      "category": "Innovation",
+      "date": "2026-10-29",
+      "source": "ET Government - Defence",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/defence/india-ready-to-share-battle-tested-anti-terror-expertise-with-asean-its-dialogue-partners-rajnath-singh/135293172",
+      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-537523/135293172.cms",
+      "summary": "India&#039;s Defence Minister Rajnath Singh announced the country&#039;s readiness to share counter-terrorism expertise with ASEAN partners. He emphasized the importance of collective efforts in ensuring maritime security in the Indo-Pacific region.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "et government - defence"
       ],
       "isSample": false
     },
@@ -1849,44 +1887,6 @@
       "tags": [
         "development",
         "mongabay india"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "Two new-to-science subterranean fishes reveal a hidden world underneath",
-      "category": "Development",
-      "date": "2026-10-19",
-      "source": "Mongabay India",
-      "sourceShort": "MON",
-      "sourceUrl": "https://india.mongabay.com/",
-      "articleUrl": "https://india.mongabay.com/2026/10/two-new-to-science-subterranean-fishes-reveal-a-hidden-world-underneath/",
-      "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/10/18132354/Image-16-768x512.jpg",
-      "summary": "A decade ago, Wimarithy K. Marak, a resident of Assam’s Goalpara district, often used to encounter a small pink creature in her neighbourhood’s wells. She simply thought of it as a worm infesting her locality. In 2021, after she became a researcher, she stumbled upon the creature again while drawing water from a well. “This [&#8230;]",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "mongabay india"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "PFRDA launches unified digital platform for NPS subscribers",
-      "category": "Innovation",
-      "date": "2026-10-19",
-      "source": "ET Government - Digital India",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/digital-india/pfrda-launches-unified-digital-platform-for-nps-subscribers/135046093",
-      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-295714/135046093.cms",
-      "summary": "The Pension Fund Regulatory and Development Authority (PFRDA) has launched NPS Central, a streamlined digital platform designed to enhance the management of pension accounts.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "et government - digital india"
       ],
       "isSample": false
     }
