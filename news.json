@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T10:10:04.674640+00:00",
+  "updatedAt": "2026-10-29T11:05:20.956402+00:00",
   "articles": [
     {
       "title": "GE Vernova To Acquire Trench Group For $9 Billion To Expand High-Voltage Grid Equipment Business",
@@ -321,6 +321,25 @@
       "tags": [
         "innovation",
         "et government - technology"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "Snow trout needs more than reintroduction to survive",
+      "category": "Development",
+      "date": "2026-10-29",
+      "source": "Mongabay India",
+      "sourceShort": "MON",
+      "sourceUrl": "https://india.mongabay.com/",
+      "articleUrl": "https://india.mongabay.com/2026/10/snow-trout-needs-more-than-reintroduction-to-survive/",
+      "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/10/29132555/Kashmir-Pahalgam-Valley-trout-Apr-2004-00-scaled-e1793261686788-768x512.jpg",
+      "summary": "On April 27, 2026, scientists from Kumaun University&#8217;s Department of Zoology released the first batch of snow trout fingerlings into a cage in Naini lake, Nainital, Uttarakhand. The fingerlings were part of a captive-breeding programme to revive the snow trout (Schizothorax richardsonii). Locally called Asela, the native cold-water Himalayan fish has been listed as Vulnerable [&#8230;]",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "mongabay india"
       ],
       "isSample": false
     },
@@ -1868,25 +1887,6 @@
       "tags": [
         "innovation",
         "et government - defence"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "India’s new climate targets must navigate geopolitical uncertainty [Commentary]",
-      "category": "Development",
-      "date": "2026-10-20",
-      "source": "Mongabay India",
-      "sourceShort": "MON",
-      "sourceUrl": "https://india.mongabay.com/",
-      "articleUrl": "https://india.mongabay.com/2026/10/indias-new-climate-targets-must-navigate-geopolitical-uncertainty-commentary/",
-      "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/10/20110833/AP26258745441318-768x512.jpg",
-      "summary": "Well past the summer peak, India&#8217;s power system remains under strain. The country met daytime demand of over 267 GW even in September, yet fell short by more than 7.7 GW after sunset, when solar generation tapers off. India may have withdrawn its bid to host COP33 in 2028, but COP31, which opens in Antalya [&#8230;]",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "mongabay india"
       ],
       "isSample": false
     }
