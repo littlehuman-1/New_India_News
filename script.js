@@ -360,7 +360,7 @@ function renderStories() {
   storyGrid.hidden = articles.length === 0;
 
   storyGrid.innerHTML = articles.map((article, index) => `
-    <article class="story-card">
+    <article class="story-card ${index === 0 ? "story-card-featured" : ""}">
       <div class="story-visual"
         style="--visual-bg:${escapeHTML(article.visualBg)};--visual-ink:${escapeHTML(article.visualInk)}"
         aria-hidden="true">
