@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T09:11:42.040805+00:00",
+  "updatedAt": "2026-10-29T10:10:04.674640+00:00",
   "articles": [
     {
       "title": "GE Vernova To Acquire Trench Group For $9 Billion To Expand High-Voltage Grid Equipment Business",
@@ -283,6 +283,44 @@
       "tags": [
         "innovation",
         "solarquarter"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "ACME Solar Signs 400 MW FDRE Power Purchase Agreement With NTPC At INR 4.37 Per Unit",
+      "category": "Innovation",
+      "date": "2026-10-29",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/10/29/acme-solar-signs-400-mw-fdre-power-purchase-agreement-with-ntpc-at-inr-4-37-per-unit/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2022/10/8-2.png?fit=1200%2C675&amp;quality=80&amp;ssl=1",
+      "summary": "ACME Solar Holdings Limited's subsidiary has signed a 25-year Power Purchase Agreement with NTPC Limited for a 400 MW Firm and Dispatchable Renewable Energy project. Set to begin supplying power in June 2028, the project aims to enhance grid reliability and accommodate the growing demand for stable renewable energy in India. The post ACME Solar Signs 400 MW FDRE Power Purchase Agreement With NTPC At INR 4.37 Per Unit appeared first on SolarQuarter .",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "DUM-2026 discusses cybersecurity and data privacy in digital power grids",
+      "category": "Innovation",
+      "date": "2026-10-29",
+      "source": "ET Government - Technology",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/technology/dum-2026-discusses-cybersecurity-and-data-privacy-in-digital-power-grids/135297192",
+      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-1468788/135297192.cms",
+      "summary": "Participants highlighted the role of India Energy Stack in enabling digital services, secure data exchange and coordination between different systems.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "et government - technology"
       ],
       "isSample": false
     },
@@ -1849,44 +1887,6 @@
       "tags": [
         "development",
         "mongabay india"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "New-to-science seahorse is one of three long-misidentified species",
-      "category": "Development",
-      "date": "2026-10-20",
-      "source": "Mongabay India",
-      "sourceShort": "MON",
-      "sourceUrl": "https://india.mongabay.com/",
-      "articleUrl": "https://india.mongabay.com/2026/10/new-to-science-seahorse-is-one-of-three-long-misidentified-species/",
-      "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/10/19235416/1000458221-e1792466952876-768x512.jpg",
-      "summary": "Scientists have identified a new-to-science seahorse species from the Indian waters, which has helped resolve the taxonomy of a group misidentified for over a century. In 1856, zoologist Johann Jakob Kaup described the thorny or spiny seahorse, Hippocampus histrix, based on samples from Japan. Since then, this seahorse has been thought to be a single, [&#8230;]",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "mongabay india"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "Tamil Nadu overhauls power infra ahead of monsoon; defers smart meter tenders over data security",
-      "category": "Innovation",
-      "date": "2026-10-20",
-      "source": "ET Government - Technology",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/technology/tamil-nadu-overhauls-power-infra-ahead-of-monsoon-defers-smart-meter-tenders-over-data-security/135071968",
-      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-56884/135071968.cms",
-      "summary": "Addressing a press conference following inspection reviews across Chennai, Tiruvallur, and Kanchipuram districts, the minister outlined key steps underway to overhaul distribution networks and streamline field workforce management.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "et government - technology"
       ],
       "isSample": false
     }
