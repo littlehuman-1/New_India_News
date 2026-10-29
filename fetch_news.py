@@ -6,7 +6,7 @@ import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
-from urllib.parse import urlparse
+from urllib.parse import urlparse, urljoin
 
 OUTPUT_FILE = Path("news.json")
 MAX_ARTICLES = 100
@@ -120,6 +120,59 @@ def text_of(element, path):
     return "".join(found.itertext()).strip() if found is not None else ""
 
 
+def image_url_of(item, article_url):
+    """Find a representative image URL in an RSS or Atom entry."""
+    image_tags = {
+        "content",
+        "thumbnail",
+        "enclosure",
+    }
+
+    # First: check standard image fields and media extensions.
+    for element in item.iter():
+        tag = element.tag.split("}")[-1].lower()
+        url = ""
+
+        if tag in image_tags:
+            url = element.attrib.get("url", "")
+
+        elif tag == "link" and element.attrib.get("rel") == "enclosure":
+            media_type = element.attrib.get("type", "").lower()
+            if media_type.startswith("image/"):
+                url = element.attrib.get("href", "")
+
+        if url:
+            media_type = element.attrib.get("type", "").lower()
+            if (
+                tag == "enclosure"
+                and media_type
+                and not media_type.startswith("image/")
+            ):
+                continue
+
+            if url.startswith(("https://", "http://", "/")):
+                return urljoin(article_url, url)
+
+    # Second: look for an image embedded in the description or content.
+    for element in item.iter():
+        tag = element.tag.split("}")[-1].lower()
+        if tag not in {"description", "summary", "content", "encoded"}:
+            continue
+
+        html = "".join(element.itertext())
+        match = re.search(
+            r"""<img\b[^>]*?\bsrc\s*=\s*["']([^"']+)["']""",
+            html,
+            flags=re.IGNORECASE,
+        )
+
+        if match:
+            url = match.group(1).strip()
+            if url.startswith(("https://", "http://", "/")):
+                return urljoin(article_url, url)
+
+    return ""
+
 def parse_date(value):
     if not value:
         return datetime.now(timezone.utc).date().isoformat()
@@ -204,6 +257,7 @@ def fetch_feed(feed):
             "sourceShort": feed["name"][:3].upper(),
             "sourceUrl": f"https://{domain}/",
             "articleUrl": link,
+            "imageUrl": image_url_of(item, link),
             "summary": summary[:500],
             "icon": "📰",
             "visualBg": "#e2f0ed",
