@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-10-29T03:05:38.262436+00:00",
+  "updatedAt": "2026-10-29T04:06:47.372938+00:00",
   "articles": [
+    {
+      "title": "GE Vernova To Acquire Trench Group For $9 Billion To Expand High-Voltage Grid Equipment Business",
+      "category": "Innovation",
+      "date": "2026-10-29",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/10/29/ge-vernova-to-acquire-trench-group-for-9-billion-to-expand-high-voltage-grid-equipment-business/",
+      "summary": "GE Vernova Inc. has agreed to acquire Trench Group for $9 billion from Triton Partners, enhancing its electrification business and grid technology portfolio. The transaction, expected to close by late 2027, aims to address increasing electricity demand and will strengthen manufacturing capabilities, particularly in North America, providing advanced solutions for modern electricity grids. The post GE Vernova To Acquire Trench Group For $9 Billion To Expand High-Voltage Grid Equipment Business app",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "Direct-to-device connectivity and satellite IoT to drive India&#039;s space growth: Gautam Sharma",
+      "category": "Innovation",
+      "date": "2026-10-29",
+      "source": "ET Government - Technology",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/technology/direct-to-device-connectivity-and-satellite-iot-to-drive-indias-space-growth-gautam-sharma/135286434",
+      "summary": "India&#039;s space reforms are opening new opportunities in satellite connectivity, indigenous innovation and private investment. Gautam Sharma discusses emerging technologies, partnerships and skilling.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "et government - technology"
+      ],
+      "isSample": false
+    },
     {
       "title": "Winged wayfarers of the ocean",
       "category": "Development",
@@ -1762,42 +1798,6 @@
       "tags": [
         "development",
         "mongabay india"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "Italian Navy’s Giovanni delle Bande Nere to visit Mumbai from October 18 to 22",
-      "category": "Innovation",
-      "date": "2026-10-16",
-      "source": "ET Government - Defence",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/defence/italian-navys-giovanni-delle-bande-nere-to-visit-mumbai-from-october-18-to-22/134994525",
-      "summary": "The port call forms part of Italy’s Indo-Pacific deployment, with naval engagement and an onboard defence industry presentation scheduled during the visit.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "et government - defence"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "Indian Navy inducts indigenous multi-purpose warship Samarthak",
-      "category": "Innovation",
-      "date": "2026-10-16",
-      "source": "ET Government - Defence",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/defence/indian-navy-inducts-indigenous-multi-purpose-warship-samarthak/134990253",
-      "summary": "Built by L&amp;T at its Kattupalli shipyard with over 75% indigenous content, the multi-purpose vessel will support weapons trials, unmanned systems operations, maritime surveillance and humanitarian missions.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "et government - defence"
       ],
       "isSample": false
     }
