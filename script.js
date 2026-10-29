@@ -361,12 +361,25 @@ function renderStories() {
 
   storyGrid.innerHTML = articles.map((article, index) => `
     <article class="story-card ${index === 0 ? "story-card-featured" : ""}">
-      <div class="story-visual"
-        style="--visual-bg:${escapeHTML(article.visualBg)};--visual-ink:${escapeHTML(article.visualInk)}"
-        aria-hidden="true">
-        <span class="visual-icon">${escapeHTML(article.icon)}</span>
-        <span class="visual-index">STORY ${String(index + 1).padStart(2, "0")}</span>
-      </div>
+     <div class="story-visual"
+  style="--visual-bg:${escapeHTML(article.visualBg)};--visual-ink:${escapeHTML(article.visualInk)}">
+
+  ${article.imageUrl ? `
+    <img
+      class="story-image"
+      src="${escapeHTML(article.imageUrl)}"
+      alt="${escapeHTML(article.title)}"
+      loading="lazy"
+      onerror="this.style.display='none'; this.nextElementSibling.style.display='grid';"
+    >
+  ` : ""}
+
+  <span class="visual-icon"
+    style="${article.imageUrl ? "display:none;" : ""}"
+    aria-hidden="true">${escapeHTML(article.icon)}</span>
+
+  <span class="visual-index">STORY ${String(index + 1).padStart(2, "0")}</span>
+</div>
       <div class="story-content">
         <div class="story-meta">
           <span class="story-category">${escapeHTML(article.category)}</span>
