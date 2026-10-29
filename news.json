@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T07:25:38.502235+00:00",
+  "updatedAt": "2026-10-29T09:11:42.040805+00:00",
   "articles": [
     {
       "title": "GE Vernova To Acquire Trench Group For $9 Billion To Expand High-Voltage Grid Equipment Business",
@@ -207,6 +207,82 @@
       "tags": [
         "innovation",
         "et government - defence"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "Citizens push back infrastructure projects that threaten green cover",
+      "category": "Development",
+      "date": "2026-10-29",
+      "source": "Mongabay India",
+      "sourceShort": "MON",
+      "sourceUrl": "https://india.mongabay.com/",
+      "articleUrl": "https://india.mongabay.com/2026/10/citizens-push-back-infrastructure-projects-that-threaten-green-cover/",
+      "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/10/29100614/Volunteers-mapping-avenue-trees-as-part-of-I-Change-Induranagar_s-tree-mapping-exercise_Photy-by-Kannan-AS-768x512.jpeg",
+      "summary": "Bengaluru, a city rapidly losing its green cover to infrastructure projects, had an important job to do: count its trees. In August 2019, the Karnataka High Court mandated the exercise under the Karnataka Preservation of Trees Act, 1976, setting a three-year deadline which wasn&#8217;t completed even seven years later. Residents in some neighbourhoods decided to [&#8230;]",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "mongabay india"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "Hoymiles Launches MiS 6-in-1 Microinverter in India: One Unit, Up to Six Panels, Built for Indian Rooftops",
+      "category": "Innovation",
+      "date": "2026-10-29",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/10/29/hoymiles-launches-mis-6-in-1-microinverter-in-india-one-unit-up-to-six-panels-built-for-indian-rooftops/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/10/High-Efficiency-Generation.png?fit=1254%2C1254&amp;quality=80&amp;ssl=1",
+      "summary": "Hoymiles has launched the MIS-3680-W microinverter in India, offering flexible layouts and efficient power generation for diverse rooftops. It features high-efficiency generation, dynamic power adjustment, and is built for rugged conditions. Backed by a 12-year warranty and local support, it promises fast installation and advanced monitoring capabilities. The post Hoymiles Launches MiS 6-in-1 Microinverter in India: One Unit, Up to Six Panels, Built for Indian Rooftops appeared first on SolarQua",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "Rajasthan To Pilot India’s First 250 kW Sodium-Ion Battery Storage System",
+      "category": "Innovation",
+      "date": "2026-10-29",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/10/29/rajasthan-to-pilot-indias-first-250-kw-sodium-ion-battery-storage-system/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/10/solarquarter-6ae3010027c06.png?fit=1376%2C768&amp;quality=80&amp;ssl=1",
+      "summary": "Jaipur Vidyut Vitran Nigam Limited and the Global Energy Alliance have signed an MoU to pilot India's first sodium-ion battery energy storage system in Rajasthan. The project aims to evaluate performance, enhance peak-demand management, and improve solar integration. Findings will inform future energy storage deployment and distribution-grid modernization in India. The post Rajasthan To Pilot India’s First 250 kW Sodium-Ion Battery Storage System appeared first on SolarQuarter .",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "SECI Invites Bids For 4 MW Solar Project On Delhi-Saharanpur National Highway",
+      "category": "Innovation",
+      "date": "2026-10-29",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/10/29/seci-invites-bids-for-4-mw-solar-project-on-delhi-saharanpur-national-highway/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2020/10/pexels-photo-356049-2.jpeg?fit=1880%2C1249&amp;quality=89&amp;ssl=1",
+      "summary": "The Solar Energy Corporation of India (SECI), on behalf of the National Highways Authority of India (NHAI), seeks bids for a 4 MW solar PV project on the Delhi-Saharanpur National Highway. The project aims to meet electricity needs and supports renewable energy within highway infrastructure, allowing surplus power sales to DISCOMs. The post SECI Invites Bids For 4 MW Solar Project On Delhi-Saharanpur National Highway appeared first on SolarQuarter .",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
       ],
       "isSample": false
     },
@@ -1811,82 +1887,6 @@
       "tags": [
         "innovation",
         "et government - technology"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "AI, Innovation and Talent: How Uttar Pradesh is shaping the next generation of GCCs",
-      "category": "Innovation",
-      "date": "2026-10-20",
-      "source": "ET Government - Technology",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/technology/ai-innovation-and-talent-how-uttar-pradesh-is-shaping-the-next-generation-of-gccs/135066173",
-      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-1893234/135066173.cms",
-      "summary": "HCLTech’s GCC practice head Kiran Cherukuri on how AI-led innovation, industry-academia partnerships and digital skilling can drive Uttar Pradesh’s next phase of GCC growth.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "et government - technology"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "Ecosystem of terrorism must be firmly and collectively &#039;dismantled&#039;: Rajnath Singh at SCO meet",
-      "category": "Innovation",
-      "date": "2026-10-20",
-      "source": "ET Government - Defence",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/defence/ecosystem-of-terrorism-must-be-firmly-and-collectively-dismantled-rajnath-singh-at-sco-meet/135067495",
-      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-1284369/135067495.cms",
-      "summary": "Defence Minister Rajnath Singh emphasized the urgent need to dismantle the entire ecosystem of terrorism during the SCO meeting. He firmly stated there is no place for those who finance or shelter terrorists.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "et government - defence"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "One orangutan goes home. Will the five babies follow?",
-      "category": "Development",
-      "date": "2026-10-19",
-      "source": "Mongabay India",
-      "sourceShort": "MON",
-      "sourceUrl": "https://india.mongabay.com/",
-      "articleUrl": "https://india.mongabay.com/2026/10/one-orangutan-goes-home-will-the-five-babies-follow/",
-      "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/10/19154019/8840925140_14f5ffcc1b_o-768x512.jpg",
-      "summary": "Two years since an infant orangutan was seized from a Mumbai apartment, the procedures are finally complete to repatriate him to his homeland, Indonesia. The animal will fly out of India on October 19, 2026, after a long bilateral process, delayed by procedural hurdles and poor health condition of the animal, according to Yogesh Nilkand [&#8230;]",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "mongabay india"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "Small-scale fisheries a big threat to rays",
-      "category": "Development",
-      "date": "2026-10-19",
-      "source": "Mongabay India",
-      "sourceShort": "MON",
-      "sourceUrl": "https://india.mongabay.com/",
-      "articleUrl": "https://india.mongabay.com/2026/10/small-scale-fisheries-a-big-threat-to-rays/",
-      "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/10/19114623/Mobula_mobular_122443097-768x512.jpg",
-      "summary": "Manta and devil rays, collectively known as mobulids, are large cartilaginous fish known for their broad, wing-like pectoral fins, which help them glide through the water. They often feed on zooplankton and small crustaceans and fish in shallow coastal waters, making them vulnerable to entanglement in fishing nets. Roughly 259,000 mobulids are killed each year [&#8230;]",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "mongabay india"
       ],
       "isSample": false
     }
