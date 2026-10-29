@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T15:14:31.702611+00:00",
+  "updatedAt": "2026-10-29T16:13:32.750077+00:00",
   "articles": [
     {
       "title": "GE Vernova To Acquire Trench Group For $9 Billion To Expand High-Voltage Grid Equipment Business",
@@ -454,6 +454,44 @@
       "tags": [
         "development",
         "et government - policy"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "Jharkhand govt signs agreement to boost revenue collection and curb tax leakage",
+      "category": "Markets",
+      "date": "2026-10-29",
+      "source": "ET Government - Economy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/jharkhand-govt-signs-agreement-to-boost-revenue-collection-and-curb-tax-leakage/135322591",
+      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-355586/135322591.cms",
+      "summary": "Jharkhand finance minister Radhakrishna Kishore stressed the need to enhance the state&#039;s revenue collection capacity to strengthen financial self-reliance.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "markets",
+        "et government - economy"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "Arunachal Pradesh kiwi enters Dubai market, opening export opportunities for growers",
+      "category": "Markets",
+      "date": "2026-10-29",
+      "source": "ET Government - Economy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/arunachal-pradesh-kiwi-enters-dubai-market-opening-export-opportunities-for-growers/135318721",
+      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-218612/135318721.cms",
+      "summary": "The kiwi consignment, flagged off from Itanagar on October 26, is being showcased at LuLu Hypermarket in Al Qusais, Dubai, as part of efforts to explore international markets for the state&#039;s horticultural produce.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "markets",
+        "et government - economy"
       ],
       "isSample": false
     },
@@ -1849,44 +1887,6 @@
       "tags": [
         "development",
         "et government - smart infrastructure"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "Karnataka IT minister Priyank Kharge discusses ARTPARK expansion to boost AI, robotics",
-      "category": "Innovation",
-      "date": "2026-10-22",
-      "source": "ET Government - Digital India",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/digital-india/karnataka-it-minister-priyank-kharge-discusses-artpark-expansion-to-boost-ai-robotics/135119754",
-      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-364252/135119754.cms",
-      "summary": "The discussions focused on artificial intelligence, robotics, advanced technology research, prototype development and strengthening research and development capabilities.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "et government - digital india"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "Indian Navy carries out trials of Rafale Marine in Goa for INS Vikrant",
-      "category": "Innovation",
-      "date": "2026-10-22",
-      "source": "ET Government - Defence",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/defence/indian-navy-carries-out-trials-of-rafale-marine-in-goa-for-ins-vikrant/135111996",
-      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-30312/135111996.cms",
-      "summary": "The Rafale-Marine (Rafale-M) is a fighter jet designed to operate from aircraft carriers at sea. It is built by Dassault Aviation of France and is already being used by the French Navy.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "et government - defence"
       ],
       "isSample": false
     }
