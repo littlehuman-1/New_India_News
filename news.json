@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T11:01:41.224931+00:00",
+  "updatedAt": "2026-10-30T12:00:29.094059+00:00",
   "articles": [
     {
       "title": "Crux Arranges Construction-to-Term Financing For 40 MWh Battery Storage Project At UC San Diego",
@@ -264,6 +264,44 @@
       "tags": [
         "development",
         "et government - policy"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "Green Energy Stocks Decline Despite Sensex Gaining 0.4% On October 30",
+      "category": "Innovation",
+      "date": "2026-10-30",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/10/30/green-energy-stocks-decline-despite-sensex-gaining-0-4-on-october-30/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/10/solarquarter-6ae47d78d4d48.png?fit=1376%2C768&amp;quality=80&amp;ssl=1",
+      "summary": "On October 30, 2026, the Indian stock market showed mixed results, with the S&#38;P BSE Sensex increasing by 0.4 percent. While GAIL and EKI Energy Services performed well, renewable energy stocks suffered declines, notably Sterling and Wilson, which fell 6.2 percent. Investor sentiment appeared cautious amid selective buying and selling pressures. The post Green Energy Stocks Decline Despite Sensex Gaining 0.4% On October 30 appeared first on SolarQuarter .",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "VinEnergo Seeks Environmental Clearance For Two Floating Solar Projects Worth $418 Million In Vietnam",
+      "category": "Innovation",
+      "date": "2026-10-30",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/10/30/vinenergo-seeks-environmental-clearance-for-two-floating-solar-projects-worth-418-million-in-vietnam/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2022/10/7-1.png?fit=1200%2C675&amp;quality=80&amp;ssl=1",
+      "summary": "VinEnergo, a subsidiary of Vingroup, seeks environmental clearance for two floating solar power projects in Lai Chau, Vietnam, with a combined investment of over ₹3,500 crore. Utilizing floating solar technology, these projects aim to enhance renewable energy generation, meet growing electricity demands, and support Vietnam's sustainable energy transition. Regulatory approvals are essential for further development. The post VinEnergo Seeks Environmental Clearance For Two Floating Solar Projects ",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
       ],
       "isSample": false
     },
@@ -1849,44 +1887,6 @@
       "tags": [
         "markets",
         "et government - economy"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "German firms see India as manufacturing, R&amp;D &amp; innovation hub: Goyal",
-      "category": "Markets",
-      "date": "2026-10-24",
-      "source": "ET Government - Economy",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/german-firms-see-india-as-manufacturing-rd-innovation-hub-goyal/135164911",
-      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-98873/135164911.cms",
-      "summary": "Piyush Goyal emphasized the shift in perception of India among German companies during his recent visit to Berlin. German firms view India not just as a market but as a partner for manufacturing and innovation.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "markets",
-        "et government - economy"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "Community models could help conserve the disappearing migratory freshwater fish [Commentary]",
-      "category": "Development",
-      "date": "2026-10-23",
-      "source": "Mongabay India",
-      "sourceShort": "MON",
-      "sourceUrl": "https://india.mongabay.com/",
-      "articleUrl": "https://india.mongabay.com/2026/10/migratory-freshwater-fish-disappearing-in-the-himalayas-needs-attention-commentary/",
-      "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/10/23145903/A-golden-mahseer-in-a-free-flowing-stretch-768x512.jpg",
-      "summary": "When the United Nations Convention on the Conservation of Migratory Species of Wild Animals (CMS) published its Global Assessment of Migratory Freshwater Fishes report earlier this year, the numbers confirmed what riverine communities had suspected for decades. Migratory freshwater fish populations have dropped 81% globally since the 1970s. Nearly all (97%) of the 58 fish [&#8230;]",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "mongabay india"
       ],
       "isSample": false
     }
