@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T09:12:07.760291+00:00",
+  "updatedAt": "2026-10-30T10:10:42.838011+00:00",
   "articles": [
     {
       "title": "Crux Arranges Construction-to-Term Financing For 40 MWh Battery Storage Project At UC San Diego",
@@ -188,6 +188,82 @@
       "tags": [
         "innovation",
         "solarquarter"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "Scientists explore whether Himalayan disasters can be anticipated",
+      "category": "Development",
+      "date": "2026-10-30",
+      "source": "Mongabay India",
+      "sourceShort": "MON",
+      "sourceUrl": "https://india.mongabay.com/",
+      "articleUrl": "https://india.mongabay.com/2026/10/scientists-explore-whether-himalayan-disasters-can-be-anticipated/",
+      "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/10/30122931/AP26249582364362-768x512.jpg",
+      "summary": "On October 11, 2026, a flash flood tore through Nepal’s Budhi Gandaki river basin in Gorkha district, hurling sediment and debris downstream, destroying homes and roads, and leaving many others homeless. The disaster struck less than seven weeks after a catastrophic collapse of rock and glacier ice on Langtang Lirung on August 26, which unleashed [&#8230;]",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "mongabay india"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "WUC Invites EOI for Floating Solar Projects Across Reservoirs And Dams In Botswana",
+      "category": "Innovation",
+      "date": "2026-10-30",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/10/30/wuc-invites-eoi-for-floating-solar-projects-across-reservoirs-and-dams-in-botswana/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2022/10/8-1.png?fit=1200%2C675&amp;quality=80&amp;ssl=1",
+      "summary": "The Water Utilities Corporation plans to develop floating solar photovoltaic systems at water reservoirs and dams to enhance renewable energy use and sustainable water management. They are seeking qualified companies for project implementation. This initiative aims to generate clean energy while reducing water evaporation and optimizing existing infrastructure, thereby promoting sustainable development. The post WUC Invites EOI for Floating Solar Projects Across Reservoirs And Dams In Botswana a",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "Cyberattack Forces 103 MW Huatacondo Solar Farm And Battery Storage Offline In Chile",
+      "category": "Innovation",
+      "date": "2026-10-30",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/10/30/cyberattack-forces-103-mw-huatacondo-solar-farm-and-battery-storage-offline-in-chile/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2020/11/pexels-photo-356036-3.jpeg?fit=1880%2C1236&amp;quality=89&amp;ssl=1",
+      "summary": "A cyberattack on the Huatacondo solar farm in Chile's Atacama Desert has resulted in a total shutdown of its power generation and battery storage systems, disrupting operations for nearly two months. The incident underscores the growing cybersecurity threats to renewable energy infrastructures and highlights the need for enhanced security measures across the sector. The post Cyberattack Forces 103 MW Huatacondo Solar Farm And Battery Storage Offline In Chile appeared first on SolarQuarter .",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "Rajasthan pays ₹345 crore in pending crop insurance claims to farmers",
+      "category": "Development",
+      "date": "2026-10-30",
+      "source": "ET Government - Policy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/rajasthan-pays-345-crore-in-pending-crop-insurance-claims-to-farmers/135352302",
+      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-9373858/135352302.cms",
+      "summary": "Agriculture Minister Kirori Lal Meena said the state government was working to ensure timely financial assistance to farmers facing crop losses due to natural disasters, drought and adverse weather conditions.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "et government - policy"
       ],
       "isSample": false
     },
@@ -1811,82 +1887,6 @@
       "tags": [
         "development",
         "mongabay india"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "PM Modi to inaugurate ₹169 crore RBI data centre in Odisha on October 25",
-      "category": "Development",
-      "date": "2026-10-23",
-      "source": "ET Government - Smart Infrastructure",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/smart-infra/pm-modi-to-inaugurate-169-crore-rbi-data-centre-in-odisha-on-october-25/135147375",
-      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-136768/135147375.cms",
-      "summary": "According to the tentative itinerary shared by the chief secretary&#039;s office, PM Modi is scheduled to land at Biju Patnaik International Airport here around 4.30 pm aboard a special Indian Air Force aircraft.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "et government - smart infrastructure"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "Odisha CM Majhi holds talks with POSCO, JSW on proposed 6 MTPA steel plant",
-      "category": "Development",
-      "date": "2026-10-23",
-      "source": "ET Government - Smart Infrastructure",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/smart-infra/odisha-cm-majhi-holds-talks-with-posco-jsw-on-proposed-6-mtpa-steel-plant/135146814",
-      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-4233292/135146814.cms",
-      "summary": "POSCO India head S L Chun, the company&#039;s Mumbai office managing director Jacy Kim, and JSW Group chairman Sajjan Jindal attended the meeting.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "et government - smart infrastructure"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "Dalmia Bharat Foundation opens skill development centre in UP’s Hardoi, to train 360 youth annually",
-      "category": "Development",
-      "date": "2026-10-23",
-      "source": "ET Government - Smart Infrastructure",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/smart-infra/dalmia-bharat-foundation-opens-skill-development-centre-in-ups-hardoi-to-train-360-youth-annually/135148174",
-      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-496755/135148174.cms",
-      "summary": "The centre will offer courses in healthcare assistance, data entry and electrical work, with the foundation reporting a job placement or self-employment rate of over 70% among trainees in Uttar Pradesh.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "et government - smart infrastructure"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "Mizoram CM launches ₹5 crore development projects at Champhai College",
-      "category": "Development",
-      "date": "2026-10-23",
-      "source": "ET Government - Smart Infrastructure",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/smart-infra/mizoram-cm-launches-5-crore-development-projects-at-champhai-college/135146812",
-      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-138638/135146812.cms",
-      "summary": "Highlighting development initiatives in Champhai district, the chief minister referred to the working women&#039;s hostel at Tlangrawt, improvement in district jail infrastructure, road widening and the New Champhai Sports Complex.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "et government - smart infrastructure"
       ],
       "isSample": false
     }
