@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T17:57:28.343536+00:00",
+  "updatedAt": "2026-10-30T19:10:01.827489+00:00",
   "articles": [
     {
       "title": "Crux Arranges Construction-to-Term Financing For 40 MWh Battery Storage Project At UC San Diego",
@@ -302,6 +302,44 @@
       "tags": [
         "innovation",
         "solarquarter"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "India aims to be globally competitive semiconductor powerhouse by 2047: MoD",
+      "category": "Innovation",
+      "date": "2026-10-30",
+      "source": "ET Government - Technology",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/technology/india-aims-to-be-globally-competitive-semiconductor-powerhouse-by-2047-mod/135373436",
+      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-46424/135373436.cms",
+      "summary": "India is working towards becoming a globally competitive semiconductor powerhouse by 2047 and focuses on next-generation technologies. The Defence Research and Development Organisation participated in the Emerging Science, Technology and Innovation Conclave 2026 themed &#039;Creative Minds, Catalysing Science, Empowering Society&#039;.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "et government - technology"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "Rafale marine aircraft successfully lands on INS Vikrant: Navy",
+      "category": "Innovation",
+      "date": "2026-10-30",
+      "source": "ET Government - Defence",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/defence/rafale-marine-aircraft-successfully-lands-on-ins-vikrant-navy/135374282",
+      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-30312/135374282.cms",
+      "summary": "A Rafale Marine fighter jet made its first successful landing on Indian Navy&#039;s INS Vikrant during ongoing trials. These trials aim to validate the aircraft&#039;s compatibility with the carrier&#039;s ski-jump and recovery systems.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "et government - defence"
       ],
       "isSample": false
     },
@@ -1849,44 +1887,6 @@
       "tags": [
         "innovation",
         "et government - defence"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "India moves to build nationwide civil defence network: Why Army-led training matters for national security",
-      "category": "Innovation",
-      "date": "2026-10-24",
-      "source": "ET Government - Defence",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/defence/india-moves-to-build-nationwide-civil-defence-network-why-army-led-training-matters-for-national-security/135160509",
-      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-762378/135160509.cms",
-      "summary": "The Centre’s plan to train 60,000 civil defence volunteers through an Army-led programme marks a shift towards community-based security preparedness. Experiences from the US, UK and other democracies offer lessons for India.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "et government - defence"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "India, Russia aim for $100 billion trade by 2030 as Modi, Putin push cooperation",
-      "category": "Markets",
-      "date": "2026-10-24",
-      "source": "ET Government - Economy",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/india-russia-aim-for-100-billion-trade-by-2030-as-modi-putin-push-cooperation/135165508",
-      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-82242/135165508.cms",
-      "summary": "Indian Ambassador Vinay Kumar announced collaboration plans between India and Russia to increase trade significantly. India is ready to provide qualified workers to meet Russia&#039;s industry requirements by training specialists. The leaders reviewed these plans during their recent meeting at the BRICS summit in New Delhi.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "markets",
-        "et government - economy"
       ],
       "isSample": false
     }
