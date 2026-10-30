@@ -1,6 +1,25 @@
 {
-  "updatedAt": "2026-10-30T03:06:59.704072+00:00",
+  "updatedAt": "2026-10-30T04:07:55.781438+00:00",
   "articles": [
+    {
+      "title": "Crux Arranges Construction-to-Term Financing For 40 MWh Battery Storage Project At UC San Diego",
+      "category": "Innovation",
+      "date": "2026-10-30",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/10/30/crux-arranges-construction-to-term-financing-for-40-mwh-battery-storage-project-at-uc-san-diego/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2020/04/2.png?fit=1200%2C675&amp;quality=80&amp;ssl=1",
+      "summary": "Crux facilitated construction-to-term loan financing for EnerSmart’s 8 MW battery storage project at UC San Diego, enhancing energy resilience and reducing electricity costs. Supported by a 10-year contract, the project integrates with the campus microgrid, improving reliability. This highlights Crux's role in flexible financing for clean energy initiatives. The post Crux Arranges Construction-to-Term Financing For 40 MWh Battery Storage Project At UC San Diego appeared first on SolarQuarter .",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false
+    },
     {
       "title": "GE Vernova To Acquire Trench Group For $9 Billion To Expand High-Voltage Grid Equipment Business",
       "category": "Innovation",
@@ -1862,25 +1881,6 @@
       "articleUrl": "https://government.economictimes.indiatimes.com/news/smart-infra/nhai-deploys-sprinklers-anti-smog-guns-to-curb-dust-pollution-across-delhi-ncr/135118061",
       "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-294548/135118061.cms",
       "summary": "NHAI has deployed around 60 water sprinklers and tankers, 14 anti-smog guns, 23 mechanical road-sweeping machines (MRSMs) and two tractor-mounted broomers.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "et government - smart infrastructure"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "Maharashtra CM inaugurates three Mumbai flyovers, targets 50-60 minute cross-city travel",
-      "category": "Development",
-      "date": "2026-10-22",
-      "source": "ET Government - Smart Infrastructure",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/smart-infra/maharashtra-cm-inaugurates-three-mumbai-flyovers-targets-50-60-minute-cross-city-travel/135117518",
-      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-1438047/135117518.cms",
-      "summary": "Maharashtra Chief Minister Devendra Fadnavis was speaking after virtually inaugurating three new flyovers -- the railway overbridges at Sion in the island city and Vidyavihar in the eastern suburbs, and a flyover on the Goregaon-Mulund Link Road (GMLR) in the western suburbs.",
       "icon": "📰",
       "visualBg": "#e2f0ed",
       "visualInk": "#276b5c",
