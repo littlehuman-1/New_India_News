@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-10-30T19:10:01.827489+00:00",
+  "updatedAt": "2026-10-30T19:59:23.465784+00:00",
   "articles": [
+    {
+      "title": "Uttarakhand&#039;s 72 MW Tyuni-Plasu hydropower project gets final forest clearance",
+      "category": "Development",
+      "date": "2026-10-31",
+      "source": "ET Government - Policy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/uttarakhands-72-mw-tyuni-plasu-hydropower-project-gets-final-forest-clearance/135374543",
+      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-146140/135374543.cms",
+      "summary": "The project, being developed by state-owned UJVN Limited, is proposed on the Tons river in Tyuni tehsil of Dehradun district. It is estimated to generate around 298.5 million units (29.85 crore units) of electricity annually.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "et government - policy"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "Assam CM highlights focus on training young athletes, expanding sporting opportunities",
+      "category": "Development",
+      "date": "2026-10-31",
+      "source": "ET Government - Policy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/assam-cm-highlights-focus-on-training-young-athletes-expanding-sporting-opportunities/135374460",
+      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-70428/135374460.cms",
+      "summary": "Equally important is its potential to connect talented athletes identified through the competitions with advanced training and higher-level sporting opportunities, Assam Chief Minister Himanta Biswa Sarma said.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "et government - policy"
+      ],
+      "isSample": false
+    },
     {
       "title": "Crux Arranges Construction-to-Term Financing For 40 MWh Battery Storage Project At UC San Diego",
       "category": "Innovation",
@@ -1843,44 +1881,6 @@
       "articleUrl": "https://government.economictimes.indiatimes.com/news/defence/defence-secretary-rajesh-kumar-singh-gets-one-year-extension-to-continue-until-october-2027/135172410",
       "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-3223875/135172410.cms",
       "summary": "The ACC has approved a one-year extension for Defence Secretary Rajesh Kumar Singh until October 31, 2027, ensuring leadership continuity amid India&#039;s defence modernisation and indigenisation drive.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "et government - defence"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "Rajnath Singh urges Army Commanders to prepare for future challenges, stresses 20-30-year strategic vision",
-      "category": "Innovation",
-      "date": "2026-10-24",
-      "source": "ET Government - Defence",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/defence/rajnath-singh-urges-army-commanders-to-prepare-for-future-challenges-stresses-20-30-year-strategic-vision/135169240",
-      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-4730201/135169240.cms",
-      "summary": "Defence Minister Rajnath Singh addressed the Army Commanders&#039; Conference in New Delhi, emphasizing the importance of strategic vision. He called for the Indian Army to remain prepared for future challenges and adapt to evolving operational circumstances.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "et government - defence"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "Centre plans civil defence network of 60,000 volunteers in 12 states, UTs; army to train",
-      "category": "Innovation",
-      "date": "2026-10-24",
-      "source": "ET Government - Defence",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/defence/centre-plans-civil-defence-network-of-60000-volunteers-in-12-states-uts-army-to-train/135162952",
-      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-2200321/135162952.cms",
-      "summary": "The Ministry of Home Affairs will conduct joint training with the Indian Army for civil defence volunteers. This initiative aims to prepare 60,000 civil defence volunteers in 12 states and Union Territories.",
       "icon": "📰",
       "visualBg": "#e2f0ed",
       "visualInk": "#276b5c",
