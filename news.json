@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T04:03:47.191554+00:00",
+  "updatedAt": "2026-10-31T05:01:29.716913+00:00",
   "articles": [
     {
       "title": "Uttarakhand&#039;s 72 MW Tyuni-Plasu hydropower project gets final forest clearance",
@@ -55,6 +55,25 @@
       "tags": [
         "innovation",
         "et government - digital india"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "Juniper Green Energy Reports Record Q2 FY27 Performance With 132% Income Growth And 2,844 MW Operational Capacity",
+      "category": "Innovation",
+      "date": "2026-10-31",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/10/31/juniper-green-energy-reports-record-q2-fy27-performance-with-132-income-growth-and-2844-mw-operational-capacity/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2022/10/23-3.png?fit=1200%2C675&amp;quality=80&amp;ssl=1",
+      "summary": "Juniper Green Energy achieved its highest quarterly performance by September 30, 2026, with a 132% year-on-year income increase to ₹371.64 crore and a significant EBITDA growth. The company improved its operational capacity by commissioning 1,036 MWp of renewable energy and aims to expand its battery energy storage to 10,000 MWh by 2028. The post Juniper Green Energy Reports Record Q2 FY27 Performance With 132% Income Growth And 2,844 MW Operational Capacity appeared first on SolarQuarter .",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
       ],
       "isSample": false
     },
@@ -1868,25 +1887,6 @@
       "tags": [
         "innovation",
         "et government - digital india"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "Govt to issue consultation paper on AI law in coming weeks: Vaishnaw",
-      "category": "Innovation",
-      "date": "2026-10-24",
-      "source": "ET Government - Technology",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/technology/govt-to-issue-consultation-paper-on-ai-law-in-coming-weeks-vaishnaw/135162633",
-      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-96136/135162633.cms",
-      "summary": "The Indian government will soon begin consultations to frame legislation on artificial intelligence technology. Union minister Ashwini Vaishnaw emphasized the need for laws to regulate AI risks effectively.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "et government - technology"
       ],
       "isSample": false
     }
