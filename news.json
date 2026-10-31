@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T07:19:24.736212+00:00",
+  "updatedAt": "2026-10-31T08:06:21.749265+00:00",
   "articles": [
     {
       "title": "Uttarakhand&#039;s 72 MW Tyuni-Plasu hydropower project gets final forest clearance",
@@ -163,6 +163,25 @@
       "articleUrl": "https://solarquarter.com/2026/10/31/avaada-electro-secures-7-117-gw-almm-enlistment-for-topcon-solar-cell-manufacturing/",
       "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2020/10/pexels-photo-356049-1.jpeg?fit=1880%2C1249&amp;quality=89&amp;ssl=1",
       "summary": "Avaada Electro Limited has reached 7,117 MW of N-type TOPCon solar cell manufacturing capacity, as recognized by India's Ministry of New and Renewable Energy. This milestone enhances India's solar manufacturing landscape, emphasizing advanced technology, efficiency, and manufacturing competitiveness, while supporting clean energy growth and reducing reliance on imports. The post Avaada Electro Secures 7.117 GW ALMM Enlistment For ToPCon Solar Cell Manufacturing appeared first on SolarQuarter .",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "Adyant Alpha Power Signs 110 MW Wind PPA With SJVN, Taking Datta Infra Group Portfolio Beyond 600 MW",
+      "category": "Innovation",
+      "date": "2026-10-31",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/10/31/adyant-alpha-power-signs-110-mw-wind-ppa-with-sjvn-taking-datta-infra-group-portfolio-beyond-600-mw/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/10/Datta.png?fit=1228%2C690&amp;quality=80&amp;ssl=1",
+      "summary": "Adyant Alpha Power Private Limited, part of Datta Infra Group, has signed a 110 MW Wind Power Purchase Agreement with SJVN Limited for a project in Karnataka. This agreement boosts Datta's cumulative power purchase agreements past 600 MW, reinforcing its commitment to renewable energy and expanding its wind power initiatives in India. The post Adyant Alpha Power Signs 110 MW Wind PPA With SJVN, Taking Datta Infra Group Portfolio Beyond 600 MW appeared first on SolarQuarter .",
       "icon": "📰",
       "visualBg": "#e2f0ed",
       "visualInk": "#276b5c",
@@ -1862,25 +1881,6 @@
       "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/maharashtra-waives-25-land-transfer-fee-for-renewable-energy-projects/135213566",
       "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-586542/135213566.cms",
       "summary": "The decision was taken on the directions of Chief Minister Devendra Fadnavis and follows a resolution adopted at the state cabinet meeting on August 18 this year, according to a statement issued by the revenue department.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "et government - policy"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "Rajasthan to introduce digital, randomised testing of seeds, fertilisers and pesticides",
-      "category": "Development",
-      "date": "2026-10-26",
-      "source": "ET Government - Policy",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/rajasthan-to-introduce-digital-randomised-testing-of-seeds-fertilisers-and-pesticides/135213902",
-      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-124039/135213902.cms",
-      "summary": "State’s agriculture department signs three-year MoU with India Post to strengthen transparency in quality testing",
       "icon": "📰",
       "visualBg": "#e2f0ed",
       "visualInk": "#276b5c",
