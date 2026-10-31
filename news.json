@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T05:01:29.716913+00:00",
+  "updatedAt": "2026-10-31T05:57:59.253868+00:00",
   "articles": [
     {
       "title": "Uttarakhand&#039;s 72 MW Tyuni-Plasu hydropower project gets final forest clearance",
@@ -74,6 +74,44 @@
       "tags": [
         "innovation",
         "solarquarter"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "India’s Top AMCs Score Low on Climate Risk Preparedness, Report Highlights Major Investment Gaps",
+      "category": "Innovation",
+      "date": "2026-10-31",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/10/31/indias-top-amcs-score-low-on-climate-risk-preparedness-report-highlights-major-investment-gaps/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2022/10/11-3.png?fit=1200%2C675&amp;quality=80&amp;ssl=1",
+      "summary": "A report by Climate Risk Horizons indicates that India's top asset management companies are ill-prepared for climate-related financial risks, despite some progress in governance and disclosure. Key weaknesses include a lack of climate scenario analysis and insufficient emissions reporting. The report urges stronger regulations to enhance climate risk assessments in the sector. The post India’s Top AMCs Score Low on Climate Risk Preparedness, Report Highlights Major Investment Gaps appeared first",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "India and Türkiye must build a shared future despite differences: Ambassador Ali Murat Ersoy",
+      "category": "Development",
+      "date": "2026-10-31",
+      "source": "ET Government - Policy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/india-and-trkiye-must-build-a-shared-future-despite-differences-ambassador-ali-murat-ersoy/135388112",
+      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-578832/135388112.cms",
+      "summary": "At Türkiye’s 103rd National Day reception in New Delhi, Ambassador Ali Murat Ersoy called for renewed strategic engagement with India, highlighting growing economic capabilities, diplomatic dialogue, technological cooperation and the importance of partnership in a multipolar world.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "et government - policy"
       ],
       "isSample": false
     },
@@ -1849,44 +1887,6 @@
       "tags": [
         "innovation",
         "et government - technology"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "No permanent geographic split of fighter assets; theaterisation must address India&#039;s security needs: IAF Chief AP Singh",
-      "category": "Innovation",
-      "date": "2026-10-25",
-      "source": "ET Government - Defence",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/defence/no-permanent-geographic-split-of-fighter-assets-theaterisation-must-address-indias-security-needs-iaf-chief-ap-singh/135189990",
-      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-1076078/135189990.cms",
-      "summary": "Air Chief Marshal Singh also emphasised that the &quot;transformation of this scale&quot; should be implemented in phases so that operational readiness is &quot;never compromised&quot; and warned against the &quot;trap&quot; of trying to predict the future battlefield with &quot;excessive certainty&quot;.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "et government - defence"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "Centre beats March 2027 target, issues 11 crore unique farmer IDs under AgriStack",
-      "category": "Innovation",
-      "date": "2026-10-24",
-      "source": "ET Government - Digital India",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/digital-india/centre-beats-march-2027-target-issues-11-crore-unique-farmer-ids-under-agristack/135169709",
-      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-67004/135169709.cms",
-      "summary": "The Indian government has successfully created 11 crore unique Farmer IDs under the AgriStack framework. This achievement was completed ahead of the scheduled deadline, enhancing transparency and efficiency for farmers.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "et government - digital india"
       ],
       "isSample": false
     }
