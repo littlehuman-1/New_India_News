@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T01:24:15.438522+00:00",
+  "updatedAt": "2026-10-31T03:05:07.863392+00:00",
   "articles": [
     {
       "title": "Uttarakhand&#039;s 72 MW Tyuni-Plasu hydropower project gets final forest clearance",
@@ -36,6 +36,25 @@
       "tags": [
         "development",
         "et government - policy"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "Centre sets six-month banking reform agenda to strengthen India&#039;s financial architecture by 2047",
+      "category": "Innovation",
+      "date": "2026-10-31",
+      "source": "ET Government - Digital India",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/digital-india/centre-sets-six-month-banking-reform-agenda-to-strengthen-indias-financial-architecture-by-2047/135383678",
+      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-29334/135383678.cms",
+      "summary": "With a six-month mandate, the high-level committee will examine banking structures, capital requirements, regulatory reforms, financial inclusion and AI-driven innovation, potentially shaping the next phase of India&#039;s financial-sector development.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "et government - digital india"
       ],
       "isSample": false
     },
@@ -1868,25 +1887,6 @@
       "tags": [
         "innovation",
         "et government - technology"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "Defence Secretary Rajesh Kumar Singh gets one-year extension, to continue until October 2027",
-      "category": "Innovation",
-      "date": "2026-10-24",
-      "source": "ET Government - Defence",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/defence/defence-secretary-rajesh-kumar-singh-gets-one-year-extension-to-continue-until-october-2027/135172410",
-      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-3223875/135172410.cms",
-      "summary": "The ACC has approved a one-year extension for Defence Secretary Rajesh Kumar Singh until October 31, 2027, ensuring leadership continuity amid India&#039;s defence modernisation and indigenisation drive.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "et government - defence"
       ],
       "isSample": false
     }
