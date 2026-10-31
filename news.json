@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T14:54:39.034969+00:00",
+  "updatedAt": "2026-10-31T15:54:05.283398+00:00",
   "articles": [
     {
       "title": "Uttarakhand&#039;s 72 MW Tyuni-Plasu hydropower project gets final forest clearance",
@@ -302,6 +302,25 @@
       "tags": [
         "innovation",
         "et government - defence"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "Tamil Nadu govt to demolish and rebuild unsafe tenements in Chennai ahead of monsoon",
+      "category": "Development",
+      "date": "2026-10-31",
+      "source": "ET Government - Smart Infrastructure",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/smart-infra/tamil-nadu-govt-to-demolish-and-rebuild-unsafe-tenements-in-chennai-ahead-of-monsoon/135403486",
+      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-7520414/135403486.cms",
+      "summary": "Assuring affected families of alternative accommodation, Tamil Nadu public works and sports development minister Aadhav Arjuna said, &quot;If residents cooperate and vacate these high-risk areas for a period of two years, the government will entirely construct and hand over brand-new, modern housing complexes for them.&quot;",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "et government - smart infrastructure"
       ],
       "isSample": false
     },
@@ -1862,25 +1881,6 @@
       "articleUrl": "https://government.economictimes.indiatimes.com/news/smart-infra/punjab-cm-mann-flags-off-100-minibuses-to-connect-villages-with-cities/135213546",
       "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-7148183/135213546.cms",
       "summary": "Punjab chief minister Bhagwant Mann said the buses had been allocated across various depots, including Patiala, Bathinda, Chandigarh, Sangrur, Barnala, Budhlada, Kapurthala, Faridkot and Ludhiana.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "et government - smart infrastructure"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "Bengaluru development minister directs officials to expedite works on Hennur-Bagalur road",
-      "category": "Development",
-      "date": "2026-10-26",
-      "source": "ET Government - Smart Infrastructure",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/smart-infra/bengaluru-development-minister-directs-officials-to-expedite-works-on-hennur-bagalur-road/135212281",
-      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-152821/135212281.cms",
-      "summary": "During an inspection of the ongoing works, the minister emphasised that road development must go beyond laying roads to include efficient drainage systems, wider footpaths, safer pedestrian movement and infrastructure that ensures smoother traffic flow.",
       "icon": "📰",
       "visualBg": "#e2f0ed",
       "visualInk": "#276b5c",
