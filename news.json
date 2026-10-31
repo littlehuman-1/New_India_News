@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T13:58:48.489554+00:00",
+  "updatedAt": "2026-10-31T14:54:39.034969+00:00",
   "articles": [
     {
       "title": "Uttarakhand&#039;s 72 MW Tyuni-Plasu hydropower project gets final forest clearance",
@@ -264,6 +264,44 @@
       "tags": [
         "markets",
         "et government - economy"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "Ananth Technologies supplies critical avionics, electronics systems for ISRO&#039;s GSLV-F18, NVS-03 mission",
+      "category": "Innovation",
+      "date": "2026-10-31",
+      "source": "ET Government - Technology",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/technology/ananth-technologies-supplies-critical-avionics-electronics-systems-for-isros-gslv-f18-nvs-03-mission/135402791",
+      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-2090371/135402791.cms",
+      "summary": "Hyderabad-based company contributes 46 avionics packages for the launch vehicle and nine spacecraft systems, highlighting the expanding role of India&#039;s private industry in space missions.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "et government - technology"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "Air Chief Marshal Ashutosh Dixit takes charge as 29th Chief of the Air Staff",
+      "category": "Innovation",
+      "date": "2026-10-31",
+      "source": "ET Government - Defence",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/defence/air-chief-marshal-ashutosh-dixit-takes-charge-as-29th-chief-of-the-air-staff/135402423",
+      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-112850/135402423.cms",
+      "summary": "Air Chief Marshal Dixit is an accomplished graduate of the Defence Services Command and Staff College, Bangladesh, and the National Defence College, New Delhi.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "et government - defence"
       ],
       "isSample": false
     },
@@ -1849,44 +1887,6 @@
       "tags": [
         "development",
         "et government - smart infrastructure"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "DAC clears ₹2.12 lakh crore defence procurement proposals",
-      "category": "Innovation",
-      "date": "2026-10-26",
-      "source": "ET Government - Defence",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/defence/dac-clears-2-12-lakh-crore-defence-procurement-proposals/135210851",
-      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-2010649/135210851.cms",
-      "summary": "The approvals cover high-mobility vehicles, artillery systems, drones, air defence equipment, naval platforms and weather surveillance radars for the Army, Navy and Air Force.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "et government - defence"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "Indian Navy training squadron arrives in Sri Lanka on three-day visit",
-      "category": "Innovation",
-      "date": "2026-10-26",
-      "source": "ET Government - Defence",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/defence/indian-navy-training-squadron-arrives-in-sri-lanka-on-three-day-visit/135204908",
-      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-62208/135204908.cms",
-      "summary": "The Indian Navy&#039;s First Training Squadron has arrived in Sri Lanka for a goodwill visit and maritime cooperation. This visit includes professional interactions and training activities with the Sri Lanka Navy.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "et government - defence"
       ],
       "isSample": false
     }
