@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-11-01T05:09:03.881667+00:00",
+  "updatedAt": "2026-11-01T06:01:56.689814+00:00",
   "articles": [
+    {
+      "title": "India’s sovereign AI push moves from foundational models to real-world applications for Bharat: Ganesh Ramakrishnan",
+      "category": "Innovation",
+      "date": "2026-11-01",
+      "source": "ET Government - Technology",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/technology/indias-sovereign-ai-push-moves-from-foundational-models-to-real-world-applications-for-bharat-ganesh-ramakrishnan/135418246",
+      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-1996908/135418246.cms",
+      "summary": "BharatGen’s Ganesh Ramakrishnan says building AI for India&#039;s linguistic diversity, data sovereignty and public-sector needs will be critical to achieving the country’s Viksit Bharat 2047 vision.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "et government - technology"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "Union Bank of India expands banking infrastructure in Uttar Pradesh, MD inaugurates new facilities",
+      "category": "Markets",
+      "date": "2026-11-01",
+      "source": "ET Government - Economy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/union-bank-of-india-expands-banking-infrastructure-in-uttar-pradesh-md-inaugurates-new-facilities/135418511",
+      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-180353/135418511.cms",
+      "summary": "MD and CEO Asheesh Pandey lays foundation stone for a new building in Lucknow and inaugurates a Mid Corporate Branch, employee basketball turf and regional office in Kanpur during his two-day visit.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "markets",
+        "et government - economy"
+      ],
+      "isSample": false
+    },
     {
       "title": "Uttarakhand&#039;s 72 MW Tyuni-Plasu hydropower project gets final forest clearance",
       "category": "Development",
@@ -1849,44 +1887,6 @@
       "tags": [
         "development",
         "et government - policy"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "The Sundarbans at the crossroads of climate change and human survival [Commentary]",
-      "category": "Development",
-      "date": "2026-10-26",
-      "source": "Mongabay India",
-      "sourceShort": "MON",
-      "sourceUrl": "https://india.mongabay.com/",
-      "articleUrl": "https://india.mongabay.com/2026/10/the-sundarbans-at-the-crossroads-of-climate-change-and-human-survival-commentary/",
-      "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/10/26122422/AP967442025283-768x512.jpg",
-      "summary": "Spanning India and Bangladesh, with India comprising 40% of its area, a vast and ever-shifting mangrove forest stretches across the Bay of Bengal. This vast delta derives its name from the Sundari (Heritiera fomes), the tall mangrove species that flourishes here in abundance. The name &#8220;Sundarbans&#8221; is a modern rendering of &#8220;Sunderbunds,&#8221; a term coined [&#8230;]",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "mongabay india"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "Punjab CM Mann flags off 100 minibuses to connect villages with cities",
-      "category": "Development",
-      "date": "2026-10-26",
-      "source": "ET Government - Smart Infrastructure",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/smart-infra/punjab-cm-mann-flags-off-100-minibuses-to-connect-villages-with-cities/135213546",
-      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-7148183/135213546.cms",
-      "summary": "Punjab chief minister Bhagwant Mann said the buses had been allocated across various depots, including Patiala, Bathinda, Chandigarh, Sangrur, Barnala, Budhlada, Kapurthala, Faridkot and Ludhiana.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "et government - smart infrastructure"
       ],
       "isSample": false
     }
