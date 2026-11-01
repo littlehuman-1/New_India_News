@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T06:01:56.689814+00:00",
+  "updatedAt": "2026-11-01T07:25:54.766144+00:00",
   "articles": [
     {
       "title": "India’s sovereign AI push moves from foundational models to real-world applications for Bharat: Ganesh Ramakrishnan",
@@ -30,6 +30,25 @@
       "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/union-bank-of-india-expands-banking-infrastructure-in-uttar-pradesh-md-inaugurates-new-facilities/135418511",
       "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-180353/135418511.cms",
       "summary": "MD and CEO Asheesh Pandey lays foundation stone for a new building in Lucknow and inaugurates a Mid Corporate Branch, employee basketball turf and regional office in Kanpur during his two-day visit.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "markets",
+        "et government - economy"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "Round-the-clock clean power key to Uttar Pradesh’s industrial competitiveness: Hinduja Renewables CEO",
+      "category": "Markets",
+      "date": "2026-11-01",
+      "source": "ET Government - Economy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/round-the-clock-clean-power-key-to-uttar-pradeshs-industrial-competitiveness-hinduja-renewables-ceo/135418590",
+      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-68342/135418590.cms",
+      "summary": "Deepak Thakur, Managing Director and CEO of Hinduja Renewables Energy, argued that renewable energy must increasingly be viewed as an instrument of industrial competitiveness, investment and economic growth, rather than merely an alternative source of electricity.",
       "icon": "📰",
       "visualBg": "#e2f0ed",
       "visualInk": "#276b5c",
@@ -1868,25 +1887,6 @@
       "tags": [
         "markets",
         "et government - economy"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "India&#039;s moment has arrived: Pier Stefano Sailer on governance, defence and economic growth",
-      "category": "Development",
-      "date": "2026-10-27",
-      "source": "ET Government - Policy",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/indias-moment-has-arrived-pier-stefano-sailer-on-governance-defence-and-economic-growth/135222506",
-      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-1802405/135222506.cms",
-      "summary": "India&#039;s moment has arrived, says Pier Stefano Sailer, highlighting opportunities in defence, AI and European partnerships while stressing governance reforms, investment and infrastructure development.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "et government - policy"
       ],
       "isSample": false
     }
