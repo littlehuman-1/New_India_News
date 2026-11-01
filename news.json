@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T11:52:57.243602+00:00",
+  "updatedAt": "2026-11-01T13:15:11.823921+00:00",
   "articles": [
     {
       "title": "India’s sovereign AI push moves from foundational models to real-world applications for Bharat: Ganesh Ramakrishnan",
@@ -74,6 +74,25 @@
       "tags": [
         "markets",
         "et government - economy"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "UP to launch state Quantum Mission, steps up push to build AI and robotics ecosystem",
+      "category": "Innovation",
+      "date": "2026-11-01",
+      "source": "ET Government - Technology",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/technology/up-to-launch-state-quantum-mission-steps-up-push-to-build-ai-and-robotics-ecosystem/135427324",
+      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-2820843/135427324.cms",
+      "summary": "The proposed mission is part of a broader push to strengthen the state’s emerging technology ecosystem, attract investments, expand AI adoption and create new opportunities for startups and industry.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "et government - technology"
       ],
       "isSample": false
     },
@@ -1862,25 +1881,6 @@
       "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/india-economic-growth-seen-losing-momentum-after-strong-start-to-fiscal-year/135232055",
       "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-138908/135232055.cms",
       "summary": "Economic growth in India is forecast to have slowed this fiscal year from a surprisingly strong pace and hover around 7 per cent over the forecast horizon as higher energy costs add to near-term inflation risks, a Reuters poll of economists found.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "markets",
-        "et government - economy"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "India-EU investment protection agreement under discussion: Goyal",
-      "category": "Markets",
-      "date": "2026-10-27",
-      "source": "ET Government - Economy",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/india-eu-investment-protection-agreement-under-discussion-goyal/135226076",
-      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-53784/135226076.cms",
-      "summary": "India and the European Union are actively negotiating an Investment Protection Agreement to foster economic ties. The introduction of necessary legal changes for the Geographical Indications pact is set for Parliament&#039;s agenda.",
       "icon": "📰",
       "visualBg": "#e2f0ed",
       "visualInk": "#276b5c",
