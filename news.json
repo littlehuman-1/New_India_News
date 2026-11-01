@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T09:04:31.071219+00:00",
+  "updatedAt": "2026-11-01T10:02:12.263692+00:00",
   "articles": [
     {
       "title": "India’s sovereign AI push moves from foundational models to real-world applications for Bharat: Ganesh Ramakrishnan",
@@ -49,6 +49,25 @@
       "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/round-the-clock-clean-power-key-to-uttar-pradeshs-industrial-competitiveness-hinduja-renewables-ceo/135418590",
       "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-68342/135418590.cms",
       "summary": "Deepak Thakur, Managing Director and CEO of Hinduja Renewables Energy, argued that renewable energy must increasingly be viewed as an instrument of industrial competitiveness, investment and economic growth, rather than merely an alternative source of electricity.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "markets",
+        "et government - economy"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "Gross GST collections rise 23% to over ₹2.31 lakh crore in October",
+      "category": "Markets",
+      "date": "2026-11-01",
+      "source": "ET Government - Economy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/gross-gst-collections-rise-23-to-over-2-31-lakh-crore-in-october/135423222",
+      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-133248/135423222.cms",
+      "summary": "Gross GST collections from domestic sales rose 16 per cent to over ₹1.59 lakh crore, and revenues from imports climbed 42 per cent to ₹72,246 crore.",
       "icon": "📰",
       "visualBg": "#e2f0ed",
       "visualInk": "#276b5c",
@@ -1862,25 +1881,6 @@
       "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/india-eu-investment-protection-agreement-under-discussion-goyal/135226076",
       "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-53784/135226076.cms",
       "summary": "India and the European Union are actively negotiating an Investment Protection Agreement to foster economic ties. The introduction of necessary legal changes for the Geographical Indications pact is set for Parliament&#039;s agenda.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "markets",
-        "et government - economy"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "Delhi traders flag potential impact on 21 markets from Nov 1 Congress rally, seek postponement",
-      "category": "Markets",
-      "date": "2026-10-27",
-      "source": "ET Government - Economy",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/delhi-traders-flag-potential-impact-on-21-markets-from-nov-1-congress-rally-seek-postponement/135225867",
-      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-326797/135225867.cms",
-      "summary": "Traders in Delhi have requested a postponement of the event due to potential impacts on business during the festive season.",
       "icon": "📰",
       "visualBg": "#e2f0ed",
       "visualInk": "#276b5c",
