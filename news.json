@@ -1,6 +1,82 @@
 {
-  "updatedAt": "2026-11-02T04:20:04.787035+00:00",
+  "updatedAt": "2026-11-02T05:23:48.133146+00:00",
   "articles": [
+    {
+      "title": "CIL Appoints Neopulse Energy As Owner’s Engineer For 80 MW  320 Mwh BESS Project In Odisha",
+      "category": "Innovation",
+      "date": "2026-11-02",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/02/cil-appoints-neopulse-energy-as-owners-engineer-for-80-mw-320-mwh-bess-project-in-odisha/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2020/04/10.png?fit=1200%2C675&amp;quality=80&amp;ssl=1",
+      "summary": "Neopulse Energy Private Limited has been designated as Owner’s Engineer for Coal India's 80 MW / 320 MWh Battery Energy Storage System project in Odisha. They will offer technical support during all stages of the Engineering, Procurement and Construction contract, enhancing energy storage infrastructure and renewable energy integration in India. The post CIL Appoints Neopulse Energy As Owner’s Engineer For 80 MW 320 Mwh BESS Project In Odisha appeared first on SolarQuarter .",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "Avaada Electro Achieves 7.1 GW ALMM Enlistment for TOPCon Solar Cell Manufacturing Capacity in Maharashtra",
+      "category": "Innovation",
+      "date": "2026-11-02",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/02/avaada-electro-achieves-7-1-gw-almm-enlistment-for-topcon-solar-cell-manufacturing-capacity-in-maharashtra/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/solarquarter-6ae810f4792e3.png?fit=1376%2C768&amp;quality=80&amp;ssl=1",
+      "summary": "Avaada Electro Limited has achieved a significant milestone by securing 7,117 MW of N-type TOPCon solar cell manufacturing capacity under India's Ministry of New and Renewable Energy. This advancement aims to enhance India's solar manufacturing ecosystem and promote self-reliance while emphasizing technology development, operational efficiency, and consistent product quality. The post Avaada Electro Achieves 7.1 GW ALMM Enlistment for TOPCon Solar Cell Manufacturing Capacity in Maharashtra appea",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "NTPC Reports 25.71% Growth in H1 FY27 Consolidated PAT, Declares INR 3 Interim Dividend",
+      "category": "Innovation",
+      "date": "2026-11-02",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/02/ntpc-reports-25-71-growth-in-h1-fy27-consolidated-pat-declares-inr-3-interim-dividend/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/solarquarter-6ae810a82bc97.png?fit=1376%2C768&amp;quality=80&amp;ssl=1",
+      "summary": "NTPC Limited, India's largest integrated power generation company, reported strong financial results for Q2 and the first half of FY27, with standalone income rising 15.12% to ₹46,842 crore and PAT increasing by approximately 14%. Consolidated PAT rose 40.68% to ₹7,351 crore, driven by subsidiary performance. The company declared a 30% interim dividend. The post NTPC Reports 25.71% Growth in H1 FY27 Consolidated PAT, Declares INR 3 Interim Dividend appeared first on SolarQuarter .",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "Sungrow Showcases Residential, Commercial and Utility-Scale Energy Solutions at All-Energy Australia 2026",
+      "category": "Innovation",
+      "date": "2026-11-02",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/02/sungrow-showcases-residential-commercial-and-utility-scale-energy-solutions-at-all-energy-australia-2026/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/unnamed-13.jpg?fit=400%2C225&amp;quality=89&amp;ssl=1",
+      "summary": "Sungrow showcased its energy solutions at All-Energy Australia 2026, focusing on residential, commercial, and utility-scale systems to enhance Australia's sustainable energy future. Key highlights included the PowerHarbour residential battery, PowerKeeper for C&#038;I applications, and PowerTitan 3.0 for large-scale deployments, underscoring Sungrow's commitment to renewable energy integration and grid resilience. The post Sungrow Showcases Residential, Commercial and Utility-Scale Energy Soluti",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false
+    },
     {
       "title": "India’s sovereign AI push moves from foundational models to real-world applications for Bharat: Ganesh Ramakrishnan",
       "category": "Innovation",
@@ -1811,82 +1887,6 @@
       "tags": [
         "development",
         "et government - smart infrastructure"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "CM Adityanath launches 48 infrastructure projects worth ₹411 crore in Kanpur",
-      "category": "Development",
-      "date": "2026-10-27",
-      "source": "ET Government - Smart Infrastructure",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/smart-infra/cm-adityanath-launches-48-infrastructure-projects-worth-411-crore-in-kanpur/135232201",
-      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-835568/135232201.cms",
-      "summary": "Emphasising that the expansion of civic amenities and promotion of innovation form the core of the ‘New Uttar Pradesh’ vision, the CM noted that the state is balancing grassroots infrastructure with cutting-edge technology.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "et government - smart infrastructure"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "UP Cabinet approves robotics, AI park in Greater Noida",
-      "category": "Innovation",
-      "date": "2026-10-27",
-      "source": "ET Government - Technology",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/technology/up-cabinet-approves-robotics-ai-park-in-greater-noida/135231207",
-      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-509664/135231207.cms",
-      "summary": "The Cabinet of Uttar Pradesh has given the green light for a cutting-edge robotics and artificial intelligence park in Greater Noida. This innovative project is projected to create more than 100,000 jobs and infuse ₹2,000 crore into the state&#039;s economy each year.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "et government - technology"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "SC notice to Centre on news publishers&#039; plea challenging data protection law",
-      "category": "Innovation",
-      "date": "2026-10-27",
-      "source": "ET Government - Technology",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/technology/sc-notice-to-centre-on-news-publishers-plea-challenging-data-protection-law/135226750",
-      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-1998745/135226750.cms",
-      "summary": "The Supreme Court has requested the Centre to address a petition contesting the Digital Personal Data Protection Act. This challenge raises concerns about press freedom and the right to access information.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "et government - technology"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "India economic growth seen losing momentum after strong start to fiscal year",
-      "category": "Markets",
-      "date": "2026-10-27",
-      "source": "ET Government - Economy",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/india-economic-growth-seen-losing-momentum-after-strong-start-to-fiscal-year/135232055",
-      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-138908/135232055.cms",
-      "summary": "Economic growth in India is forecast to have slowed this fiscal year from a surprisingly strong pace and hover around 7 per cent over the forecast horizon as higher energy costs add to near-term inflation risks, a Reuters poll of economists found.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "markets",
-        "et government - economy"
       ],
       "isSample": false
     }
