@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T11:16:50.355548+00:00",
+  "updatedAt": "2026-11-02T12:10:43.879916+00:00",
   "articles": [
     {
       "title": "CIL Appoints Neopulse Energy As Owner’s Engineer For 80 MW  320 Mwh BESS Project In Odisha",
@@ -283,6 +283,25 @@
       "tags": [
         "development",
         "et government - policy"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "AEEG Seeks Industrial Off-Taker For 49 MW Solar And BESS Project In South Africa",
+      "category": "Innovation",
+      "date": "2026-11-02",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/02/aeeg-seeks-industrial-off-taker-for-49-mw-solar-and-bess-project-in-south-africa/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2020/04/11.png?fit=1200%2C675&amp;quality=80&amp;ssl=1",
+      "summary": "The African Earth Energy Group (AEEG) is seeking an industrial off-taker for a 49 MW solar and battery storage project in Mpumalanga, South Africa. This project aims to provide reliable, competitively priced renewable energy for industrial consumers, addressing power costs and national grid challenges while promoting cleaner electricity in the region. The post AEEG Seeks Industrial Off-Taker For 49 MW Solar And BESS Project In South Africa appeared first on SolarQuarter .",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
       ],
       "isSample": false
     },
@@ -1868,25 +1887,6 @@
       "tags": [
         "development",
         "et government - smart infrastructure"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "Smart metering and data analytics discussed at Distribution Utility Meet -2026",
-      "category": "Innovation",
-      "date": "2026-10-28",
-      "source": "ET Government - Technology",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/technology/smart-metering-and-data-analytics-discussed-at-distribution-utility-meet-2026/135257777",
-      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-539672/135257777.cms",
-      "summary": "The discussion covered the use of smart metering and digital services to simplify new electricity connections, bill payments and grievance redressal.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "et government - technology"
       ],
       "isSample": false
     }
