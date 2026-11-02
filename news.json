@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T15:14:40.160656+00:00",
+  "updatedAt": "2026-11-02T16:22:06.571429+00:00",
   "articles": [
     {
       "title": "CIL Appoints Neopulse Energy As Owner’s Engineer For 80 MW  320 Mwh BESS Project In Odisha",
@@ -359,6 +359,25 @@
       "tags": [
         "innovation",
         "solarquarter"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "Tatas important for economy; differences should be settled amicably: FM",
+      "category": "Markets",
+      "date": "2026-11-02",
+      "source": "ET Government - Economy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/tatas-important-for-economy-differences-should-be-settled-amicably-fm/135465364",
+      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-92422/135465364.cms",
+      "summary": "Finance Minister Nirmala Sitharaman highlighted the importance of resolving the differences between Tata Sons and Tata Trusts. She stated that the matter is crucial for the Indian economy and should not be publicized further.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "markets",
+        "et government - economy"
       ],
       "isSample": false
     },
@@ -1862,25 +1881,6 @@
       "articleUrl": "https://government.economictimes.indiatimes.com/news/smart-infra/bihar-govt-to-assess-dam-safety-within-8-months-clears-11096-crore-power-distribution-upgrade/135271046",
       "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-258283/135271046.cms",
       "summary": "The cabinet also approved a ₹11,096.55-crore plan to strengthen Bihar&#039;s low-tension (LT) electricity distribution network over the next three years amid a sharp rise in power demand.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "et government - smart infrastructure"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "Rajasthan approves ₹12,311 crore in mining-area development works under DMFT",
-      "category": "Development",
-      "date": "2026-10-28",
-      "source": "ET Government - Smart Infrastructure",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/smart-infra/rajasthan-approves-12311-crore-in-mining-area-development-works-under-dmft/135269655",
-      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-4470434/135269655.cms",
-      "summary": "The state has spent ₹7,217 crore on approved projects, with district collectors directed to prioritise drinking water, healthcare, education, environmental protection and skill development.",
       "icon": "📰",
       "visualBg": "#e2f0ed",
       "visualInk": "#276b5c",
