@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T16:22:06.571429+00:00",
+  "updatedAt": "2026-11-02T17:22:02.110407+00:00",
   "articles": [
     {
       "title": "CIL Appoints Neopulse Energy As Owner’s Engineer For 80 MW  320 Mwh BESS Project In Odisha",
@@ -372,6 +372,63 @@
       "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/tatas-important-for-economy-differences-should-be-settled-amicably-fm/135465364",
       "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-92422/135465364.cms",
       "summary": "Finance Minister Nirmala Sitharaman highlighted the importance of resolving the differences between Tata Sons and Tata Trusts. She stated that the matter is crucial for the Indian economy and should not be publicized further.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "markets",
+        "et government - economy"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "Bengaluru to digitise TDR system to speed up road widening",
+      "category": "Development",
+      "date": "2026-11-02",
+      "source": "ET Government - Smart Infrastructure",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/smart-infra/bengaluru-to-digitise-tdr-system-to-speed-up-road-widening/135468017",
+      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-240315/135468017.cms",
+      "summary": "The entire process, from application and verification to certificate issuance and subsequent transactions, will be brought online, officials said.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "et government - smart infrastructure"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "India-France defence ties poised for new phase, with 114 Rafales in focus",
+      "category": "Innovation",
+      "date": "2026-11-02",
+      "source": "ET Government - Defence",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/defence/india-france-defence-ties-poised-for-new-phase-with-114-rafales-in-focus/135466757",
+      "imageUrl": "",
+      "summary": "India and France are advancing their defence relationship with proposals for new fighter aircraft and submarines. The two nations are collaborating on advanced technologies and strategic partnerships essential for regional security.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "et government - defence"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "Sebi allows REITs, InvITs to issue depository receipts",
+      "category": "Markets",
+      "date": "2026-11-02",
+      "source": "ET Government - Economy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/sebi-allows-reits-invits-to-issue-depository-receipts/135467096",
+      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-56004/135467096.cms",
+      "summary": "Sebi has permitted the issuance of Depository Receipts against the units of Real Estate Investment Trusts and Infrastructure Investment Trusts. This move aims to draw more foreign investment into these financial instruments, enhancing capital inflow.",
       "icon": "📰",
       "visualBg": "#e2f0ed",
       "visualInk": "#276b5c",
@@ -1832,61 +1889,6 @@
       "tags": [
         "innovation",
         "solarquarter"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "Selec Controls Combines Technology Showcase with On-Grid Solar Training at REI Expo 2026",
-      "category": "Innovation",
-      "date": "2026-10-28",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/10/28/selec-controls-combines-technology-showcase-with-on-grid-solar-training-at-rei-expo-2026/",
-      "summary": "Selec Controls showcased its range of Made-in-India solar on-grid inverters at the Renewable Energy India Expo 2026, highlighting their efficiency and local support. The event included a hands-on training session for grid-connected solar systems. This initiative strengthened brand awareness and fostered relationships within the renewable energy sector, enhancing technical knowledge among industry professionals. The post Selec Controls Combines Technology Showcase with On-Grid Solar Training at R",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "Senvion India Secures 54.6 MW Wind Order From Prozeal Green In Gujarat",
-      "category": "Innovation",
-      "date": "2026-10-28",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/10/28/senvion-india-secures-54-6-mw-wind-order-from-prozeal-green-in-gujarat/",
-      "summary": "Senvion India has received a 54.6 MW wind power project order from Prozeal Green Private Limited, set in Gujarat. This will involve installing 13 upgraded Senvion 4.2M160 wind turbines. Senvion will provide installation and 25 years of maintenance services. The project aims to enhance wind energy capacity for commercial and industrial needs. The post Senvion India Secures 54.6 MW Wind Order From Prozeal Green In Gujarat appeared first on SolarQuarter .",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "Bihar govt to assess dam safety within 8 months, clears ₹11,096 crore power distribution upgrade",
-      "category": "Development",
-      "date": "2026-10-28",
-      "source": "ET Government - Smart Infrastructure",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/smart-infra/bihar-govt-to-assess-dam-safety-within-8-months-clears-11096-crore-power-distribution-upgrade/135271046",
-      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-258283/135271046.cms",
-      "summary": "The cabinet also approved a ₹11,096.55-crore plan to strengthen Bihar&#039;s low-tension (LT) electricity distribution network over the next three years amid a sharp rise in power demand.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "et government - smart infrastructure"
       ],
       "isSample": false
     }
