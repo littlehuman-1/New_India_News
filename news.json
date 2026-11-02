@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T07:47:58.165988+00:00",
+  "updatedAt": "2026-11-02T09:26:55.058161+00:00",
   "articles": [
     {
       "title": "CIL Appoints Neopulse Energy As Owner’s Engineer For 80 MW  320 Mwh BESS Project In Odisha",
@@ -150,6 +150,44 @@
       "tags": [
         "markets",
         "et government - economy"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "GERC Approves Tariffs For 450 MW/900 MWh Battery Storage Projects In Gujarat",
+      "category": "Innovation",
+      "date": "2026-11-02",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/02/gerc-approves-tariffs-for-450-mw-900-mwh-battery-storage-projects-in-gujarat/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2020/04/2.png?fit=1200%2C675&amp;quality=80&amp;ssl=1",
+      "summary": "The Gujarat Electricity Regulatory Commission (GERC) has adopted the tariffs discovered through a competitive bidding process for the development of a 450 MW / 900 MWh standalone Battery Energy Storage [&#8230;] The post GERC Approves Tariffs For 450 MW/900 MWh Battery Storage Projects In Gujarat appeared first on SolarQuarter .",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "GERC Notifies 2026 Distributed Renewable Energy Regulations, Introduces Five Metering Options and BESS Requirements In Gujarat",
+      "category": "Innovation",
+      "date": "2026-11-02",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/02/gerc-notifies-2026-distributed-renewable-energy-regulations-introduces-five-metering-options-and-bess-requirements-in-gujarat/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2022/10/8-2.png?fit=1200%2C675&amp;quality=80&amp;ssl=1",
+      "summary": "The Gujarat Electricity Regulatory Commission has issued new regulations for grid-connected distributed renewable energy systems, replacing 2016 provisions. The regulations introduce various metering mechanisms, set battery storage requirements for larger prosumers, and establish energy settlement mechanisms. Consumers will also benefit from carbon credits and must comply with safety and monitoring standards. The post GERC Notifies 2026 Distributed Renewable Energy Regulations, Introduces Five M",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
       ],
       "isSample": false
     },
@@ -1843,44 +1881,6 @@
       "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/cabinet-okays-1857-crore-scheme-to-boost-sports-goods-manufacturing/135266645",
       "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-2243336/135266645.cms",
       "summary": "The scheme, running through FY34, includes ₹1,130 crore in support for investment and production, alongside funding for certification, research and innovation.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "et government - policy"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "Cabinet approves Dearness Allowance of ₹10,000 crore, along with other key schemes",
-      "category": "Development",
-      "date": "2026-10-28",
-      "source": "ET Government - Policy",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/cabinet-approves-dearness-allowance-of-10000-crore-along-with-other-key-schemes/135260285",
-      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-97224/135260285.cms",
-      "summary": "On Wednesday, the Union Cabinet approved several key development schemes with a total allocation of ₹29,267 crore. This includes ₹10,016 crore designated for the Dearness Allowance for employees.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "et government - policy"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "Mobile PLI scheme generated ₹25,000 crore in direct taxes, employs 12 lakh people: Vaishnaw",
-      "category": "Development",
-      "date": "2026-10-28",
-      "source": "ET Government - Policy",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/mobile-pli-scheme-generated-25000-crore-in-direct-taxes-employs-12-lakh-people-vaishnaw/135254340",
-      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-106585/135254340.cms",
-      "summary": "The government&#039;s mobile phone production-linked incentive (PLI) scheme has generated ₹25,000 crore in direct tax collections against an incentive payout of ₹19,000 crore, Union Minister for Electronics and Information Technology Ashwini Vaishnaw said, highlighting the financial returns and employment generated by India&#039;s mobile manufacturing sector.",
       "icon": "📰",
       "visualBg": "#e2f0ed",
       "visualInk": "#276b5c",
