@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T09:26:55.058161+00:00",
+  "updatedAt": "2026-11-02T11:16:50.355548+00:00",
   "articles": [
     {
       "title": "CIL Appoints Neopulse Energy As Owner’s Engineer For 80 MW  320 Mwh BESS Project In Odisha",
@@ -188,6 +188,101 @@
       "tags": [
         "innovation",
         "solarquarter"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "Study maps foot-and-mouth disease risk zones where livestock and wildlife overlap",
+      "category": "Development",
+      "date": "2026-11-02",
+      "source": "Mongabay India",
+      "sourceShort": "MON",
+      "sourceUrl": "https://india.mongabay.com/",
+      "articleUrl": "https://india.mongabay.com/2026/11/study-maps-foot-and-mouth-disease-risk-zones-where-livestock-and-wildlife-overlap/",
+      "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/11/02135852/Markhor-1-768x512.jpg",
+      "summary": "Every summer, Gujjar and Bakarwal pastoralists in Jammu and Kashmir move their livestock to the mountains in search of pastures. These routes bring the cattle closer to habitats of rare wild ungulates such as the endangered hangul (Kashmir red deer) and the markhor (wild goat). This is risky, as foot-and-mouth disease (FMD) outbreaks have been [&#8230;]",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "mongabay india"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "India’s emissions growth slows as renewable energy begins replacing coal, UNEP report finds",
+      "category": "Development",
+      "date": "2026-11-02",
+      "source": "Mongabay India",
+      "sourceShort": "MON",
+      "sourceUrl": "https://india.mongabay.com/",
+      "articleUrl": "https://india.mongabay.com/2026/11/indias-emissions-growth-slows-as-renewable-energy-begins-replacing-coal-unep-report-finds/",
+      "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/11/02114510/AP23269090407095-768x512.jpg",
+      "summary": "The upward trend of greenhouse gas emissions in India showed a significant change in 2025. The trend, which was indicating a longer period of rapid growth, has pivoted from this path and is now showing a slight decline in India’s emissions. This has been reported in the United Nations Environment Programme&#8217;s (UNEP) new report Emissions [&#8230;]",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "mongabay india"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "From Complex Models to Real-World Impact: COMSOL Webinar to Spotlight Renewable Energy Simulation",
+      "category": "Innovation",
+      "date": "2026-11-02",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/02/from-complex-models-to-real-world-impact-comsol-webinar-to-spotlight-renewable-energy-simulation/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/1440x680_SimulApps_DigiTwins.png?fit=1440%2C680&amp;quality=80&amp;ssl=1",
+      "summary": "The webinar on 18 November 2026, hosted by COMSOL® and SolarQuarter, will focus on utilising accessible simulation apps in the renewable energy sector. It aims to empower engineering teams by simplifying complex models, enhancing collaboration through digital twins, and improving app performance with surrogate models. Registration is now open for interested professionals. The post From Complex Models to Real-World Impact: COMSOL Webinar to Spotlight Renewable Energy Simulation appeared first on ",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "NTPC To Set Up India’s First 320 kW Ceramic Thermal Storage-Based Solar Project In Rajasthan",
+      "category": "Innovation",
+      "date": "2026-11-02",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/02/ntpc-to-set-up-indias-first-320-kw-ceramic-thermal-storage-based-solar-project-in-rajasthan/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/solarquarter-6ae865981d2f2.png?fit=1376%2C768&amp;quality=80&amp;ssl=1",
+      "summary": "NTPC plans to establish India's first ceramic thermal energy storage-based concentrated solar power pilot project at Bhadla Solar Park, Rajasthan. This 320 kW project aims to generate electricity after sunset using stored solar heat, reducing reliance on conventional battery systems. Successful implementation could enhance solar power efficiency and support India's renewable energy goals. The post NTPC To Set Up India’s First 320 kW Ceramic Thermal Storage-Based Solar Project In Rajasthan appear",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "NTPC to set up India&#039;s first ceramic-based project to generate solar power at night in Rajasthan&#039;s Bhadla",
+      "category": "Development",
+      "date": "2026-11-02",
+      "source": "ET Government - Policy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/ntpc-to-set-up-indias-first-ceramic-based-project-to-generate-solar-power-at-night-in-rajasthans-bhadla/135453875",
+      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-125485/135453875.cms",
+      "summary": "The project aims to assess the possibility of generating solar power at night while reducing dependence on conventional battery storage.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "et government - policy"
       ],
       "isSample": false
     },
@@ -1792,101 +1887,6 @@
       "tags": [
         "innovation",
         "et government - technology"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "Rajnath Singh holds bilateral talks with Australian counterpart Richard Marles",
-      "category": "Innovation",
-      "date": "2026-10-28",
-      "source": "ET Government - Defence",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/defence/rajnath-singh-holds-bilateral-talks-with-australian-counterpart-richard-marles/135254519",
-      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-284458/135254519.cms",
-      "summary": "Both leaders exchanged gifts as a gesture of goodwill and friendship. During the meeting, Defence Minister Rajnath Singh also invited Richard Marles to attend Aero India-2027, scheduled to be held in Bengaluru in February 2027.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "et government - defence"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "India emerging as manufacturing hub, Make in India boosting mobile production: Nitin Nabin",
-      "category": "Markets",
-      "date": "2026-10-28",
-      "source": "ET Government - Economy",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/india-emerging-as-manufacturing-hub-make-in-india-boosting-mobile-production-nitin-nabin/135258065",
-      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-97915/135258065.cms",
-      "summary": "India is emerging as a prominent global player in manufacturing, especially in mobile phone production. The Make in India initiative plays a crucial role in boosting the nation&#039;s industrial capabilities while fostering a skilled workforce.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "markets",
-        "et government - economy"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "India in striking distance of 8% growth as reforms boost economy: Shaktikanta Das",
-      "category": "Markets",
-      "date": "2026-10-28",
-      "source": "ET Government - Economy",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/india-in-striking-distance-of-8-growth-as-reforms-boost-economy-shaktikanta-das/135256703",
-      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-2162177/135256703.cms",
-      "summary": "Das said the BFSI sector has a crucial role to play in India&#039;s journey from a lower-middle-income economy to a high-income economy, through its intermediation in allocation of financial resources.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "markets",
-        "et government - economy"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "Keralam Assembly passes bill for dedicated yards to store vehicles seized over tax defaults",
-      "category": "Development",
-      "date": "2026-10-28",
-      "source": "ET Government - Policy",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/keralam-assembly-passes-bill-for-dedicated-yards-to-store-vehicles-seized-over-tax-defaults/135271061",
-      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-83932/135271061.cms",
-      "summary": "The Kerala Motor Vehicles Taxation (Amendment) Bill, 2026, seeks to address the shortage of suitable facilities for safely storing vehicles seized for tax violations, Transport Minister C P John said while replying to amendments proposed by legislators.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "et government - policy"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "Cabinet okays ₹1,857 crore scheme to boost sports goods manufacturing",
-      "category": "Development",
-      "date": "2026-10-28",
-      "source": "ET Government - Policy",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/cabinet-okays-1857-crore-scheme-to-boost-sports-goods-manufacturing/135266645",
-      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-2243336/135266645.cms",
-      "summary": "The scheme, running through FY34, includes ₹1,130 crore in support for investment and production, alongside funding for certification, research and innovation.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "et government - policy"
       ],
       "isSample": false
     }
