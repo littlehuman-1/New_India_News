@@ -544,12 +544,18 @@ function getVisibleArticles() {
 
 function renderStories() {
   const articles = getVisibleArticles();
+    const language = languageSelect.value;
 
   storyCount.textContent = `${articles.length} ${articles.length === 1 ? "story" : "stories"}`;
   emptyState.hidden = articles.length !== 0;
   storyGrid.hidden = articles.length === 0;
 
-  storyGrid.innerHTML = articles.map((article, index) => `
+  storyGrid.innerHTML = articles.map((article, index) => {
+  const translated = article.translations?.[language] || {};
+  const title = translated.title || article.title;
+  const summary = translated.summary || article.summary;
+
+  return `
     <article class="story-card ${index === 0 ? "story-card-featured" : ""}">
      <div class="story-visual"
   style="--visual-bg:${escapeHTML(article.visualBg)};--visual-ink:${escapeHTML(article.visualInk)}">
@@ -558,7 +564,7 @@ function renderStories() {
     <img
       class="story-image"
       src="${escapeHTML(article.imageUrl)}"
-      alt="${escapeHTML(article.title)}"
+      alt="${escapeHTML(title)}"
       loading="lazy"
       onerror="this.style.display='none'; this.nextElementSibling.style.display='grid';"
     >
@@ -577,8 +583,8 @@ function renderStories() {
           <time datetime="${escapeHTML(article.date)}">${escapeHTML(formatDate(article.date))}</time>
         </div>
         ${article.isSample === false ? "" : '<span class="sample-label">DEMO CONTENT · VERIFY BEFORE USE</span>'}
-        <h3>${escapeHTML(article.title)}</h3>
-        <p class="story-summary">${escapeHTML(article.summary)}</p>
+        <h3>${escapeHTML(title)}</h3>
+        <p class="story-summary">${escapeHTML(summary)}</p>
         <div class="story-source">
           <span class="source-avatar" aria-hidden="true">${escapeHTML(article.sourceShort.slice(0, 3).toUpperCase())}</span>
           <span class="source-copy">
@@ -593,7 +599,8 @@ function renderStories() {
         </div>
       </div>
     </article>
-  `).join("");
+    `;
+}).join("");
 }
 
 function setActiveCategory(category) {
@@ -642,6 +649,7 @@ primaryNav.addEventListener("click", (event) => {
   };
 
   const category = navCategories[link.getAttribute("href")];
+  
 
   if (category) {
     event.preventDefault();
