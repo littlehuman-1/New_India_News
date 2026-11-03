@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T09:11:56.706665+00:00",
+  "updatedAt": "2026-11-03T10:08:33.122662+00:00",
   "articles": [
     {
       "title": "PM Narendra Modi Inaugurates Bharat Renewable Energy Summit 2026, Highlights India’s 310 GW Non-Fossil Capacity",
@@ -207,6 +207,44 @@
       "tags": [
         "innovation",
         "solarquarter"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "Resolven Secures 70 MW Wind Project From SJVN At INR 3.65/kWh, Expands Pipeline To 2.2 GW",
+      "category": "Innovation",
+      "date": "2026-11-03",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/03/resolven-secures-70-mw-wind-project-from-sjvn-at-inr-3-65-kwh-expands-pipeline-to-2-2-gw/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2020/11/pexels-photo-735468.jpeg?fit=867%2C1300&amp;quality=89&amp;ssl=1",
+      "summary": "Resolven has won a 70 MW wind power project in Karnataka at a tariff of ₹3.65 per kWh, part of a 600 MW tender by SJVN Limited, scheduled for December 2027. This marks Resolven’s second consecutive wind energy win, enhancing its 2.2 GW project pipeline and reinforcing its commitment to renewable energy expansion in India. The post Resolven Secures 70 MW Wind Project From SJVN At INR 3.65/kWh, Expands Pipeline To 2.2 GW appeared first on SolarQuarter .",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "India has never allowed import of GM products, will not do so in future: Goyal",
+      "category": "Markets",
+      "date": "2026-11-03",
+      "source": "ET Government - Economy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/india-has-never-allowed-import-of-gm-products-will-not-do-so-in-future-goyal/135489279",
+      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-74000/135489279.cms",
+      "summary": "India&#039;s Commerce and Industry Minister Piyush Goyal reiterated that the country will not allow genetically modified products. He emphasized the sensitivity of the dairy sector, stating there have been no duty concessions in free trade agreements.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "markets",
+        "et government - economy"
       ],
       "isSample": false
     },
@@ -1860,44 +1898,6 @@
       "tags": [
         "development",
         "et government - policy"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "Jharkhand govt signs agreement to boost revenue collection and curb tax leakage",
-      "category": "Markets",
-      "date": "2026-10-29",
-      "source": "ET Government - Economy",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/jharkhand-govt-signs-agreement-to-boost-revenue-collection-and-curb-tax-leakage/135322591",
-      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-355586/135322591.cms",
-      "summary": "Jharkhand finance minister Radhakrishna Kishore stressed the need to enhance the state&#039;s revenue collection capacity to strengthen financial self-reliance.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "markets",
-        "et government - economy"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "Arunachal Pradesh kiwi enters Dubai market, opening export opportunities for growers",
-      "category": "Markets",
-      "date": "2026-10-29",
-      "source": "ET Government - Economy",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/arunachal-pradesh-kiwi-enters-dubai-market-opening-export-opportunities-for-growers/135318721",
-      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-218612/135318721.cms",
-      "summary": "The kiwi consignment, flagged off from Itanagar on October 26, is being showcased at LuLu Hypermarket in Al Qusais, Dubai, as part of efforts to explore international markets for the state&#039;s horticultural produce.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "markets",
-        "et government - economy"
       ],
       "isSample": false
     }
