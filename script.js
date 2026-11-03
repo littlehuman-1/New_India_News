@@ -655,22 +655,6 @@ primaryNav.addEventListener("click", (event) => {
   menuToggle.setAttribute("aria-expanded", "false");
 });
 
-const category = navCategories[link.getAttribute("href")];
-
-if (category) {
-  event.preventDefault();
-  setActiveCategory(category);
-    setActiveCategory(navCategories[label]);
-    document.querySelector("#main")?.scrollIntoView({
-      behavior: "smooth"
-    });
-  }
-
-  primaryNav.classList.remove("open");
-  menuToggle.setAttribute("aria-expanded", "false");
-});
- 
-
 
  // Keyboard shortcut: press / to focus the search field, unless already typing.
 document.addEventListener("keydown", (event) => {
