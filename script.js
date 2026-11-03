@@ -204,9 +204,124 @@ const emptyState = document.querySelector("#empty-state");
 const resetFiltersButton = document.querySelector("#reset-filters");
 const menuToggle = document.querySelector("#menu-toggle");
 const primaryNav = document.querySelector("#primary-nav");
+const languageSelect = document.querySelector("#language-select");
 
 let activeCategory = "All";
+const translations = {
+  en: {
+    topStories: "Top stories",
+    development: "Development",
+    innovation: "Innovation",
+    business: "Business",
+    markets: "Markets",
+    exploreStories: "Explore the stories",
+    searchPlaceholder: "Search topics, sources or keywords…",
+    newest: "Newest first",
+    oldest: "Oldest first",
+    headlineAZ: "Headline A–Z",
+    allStories: "All stories",
+    scienceInnovation: "Science & innovation",
+    noStories: "No stories match that search",
+    tryDifferent: "Try a different keyword or choose another category.",
+    resetFilters: "Reset filters",
+    visitSource: "Visit source ↗"
+  },
 
+  hi: {
+    topStories: "मुख्य समाचार",
+    development: "विकास",
+    innovation: "नवाचार",
+    business: "व्यापार",
+    markets: "बाज़ार",
+    exploreStories: "समाचार पढ़ें",
+    searchPlaceholder: "विषय, स्रोत या शब्द खोजें…",
+    newest: "नवीनतम पहले",
+    oldest: "सबसे पुराने पहले",
+    headlineAZ: "शीर्षक A–Z",
+    allStories: "सभी समाचार",
+    scienceInnovation: "विज्ञान और नवाचार",
+    noStories: "इस खोज से कोई समाचार नहीं मिला",
+    tryDifferent: "दूसरा शब्द खोजें या कोई अन्य श्रेणी चुनें।",
+    resetFilters: "फ़िल्टर रीसेट करें",
+    visitSource: "स्रोत देखें ↗"
+  },
+
+  ta: {
+    topStories: "முக்கிய செய்திகள்",
+    development: "வளர்ச்சி",
+    innovation: "புதுமை",
+    business: "வணிகம்",
+    markets: "சந்தைகள்",
+    exploreStories: "செய்திகளைப் பாருங்கள்",
+    searchPlaceholder: "தலைப்புகள் அல்லது ஆதாரங்களைத் தேடுங்கள்…",
+    newest: "புதியவை முதலில்",
+    oldest: "பழையவை முதலில்",
+    headlineAZ: "தலைப்பு A–Z",
+    allStories: "அனைத்துச் செய்திகள்",
+    scienceInnovation: "அறிவியல் மற்றும் புதுமை",
+    noStories: "இந்தத் தேடலுக்குப் பொருத்தமான செய்திகள் இல்லை",
+    tryDifferent: "வேறு சொல்லைத் தேடுங்கள் அல்லது வேறு பிரிவைத் தேர்ந்தெடுக்கவும்.",
+    resetFilters: "வடிகட்டிகளை மீட்டமை",
+    visitSource: "ஆதாரத்தைப் பார்க்க ↗"
+  },
+
+  ml: {
+    topStories: "പ്രധാന വാർത്തകൾ",
+    development: "വികസനം",
+    innovation: "നവീകരണം",
+    business: "വ്യാപാരം",
+    markets: "വിപണികൾ",
+    exploreStories: "വാർത്തകൾ കാണുക",
+    searchPlaceholder: "വിഷയങ്ങളോ ഉറവിടങ്ങളോ തിരയുക…",
+    newest: "പുതിയത് ആദ്യം",
+    oldest: "പഴയത് ആദ്യം",
+    headlineAZ: "തലക്കെട്ട് A–Z",
+    allStories: "എല്ലാ വാർത്തകളും",
+    scienceInnovation: "ശാസ്ത്രവും നവീകരണവും",
+    noStories: "ഈ തിരയലിന് അനുയോജ്യമായ വാർത്തകളില്ല",
+    tryDifferent: "മറ്റൊരു വാക്ക് തിരയുക അല്ലെങ്കിൽ മറ്റൊരു വിഭാഗം തിരഞ്ഞെടുക്കുക.",
+    resetFilters: "ഫിൽട്ടറുകൾ പുനഃസജ്ജമാക്കുക",
+    visitSource: "ഉറവിടം കാണുക ↗"
+  },
+
+  kn: {
+    topStories: "ಪ್ರಮುಖ ಸುದ್ದಿಗಳು",
+    development: "ಅಭಿವೃದ್ಧಿ",
+    innovation: "ನಾವೀನ್ಯತೆ",
+    business: "ವ್ಯಾಪಾರ",
+    markets: "ಮಾರುಕಟ್ಟೆಗಳು",
+    exploreStories: "ಸುದ್ದಿಗಳನ್ನು ನೋಡಿ",
+    searchPlaceholder: "ವಿಷಯಗಳು ಅಥವಾ ಮೂಲಗಳನ್ನು ಹುಡುಕಿ…",
+    newest: "ಹೊಸವು ಮೊದಲು",
+    oldest: "ಹಳೆಯವು ಮೊದಲು",
+    headlineAZ: "ಶೀರ್ಷಿಕೆ A–Z",
+    allStories: "ಎಲ್ಲಾ ಸುದ್ದಿಗಳು",
+    scienceInnovation: "ವಿಜ್ಞಾನ ಮತ್ತು ನಾವೀನ್ಯತೆ",
+    noStories: "ಈ ಹುಡುಕಾಟಕ್ಕೆ ಹೊಂದುವ ಸುದ್ದಿಗಳಿಲ್ಲ",
+    tryDifferent: "ಬೇರೆ ಪದವನ್ನು ಹುಡುಕಿ ಅಥವಾ ಬೇರೆ ವರ್ಗವನ್ನು ಆಯ್ಕೆಮಾಡಿ.",
+    resetFilters: "ಫಿಲ್ಟರ್ ಮರುಹೊಂದಿಸಿ",
+    visitSource: "ಮೂಲವನ್ನು ನೋಡಿ ↗"
+  },
+
+  te: {
+    topStories: "ముఖ్య వార్తలు",
+    development: "అభివృద్ధి",
+    innovation: "ఆవిష్కరణ",
+    business: "వ్యాపారం",
+    markets: "మార్కెట్లు",
+    exploreStories: "వార్తలను చూడండి",
+    searchPlaceholder: "అంశాలు లేదా మూలాలను వెతకండి…",
+    newest: "కొత్తవి ముందు",
+    oldest: "పాతవి ముందు",
+    headlineAZ: "శీర్షిక A–Z",
+    allStories: "అన్ని వార్తలు",
+    scienceInnovation: "సైన్స్ మరియు ఆవిష్కరణ",
+    noStories: "ఈ శోధనకు సరిపోయే వార్తలు లేవు",
+    tryDifferent: "మరొక పదాన్ని వెతకండి లేదా వేరే వర్గాన్ని ఎంచుకోండి.",
+    resetFilters: "ఫిల్టర్లను రీసెట్ చేయండి",
+    visitSource: "మూలాన్ని చూడండి ↗"
+  }
+};
 function escapeHTML(value) {
   return String(value).replace(/[&<>"']/g, (character) => ({
     "&": "&amp;",
