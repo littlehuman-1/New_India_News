@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T10:14:48.101020+00:00",
+  "updatedAt": "2026-11-03T10:36:48.509506+00:00",
   "articles": [
     {
       "title": "PM Narendra Modi Inaugurates Bharat Renewable Energy Summit 2026, Highlights India’s 310 GW Non-Fossil Capacity",
@@ -245,6 +245,44 @@
       "tags": [
         "markets",
         "et government - economy"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "CLA Town Center Mall Commissions Rooftop Solar Project, Secures 860 MWh Annual Clean Energy In Philippines",
+      "category": "Innovation",
+      "date": "2026-11-03",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/03/cla-town-center-mall-commissions-rooftop-solar-project-secures-860-mwh-annual-clean-energy-in-philippines/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/CLA-mall.png?fit=1376%2C768&amp;quality=80&amp;ssl=1",
+      "summary": "CLA Town Center Mall in Pagsanjan has partnered with Peak Energy to install a 0.6 MWp rooftop solar power system, generating about 860 MWh of clean electricity annually. The project, under a 10-year agreement, aims to cut energy costs and reduce carbon emissions, showcasing renewable energy's benefits for commercial properties. The post CLA Town Center Mall Commissions Rooftop Solar Project, Secures 860 MWh Annual Clean Energy In Philippines appeared first on SolarQuarter .",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "Bihar CM says Farakka Treaty restricts state&#039;s industrial water access",
+      "category": "Development",
+      "date": "2026-11-03",
+      "source": "ET Government - Policy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/bihar-cm-says-farakka-treaty-restricts-states-industrial-water-access/135492473",
+      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-97565/135492473.cms",
+      "summary": "Bihar Chief Minister Samrat Choudhary highlighted the need for adequate water to promote economic development. He pointed out that the Farakka Water Treaty restricts Bihar to receive water for only four months each year.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "et government - policy"
       ],
       "isSample": false
     },
@@ -1860,44 +1898,6 @@
       "tags": [
         "innovation",
         "solarquarter"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "Scatec Secures $217 Million Financing For 569 MW Solar And 100 MWh BESS Project In Egypt",
-      "category": "Innovation",
-      "date": "2026-10-29",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/10/29/scatec-secures-217-million-financing-for-569-mw-solar-and-100-mwh-bess-project-in-egypt/",
-      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2020/04/11.png?fit=1200%2C675&amp;quality=80&amp;ssl=1",
-      "summary": "Scatec ASA has initiated construction of the Dandara solar and battery energy storage project in Egypt, combining a 569 MW solar plant with a 100 MWh battery system. Funded mainly through a USD 217 million loan, the project aims to supply renewable electricity to Egypt Aluminium, significantly reducing carbon emissions and enhancing competitiveness. The post Scatec Secures $217 Million Financing For 569 MW Solar And 100 MWh BESS Project In Egypt appeared first on SolarQuarter .",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "Karnataka hikes Nandini milk prices by ₹8 per litre from November 1",
-      "category": "Development",
-      "date": "2026-10-29",
-      "source": "ET Government - Policy",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/karnataka-hikes-nandini-milk-prices-by-8-per-litre-from-november-1/135318645",
-      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-48732/135318645.cms",
-      "summary": "&quot;Given the crisis faced by farmers, members of all parties in the Legislative Council had called for measures to support them. Milk producers themselves had taken to the streets in protest, and the cooperatives had also pressed for an increase,&quot; Karnataka minister Krishna Byre Gowda said.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "et government - policy"
       ],
       "isSample": false
     }
