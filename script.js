@@ -624,12 +624,26 @@ primaryNav.addEventListener("click", (event) => {
   if (!link) return;
 
   const navCategories = {
-  "#top-stories": "All",
-  "#development": "Development",
-  "#innovation": "Innovation",
-  "#business": "Business",
-  "#markets": "Markets"
-};
+    "#top-stories": "All",
+    "#development": "Development",
+    "#innovation": "Innovation",
+    "#business": "Business",
+    "#markets": "Markets"
+  };
+
+  const category = navCategories[link.getAttribute("href")];
+
+  if (category) {
+    event.preventDefault();
+    setActiveCategory(category);
+    document.querySelector("#main")?.scrollIntoView({
+      behavior: "smooth"
+    });
+  }
+
+  primaryNav.classList.remove("open");
+  menuToggle.setAttribute("aria-expanded", "false");
+});
 
 const category = navCategories[link.getAttribute("href")];
 
