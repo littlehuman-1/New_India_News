@@ -322,6 +322,71 @@ const translations = {
     visitSource: "మూలాన్ని చూడండి ↗"
   }
 };
+function applyTranslations() {
+  const language = translations[languageSelect.value]
+    ? languageSelect.value
+    : "en";
+
+  const t = translations[language];
+
+  // Main navigation
+  const navLinks = document.querySelectorAll(".nav-link");
+  const navKeys = [
+    "topStories",
+    "development",
+    "innovation",
+    "business",
+    "markets"
+  ];
+
+  navLinks.forEach((link, index) => {
+    link.textContent = t[navKeys[index]];
+  });
+
+  // Hero button
+  const heroButton = document.querySelector(".button-light");
+  if (heroButton) {
+    heroButton.innerHTML =
+      `${t.exploreStories} <span aria-hidden="true">↘</span>`;
+  }
+
+  // Search box
+  searchInput.placeholder = t.searchPlaceholder;
+
+  // Sorting options
+  sortSelect.options[0].textContent = t.newest;
+  sortSelect.options[1].textContent = t.oldest;
+  sortSelect.options[2].textContent = t.headlineAZ;
+
+  // Story category buttons
+  const categoryButtons =
+    categoryFilters.querySelectorAll(".category-chip");
+
+  const categoryLabels = [
+    t.allStories,
+    t.development,
+    t.scienceInnovation,
+    t.business,
+    t.markets
+  ];
+
+  categoryButtons.forEach((button, index) => {
+    button.textContent = categoryLabels[index];
+  });
+
+  // Empty search results
+  emptyState.querySelector("h3").textContent = t.noStories;
+  emptyState.querySelector("p").textContent = t.tryDifferent;
+
+  // Reset button
+  resetFiltersButton.textContent = t.resetFilters;
+
+  // Update the document language
+  document.documentElement.lang = language;
+
+  // Refresh the story cards
+  renderStories();
+}
 function escapeHTML(value) {
   return String(value).replace(/[&<>"']/g, (character) => ({
     "&": "&amp;",
@@ -558,18 +623,19 @@ primaryNav.addEventListener("click", (event) => {
   const link = event.target.closest("a");
   if (!link) return;
 
-  const label = link.textContent.trim().toLowerCase();
-
   const navCategories = {
-    "top stories": "All",
-    "development": "Development",
-    "innovation": "Innovation",
-    "business": "Business",
-    "markets": "Markets"
-  };
+  "#top-stories": "All",
+  "#development": "Development",
+  "#innovation": "Innovation",
+  "#business": "Business",
+  "#markets": "Markets"
+};
 
-  if (Object.prototype.hasOwnProperty.call(navCategories, label)) {
-    event.preventDefault();
+const category = navCategories[link.getAttribute("href")];
+
+if (category) {
+  event.preventDefault();
+  setActiveCategory(category);
     setActiveCategory(navCategories[label]);
     document.querySelector("#main")?.scrollIntoView({
       behavior: "smooth"
@@ -606,7 +672,7 @@ document.addEventListener("keydown", (event) => {
     searchInput.blur();
   }
 });
-
+languageSelect.addEventListener("change", applyTranslations);
 renderMarketCards();
 renderStories();
 loadFetchedNews();
