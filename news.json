@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T13:29:32.005845+00:00",
+  "updatedAt": "2026-11-03T15:08:52.561538+00:00",
   "articles": [
     {
       "title": "PM Narendra Modi Inaugurates Bharat Renewable Energy Summit 2026, Highlights India’s 310 GW Non-Fossil Capacity",
@@ -340,6 +340,25 @@
       "tags": [
         "innovation",
         "solarquarter"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "Karnataka signs LoI with Finland&#039;s Business Tampere to explore creative corridor",
+      "category": "Innovation",
+      "date": "2026-11-03",
+      "source": "ET Government - Technology",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/technology/karnataka-signs-loi-with-finlands-business-tampere-to-explore-creative-corridor/135500344",
+      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-1413451/135500344.cms",
+      "summary": "The LoI has been signed by the state government, under the Global Innovation Alliance (GIA) initiative of the Department of Electronics, Information Technology and Biotechnology, through the Karnataka Innovation and Technology Society (KITS), officials said.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "et government - technology"
       ],
       "isSample": false
     },
@@ -1879,25 +1898,6 @@
       "tags": [
         "development",
         "mongabay india"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "India-US trade deal will not compromise farmers&#039; interests, will give India strong comparative advantage: Piyush Goyal",
-      "category": "Markets",
-      "date": "2026-10-29",
-      "source": "ET Government - Economy",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/india-us-trade-deal-will-not-compromise-farmers-interests-will-give-india-strong-comparative-advantage-piyush-goyal/135307359",
-      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-159120/135307359.cms",
-      "summary": "The India-US free trade agreement would not compromise the sensitive interests of Indian farmers or any other stakeholders and would place India at a “very strong comparative advantage” once its details are made public, said Union Commerce and Industry Minister Piyush Goyal.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "markets",
-        "et government - economy"
       ],
       "isSample": false
     }
