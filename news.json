@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T06:13:41.308354+00:00",
+  "updatedAt": "2026-11-03T07:36:55.739838+00:00",
   "articles": [
     {
       "title": "PM Narendra Modi Inaugurates Bharat Renewable Energy Summit 2026, Highlights India’s 310 GW Non-Fossil Capacity",
@@ -30,6 +30,63 @@
       "articleUrl": "https://government.economictimes.indiatimes.com/news/defence/53866-crore-corvette-deal-india-strengthens-naval-power-indigenous-shipbuilding-and-maritime-security/135479465",
       "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-2019432/135479465.cms",
       "summary": "The Indian Navy’s acquisition of eight Next Generation Corvettes marks a major investment in maritime security and domestic defence manufacturing. The programme’s success will depend on timely delivery, indigenous technology integration and operational effectiveness.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "et government - defence"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "Borosil Renewables Reports 53.1% Profit Growth in Q2 FY27, Expands Solar Glass Capacity to 1,600 TPD",
+      "category": "Innovation",
+      "date": "2026-11-03",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/03/borosil-renewables-reports-53-1-profit-growth-in-q2-fy27-expands-solar-glass-capacity-to-1600-tpd/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2022/10/18-4.png?fit=1200%2C675&amp;quality=80&amp;ssl=1",
+      "summary": "Borosil Renewables Limited showed strong financial results in FY2027's second quarter and first half, with a 12.8% revenue increase to ₹801.8 crore. Profit After Tax reached ₹157.8 crore. The company is expanding its solar glass capacity by 60% and aims to reduce reliance on imports, supporting India's growing renewable energy sector. The post Borosil Renewables Reports 53.1% Profit Growth in Q2 FY27, Expands Solar Glass Capacity to 1,600 TPD appeared first on SolarQuarter .",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "SWELECT Energy Invests INR 4.36 Crore in 4.5 MWp Group Captive Solar Project In Keralam",
+      "category": "Innovation",
+      "date": "2026-11-03",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/03/swelect-energy-invests-inr-4-36-crore-in-4-5-mwp-group-captive-solar-project-in-keralam/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2022/10/6-2.png?fit=1200%2C675&amp;quality=80&amp;ssl=1",
+      "summary": "SWELECT Energy Systems Limited plans to invest up to ₹4.36 crore in its subsidiary, SWELECT Radiant Power Private Limited, for a 4.5 MWp DC solar power plant in Kerala. This move aims to enhance its renewable energy portfolio, transitioning the subsidiary from wholly-owned to majority-owned, while supporting clean energy initiatives. The post SWELECT Energy Invests INR 4.36 Crore in 4.5 MWp Group Captive Solar Project In Keralam appeared first on SolarQuarter .",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "Indian Navy rescues hijacked fishing vessel off Somalia coast",
+      "category": "Innovation",
+      "date": "2026-11-03",
+      "source": "ET Government - Defence",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/defence/indian-navy-rescues-hijacked-fishing-vessel-off-somalia-coast/135484684",
+      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-369478/135484684.cms",
+      "summary": "The Indian Navy successfully executed a rescue operation for the hijacked vessel Azini off the coast of Somalia. A total of 20 crew members were safely released with no reported casualties during the operation.",
       "icon": "📰",
       "visualBg": "#e2f0ed",
       "visualInk": "#276b5c",
@@ -1831,60 +1888,6 @@
       "sourceUrl": "https://solarquarter.com/",
       "articleUrl": "https://solarquarter.com/2026/10/28/masdar-raises-us600-million-in-global-record-aa-rated-blue-bond-for-offshore-wind-projects/",
       "summary": "Masdar raised US$600 million through its first blue bond, the highest-rated public blue bond globally, under its US$6 billion program. The five-year bond, with a 5.875% coupon, attracted significant investor interest, being 2.5 times oversubscribed. Proceeds will fund maritime renewable energy projects, supporting sustainable ocean use and clean energy infrastructure. The post Masdar Raises US$600 Million in Global Record AA-Rated Blue Bond for Offshore Wind Projects appeared first on SolarQuart",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "Blueleaf Energy Signs Two Solar PPAs With Microsoft For Japan Projects Targeting Mid-2027 Commissioning",
-      "category": "Innovation",
-      "date": "2026-10-28",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/10/28/blueleaf-energy-signs-two-solar-ppas-with-microsoft-for-japan-projects-targeting-mid-2027-commissioning/",
-      "summary": "Macquarie Asset Management's Blueleaf Energy has partnered with Microsoft to supply renewable electricity via long-term Power Purchase Agreements for new solar projects in Japan. This collaboration enhances clean energy generation to meet Microsoft’s expanding needs, building on their ongoing partnership since 2020. Projects aim for commissioning by mid-2027, addressing rising global electricity demand. The post Blueleaf Energy Signs Two Solar PPAs With Microsoft For Japan Projects Targeting Mid",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "MGEN Renewables Plans Potential Second IPO Following P4.98 Billion Asset Deal",
-      "category": "Innovation",
-      "date": "2026-10-28",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/10/28/mgen-renewables-plans-potential-second-ipo-following-p4-98-billion-asset-deal/",
-      "summary": "MGEN Renewables Inc., or SP New Energy Corp., is planning a second public share offering after a nearly P5-billion asset transaction to enhance its renewable energy portfolio. Valued at P4.98 billion, this deal aims to strengthen the company's financial stability and appeal to institutional investors, supporting its growth in the renewable energy sector. The post MGEN Renewables Plans Potential Second IPO Following P4.98 Billion Asset Deal appeared first on SolarQuarter .",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "Kenya’s Off-Grid Solar Sales Reach 2.4 Million Units In 2025, Growing Over 8% Annually",
-      "category": "Innovation",
-      "date": "2026-10-28",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/10/28/kenyas-off-grid-solar-sales-reach-2-4-million-units-in-2025-growing-over-8-annually/",
-      "summary": "In 2025, Kenya's off-grid solar equipment adoption surged, with sales reaching 2.4 million units, marking over 8% annual growth since 2021. This shift enhances electricity access for remote communities through reliable solutions. However, affordability remains a challenge, necessitating policy changes and better financing options to further expand access and economic benefits. The post Kenya’s Off-Grid Solar Sales Reach 2.4 Million Units In 2025, Growing Over 8% Annually appeared first on SolarQ",
       "icon": "📰",
       "visualBg": "#e2f0ed",
       "visualInk": "#276b5c",
