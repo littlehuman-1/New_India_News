@@ -20,6 +20,16 @@ let sampleArticles = [
   sourceUrl: "https://solarquarter.com/",
   articleUrl: "https://solarquarter.com/2026/10/27/gujarat-offers-additional-subsidy-for-rooftop-solar-systems-up-to-2-18-kwp-under-pm-surya-ghar-scheme/",
   summary: "Gujarat has announced additional state subsidy support for eligible households installing rooftop solar systems of up to 2.18 kWp under the PM Surya Ghar scheme. Reported household contributions are limited to 5% of benchmark cost for SC/ST beneficiaries and 10% for other residential consumers, after accounting for central assistance. Eligible support is subject to the scheme's conditions.",
+  translations: {
+  hi: {
+    title: "गुजरात ने पात्र परिवारों के लिए रूफटॉप सोलर सब्सिडी बढ़ाई",
+    summary: "गुजरात ने पीएम सूर्य घर योजना के तहत 2.18 kWp तक के रूफटॉप सोलर सिस्टम लगाने वाले पात्र परिवारों के लिए अतिरिक्त राज्य सब्सिडी की घोषणा की है। केंद्रीय सहायता के बाद, SC/ST लाभार्थियों को मानक लागत का 5% और अन्य घरेलू उपभोक्ताओं को 10% तक योगदान देना होगा। सहायता योजना की शर्तों के अधीन है।"
+  },
+  ml: {
+    title: "അർഹരായ കുടുംബങ്ങൾക്കുള്ള റൂഫ്‌ടോപ്പ് സോളാർ സബ്‌സിഡി ഗുജറാത്ത് വർധിപ്പിച്ചു",
+    summary: "പിഎം സൂര്യ ഘർ പദ്ധതിയുടെ ഭാഗമായി 2.18 kWp വരെ ശേഷിയുള്ള റൂഫ്‌ടോപ്പ് സോളാർ സംവിധാനങ്ങൾ സ്ഥാപിക്കുന്ന അർഹരായ കുടുംബങ്ങൾക്ക് അധിക സംസ്ഥാന സബ്‌സിഡി ഗുജറാത്ത് പ്രഖ്യാപിച്ചു. കേന്ദ്ര സഹായം കണക്കാക്കിയ ശേഷം, SC/ST ഗുണഭോക്താക്കൾക്ക് അടിസ്ഥാന ചെലവിന്റെ 5% വരെയും മറ്റ് ഗാർഹിക ഉപഭോക്താക്കൾക്ക് 10% വരെയും മാത്രമാണ് സ്വന്തം വിഹിതം. പദ്ധതിയുടെ നിബന്ധനകൾ ബാധകമാണ്."
+  }
+},
   icon: "☀️",
   visualBg: "#f7efcf",
   visualInk: "#8d7023",
