@@ -610,3 +610,78 @@ h1, h2, h3 { font-family: "Manrope", sans-serif; }
     font-size: 11px;
   }
 }
+
+/* FINAL FIX — compact Growing India News banner */
+
+.welcome {
+  display: flex !important;
+  height: 175px !important;
+  min-height: 175px !important;
+  max-height: 175px !important;
+  overflow: hidden !important;
+  border-radius: 12px;
+  background-size: cover !important;
+  background-position: center 48% !important;
+}
+
+.welcome-copy {
+  width: 100%;
+  max-width: 620px;
+  padding: 18px 30px !important;
+}
+
+.welcome .eyebrow {
+  font-size: 9px;
+  margin-bottom: 5px;
+}
+
+.welcome h1 {
+  font-size: 34px !important;
+  line-height: 1.1 !important;
+  margin-bottom: 7px !important;
+}
+
+.welcome-description {
+  font-size: 11px !important;
+  line-height: 1.4 !important;
+  margin-bottom: 8px !important;
+}
+
+.welcome .button {
+  min-height: 32px;
+  padding: 7px 12px;
+  font-size: 10px;
+}
+
+.welcome-art {
+  display: none !important;
+}
+
+@media (max-width: 640px) {
+  .welcome {
+    height: 155px !important;
+    min-height: 155px !important;
+    max-height: 155px !important;
+  }
+
+  .welcome-copy {
+    padding: 15px 18px !important;
+  }
+
+  .welcome h1 {
+    font-size: 27px !important;
+  }
+
+  .welcome-description {
+    font-size: 10px !important;
+    margin-bottom: 5px !important;
+  }
+
+  .welcome .eyebrow {
+    font-size: 8px;
+  }
+
+  .welcome .button {
+    min-height: 28px;
+  }
+}
