@@ -557,3 +557,56 @@ h1, h2, h3 { font-family: "Manrope", sans-serif; }
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { scroll-behavior: auto !important; transition-duration: .01ms !important; }
 }
+
+/* Compact newspaper-style banner */
+
+.welcome {
+  min-height: 230px !important;
+  max-height: 260px;
+  border-radius: 14px;
+  background-position: center;
+}
+
+.welcome-copy {
+  padding: 25px 38px !important;
+  max-width: 650px;
+}
+
+.welcome h1 {
+  font-size: clamp(30px, 3.5vw, 43px) !important;
+  line-height: 1.12;
+  margin-bottom: 10px;
+}
+
+.welcome-description {
+  font-size: 12px;
+  line-height: 1.55;
+  margin-bottom: 14px;
+}
+
+.welcome .eyebrow {
+  margin-bottom: 8px;
+}
+
+.welcome-art {
+  display: none !important;
+}
+
+@media (max-width: 640px) {
+  .welcome {
+    min-height: 210px !important;
+    max-height: 240px;
+  }
+
+  .welcome-copy {
+    padding: 22px 18px !important;
+  }
+
+  .welcome h1 {
+    font-size: 30px !important;
+  }
+
+  .welcome-description {
+    font-size: 11px;
+  }
+}
