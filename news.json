@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-11-04T01:27:57.676007+00:00",
+  "updatedAt": "2026-11-04T03:10:27.235187+00:00",
   "articles": [
+    {
+      "title": "India&#039;s Solar Manufacturing Sector Could Generate 32 Lakh Jobs, Attract $89 Billion by 2047: ISMA",
+      "category": "Development",
+      "date": "2026-11-04",
+      "source": "ET Government - Smart Infrastructure",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/smart-infra/indias-solar-manufacturing-sector-could-generate-32-lakh-jobs-attract-89-billion-by-2047-isma/135518986",
+      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-2435223/135518986.cms",
+      "summary": "India’s solar manufacturing sector could attract $89 billion in investment, generate 32 lakh jobs and eliminate solar imports by 2041, according to ISMA’s Vision 2047 report.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "et government - smart infrastructure"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "India plans indigenous GPU chips in 24 months, says MeitY Secretary S Krishnan on AI strategy",
+      "category": "Innovation",
+      "date": "2026-11-04",
+      "source": "ET Government - Digital India",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/digital-india/india-plans-indigenous-gpu-chips-in-24-months-says-meity-secretary-s-krishnan-on-ai-strategy/135508818",
+      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-1767966/135508818.cms",
+      "summary": "MeitY Secretary S Krishnan outlines India&#039;s plans for indigenous GPU chips, Semicon 2.0, sovereign AI, data protection and new opportunities for the IT industry amid AI-driven transformation.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "et government - digital india"
+      ],
+      "isSample": false
+    },
     {
       "title": "PM Narendra Modi Inaugurates Bharat Renewable Energy Summit 2026, Highlights India’s 310 GW Non-Fossil Capacity",
       "category": "Innovation",
@@ -1854,44 +1892,6 @@
       "articleUrl": "https://solarquarter.com/2026/10/29/rajasthan-to-pilot-indias-first-250-kw-sodium-ion-battery-storage-system/",
       "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/10/solarquarter-6ae3010027c06.png?fit=1376%2C768&amp;quality=80&amp;ssl=1",
       "summary": "Jaipur Vidyut Vitran Nigam Limited and the Global Energy Alliance have signed an MoU to pilot India's first sodium-ion battery energy storage system in Rajasthan. The project aims to evaluate performance, enhance peak-demand management, and improve solar integration. Findings will inform future energy storage deployment and distribution-grid modernization in India. The post Rajasthan To Pilot India’s First 250 kW Sodium-Ion Battery Storage System appeared first on SolarQuarter .",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "SECI Invites Bids For 4 MW Solar Project On Delhi-Saharanpur National Highway",
-      "category": "Innovation",
-      "date": "2026-10-29",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/10/29/seci-invites-bids-for-4-mw-solar-project-on-delhi-saharanpur-national-highway/",
-      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2020/10/pexels-photo-356049-2.jpeg?fit=1880%2C1249&amp;quality=89&amp;ssl=1",
-      "summary": "The Solar Energy Corporation of India (SECI), on behalf of the National Highways Authority of India (NHAI), seeks bids for a 4 MW solar PV project on the Delhi-Saharanpur National Highway. The project aims to meet electricity needs and supports renewable energy within highway infrastructure, allowing surplus power sales to DISCOMs. The post SECI Invites Bids For 4 MW Solar Project On Delhi-Saharanpur National Highway appeared first on SolarQuarter .",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "ACME Solar Signs 400 MW FDRE Power Purchase Agreement With NTPC At INR 4.37 Per Unit",
-      "category": "Innovation",
-      "date": "2026-10-29",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/10/29/acme-solar-signs-400-mw-fdre-power-purchase-agreement-with-ntpc-at-inr-4-37-per-unit/",
-      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2022/10/8-2.png?fit=1200%2C675&amp;quality=80&amp;ssl=1",
-      "summary": "ACME Solar Holdings Limited's subsidiary has signed a 25-year Power Purchase Agreement with NTPC Limited for a 400 MW Firm and Dispatchable Renewable Energy project. Set to begin supplying power in June 2028, the project aims to enhance grid reliability and accommodate the growing demand for stable renewable energy in India. The post ACME Solar Signs 400 MW FDRE Power Purchase Agreement With NTPC At INR 4.37 Per Unit appeared first on SolarQuarter .",
       "icon": "📰",
       "visualBg": "#e2f0ed",
       "visualInk": "#276b5c",
