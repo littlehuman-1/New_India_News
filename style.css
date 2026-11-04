@@ -558,130 +558,81 @@ h1, h2, h3 { font-family: "Manrope", sans-serif; }
   *, *::before, *::after { scroll-behavior: auto !important; transition-duration: .01ms !important; }
 }
 
-/* Compact newspaper-style banner */
 
-.welcome {
-  min-height: 230px !important;
-  max-height: 260px;
-  border-radius: 14px;
-  background-position: center;
+/* Growing India News — compact responsive banner */
+
+.welcome-wrap {
+  padding-top: 16px;
 }
 
-.welcome-copy {
-  padding: 25px 38px !important;
-  max-width: 650px;
+.welcome-wrap .welcome {
+  display: grid;
+  grid-template-columns: 1fr;
+  width: min(1160px, calc(100% - 48px));
+  height: auto !important;
+  min-height: 0 !important;
+  max-height: none !important;
+  padding: 0;
+  overflow: hidden;
+  border-radius: 16px;
 }
 
-.welcome h1 {
-  font-size: clamp(30px, 3.5vw, 43px) !important;
-  line-height: 1.12;
-  margin-bottom: 10px;
-}
-
-.welcome-description {
-  font-size: 12px;
-  line-height: 1.55;
-  margin-bottom: 14px;
-}
-
-.welcome .eyebrow {
-  margin-bottom: 8px;
-}
-
-.welcome-art {
-  display: none !important;
-}
-
-@media (max-width: 640px) {
-  .welcome {
-    min-height: 210px !important;
-    max-height: 240px;
-  }
-
-  .welcome-copy {
-    padding: 22px 18px !important;
-  }
-
-  .welcome h1 {
-    font-size: 30px !important;
-  }
-
-  .welcome-description {
-    font-size: 11px;
-  }
-}
-
-/* FINAL FIX — compact Growing India News banner */
-
-.welcome {
-  display: flex !important;
-  height: 175px !important;
-  min-height: 175px !important;
-  max-height: 175px !important;
-  overflow: hidden !important;
-  border-radius: 12px;
-  background-size: cover !important;
-  background-position: center 48% !important;
-}
-
-.welcome-copy {
+.welcome-wrap .welcome-copy {
   width: 100%;
-  max-width: 620px;
-  padding: 18px 30px !important;
+  max-width: 680px;
+  padding: 24px 32px !important;
 }
 
-.welcome .eyebrow {
+.welcome-wrap .welcome .eyebrow {
   font-size: 9px;
-  margin-bottom: 5px;
+  margin-bottom: 6px;
 }
 
-.welcome h1 {
-  font-size: 34px !important;
-  line-height: 1.1 !important;
-  margin-bottom: 7px !important;
-}
-
-.welcome-description {
-  font-size: 11px !important;
-  line-height: 1.4 !important;
+.welcome-wrap .welcome h1 {
+  font-size: clamp(28px, 3.2vw, 40px) !important;
+  line-height: 1.12 !important;
   margin-bottom: 8px !important;
+  letter-spacing: -1.2px;
 }
 
-.welcome .button {
-  min-height: 32px;
-  padding: 7px 12px;
-  font-size: 10px;
+.welcome-wrap .welcome-description {
+  font-size: 12px !important;
+  line-height: 1.5 !important;
+  margin-bottom: 12px !important;
 }
 
-.welcome-art {
+.welcome-wrap .welcome .button {
+  min-height: 36px;
+  padding: 8px 13px;
+  font-size: 11px;
+}
+
+.welcome-wrap .welcome-art {
   display: none !important;
 }
 
 @media (max-width: 640px) {
-  .welcome {
-    height: 155px !important;
-    min-height: 155px !important;
-    max-height: 155px !important;
+  .welcome-wrap {
+    padding-top: 12px;
   }
 
-  .welcome-copy {
-    padding: 15px 18px !important;
+  .welcome-wrap .welcome {
+    width: calc(100% - 28px);
+    border-radius: 13px;
   }
 
-  .welcome h1 {
+  .welcome-wrap .welcome-copy {
+    padding: 20px 18px !important;
+  }
+
+  .welcome-wrap .welcome h1 {
     font-size: 27px !important;
   }
 
-  .welcome-description {
-    font-size: 10px !important;
-    margin-bottom: 5px !important;
-  }
-
-  .welcome .eyebrow {
-    font-size: 8px;
-  }
-
-  .welcome .button {
-    min-height: 28px;
+  .welcome-wrap .welcome-description {
+    font-size: 11px !important;
+    line-height: 1.45 !important;
+    margin-bottom: 9px !important;
   }
 }
+
