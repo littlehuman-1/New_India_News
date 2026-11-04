@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T03:10:27.235187+00:00",
+  "updatedAt": "2026-11-04T04:17:05.371361+00:00",
   "articles": [
     {
       "title": "India&#039;s Solar Manufacturing Sector Could Generate 32 Lakh Jobs, Attract $89 Billion by 2047: ISMA",
@@ -36,6 +36,25 @@
       "tags": [
         "innovation",
         "et government - digital india"
+      ],
+      "isSample": false
+    },
+    {
+      "title": "Waaree Renewable Technologies Secures Five-Year O&M Contract For 360 MWp Solar Project",
+      "category": "Innovation",
+      "date": "2026-11-04",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/04/waaree-renewable-technologies-secures-five-year-om-contract-for-360-mwp-solar-project/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2020/10/pexels-photo-356049-2.jpeg?fit=1880%2C1249&amp;quality=89&amp;ssl=1",
+      "summary": "Waaree Renewable Technologies Limited has obtained a five-year Operation and Maintenance contract for a 360 MWp solar power project in India from a leading Independent Power Producer. This agreement will enhance the company's position in the growing solar O&#38;M market, ensuring efficient performance and reliability of solar installations amidst increasing renewable energy capacity. The post Waaree Renewable Technologies Secures Five-Year O&amp;M Contract For 360 MWp Solar Project appeared firs",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
       ],
       "isSample": false
     },
@@ -1873,25 +1892,6 @@
       "articleUrl": "https://solarquarter.com/2026/10/29/hoymiles-launches-mis-6-in-1-microinverter-in-india-one-unit-up-to-six-panels-built-for-indian-rooftops/",
       "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/10/High-Efficiency-Generation.png?fit=1254%2C1254&amp;quality=80&amp;ssl=1",
       "summary": "Hoymiles has launched the MIS-3680-W microinverter in India, offering flexible layouts and efficient power generation for diverse rooftops. It features high-efficiency generation, dynamic power adjustment, and is built for rugged conditions. Backed by a 12-year warranty and local support, it promises fast installation and advanced monitoring capabilities. The post Hoymiles Launches MiS 6-in-1 Microinverter in India: One Unit, Up to Six Panels, Built for Indian Rooftops appeared first on SolarQua",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false
-    },
-    {
-      "title": "Rajasthan To Pilot India’s First 250 kW Sodium-Ion Battery Storage System",
-      "category": "Innovation",
-      "date": "2026-10-29",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/10/29/rajasthan-to-pilot-indias-first-250-kw-sodium-ion-battery-storage-system/",
-      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/10/solarquarter-6ae3010027c06.png?fit=1376%2C768&amp;quality=80&amp;ssl=1",
-      "summary": "Jaipur Vidyut Vitran Nigam Limited and the Global Energy Alliance have signed an MoU to pilot India's first sodium-ion battery energy storage system in Rajasthan. The project aims to evaluate performance, enhance peak-demand management, and improve solar integration. Findings will inform future energy storage deployment and distribution-grid modernization in India. The post Rajasthan To Pilot India’s First 250 kW Sodium-Ion Battery Storage System appeared first on SolarQuarter .",
       "icon": "📰",
       "visualBg": "#e2f0ed",
       "visualInk": "#276b5c",
