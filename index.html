@@ -3,33 +3,40 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Growing India News — constructive stories on India's progress, people, innovation and possibilities.">
-  <meta name="theme-color" content="#123b2d">
-  <title>Growing India News — Progress, People, Possibilities</title>
+  <meta name="description" content="Growing India News — constructive stories on India's development, people, innovation and possibilities.">
+  <meta name="theme-color" content="#071f43">
+  <title>Growing India News — Development, Innovation, Progress</title>
   <link rel="stylesheet" href="style.css">
+  <style>
+    /* Compact editorial masthead. These rules intentionally override the old welcome artwork. */
+    .welcome-wrap { padding-top: 1.25rem; }
+    .development-masthead { width: 100%; margin: 0 auto; overflow: hidden; border-radius: 18px; background: #071f43; box-shadow: 0 12px 32px rgba(7,31,67,.14); }
+    .development-masthead img { display: block; width: 100%; height: auto; aspect-ratio: 2067 / 761; object-fit: cover; }
+    @media (max-width: 640px) {
+      .welcome-wrap { padding-top: .75rem; }
+      .development-masthead { border-radius: 10px; }
+    }
+  </style>
   <script src="script.js" defer></script>
 </head>
 <body>
   <a class="skip-link" href="#main">Skip to content</a>
   <header class="site-header">
     <div class="tricolour-stripe" aria-hidden="true">
-  <span class="saffron"></span>
-  <span class="white"></span>
-  <span class="green"></span>
-  </div>
+      <span class="saffron"></span>
+      <span class="white"></span>
+      <span class="green"></span>
+    </div>
     <div class="header-inner">
-      <a class="brand" href="#" aria-label="Growing India News home">
+      <a class="brand" href="#top" aria-label="Growing India News home">
         <span class="brand-mark" aria-hidden="true">✳</span>
         <span class="brand-copy">
-         <strong>Growing India News</strong>
+          <strong>Growing India News</strong>
           <small>Progress · People · Possibilities</small>
         </span>
-         </a>
-
+      </a>
       <div class="language-control">
-        <label for="language-select" class="sr-only">
-          Choose language
-        </label>
+        <label for="language-select" class="sr-only">Choose language</label>
         <select id="language-select" aria-label="Choose language">
           <option value="en">English</option>
           <option value="hi">हिन्दी</option>
@@ -39,13 +46,10 @@
           <option value="te">తెలుగు</option>
         </select>
       </div>
-
-      <button class="menu-toggle" id="menu-toggle" type="button"
-        aria-expanded="false" aria-controls="primary-nav">
+      <button class="menu-toggle" id="menu-toggle" type="button" aria-expanded="false" aria-controls="primary-nav">
         <span class="menu-icon" aria-hidden="true">☰</span>
         <span class="sr-only">Toggle navigation</span>
       </button>
-
       <nav class="primary-nav" id="primary-nav" aria-label="Main navigation">
         <a class="nav-link active" href="#top-stories">Top stories</a>
         <a class="nav-link" href="#development">Development</a>
@@ -58,29 +62,8 @@
 
   <main id="main">
     <section class="welcome-wrap" id="top">
-      <div class="welcome">
-        <div class="welcome-copy">
-          <p class="eyebrow"><span class="live-dot"></span> A constructive view of what's moving forward</p>
-          <h1>Good things are<br><em>moving forward.</em></h1>
-          <p class="welcome-description">
-            A curated space for stories about India's development, science,
-            innovation, business and financial markets — with links to the original sources.
-          </p>
-          <a class="button button-light" href="#top-stories">Explore the stories <span aria-hidden="true">↘</span></a>
-        </div>
-        <div class="welcome-art" aria-hidden="true">
-          <div class="art-sun"></div>
-          <div class="art-orbit orbit-one"></div>
-          <div class="art-orbit orbit-two"></div>
-          <div class="art-hill hill-back"></div>
-          <div class="art-hill hill-front"></div>
-          <div class="art-stem stem-one"></div>
-          <div class="art-stem stem-two"></div>
-          <div class="art-leaf leaf-one"></div>
-          <div class="art-leaf leaf-two"></div>
-          <div class="art-leaf leaf-three"></div>
-          <div class="art-caption">Progress, in focus.</div>
-        </div>
+      <div class="development-masthead">
+        <img src="banner.png" alt="Growing India News: a collage showing India's infrastructure, railways, space and aerospace, clean energy, defence, technology, economy, tourism and healthcare." fetchpriority="high">
       </div>
       <div class="principles" aria-label="Editorial principles">
         <span><span aria-hidden="true">✓</span> Constructive developments</span>
@@ -98,13 +81,8 @@
         </div>
         <span class="demo-label"><span aria-hidden="true">●</span> Daily closing data · Not live</span>
       </div>
-      <div class="market-grid" id="market-grid" aria-label="Demonstration market indicators">
-        <!-- Filled by script.js. All values are clearly marked as demo data. -->
-      </div>
-      <p class="market-disclaimer">
-        These figures are fictional placeholders for design testing. They are not current market prices,
-        investment advice or a representation of actual index performance.
-      </p>
+      <div class="market-grid" id="market-grid" aria-label="Demonstration market indicators"></div>
+      <p class="market-disclaimer">These figures are fictional placeholders for design testing. They are not current market prices, investment advice or a representation of actual index performance.</p>
     </section>
 
     <section class="page-section stories-section" id="top-stories">
@@ -116,7 +94,6 @@
         </div>
         <span class="story-count" id="story-count" aria-live="polite">Loading stories…</span>
       </div>
-
       <div class="toolbar">
         <label class="search-box">
           <span class="search-symbol" aria-hidden="true">⌕</span>
@@ -133,31 +110,21 @@
           </select>
         </label>
       </div>
-
       <div class="category-list" id="category-filters" aria-label="Filter stories by category">
         <button class="category-chip selected" type="button" data-category="All" aria-pressed="true">All stories</button>
         <button class="category-chip" type="button" data-category="Development" aria-pressed="false">Development</button>
-        <button class="category-chip" type="button" data-category="Innovation" aria-pressed="false">Science & innovation</button>
+        <button class="category-chip" type="button" data-category="Innovation" aria-pressed="false">Science &amp; innovation</button>
         <button class="category-chip" type="button" data-category="Business" aria-pressed="false">Business</button>
         <button class="category-chip" type="button" data-category="Markets" aria-pressed="false">Markets</button>
       </div>
-
-      <div class="story-grid" id="story-grid" aria-live="polite">
-        <!-- Story cards are rendered by script.js from the sample data below. -->
-      </div>
-
+      <div class="story-grid" id="story-grid" aria-live="polite"></div>
       <div class="empty-state" id="empty-state" hidden>
         <div class="empty-icon" aria-hidden="true">⌕</div>
         <h3>No stories match that search</h3>
         <p>Try a different keyword or choose another category.</p>
         <button class="button button-dark" id="reset-filters" type="button">Reset filters</button>
       </div>
-
-      <p class="editorial-note">
-        <strong>Editorial note:</strong> This prototype prioritises constructive development stories.
-        Before publishing real stories, verify the facts, date and source, and check the publisher's
-        reuse terms. A positive framing should never change the facts.
-      </p>
+      <p class="editorial-note"><strong>Editorial note:</strong> This prototype prioritises constructive development stories. Before publishing real stories, verify the facts, date and source, and check the publisher's reuse terms. A positive framing should never change the facts.</p>
     </section>
 
     <section class="about-section" id="about">
@@ -166,11 +133,7 @@
         <div>
           <p class="eyebrow">OUR PURPOSE</p>
           <h2>Progress deserves a closer look.</h2>
-          <p>
-            Growing India News is a learning project exploring how a focused news experience can make
-            development, research, enterprise and market information easier to discover. Each real
-            story should identify its publisher and link readers to the original source.
-          </p>
+          <p>Growing India News is a learning project exploring how a focused news experience can make development, research, enterprise and market information easier to discover. Each real story should identify its publisher and link readers to the original source.</p>
         </div>
       </div>
     </section>
@@ -180,10 +143,7 @@
     <div class="footer-inner">
       <a class="brand footer-brand" href="#top">
         <span class="brand-mark" aria-hidden="true">✳</span>
-        <span class="brand-copy">
-          <strong>Growing India News</strong>
-          <small>Progress · People · Possibilities</small>
-        </span>
+        <span class="brand-copy"><strong>Growing India News</strong><small>Progress · People · Possibilities</small></span>
       </a>
       <p>Independent learning project · Built with HTML, CSS and JavaScript</p>
       <a class="back-top" href="#top">Back to top ↑</a>
