@@ -1,5 +1,6 @@
 {
-  "updatedAt": "2026-11-04T09:17:21.911151+00:00",
+  "updatedAt": "2026-11-04T12:08:09.382488+00:00",
+  "featuredArticleUrl": null,
   "articles": [
     {
       "title": "India&#039;s Solar Manufacturing Sector Could Generate 32 Lakh Jobs, Attract $89 Billion by 2047: ISMA",
@@ -337,6 +338,146 @@
       "tags": [
         "markets",
         "et government - economy"
+      ],
+      "isSample": false,
+      "isFeatured": false
+    },
+    {
+      "title": "The world’s largest bovine",
+      "category": "Development",
+      "date": "2026-11-04",
+      "source": "Mongabay India",
+      "sourceShort": "MON",
+      "sourceUrl": "https://india.mongabay.com/",
+      "articleUrl": "https://india.mongabay.com/short-article/2026/11/the-worlds-largest-bovine/",
+      "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/11/04150443/gaur-768x512.jpg",
+      "summary": "Species File: Exploring India&#8217;s biodiversity, one species at a time. Decades after disappearing from Bandhavgarh Tiger Reserve in Madhya Pradesh, the gaur or Indian bison made a comeback following conservation efforts, according to media reports. In 2011-12, a herd of 40 gaur were reintroduced from Kanha Tiger Reserve, and today, Bandhavgarh&#8217;s gaur population stands at [&#8230;]",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "mongabay india"
+      ],
+      "isSample": false,
+      "isFeatured": false
+    },
+    {
+      "title": "Union Cabinet Approves INR 14,500 Crore VGF Scheme To Develop 92 GWh Grid-Scale Energy Storage Capacity",
+      "category": "Innovation",
+      "date": "2026-11-04",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/04/union-cabinet-approves-inr-14500-crore-vgf-scheme-to-develop-92-gwh-grid-scale-energy-storage-capacity/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2020/04/1.png?fit=1200%2C675&amp;quality=80&amp;ssl=1",
+      "summary": "The Union Cabinet, led by Prime Minister Modi, has approved a Rs.14,500 crore Viability Gap Funding Scheme to develop 92 GWh of grid-scale energy storage in India over five years. This initiative aims to enhance electricity infrastructure, support renewable energy, and encourage local manufacturing, contributing to India's energy security and clean energy goals. The post Union Cabinet Approves INR 14,500 Crore VGF Scheme To Develop 92 GWh Grid-Scale Energy Storage Capacity appeared first on Sola",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false
+    },
+    {
+      "title": "Green Energy Stocks Surge As Renewable And Power Sector Shares Rally Across Indian Markets (04 November 2026)",
+      "category": "Innovation",
+      "date": "2026-11-04",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/04/green-energy-stocks-surge-as-renewable-and-power-sector-shares-rally-across-indian-markets-04-november-2026/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/indian-green-energy-stocks-rally-with-renewable-power-6aeb1a333e71c.png?fit=1376%2C768&amp;quality=80&amp;ssl=1",
+      "summary": "On November 4, 2026, Indian equity markets closed positively, driven by gains in green energy and power stocks. The S&#38;P BSE SENSEX rose 0.5%, led by strong performances from Insolation Energy and Inox Wind. Increased investor interest in renewable energy, battery storage, and utilities highlights significant growth opportunities in India's energy sector. The post Green Energy Stocks Surge As Renewable And Power Sector Shares Rally Across Indian Markets (04 November 2026) appeared first on So",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false
+    },
+    {
+      "title": "IOI Partners With TNB To Develop 500 MW Solar Project With 1,000 MWh Battery Storage In Malaysia",
+      "category": "Innovation",
+      "date": "2026-11-04",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/04/ioi-partners-with-tnb-to-develop-500-mw-solar-project-with-1000-mwh-battery-storage-in-malaysia/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2020/04/11.png?fit=1200%2C675&amp;quality=80&amp;ssl=1",
+      "summary": "IOI Corporation Berhad has partnered with Tenaga Nasional Berhad and SMEs to develop a 500 MWac solar project with a 250 MW/1,000 MWh battery storage in Malaysia. This marks IOI's entry into large-scale renewable energy. The project aims to meet rising electricity demands, aligning with IOI's strategic focus on renewable energy. The post IOI Partners With TNB To Develop 500 MW Solar Project With 1,000 MWh Battery Storage In Malaysia appeared first on SolarQuarter .",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false
+    },
+    {
+      "title": "Vietnam Approves $355 Million 452 MW Floating Solar Project In Dak Lak Province",
+      "category": "Innovation",
+      "date": "2026-11-04",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/04/vietnam-approves-355-million-452-mw-floating-solar-project-in-dak-lak-province/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2022/10/14-1.png?fit=1200%2C675&amp;quality=80&amp;ssl=1",
+      "summary": "Dak Lak Province in Vietnam has approved a VND9.149 trillion floating solar power project, aiming for a capacity of 452 MW on the Ea Sup Thuong Reservoir. Covering 526 hectares, it includes advanced solar panels and a dedicated transmission line. The project, developed by a consortium, will enhance renewable energy and support Vietnam's clean energy goals, with completion expected by late 2028. The post Vietnam Approves $355 Million 452 MW Floating Solar Project In Dak Lak Province appeared firs",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false
+    },
+    {
+      "title": "Zimbabwe To Develop 278 MW Hybrid Renewable Energy Project With Wind, Solar And Battery Storage",
+      "category": "Innovation",
+      "date": "2026-11-04",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/04/zimbabwe-to-develop-278-mw-hybrid-renewable-energy-project-with-wind-solar-and-battery-storage/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2020/04/7.png?fit=1200%2C675&amp;quality=80&amp;ssl=1",
+      "summary": "Modaso Energy and Tatanga Energy are collaborating on the Guruve-Mazowe Hybrid Renewable Energy Project in Zimbabwe, featuring 128 MW wind, 100 MW solar, and a 50 MW battery storage system. This first utility-scale renewable project in Zimbabwe aims to generate 550 GWh annually, create 1,000 jobs, and reduce carbon emissions significantly. The post Zimbabwe To Develop 278 MW Hybrid Renewable Energy Project With Wind, Solar And Battery Storage appeared first on SolarQuarter .",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false
+    },
+    {
+      "title": "Assam Cabinet approves 6,000-bigha Defence Park in Nagaon",
+      "category": "Innovation",
+      "date": "2026-11-04",
+      "source": "ET Government - Defence",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/defence/assam-cabinet-approves-6000-bigha-defence-park-in-nagaon/135533593",
+      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-1438897/135533593.cms",
+      "summary": "The Assam Cabinet on Tuesday approved the allocation of 6,000 bighas of land near Nellie in Nagaon district for the establishment of a Defence Park aimed at promoting defence equipment manufacturing in the state.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "et government - defence"
       ],
       "isSample": false,
       "isFeatured": false
@@ -1322,46 +1463,6 @@
       "isFeatured": false
     },
     {
-      "title": "Uttarakhand&#039;s 72 MW Tyuni-Plasu hydropower project gets final forest clearance",
-      "category": "Development",
-      "date": "2026-10-31",
-      "source": "ET Government - Policy",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/uttarakhands-72-mw-tyuni-plasu-hydropower-project-gets-final-forest-clearance/135374543",
-      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-146140/135374543.cms",
-      "summary": "The project, being developed by state-owned UJVN Limited, is proposed on the Tons river in Tyuni tehsil of Dehradun district. It is estimated to generate around 298.5 million units (29.85 crore units) of electricity annually.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "et government - policy"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "Assam CM highlights focus on training young athletes, expanding sporting opportunities",
-      "category": "Development",
-      "date": "2026-10-31",
-      "source": "ET Government - Policy",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/assam-cm-highlights-focus-on-training-young-athletes-expanding-sporting-opportunities/135374460",
-      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-70428/135374460.cms",
-      "summary": "Equally important is its potential to connect talented athletes identified through the competitions with advanced training and higher-level sporting opportunities, Assam Chief Minister Himanta Biswa Sarma said.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "et government - policy"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
       "title": "Centre sets six-month banking reform agenda to strengthen India&#039;s financial architecture by 2047",
       "category": "Innovation",
       "date": "2026-10-31",
@@ -1662,6 +1763,46 @@
       "isFeatured": false
     },
     {
+      "title": "Uttarakhand&#039;s 72 MW Tyuni-Plasu hydropower project gets final forest clearance",
+      "category": "Development",
+      "date": "2026-10-30",
+      "source": "ET Government - Policy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/uttarakhands-72-mw-tyuni-plasu-hydropower-project-gets-final-forest-clearance/135374543",
+      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-146140/135374543.cms",
+      "summary": "The project, being developed by state-owned UJVN Limited, is proposed on the Tons river in Tyuni tehsil of Dehradun district. It is estimated to generate around 298.5 million units (29.85 crore units) of electricity annually.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "et government - policy"
+      ],
+      "isSample": false,
+      "isFeatured": false
+    },
+    {
+      "title": "Assam CM highlights focus on training young athletes, expanding sporting opportunities",
+      "category": "Development",
+      "date": "2026-10-30",
+      "source": "ET Government - Policy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/assam-cm-highlights-focus-on-training-young-athletes-expanding-sporting-opportunities/135374460",
+      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-70428/135374460.cms",
+      "summary": "Equally important is its potential to connect talented athletes identified through the competitions with advanced training and higher-level sporting opportunities, Assam Chief Minister Himanta Biswa Sarma said.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "et government - policy"
+      ],
+      "isSample": false,
+      "isFeatured": false
+    },
+    {
       "title": "Crux Arranges Construction-to-Term Financing For 40 MWh Battery Storage Project At UC San Diego",
       "category": "Innovation",
       "date": "2026-10-30",
@@ -1860,147 +2001,6 @@
       ],
       "isSample": false,
       "isFeatured": false
-    },
-    {
-      "title": "Scientists explore whether Himalayan disasters can be anticipated",
-      "category": "Development",
-      "date": "2026-10-30",
-      "source": "Mongabay India",
-      "sourceShort": "MON",
-      "sourceUrl": "https://india.mongabay.com/",
-      "articleUrl": "https://india.mongabay.com/2026/10/scientists-explore-whether-himalayan-disasters-can-be-anticipated/",
-      "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/10/30122931/AP26249582364362-768x512.jpg",
-      "summary": "On October 11, 2026, a flash flood tore through Nepal’s Budhi Gandaki river basin in Gorkha district, hurling sediment and debris downstream, destroying homes and roads, and leaving many others homeless. The disaster struck less than seven weeks after a catastrophic collapse of rock and glacier ice on Langtang Lirung on August 26, which unleashed [&#8230;]",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "mongabay india"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "WUC Invites EOI for Floating Solar Projects Across Reservoirs And Dams In Botswana",
-      "category": "Innovation",
-      "date": "2026-10-30",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/10/30/wuc-invites-eoi-for-floating-solar-projects-across-reservoirs-and-dams-in-botswana/",
-      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2022/10/8-1.png?fit=1200%2C675&amp;quality=80&amp;ssl=1",
-      "summary": "The Water Utilities Corporation plans to develop floating solar photovoltaic systems at water reservoirs and dams to enhance renewable energy use and sustainable water management. They are seeking qualified companies for project implementation. This initiative aims to generate clean energy while reducing water evaporation and optimizing existing infrastructure, thereby promoting sustainable development. The post WUC Invites EOI for Floating Solar Projects Across Reservoirs And Dams In Botswana a",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "Cyberattack Forces 103 MW Huatacondo Solar Farm And Battery Storage Offline In Chile",
-      "category": "Innovation",
-      "date": "2026-10-30",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/10/30/cyberattack-forces-103-mw-huatacondo-solar-farm-and-battery-storage-offline-in-chile/",
-      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2020/11/pexels-photo-356036-3.jpeg?fit=1880%2C1236&amp;quality=89&amp;ssl=1",
-      "summary": "A cyberattack on the Huatacondo solar farm in Chile's Atacama Desert has resulted in a total shutdown of its power generation and battery storage systems, disrupting operations for nearly two months. The incident underscores the growing cybersecurity threats to renewable energy infrastructures and highlights the need for enhanced security measures across the sector. The post Cyberattack Forces 103 MW Huatacondo Solar Farm And Battery Storage Offline In Chile appeared first on SolarQuarter .",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "Rajasthan pays ₹345 crore in pending crop insurance claims to farmers",
-      "category": "Development",
-      "date": "2026-10-30",
-      "source": "ET Government - Policy",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/rajasthan-pays-345-crore-in-pending-crop-insurance-claims-to-farmers/135352302",
-      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-9373858/135352302.cms",
-      "summary": "Agriculture Minister Kirori Lal Meena said the state government was working to ensure timely financial assistance to farmers facing crop losses due to natural disasters, drought and adverse weather conditions.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "et government - policy"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "Green Energy Stocks Decline Despite Sensex Gaining 0.4% On October 30",
-      "category": "Innovation",
-      "date": "2026-10-30",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/10/30/green-energy-stocks-decline-despite-sensex-gaining-0-4-on-october-30/",
-      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/10/solarquarter-6ae47d78d4d48.png?fit=1376%2C768&amp;quality=80&amp;ssl=1",
-      "summary": "On October 30, 2026, the Indian stock market showed mixed results, with the S&#38;P BSE Sensex increasing by 0.4 percent. While GAIL and EKI Energy Services performed well, renewable energy stocks suffered declines, notably Sterling and Wilson, which fell 6.2 percent. Investor sentiment appeared cautious amid selective buying and selling pressures. The post Green Energy Stocks Decline Despite Sensex Gaining 0.4% On October 30 appeared first on SolarQuarter .",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "VinEnergo Seeks Environmental Clearance For Two Floating Solar Projects Worth $418 Million In Vietnam",
-      "category": "Innovation",
-      "date": "2026-10-30",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/10/30/vinenergo-seeks-environmental-clearance-for-two-floating-solar-projects-worth-418-million-in-vietnam/",
-      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2022/10/7-1.png?fit=1200%2C675&amp;quality=80&amp;ssl=1",
-      "summary": "VinEnergo, a subsidiary of Vingroup, seeks environmental clearance for two floating solar power projects in Lai Chau, Vietnam, with a combined investment of over ₹3,500 crore. Utilizing floating solar technology, these projects aim to enhance renewable energy generation, meet growing electricity demands, and support Vietnam's sustainable energy transition. Regulatory approvals are essential for further development. The post VinEnergo Seeks Environmental Clearance For Two Floating Solar Projects ",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "India aims to be globally competitive semiconductor powerhouse by 2047: MoD",
-      "category": "Innovation",
-      "date": "2026-10-30",
-      "source": "ET Government - Technology",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/technology/india-aims-to-be-globally-competitive-semiconductor-powerhouse-by-2047-mod/135373436",
-      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-46424/135373436.cms",
-      "summary": "India is working towards becoming a globally competitive semiconductor powerhouse by 2047 and focuses on next-generation technologies. The Defence Research and Development Organisation participated in the Emerging Science, Technology and Innovation Conclave 2026 themed &#039;Creative Minds, Catalysing Science, Empowering Society&#039;.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "et government - technology"
-      ],
-      "isSample": false,
-      "isFeatured": false
     }
-  ],
-  "featuredArticleUrl": null
+  ]
 }
