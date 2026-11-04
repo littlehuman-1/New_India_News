@@ -13,6 +13,9 @@
   <style>
   /* Growing India News — responsive banner */
 
+ <style>
+  /* Growing India News — preserve the complete banner image */
+
   .welcome-wrap {
     padding-top: 16px;
   }
@@ -20,7 +23,6 @@
   .development-masthead {
     width: min(1160px, calc(100% - 40px));
     height: auto;
-    aspect-ratio: 2067 / 761;
     margin: 0 auto;
     overflow: hidden;
     border-radius: 14px;
@@ -31,8 +33,8 @@
   .development-masthead img {
     display: block;
     width: 100%;
-    height: 100%;
-    object-fit: cover;
+    height: auto;
+    object-fit: contain;
     object-position: center;
   }
 
@@ -43,7 +45,6 @@
 
     .development-masthead {
       width: calc(100% - 24px);
-      aspect-ratio: 2.4 / 1;
       border-radius: 9px;
     }
   }
