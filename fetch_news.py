@@ -1,4 +1,3 @@
-
 import json
 import re
 import urllib.request
@@ -25,6 +24,32 @@ def improve_image_url(image_url, article_title=""):
 
 OUTPUT_FILE = Path("news.json")
 MAX_ARTICLES = 100
+MAX_AGE_DAYS = 30
+
+# A PIB item is eligible for the lead only when its title/summary clearly
+# concerns physical, transport, energy or public digital infrastructure.
+PIB_INFRASTRUCTURE_KEYWORDS = [
+    "infrastructure", "railway", "railways", "rail line", "vande bharat",
+    "station redevelopment", "dedicated freight", "highway", "national highway",
+    "road project", "bridge", "expressway", "metro rail", "airport",
+    "aviation infrastructure", "port", "waterway", "shipping",
+    "power transmission", "power grid", "electricity transmission",
+    "renewable energy capacity", "solar park", "wind power", "battery storage",
+    "broadband", "5g network", "telecom network", "data centre", "semiconductor",
+]
+
+
+def is_pib_source(article):
+    source = (article.get("source") or "").lower()
+    url = (article.get("articleUrl") or "").lower()
+    return "press information bureau" in source or "pib.gov.in" in url
+
+
+def is_pib_infrastructure(article):
+    if not is_pib_source(article):
+        return False
+    text = f"{article.get('title', '')} {article.get('summary', '')}".lower()
+    return any(keyword in text for keyword in PIB_INFRASTRUCTURE_KEYWORDS)
 
 
 FEEDS = [
@@ -190,12 +215,19 @@ def image_url_of(item, article_url):
 
 def parse_date(value):
     if not value:
-        return datetime.now(timezone.utc).date().isoformat()
+        return ""
 
     try:
-        return parsedate_to_datetime(value).date().isoformat()
+        parsed = parsedate_to_datetime(value)
     except (TypeError, ValueError, OverflowError):
-        return datetime.now(timezone.utc).date().isoformat()
+        try:
+            parsed = datetime.fromisoformat(value.replace("Z", "+00:00"))
+        except (TypeError, ValueError, OverflowError):
+            return ""
+
+    if parsed.tzinfo is None:
+        parsed = parsed.replace(tzinfo=timezone.utc)
+    return parsed.astimezone(timezone.utc).date().isoformat()
 
 
 def fetch_feed(feed):
@@ -282,6 +314,7 @@ def fetch_feed(feed):
             "visualInk": "#276b5c",
             "tags": [category.lower(), feed["name"].lower()],
             "isSample": False,
+            "isFeatured": False,
         })
 
     return articles
@@ -329,16 +362,55 @@ def main():
             "No articles available. Existing news.json was not changed."
         )
 
+    # Keep the public feed current and avoid carrying stale headlines forward.
+    today = datetime.now(timezone.utc).date()
+    fresh_by_url = {}
+    for url, article in by_url.items():
+        article_date = article.get("date", "")
+        try:
+            age_days = (today - datetime.fromisoformat(article_date).date()).days
+        except (TypeError, ValueError):
+            continue
+        if 0 <= age_days <= MAX_AGE_DAYS:
+            fresh_by_url[url] = article
+    by_url = fresh_by_url
+
+    # Reset old flags so a previously featured PIB release cannot remain pinned.
+    for article in by_url.values():
+        article["isFeatured"] = False
+
+    # Choose the newest dated PIB infrastructure release only. If none qualifies,
+    # featuredArticleUrl stays empty and the website displays no false PIB lead.
+    pib_candidates = [
+        article for article in by_url.values()
+        if is_pib_infrastructure(article) and article.get("date")
+    ]
+    pib_candidates.sort(
+        key=lambda article: article.get("date", ""),
+        reverse=True,
+    )
+    featured_article = pib_candidates[0] if pib_candidates else None
+    if featured_article:
+        featured_article["isFeatured"] = True
+
     articles = sorted(
         by_url.values(),
         key=lambda article: article.get("date", ""),
         reverse=True,
     )[:MAX_ARTICLES]
 
+    # Keep the selected lead inside the output even if it falls outside the cap.
+    if featured_article and all(
+        item.get("articleUrl") != featured_article.get("articleUrl") for item in articles
+    ):
+        articles[-1] = featured_article
+        articles.sort(key=lambda article: article.get("date", ""), reverse=True)
+
     OUTPUT_FILE.write_text(
         json.dumps(
             {
                 "updatedAt": datetime.now(timezone.utc).isoformat(),
+                "featuredArticleUrl": featured_article.get("articleUrl") if featured_article else None,
                 "articles": articles,
             },
             ensure_ascii=False,
@@ -348,6 +420,10 @@ def main():
     )
 
     print(f"Saved {len(articles)} articles to {OUTPUT_FILE}")
+    if featured_article:
+        print(f"PIB infrastructure lead selected: {featured_article['title']} ({featured_article['date']})")
+    else:
+        print("No qualifying PIB infrastructure release found. No substitute lead was selected.")
 
 
 if __name__ == "__main__":
