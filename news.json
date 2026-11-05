@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T10:26:52.359072+00:00",
+  "updatedAt": "2026-11-05T12:13:44.578395+00:00",
   "featuredArticleUrl": null,
   "articles": [
     {
@@ -63,6 +63,26 @@
       "isFeatured": false
     },
     {
+      "title": "Bengal CM pledges power subsidy to four lakh farmers, special package for cultivators in 3 districts",
+      "category": "Development",
+      "date": "2026-11-05",
+      "source": "ET Government - Policy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/bengal-cm-pledges-power-subsidy-to-four-lakh-farmers-special-package-for-cultivators-in-3-districts/135567411",
+      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-22782/135567411.cms",
+      "summary": "Chief Minister Suvendu Adhikari announced new welfare measures for farmers in West Bengal. He stated that 46 lakh farmers would benefit from the PM Kisan Samman Nidhi scheme.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "et government - policy"
+      ],
+      "isSample": false,
+      "isFeatured": false
+    },
+    {
       "title": "New study examines effect of artificial light at night in protected areas",
       "category": "Development",
       "date": "2026-11-05",
@@ -72,6 +92,26 @@
       "articleUrl": "https://india.mongabay.com/short-article/2026/11/new-study-examines-effect-of-artificial-light-at-night-in-protected-areas/",
       "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/11/05105840/pexels-mayur-patel-8632-56743-768x512.jpg",
       "summary": "In protected areas, artificial light at night can affect wildlife in several ways, potentially changing where animals live and move, how they navigate, their reproductive behaviour and interactions between predators and prey. A new study examines how artificial light at night (ALAN), including the diffuse glow produced when artificial light scatters in the atmosphere, affects […]",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "mongabay india"
+      ],
+      "isSample": false,
+      "isFeatured": false
+    },
+    {
+      "title": "Mammals of India [Interview]",
+      "category": "Development",
+      "date": "2026-11-05",
+      "source": "Mongabay India",
+      "sourceShort": "MON",
+      "sourceUrl": "https://india.mongabay.com/",
+      "articleUrl": "https://india.mongabay.com/video/2026/11/mammals-of-india-interview/",
+      "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/11/05164924/vertical-f-768x512.jpg",
+      "summary": "The Bombay Natural History Society (BNHS) recently published, in collaboration with Harper Collins Publishers India, a book titled Mammals of India. The book is authored by two well-respected wildlife researchers — A.J.T. Johnsingh and P.O. Nameer. Johnsingh died in 2024, before he could see the book through to its publication. Mongabay-India spoke with Nameer, Dean […]",
       "icon": "📰",
       "visualBg": "#e2f0ed",
       "visualInk": "#276b5c",
@@ -192,6 +232,86 @@
       "articleUrl": "https://solarquarter.com/2026/11/05/aboitizpower-acquires-60-stake-in-191-mw-solar-and-battery-storage-project-in-the-philippines/",
       "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2022/10/27-1.png?fit=1200%2C675&quality=80&ssl=1",
       "summary": "Representational image. Credit: Canva \" data-large-file=\"https://i0.wp.com/solarquarter.com/wp-content/uploads/2022/10/27-1.png?fit=696%2C392&quality=80&ssl=1\" /> Aboitiz Power Corp. is strengthening its renewable energy presence in the Philippines through a planned investment in a 191-megawatt (MW) integrated solar power project with battery energy storage facilities in […] The post AboitizPower Acquires 60% Stake in 191 MW Solar and Battery Storage Project In the Philippines appeared first on ",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false
+    },
+    {
+      "title": "Pentagreen Capital and Candi Solar Announce US$50 Million Financing Partnership for 400 MWp Solar and Battery Storage Projects in India",
+      "category": "Innovation",
+      "date": "2026-11-05",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/05/pentagreen-capital-and-candi-solar-announce-us50-million-financing-partnership-for-400-mwp-solar-and-battery-storage-projects-in-india/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/Watering-Hope-at-a-Reforestation-Site.png?fit=1672%2C941&quality=80&ssl=1",
+      "summary": "From left to right: Michelle Head, Candi Solar, Daryl Aw Yeong, Pentagreen Capital \" data-large-file=\"https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/Watering-Hope-at-a-Reforestation-Site.png?fit=696%2C392&quality=80&ssl=1\" /> Pentagreen Capital and Candi Solar have signed a US$50 million partnership to finance around 400 MWp of solar and battery storage projects across India. The initiative will support 227 commercial and industrial customers, mostly SMEs, generating 560 GWh annua",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false
+    },
+    {
+      "title": "Return Secures €835 Million Financing To Expand Battery Storage Capacity In Germany",
+      "category": "Innovation",
+      "date": "2026-11-05",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/05/return-secures-e835-million-financing-to-expand-battery-storage-capacity-in-germany/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/finance-and-energy-storage-graphic-6aec634950ce0.png?fit=1376%2C768&quality=80&ssl=1",
+      "summary": "Three professionals stand on an elevated platform overlooking rows of white energy-storage units and solar panels. One person gestures toward the facility while another holds a tablet displaying a rising bar chart, and a third takes notes in a notebook. Workers in high-visibility vests inspect equipment in the background, while the cloudy dusk sky creates a cool, professional atmosphere. \" data-image-caption=\" Professionals review energy production data beside a large solar installation at dusk.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false
+    },
+    {
+      "title": "Abu Dhabi’s Clean Energy Generation Surges Over 1,000% To 49,300 GWh In 2025",
+      "category": "Innovation",
+      "date": "2026-11-05",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/05/abu-dhabis-clean-energy-generation-surges-over-1000-to-49300-gwh-in-2025/",
+      "imageUrl": "",
+      "summary": "Representational image. Credit: Canva \" data-large-file=\"https://i0.wp.com/solarquarter.com/wp-content/uploads/2019/09/pexels-photo-1599819.jpeg?fit=696%2C464&quality=89&ssl=1\" /> Abu Dhabi’s clean electricity generation surged more than 1,000% from 2020 to 2025, rising from 4,100 GWh to over 49,300 GWh and reaching nearly 46% of total production. Nuclear, solar and wind projects, including Barakah, Al Dhafra and Noor Abu Dhabi, are advancing the emirate’s energy transition and supporting UAE ne",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false
+    },
+    {
+      "title": "Masdar And Endesa Invest €25.2 Million In 60.16 MW Battery Storage Projects Across Spain",
+      "category": "Innovation",
+      "date": "2026-11-05",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/05/masdar-and-endesa-invest-e25-2-million-in-60-16-mw-battery-storage-projects-across-spain/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/BESS.png?fit=1376%2C768&quality=80&ssl=1",
+      "summary": "Masdar and Endesa have begun construction of three battery storage projects in Spain, investing €25.2 million to add 60.16 MW and 120.34 MWh at solar sites in Extremadura and Andalusia. Using LFP batteries and grid-forming inverters, the facilities will improve renewable integration and grid stability, create jobs, and become operational by 2027. The post Masdar And Endesa Invest €25.2 Million In 60.16 MW Battery Storage Projects Across Spain appeared first on SolarQuarter .",
       "icon": "📰",
       "visualBg": "#e2f0ed",
       "visualInk": "#276b5c",
@@ -1878,126 +1998,6 @@
       "tags": [
         "innovation",
         "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "Avaada Electro Secures 7.117 GW ALMM Enlistment For ToPCon Solar Cell Manufacturing",
-      "category": "Innovation",
-      "date": "2026-10-31",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/10/31/avaada-electro-secures-7-117-gw-almm-enlistment-for-topcon-solar-cell-manufacturing/",
-      "imageUrl": "",
-      "summary": "Avaada Electro Limited has reached 7,117 MW of N-type TOPCon solar cell manufacturing capacity, as recognized by India's Ministry of New and Renewable Energy. This milestone enhances India's solar manufacturing landscape, emphasizing advanced technology, efficiency, and manufacturing competitiveness, while supporting clean energy growth and reducing reliance on imports. The post Avaada Electro Secures 7.117 GW ALMM Enlistment For ToPCon Solar Cell Manufacturing appeared first on SolarQuarter .",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "Tamil Nadu Targets 2.5 GW BESS Deployment With 100% Transmission And Wheeling Charge Waiver",
-      "category": "Innovation",
-      "date": "2026-10-31",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/10/31/tamil-nadu-targets-2-5-gw-bess-deployment-with-100-transmission-and-wheeling-charge-waiver/",
-      "imageUrl": "",
-      "summary": "Tamil Nadu has launched a Battery Energy Storage Systems (BESS) policy aiming for 2.5 GW or 10 GWh of storage over the next three years. This initiative enhances grid reliability, encourages renewable energy integration, and offers incentives like a 100% waiver on certain charges. It aims to modernize power infrastructure and foster investment in clean energy. The post Tamil Nadu Targets 2.5 GW BESS Deployment With 100% Transmission And Wheeling Charge Waiver appeared first on SolarQuarter .",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "Juniper Green Energy Reports Record Q2 FY27 Performance With 132% Income Growth And 2,844 MW Operational Capacity",
-      "category": "Innovation",
-      "date": "2026-10-31",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/10/31/juniper-green-energy-reports-record-q2-fy27-performance-with-132-income-growth-and-2844-mw-operational-capacity/",
-      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2022/10/23-3.png?fit=1200%2C675&quality=80&ssl=1",
-      "summary": "Juniper Green Energy achieved its highest quarterly performance by September 30, 2026, with a 132% year-on-year income increase to ₹371.64 crore and a significant EBITDA growth. The company improved its operational capacity by commissioning 1,036 MWp of renewable energy and aims to expand its battery energy storage to 10,000 MWh by 2028. The post Juniper Green Energy Reports Record Q2 FY27 Performance With 132% Income Growth And 2,844 MW Operational Capacity appeared first on SolarQuarter .",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "Adyant Alpha Power Signs 110 MW Wind PPA With SJVN, Taking Datta Infra Group Portfolio Beyond 600 MW",
-      "category": "Innovation",
-      "date": "2026-10-31",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/10/31/adyant-alpha-power-signs-110-mw-wind-ppa-with-sjvn-taking-datta-infra-group-portfolio-beyond-600-mw/",
-      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/10/Datta.png?fit=1228%2C690&quality=80&ssl=1",
-      "summary": "Adyant Alpha Power Private Limited, part of Datta Infra Group, has signed a 110 MW Wind Power Purchase Agreement with SJVN Limited for a project in Karnataka. This agreement boosts Datta's cumulative power purchase agreements past 600 MW, reinforcing its commitment to renewable energy and expanding its wind power initiatives in India. The post Adyant Alpha Power Signs 110 MW Wind PPA With SJVN, Taking Datta Infra Group Portfolio Beyond 600 MW appeared first on SolarQuarter .",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "Jatin Kumar Nayak Takes Charge As the Chairman And Managing Director Of IREDA",
-      "category": "Innovation",
-      "date": "2026-10-31",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/10/31/jatin-kumar-nayak-takes-charge-as-the-chairman-and-managing-director-of-ireda/",
-      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/10/CMD-IREDA.png?fit=1376%2C768&quality=80&ssl=1",
-      "summary": "Shri Jatin Kumar Nayak has been appointed as the Chairman and Managing Director of Indian Renewable Energy Development Agency Limited (IREDA) following Cabinet approval. With over 30 years of experience in finance and management across various public-sector organizations, he is poised to enhance IREDA’s role in India’s renewable energy sector. The post Jatin Kumar Nayak Takes Charge As the Chairman And Managing Director Of IREDA appeared first on SolarQuarter .",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "India aims to be globally competitive semiconductor powerhouse by 2047: MoD",
-      "category": "Innovation",
-      "date": "2026-10-30",
-      "source": "ET Government - Technology",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/technology/india-aims-to-be-globally-competitive-semiconductor-powerhouse-by-2047-mod/135373436",
-      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-46424/135373436.cms",
-      "summary": "India is working towards becoming a globally competitive semiconductor powerhouse by 2047 and focuses on next-generation technologies. The Defence Research and Development Organisation participated in the Emerging Science, Technology and Innovation Conclave 2026 themed 'Creative Minds, Catalysing Science, Empowering Society'.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "et government - technology"
       ],
       "isSample": false,
       "isFeatured": false
