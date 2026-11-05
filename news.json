@@ -1,7 +1,27 @@
 {
-  "updatedAt": "2026-11-05T09:22:24.602665+00:00",
+  "updatedAt": "2026-11-05T10:26:52.359072+00:00",
   "featuredArticleUrl": null,
   "articles": [
+    {
+      "title": "Centre issues advisory to states to boost fodder production, livestock infra under VB-G RAM G",
+      "category": "Development",
+      "date": "2026-11-05",
+      "source": "ET Government - Policy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/centre-issues-advisory-to-states-to-boost-fodder-production-livestock-infra-under-vb-g-ram-g/135566612",
+      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-428970/135566612.cms",
+      "summary": "The Centre has issued a joint advisory to enhance fodder security and livestock infrastructure in rural areas. The advisory outlines 22 permissible works under the Viksit Bharat-Guarantee for Rozgar and Ajeevika Mission Act.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "et government - policy"
+      ],
+      "isSample": false,
+      "isFeatured": false
+    },
     {
       "title": "Allocate 25% of corporate CSR funds to agriculture to improve farmer incomes: Jagjeet Kandal",
       "category": "Markets",
@@ -152,6 +172,26 @@
       "articleUrl": "https://solarquarter.com/2026/11/05/pm-surya-ghar-becomes-mass-movement-as-india-advances-solar-capacity-to-172-gw/",
       "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/MNRE.png?fit=1376%2C768&quality=80&ssl=1",
       "summary": "The Bharat Renewable Energy Summit 2026 highlighted India’s rapid clean-energy progress. PM Surya Ghar is expanding rooftop solar, reducing household bills, generating income and strengthening energy security. India’s solar capacity and manufacturing have surged, while discussions addressed green hydrogen, storage, wind, AI, financing, international cooperation and women’s participation in renewables. The post PM Surya Ghar Becomes Mass Movement As India Advances Solar Capacity To 172 GW appeare",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false
+    },
+    {
+      "title": "AboitizPower Acquires 60% Stake in 191 MW Solar and Battery Storage Project In the Philippines",
+      "category": "Innovation",
+      "date": "2026-11-05",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/05/aboitizpower-acquires-60-stake-in-191-mw-solar-and-battery-storage-project-in-the-philippines/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2022/10/27-1.png?fit=1200%2C675&quality=80&ssl=1",
+      "summary": "Representational image. Credit: Canva \" data-large-file=\"https://i0.wp.com/solarquarter.com/wp-content/uploads/2022/10/27-1.png?fit=696%2C392&quality=80&ssl=1\" /> Aboitiz Power Corp. is strengthening its renewable energy presence in the Philippines through a planned investment in a 191-megawatt (MW) integrated solar power project with battery energy storage facilities in […] The post AboitizPower Acquires 60% Stake in 191 MW Solar and Battery Storage Project In the Philippines appeared first on ",
       "icon": "📰",
       "visualBg": "#e2f0ed",
       "visualInk": "#276b5c",
@@ -351,7 +391,7 @@
       "sourceUrl": "https://government.economictimes.indiatimes.com/",
       "articleUrl": "https://government.economictimes.indiatimes.com/news/smart-infra/cabinet-clears-14500-crore-vgf-scheme-to-develop-92-gwh-grid-scale-energy-storage-capacity/135540376",
       "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-72392/135540376.cms",
-      "summary": "The Union Cabinet, led by Prime Minister Modi, has approved a Rs.14,500 crore Viability Gap Funding Scheme to develop 92 GWh of grid-scale energy storage in India over five years. This initiative aims to enhance electricity infrastructure, support renewable energy, and encourage local manufacturing, contributing to India's energy security and clean energy goals. The post Union Cabinet Approves INR 14,500 Crore VGF Scheme To Develop 92 GWh Grid-Scale Energy Storage Capacity appeared first on Sola",
+      "summary": "The scheme aims to support new energy storage capacities that are yet to be commissioned, equivalent to 170% of India's present grid-scale energy storage capacity.",
       "icon": "📰",
       "visualBg": "#e2f0ed",
       "visualInk": "#276b5c",
@@ -1958,46 +1998,6 @@
       "tags": [
         "innovation",
         "et government - technology"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "Uttarakhand's 72 MW Tyuni-Plasu hydropower project gets final forest clearance",
-      "category": "Development",
-      "date": "2026-10-30",
-      "source": "ET Government - Policy",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/uttarakhands-72-mw-tyuni-plasu-hydropower-project-gets-final-forest-clearance/135374543",
-      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-146140/135374543.cms",
-      "summary": "The project, being developed by state-owned UJVN Limited, is proposed on the Tons river in Tyuni tehsil of Dehradun district. It is estimated to generate around 298.5 million units (29.85 crore units) of electricity annually.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "et government - policy"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "Rafale marine aircraft successfully lands on INS Vikrant: Navy",
-      "category": "Innovation",
-      "date": "2026-10-30",
-      "source": "ET Government - Defence",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/defence/rafale-marine-aircraft-successfully-lands-on-ins-vikrant-navy/135374282",
-      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-30312/135374282.cms",
-      "summary": "A Rafale Marine fighter jet made its first successful landing on Indian Navy's INS Vikrant during ongoing trials. These trials aim to validate the aircraft's compatibility with the carrier's ski-jump and recovery systems.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "et government - defence"
       ],
       "isSample": false,
       "isFeatured": false
