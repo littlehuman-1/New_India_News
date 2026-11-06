@@ -1,7 +1,27 @@
 {
-  "updatedAt": "2026-11-06T01:34:27.552748+00:00",
+  "updatedAt": "2026-11-06T03:10:46.200333+00:00",
   "featuredArticleUrl": null,
   "articles": [
+    {
+      "title": "RITES eyes ₹10000 crore order book, accelerates project execution and global expansion: Rahul Mithal CMD",
+      "category": "Innovation",
+      "date": "2026-11-06",
+      "source": "ET Government - Digital India",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/digital-india/rites-eyes-10000-crore-order-book-accelerates-project-execution-and-global-expansion-rahul-mithal-cmd/135583358",
+      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-76986/135583358.cms",
+      "summary": "RITES CMD Rahul Mithal outlines plans for double-digit revenue growth, a ₹10,000 crore order book, international expansion and new opportunities in infrastructure consultancy and digital trade corridors.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "et government - digital india"
+      ],
+      "isSample": false,
+      "isFeatured": false
+    },
     {
       "title": "Centre issues advisory to states to boost fodder production, livestock infra under VB-G RAM G",
       "category": "Development",
@@ -1978,26 +1998,6 @@
       "tags": [
         "markets",
         "et government - economy"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "Air Chief Marshal Ashutosh Dixit takes charge as 29th Chief of the Air Staff",
-      "category": "Innovation",
-      "date": "2026-10-31",
-      "source": "ET Government - Defence",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/defence/air-chief-marshal-ashutosh-dixit-takes-charge-as-29th-chief-of-the-air-staff/135402423",
-      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-327514/135402423.cms",
-      "summary": "Air Chief Marshal Dixit is an accomplished graduate of the Defence Services Command and Staff College, Bangladesh, and the National Defence College, New Delhi.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "et government - defence"
       ],
       "isSample": false,
       "isFeatured": false
