@@ -558,6 +558,8 @@ def main():
         article["imageUrl"] = clean_url(article.get("imageUrl", ""))
         article["imageUrl"] = improve_image_url(
             article["imageUrl"], article.get("title", ""), url
+            if "135543289" in url:
+    print("VISTAR IMAGE CHECK:", article["imageUrl"])
         )
         if not is_india_relevant(article):
             continue
