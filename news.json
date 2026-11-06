@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T10:24:39.716154+00:00",
+  "updatedAt": "2026-11-06T11:22:41.769297+00:00",
   "featuredArticleUrl": null,
   "articles": [
     {
@@ -43,6 +43,26 @@
       "isFeatured": false
     },
     {
+      "title": "IAF hands over 39.5-acre sports complex land to Centre",
+      "category": "Innovation",
+      "date": "2026-11-06",
+      "source": "ET Government - Defence",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/defence/iaf-hands-over-39-5-acre-sports-complex-land-to-centre/135602124",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135602186.cms?mod=81821",
+      "summary": "The Indian Air Force has transferred 39.5 acres of land to the Union Housing and Urban Affairs Ministry and this comes after the Land and Development Office issued notices for land return.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "et government - defence"
+      ],
+      "isSample": false,
+      "isFeatured": false
+    },
+    {
       "title": "Rajasthan plans to develop additional 300 hectares at Jodhpur-Pali-Marwar Industrial Area",
       "category": "Development",
       "date": "2026-11-06",
@@ -52,6 +72,66 @@
       "articleUrl": "https://government.economictimes.indiatimes.com/news/smart-infra/rajasthan-plans-to-develop-additional-300-hectares-at-jodhpur-pali-marwar-industrial-area/135600642",
       "imageUrl": "https://etimg.etb2bimg.com/photo/135600765.cms?mod=782663",
       "summary": "The project is intended to support industrial investment, attract domestic and international investors and create employment opportunities in western Rajasthan.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "et government - smart infrastructure"
+      ],
+      "isSample": false,
+      "isFeatured": false
+    },
+    {
+      "title": "DGTR recommends imposition of quantitative restrictions on soda ash imports for 2 years",
+      "category": "Markets",
+      "date": "2026-11-06",
+      "source": "ET Government - Economy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/dgtr-recommends-imposition-of-quantitative-restrictions-on-soda-ash-imports-for-2-years/135603795",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135603959.cms?mod=298454",
+      "summary": "The Directorate General of Trade Remedies has signaled its intention to introduce protective measures to curb the influx of soda ash imports.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "markets",
+        "et government - economy"
+      ],
+      "isSample": false,
+      "isFeatured": false
+    },
+    {
+      "title": "Rajasthan records highest-ever monthly GST, VAT collection of ₹7,047 crore in October",
+      "category": "Markets",
+      "date": "2026-11-06",
+      "source": "ET Government - Economy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/rajasthan-records-highest-ever-monthly-gst-vat-collection-of-7047-crore-in-october/135603336",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135603416.cms?mod=105052",
+      "summary": "October revenue collection exceeds previous record of ₹6,826.60 crore set in March 2026; year-on-year growth of 11.79%.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "markets",
+        "et government - economy"
+      ],
+      "isSample": false,
+      "isFeatured": false
+    },
+    {
+      "title": "Rajasthan govt targets October 2027 completion of Kota-Bundi new greenfield airport",
+      "category": "Development",
+      "date": "2026-11-06",
+      "source": "ET Government - Smart Infrastructure",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/smart-infra/rajasthan-govt-targets-october-2027-completion-of-kota-bundi-new-greenfield-airport/135601367",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135602813.cms?mod=124144",
+      "summary": "Airport to have annual passenger capacity of 2 million, 14 check-in counters and a 20,000 sq metre terminal building.",
       "icon": "📰",
       "visualBg": "#e2f0ed",
       "visualInk": "#276b5c",
@@ -1918,86 +1998,6 @@
       "tags": [
         "innovation",
         "et government - technology"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "Gross GST collections rise 23% to over ₹2.31 lakh crore in October",
-      "category": "Markets",
-      "date": "2026-11-01",
-      "source": "ET Government - Economy",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/gross-gst-collections-rise-23-to-over-2-31-lakh-crore-in-october/135423222",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135423251.cms?mod=133248",
-      "summary": "Gross GST collections from domestic sales rose 16 per cent to over ₹1.59 lakh crore, and revenues from imports climbed 42 per cent to ₹72,246 crore.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "markets",
-        "et government - economy"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "Tamil Nadu govt to demolish and rebuild unsafe tenements in Chennai ahead of monsoon",
-      "category": "Development",
-      "date": "2026-10-31",
-      "source": "ET Government - Smart Infrastructure",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/smart-infra/tamil-nadu-govt-to-demolish-and-rebuild-unsafe-tenements-in-chennai-ahead-of-monsoon/135403486",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135404307.cms?mod=7520414",
-      "summary": "Assuring affected families of alternative accommodation, Tamil Nadu public works and sports development minister Aadhav Arjuna said, \"If residents cooperate and vacate these high-risk areas for a period of two years, the government will entirely construct and hand over brand-new, modern housing complexes for them.\"",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "et government - smart infrastructure"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "India and Türkiye must build a shared future despite differences: Ambassador Ali Murat Ersoy",
-      "category": "Development",
-      "date": "2026-10-31",
-      "source": "ET Government - Policy",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/india-and-trkiye-must-build-a-shared-future-despite-differences-ambassador-ali-murat-ersoy/135388112",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135388166.cms?mod=578832",
-      "summary": "At Türkiye’s 103rd National Day reception in New Delhi, Ambassador Ali Murat Ersoy called for renewed strategic engagement with India, highlighting growing economic capabilities, diplomatic dialogue, technological cooperation and the importance of partnership in a multipolar world.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "et government - policy"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "Centre sets six-month banking reform agenda to strengthen India's financial architecture by 2047",
-      "category": "Innovation",
-      "date": "2026-10-31",
-      "source": "ET Government - Digital India",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/digital-india/centre-sets-six-month-banking-reform-agenda-to-strengthen-indias-financial-architecture-by-2047/135383678",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135383722.cms?mod=29334",
-      "summary": "With a six-month mandate, the high-level committee will examine banking structures, capital requirements, regulatory reforms, financial inclusion and AI-driven innovation, potentially shaping the next phase of India's financial-sector development.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "et government - digital india"
       ],
       "isSample": false,
       "isFeatured": false
