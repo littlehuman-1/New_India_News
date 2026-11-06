@@ -162,14 +162,52 @@ GENERIC_IMAGE_PATTERNS = [
 
 
 def clean_text(value):
-    """Decode HTML entities and remove markup-like feed noise."""
+    """Remove HTML markup and common feed metadata noise."""
     value = html.unescape(value or "")
-    value = re.sub(r"<script\b[^>]*>.*?</script>", " ", value,
-                   flags=re.IGNORECASE | re.DOTALL)
-    value = re.sub(r"<style\b[^>]*>.*?</style>", " ", value,
-                   flags=re.IGNORECASE | re.DOTALL)
+    # Decode a second time because some feeds double-escape their HTML.
+    value = html.unescape(value)
+
+    value = re.sub(r"<!--.*?-->", " ", value, flags=re.DOTALL)
+    value = re.sub(
+        r"<(script|style)\b[^>]*>.*?</\1\s*>",
+        " ",
+        value,
+        flags=re.IGNORECASE | re.DOTALL,
+    )
+    # Remove complete media elements before stripping the remaining tags;
+    # otherwise image attributes can leak into the visible summary.
+    value = re.sub(
+        r"<(figure|picture)\b[^>]*>.*?</\1\s*>",
+        " ",
+        value,
+        flags=re.IGNORECASE | re.DOTALL,
+    )
+    value = re.sub(
+        r"<(img|source|video|iframe)\b[^>]*>",
+        " ",
+        value,
+        flags=re.IGNORECASE | re.DOTALL,
+    )
     value = re.sub(r"<[^>]+>", " ", value)
-    return re.sub(r"\s+", " ", value).strip()
+
+    # Clean malformed/partially escaped WordPress image metadata that some
+    # RSS descriptions include as plain text.
+    value = re.sub(
+        r"""["']?(?:data-image-title|data-image-description|data-image-caption|data-large-file|data-srcset)["']?\s*[:=]\s*["'][^"']*["']""",
+        " ",
+        value,
+        flags=re.IGNORECASE,
+    )
+    value = re.sub(
+        r"""["']?(?:title|alt|src|srcset|class|width|height)["']\s*:\s*["'][^"']*["']""",
+        " ",
+        value,
+        flags=re.IGNORECASE,
+    )
+    value = re.sub(r"\bPexels\.com\b", " ", value, flags=re.IGNORECASE)
+    value = value.replace(', }" />', ' ')
+    value = re.sub(r"\s+", " ", value).strip(" \t\r\n|,;")
+    return value
 
 
 def clean_url(value, base_url=""):
@@ -245,11 +283,12 @@ def text_of(element, path):
     return "".join(found.itertext()).strip() if found is not None else ""
 
 
-def image_url_of(item, article_url):
-    """Find an image URL in RSS/Atom media fields or embedded article HTML."""
+def image_url_of(item, article_url, source=""):
+    """Find the best image URL in RSS/Atom media fields or embedded HTML."""
     image_tags = {"content", "thumbnail", "enclosure"}
+    candidates = []
 
-    # Prefer image media fields and ignore non-image enclosures.
+    # Collect image media fields and ignore non-image enclosures.
     for element in item.iter():
         tag = element.tag.split("}")[-1].lower()
         url = ""
@@ -267,8 +306,8 @@ def image_url_of(item, article_url):
             if tag == "enclosure" and media_type and not media_type.startswith("image/"):
                 continue
             url = clean_url(url, article_url)
-            if url.startswith(("https://", "http://")):
-                return url
+            if url.startswith(("https://", "http://")) and url not in candidates:
+                candidates.append(url)
 
     # Some feeds place the image inside description/content HTML.
     for element in item.iter():
@@ -278,16 +317,21 @@ def image_url_of(item, article_url):
 
         fragment = html.unescape("".join(element.itertext()))
         matches = re.findall(
-            r"""<img\b[^>]*?\bsrc\s*=\s*["']([^"']+)["']""",
+            r"""<img\b[^>]*?\b(?:src|data-src)\s*=\s*["']([^"']+)["']""",
             fragment,
             flags=re.IGNORECASE,
         )
         for candidate in matches:
             url = clean_url(candidate, article_url)
-            if url.startswith(("https://", "http://")):
-                return url
+            if url.startswith(("https://", "http://")) and url not in candidates:
+                candidates.append(url)
 
-    return ""
+    # Prefer a non-generic image rather than returning the first stock image.
+    for candidate in candidates:
+        if not image_is_generic(candidate, source):
+            return candidate
+
+    return candidates[0] if candidates else ""
 
 
 def parse_date(value):
@@ -378,7 +422,7 @@ def fetch_feed(feed):
             continue
 
         domain = urlparse(feed["url"]).netloc.removeprefix("www.")
-        image_url = image_url_of(item, link)
+        image_url = image_url_of(item, link, feed['name'])
         image_url = improve_image_url(image_url, title)
         if image_is_generic(image_url, feed["name"]):
             image_url = ""
