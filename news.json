@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T13:32:45.011859+00:00",
+  "updatedAt": "2026-11-06T15:09:22.184657+00:00",
   "featuredArticleUrl": null,
   "articles": [
     {
@@ -12,6 +12,26 @@
       "articleUrl": "https://government.economictimes.indiatimes.com/news/news/from-digital-public-infrastructure-to-public-intelligence-building-sovereign-ai-ready-services-for-india/135603715",
       "imageUrl": "https://etimg.etb2bimg.com/photo/135605032.cms?mod=1054416",
       "summary": "As artificial intelligence reshapes public-service delivery, India’s next phase of digital transformation must balance intelligence and innovation with data sovereignty, cybersecurity, inclusion and citizen trust. At the inaugural Accelerating India Dialogues, senior government officials and TCS leaders examined how India can build sovereign, AI-ready public services that anticipate citizen needs, support better decision-making and strengthen governance at scale.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "et government - digital india"
+      ],
+      "isSample": false,
+      "isFeatured": false
+    },
+    {
+      "title": "India set to join EU's €93.5 billion Horizon Europe programme, boosting scientific collaboration",
+      "category": "Innovation",
+      "date": "2026-11-06",
+      "source": "ET Government - Digital India",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/digital-india/india-set-to-join-eus-93-5-billion-horizon-europe-programme-boosting-scientific-collaboration/135610241",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135610294.cms?mod=131678",
+      "summary": "India's proposed association with the EU's €93.5 billion Horizon Europe programme will enable Indian researchers, universities and businesses to access European research funding and lead multinational projects from 2027.",
       "icon": "📰",
       "visualBg": "#e2f0ed",
       "visualInk": "#276b5c",
@@ -1972,26 +1992,6 @@
       "articleUrl": "https://solarquarter.com/2026/11/02/indian-green-energy-stocks-rally-as-sensex-surges-1-7-on-november-2/",
       "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/solarquarter-6ae88150aa448.png?fit=1376%2C768&quality=80&ssl=1",
       "summary": "On November 2, 2026, the Indian stock market experienced a robust trading session, with benchmark indices rising due to strong buying in industrial and renewable energy stocks. The S&P BSE SENSEX gained 1.7%, led by notable increases in Praj Industries and Reliance Industries. Although several companies thrived, a few faced selling pressure. The post Indian Green Energy Stocks Rally As Sensex Surges 1.7% On November 2 appeared first on SolarQuarter .",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "GERC Approves Tariffs For 450 MW/900 MWh Battery Storage Projects In Gujarat",
-      "category": "Innovation",
-      "date": "2026-11-02",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/11/02/gerc-approves-tariffs-for-450-mw-900-mwh-battery-storage-projects-in-gujarat/",
-      "imageUrl": "",
-      "summary": "The Gujarat Electricity Regulatory Commission (GERC) has adopted the tariffs discovered through a competitive bidding process for the development of a 450 MW / 900 MWh standalone Battery Energy Storage […] The post GERC Approves Tariffs For 450 MW/900 MWh Battery Storage Projects In Gujarat appeared first on SolarQuarter .",
       "icon": "📰",
       "visualBg": "#e2f0ed",
       "visualInk": "#276b5c",
