@@ -3,6 +3,7 @@ import re
 import html
 import urllib.request
 import xml.etree.ElementTree as ET
+from html.parser import HTMLParser
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
 from difflib import SequenceMatcher
@@ -266,14 +267,171 @@ def image_is_generic(image_url, source=""):
     return False
 
 
+
+class ETImageParser(HTMLParser):
+    """Collect image URLs exposed by an ET Government article page."""
+
+    def __init__(self):
+        super().__init__(convert_charrefs=True)
+        self.urls = []
+
+    def add(self, value):
+        if not value:
+            return
+        # srcset can contain several URLs followed by width/density descriptors.
+        for part in value.split(","):
+            candidate = part.strip().split()
+            if candidate:
+                self.urls.append(candidate[0].strip("'\""))
+
+    def handle_starttag(self, tag, attrs):
+        attrs = {key.lower(): value for key, value in attrs if key}
+        tag = tag.lower()
+
+        if tag == "meta":
+            key = (attrs.get("property") or attrs.get("name") or "").lower()
+            if key in {"og:image", "og:image:url", "twitter:image"}:
+                self.add(attrs.get("content"))
+
+        if tag in {"img", "source"}:
+            for key in (
+                "src", "data-src", "data-original", "data-lazy-src",
+                "srcset", "data-srcset"
+            ):
+                self.add(attrs.get(key))
+
+        # ET article images are sometimes linked to their full-size file.
+        if tag == "a":
+            href = attrs.get("href", "")
+            if "etimg.etb2bimg.com" in href.lower():
+                self.add(href)
+
+
+def _jpeg_dimensions(data):
+    """Return (width, height) from JPEG bytes, or None if not found."""
+    if not data.startswith(b"\\xff\\xd8"):
+        return None
+
+    i = 2
+    sof_markers = {
+        0xC0, 0xC1, 0xC2, 0xC3, 0xC5, 0xC6, 0xC7,
+        0xC9, 0xCA, 0xCB, 0xCD, 0xCE, 0xCF
+    }
+    while i + 4 < len(data):
+        if data[i] != 0xFF:
+            i += 1
+            continue
+        while i < len(data) and data[i] == 0xFF:
+            i += 1
+        if i >= len(data):
+            break
+        marker = data[i]
+        i += 1
+        if marker in {0xD8, 0xD9} or 0xD0 <= marker <= 0xD7:
+            continue
+        if i + 2 > len(data):
+            break
+        segment_length = int.from_bytes(data[i:i + 2], "big")
+        if segment_length < 2 or i + segment_length > len(data):
+            break
+        if marker in sof_markers and segment_length >= 7:
+            height = int.from_bytes(data[i + 3:i + 5], "big")
+            width = int.from_bytes(data[i + 5:i + 7], "big")
+            return width, height
+        i += segment_length
+    return None
+
+
+def _et_image_is_large_enough(image_url):
+    """Probe an ET image and reject tiny thumbnails when dimensions are known."""
+    try:
+        request = urllib.request.Request(
+            image_url,
+            headers={
+                "User-Agent": USER_AGENT,
+                "Range": "bytes=0-131071",
+            },
+        )
+        with urllib.request.urlopen(request, timeout=8) as response:
+            content_type = response.headers.get("Content-Type", "").lower()
+            if content_type and not content_type.startswith("image/"):
+                return False
+            data = response.read(131072)
+
+        dimensions = _jpeg_dimensions(data)
+        if dimensions:
+            width, height = dimensions
+            return width >= 400 and height >= 250
+
+        # Some image endpoints use non-JPEG formats or omit useful headers.
+        # A direct /photo/ file with a substantial response is a reasonable
+        # fallback; never accept a URL explicitly marked as a thumbnail here.
+        return (
+            "/photo/" in image_url.lower()
+            and "/thumb/" not in image_url.lower()
+            and len(data) >= 15000
+        )
+    except Exception as error:
+        print(f"ET image check failed: {error}")
+        return False
+
+
+def get_et_article_image(article_url):
+    """Find and verify the best original ET image from the article webpage."""
+    try:
+        request = urllib.request.Request(
+            article_url,
+            headers={
+                "User-Agent": USER_AGENT,
+                "Accept": "text/html,application/xhtml+xml",
+            },
+        )
+        with urllib.request.urlopen(request, timeout=12) as response:
+            page = response.read(2_000_000).decode(
+                response.headers.get_content_charset() or "utf-8",
+                errors="replace",
+            )
+
+        parser = ETImageParser()
+        parser.feed(page)
+
+        candidates = []
+        for raw_url in parser.urls:
+            candidate = clean_url(raw_url, article_url)
+            if (
+                candidate.startswith(("https://", "http://"))
+                and "etimg.etb2bimg.com" in urlparse(candidate).netloc.lower()
+                and candidate not in candidates
+            ):
+                candidates.append(candidate)
+
+        # Prefer the publisher's direct photo endpoint over /thumb/ URLs.
+        candidates.sort(
+            key=lambda value: (
+                0 if "/photo/" in value.lower() and "/thumb/" not in value.lower()
+                else 1 if "/thumb/" not in value.lower()
+                else 2
+            )
+        )
+
+        for candidate in candidates[:5]:
+            if _et_image_is_large_enough(candidate):
+                return candidate
+
+    except Exception as error:
+        print(f"ET article image extraction failed for {article_url}: {error}")
+
+    return ""
+
+
 def improve_image_url(image_url, article_title="", article_url=""):
-    """Use verified full-size publisher images for specific articles."""
+    """Retain known verified image corrections as a fallback."""
     article_url = (article_url or "").lower()
 
     # Verified full-size ET Government image for the VISTAR scheme article.
     if "135543289" in article_url:
-    return "https://etimg.etb2bimg.com/photo/135543479.cms?mod=50967"
-   
+        return "https://etimg.etb2bimg.com/photo/135543479.cms?mod=50967"
+
     # Previously verified sharper ET Government image.
     if (
         "Direct-to-device connectivity and satellite IoT" in article_title
@@ -282,6 +440,26 @@ def improve_image_url(image_url, article_title="", article_url=""):
         return "https://etimg.etb2bimg.com/photo/135286434.cms"
 
     return image_url or ""
+
+
+def best_article_image(image_url, article_title="", article_url="", source=""):
+    """Upgrade ET Government thumbnails; preserve other publishers unchanged."""
+    current = improve_image_url(image_url, article_title, article_url)
+    host = urlparse(article_url or "").netloc.lower()
+
+    if "government.economictimes.indiatimes.com" in host:
+        # Keep the known VISTAR correction, otherwise inspect ET's article page
+        # when the RSS image is a thumbnail or the URL is missing.
+        if "135543289" in (article_url or ""):
+            return current
+        if not current or "/thumb/" in current.lower():
+            extracted = get_et_article_image(article_url)
+            if extracted:
+                if extracted != current:
+                    print(f"ET image upgraded: {article_url}")
+                return extracted
+
+    return current
 
 
 def text_of(element, path):
@@ -429,7 +607,7 @@ def fetch_feed(feed):
 
         domain = urlparse(feed["url"]).netloc.removeprefix("www.")
         image_url = image_url_of(item, link, feed['name'])
-        image_url = improve_image_url(image_url, title, link)
+        image_url = best_article_image(image_url, title, link, feed["name"])
         if image_is_generic(image_url, feed["name"]):
             image_url = ""
 
@@ -556,10 +734,9 @@ def main():
         article["title"] = clean_text(article.get("title", ""))
         article["summary"] = clean_text(article.get("summary", ""))[:500]
         article["imageUrl"] = clean_url(article.get("imageUrl", ""))
-        article["imageUrl"] = improve_image_url(
-            article["imageUrl"], article.get("title", ""), url
-            if "135543289" in url:
-    print("VISTAR IMAGE CHECK:", article["imageUrl"])
+        article["imageUrl"] = best_article_image(
+            article["imageUrl"], article.get("title", ""), url,
+            article.get("source", "")
         )
         if not is_india_relevant(article):
             continue
