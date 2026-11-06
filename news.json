@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T12:11:25.544464+00:00",
+  "updatedAt": "2026-11-06T13:32:45.011859+00:00",
   "featuredArticleUrl": null,
   "articles": [
     {
@@ -292,6 +292,26 @@
       "articleUrl": "https://solarquarter.com/2026/11/06/indian-green-energy-stocks-witness-mixed-trading-as-sensex-rallies-1-9-on-november-6/",
       "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/indian-stock-market-bar-diagram-6aedbfaf17361.png?fit=1376%2C768&quality=80&ssl=1",
       "summary": "India’s benchmark Sensex surged 1.9% on November 6, 2026, reflecting stronger investor sentiment. However, green energy and power stocks traded unevenly. Adani Green Energy, IOC, and L&T gained modestly, while Tata Power, Insolation Energy, Borosil Renewables, IEX, Inox Wind, and battery-related companies declined, highlighting selective sector participation. The post Indian Green Energy Stocks Witness Mixed Trading As Sensex Rallies 1.9% On November 6 appeared first on SolarQuarter .",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false
+    },
+    {
+      "title": "Pentagreen Capital and Candi Solar Sign US$50 Million Deal for 400 MW Solar and BESS Projects in India",
+      "category": "Innovation",
+      "date": "2026-11-06",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/06/pentagreen-capital-and-candi-solar-sign-us50-million-deal-for-400-mw-solar-and-bess-projects-in-india/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2022/10/10-4.png?fit=1200%2C675&quality=80&ssl=1",
+      "summary": "Pentagreen Capital and Candi Solar have signed a US$50 million financing partnership to support the development of approximately 400 MWp of solar power and battery energy storage projects across India. […] The post Pentagreen Capital and Candi Solar Sign US$50 Million Deal for 400 MW Solar and BESS Projects in India appeared first on SolarQuarter .",
       "icon": "📰",
       "visualBg": "#e2f0ed",
       "visualInk": "#276b5c",
@@ -1978,26 +1998,6 @@
       "tags": [
         "innovation",
         "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "Round-the-clock clean power key to Uttar Pradesh’s industrial competitiveness: Hinduja Renewables CEO",
-      "category": "Markets",
-      "date": "2026-11-01",
-      "source": "ET Government - Economy",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/round-the-clock-clean-power-key-to-uttar-pradeshs-industrial-competitiveness-hinduja-renewables-ceo/135418590",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135419408.cms?mod=68342",
-      "summary": "Deepak Thakur, Managing Director and CEO of Hinduja Renewables Energy, argued that renewable energy must increasingly be viewed as an instrument of industrial competitiveness, investment and economic growth, rather than merely an alternative source of electricity.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "markets",
-        "et government - economy"
       ],
       "isSample": false,
       "isFeatured": false
