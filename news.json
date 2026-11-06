@@ -1,7 +1,27 @@
 {
-  "updatedAt": "2026-11-06T06:21:16.080730+00:00",
+  "updatedAt": "2026-11-06T07:41:02.980127+00:00",
   "featuredArticleUrl": null,
   "articles": [
+    {
+      "title": "US midterm verdict: Oil prices to AI trade, 5 things that matter for India after Democrats’ sweep",
+      "category": "Markets",
+      "date": "2026-11-06",
+      "source": "ET Government - Economy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/us-midterm-verdict-oil-prices-to-ai-trade-5-things-that-matter-for-india-after-democrats-sweep/135595900",
+      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-427916/135595900.cms",
+      "summary": "Emkay Global outlines five implications for India, including lower crude oil prices, US bond yields, AI capex, tariff uncertainty and rupee stability following the Democrats’ capture of both chambers of Congress.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "markets",
+        "et government - economy"
+      ],
+      "isSample": false,
+      "isFeatured": false
+    },
     {
       "title": "RITES eyes ₹10000 crore order book, accelerates project execution and global expansion: Rahul Mithal CMD",
       "category": "Innovation",
@@ -23,6 +43,46 @@
       "isFeatured": false
     },
     {
+      "title": "As wars reshape priorities, climate cooperation faces a test at the UN Climate Summit",
+      "category": "Development",
+      "date": "2026-11-06",
+      "source": "Mongabay India",
+      "sourceShort": "MON",
+      "sourceUrl": "https://india.mongabay.com/",
+      "articleUrl": "https://india.mongabay.com/2026/11/as-wars-reshape-priorities-climate-cooperation-faces-a-test-at-the-un-climate-summit/",
+      "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/11/06120734/signal-2026-11-06-12-03-39-562_002-768x512.jpg",
+      "summary": "When delegates from around the world gather in the Mediterranean resort town of Antalya in the Turkish Riviera for the annual, two-week United Nations climate summit (COP31) that begins on November 9, they meet at a time when wars and geopolitical rivalries are pushing governments to protect their immediate national interests even as rising temperatures, […]",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "mongabay india"
+      ],
+      "isSample": false,
+      "isFeatured": false
+    },
+    {
+      "title": "Two losses this year, but authorities say great Indian bustard’s rewilding is on track",
+      "category": "Development",
+      "date": "2026-11-06",
+      "source": "Mongabay India",
+      "sourceShort": "MON",
+      "sourceUrl": "https://india.mongabay.com/",
+      "articleUrl": "https://india.mongabay.com/2026/11/two-losses-this-year-but-authorities-say-great-indian-bustards-rewilding-is-on-track/",
+      "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/11/06104730/The_Great_Indian_Bustard_Ardeotis_nigriceps-768x512.jpg",
+      "summary": "In what is being considered a milestone for Project Great Indian Bustard, four captive-bred great Indian bustards (GIBs) were released into the wild in early October at the Desert National Park in Rajasthan. On October 17, one of the four birds was found dead, apparently predated upon by a desert fox the day before. The […]",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "mongabay india"
+      ],
+      "isSample": false,
+      "isFeatured": false
+    },
+    {
       "title": "India Targets 530 GW Renewable Energy Capacity By 2030 As Solar Manufacturing Expands To 225 GW",
       "category": "Innovation",
       "date": "2026-11-06",
@@ -32,6 +92,26 @@
       "articleUrl": "https://solarquarter.com/2026/11/06/india-targets-530-gw-renewable-energy-capacity-by-2030-as-solar-manufacturing-expands-to-225-gw/",
       "imageUrl": "",
       "summary": "Pexels.com \",\"title\":\"top view photo of solar panels\"}\" data-image-title=\"\" data-image-description=\"\" data-image-caption=\" Representational image. Credit: Canva \" data-large-file=\"https://i0.wp.com/solarquarter.com/wp-content/uploads/2020/10/pexels-photo-2800832-2.jpeg?fit=696%2C391&quality=89&ssl=1\" /> India has rapidly advanced as a global renewable energy leader, achieving 50% non-fossil electricity capacity in 2025 and surpassing 300 GW of renewables in 2026. Solar, biofuels, competitive auc",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false
+    },
+    {
+      "title": "BERC Directs BSPGCL To Revise Tender Documents For 150 MW Solar Project With 300 MWh BESS In Bihar",
+      "category": "Innovation",
+      "date": "2026-11-06",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/06/berc-directs-bspgcl-to-revise-tender-documents-for-150-mw-solar-project-with-300-mwh-bess-in-bihar/",
+      "imageUrl": "",
+      "summary": "Representational image. Credit: Canva \" data-large-file=\"https://i0.wp.com/solarquarter.com/wp-content/uploads/2020/04/11.png?fit=696%2C392&quality=80&ssl=1\" /> BERC directed BSPGCL to submit corrected Request for Selection and draft Power Purchase Agreement documents for its proposed 150 MW solar project paired with a 75 MW/300 MWh battery storage system. The revised documents must incorporate agreed modifications and be filed by November 9, 2026. The next hearing is scheduled for November 12. ",
       "icon": "📰",
       "visualBg": "#e2f0ed",
       "visualInk": "#276b5c",
@@ -312,46 +392,6 @@
       "articleUrl": "https://solarquarter.com/2026/11/05/ib-solar-signs-mou-with-german-companies-to-establish-centre-of-excellence-for-solar-technology-and-rd-in-greater-noida/",
       "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-05-at-1.54.12-PM.jpeg?fit=1292%2C862&quality=89&ssl=1",
       "summary": "IB Solar and German firms centrotherm, RENA Technologies and ISC Konstanz will establish a Centre of Excellence at YEIDA, Greater Noida. Supported by Indian and German industry bodies, the initiative will advance solar research, manufacturing, technology transfer and skills development, strengthening India’s domestic capabilities and global competitiveness in renewable energy. The post IB Solar Signs MoU with German Companies to Establish Centre of Excellence for Solar Technology and R&D in Grea",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "Return Secures €835 Million Financing To Expand Battery Storage Capacity In Germany",
-      "category": "Innovation",
-      "date": "2026-11-05",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/11/05/return-secures-e835-million-financing-to-expand-battery-storage-capacity-in-germany/",
-      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/finance-and-energy-storage-graphic-6aec634950ce0.png?fit=1376%2C768&quality=80&ssl=1",
-      "summary": "Three professionals stand on an elevated platform overlooking rows of white energy-storage units and solar panels. One person gestures toward the facility while another holds a tablet displaying a rising bar chart, and a third takes notes in a notebook. Workers in high-visibility vests inspect equipment in the background, while the cloudy dusk sky creates a cool, professional atmosphere. \" data-image-caption=\" Professionals review energy production data beside a large solar installation at dusk.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "Abu Dhabi’s Clean Energy Generation Surges Over 1,000% To 49,300 GWh In 2025",
-      "category": "Innovation",
-      "date": "2026-11-05",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/11/05/abu-dhabis-clean-energy-generation-surges-over-1000-to-49300-gwh-in-2025/",
-      "imageUrl": "",
-      "summary": "Representational image. Credit: Canva \" data-large-file=\"https://i0.wp.com/solarquarter.com/wp-content/uploads/2019/09/pexels-photo-1599819.jpeg?fit=696%2C464&quality=89&ssl=1\" /> Abu Dhabi’s clean electricity generation surged more than 1,000% from 2020 to 2025, rising from 4,100 GWh to over 49,300 GWh and reaching nearly 46% of total production. Nuclear, solar and wind projects, including Barakah, Al Dhafra and Noor Abu Dhabi, are advancing the emirate’s energy transition and supporting UAE ne",
       "icon": "📰",
       "visualBg": "#e2f0ed",
       "visualInk": "#276b5c",
@@ -1958,46 +1998,6 @@
       "tags": [
         "markets",
         "et government - economy"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "India must build the brains of its factories, not just the machines: Jalaj A Dani",
-      "category": "Innovation",
-      "date": "2026-10-31",
-      "source": "ET Government - Technology",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/technology/india-must-build-the-brains-of-its-factories-not-just-the-machines-jalaj-a-dani/135401040",
-      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-4828377/135401040.cms",
-      "summary": "At ET Vision Conclave 5.0 in Lucknow, Addverb Chairman calls for a shift from automation to intelligence, urges industry to back Indian robotics innovators and highlights Uttar Pradesh’s emerging role in the manufacturing revolution.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "et government - technology"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "Ananth Technologies supplies critical avionics, electronics systems for ISRO's GSLV-F18, NVS-03 mission",
-      "category": "Innovation",
-      "date": "2026-10-31",
-      "source": "ET Government - Technology",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/technology/ananth-technologies-supplies-critical-avionics-electronics-systems-for-isros-gslv-f18-nvs-03-mission/135402791",
-      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-2090371/135402791.cms",
-      "summary": "Hyderabad-based company contributes 46 avionics packages for the launch vehicle and nine spacecraft systems, highlighting the expanding role of India's private industry in space missions.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "et government - technology"
       ],
       "isSample": false,
       "isFeatured": false
