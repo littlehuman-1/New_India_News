@@ -273,11 +273,7 @@ def improve_image_url(image_url, article_title="", article_url=""):
     # Verified full-size ET Government image for the VISTAR scheme article.
     if "135543289" in article_url:
     return "https://etimg.etb2bimg.com/photo/135543479.cms?mod=50967"
-
-    if "135543289" in url:
-    print("VISTAR URL:", url)
-    print("VISTAR IMAGE:", article["imageUrl"])
-
+   
     # Previously verified sharper ET Government image.
     if (
         "Direct-to-device connectivity and satellite IoT" in article_title
