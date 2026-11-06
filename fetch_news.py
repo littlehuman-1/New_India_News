@@ -266,16 +266,22 @@ def image_is_generic(image_url, source=""):
     return False
 
 
-def improve_image_url(image_url, article_title=""):
-    """Use the known sharper image URL for one verified article."""
-    if not image_url:
-        return ""
+def improve_image_url(image_url, article_title="", article_url=""):
+    """Use verified full-size publisher images for specific articles."""
+    article_url = (article_url or "").lower()
+
+    # Verified full-size ET Government image for the VISTAR scheme article.
+    if "/135543289" in article_url or "VISTAR scheme" in article_title:
+        return "https://etimg.etb2bimg.com/photo/135543479.cms?mod=50967"
+
+    # Previously verified sharper ET Government image.
     if (
         "Direct-to-device connectivity and satellite IoT" in article_title
-        and "etimg.etb2bimg.com" in image_url
+        and "etimg.etb2bimg.com" in (image_url or "")
     ):
         return "https://etimg.etb2bimg.com/photo/135286434.cms"
-    return image_url
+
+    return image_url or ""
 
 
 def text_of(element, path):
@@ -423,7 +429,7 @@ def fetch_feed(feed):
 
         domain = urlparse(feed["url"]).netloc.removeprefix("www.")
         image_url = image_url_of(item, link, feed['name'])
-        image_url = improve_image_url(image_url, title)
+        image_url = improve_image_url(image_url, title, link)
         if image_is_generic(image_url, feed["name"]):
             image_url = ""
 
@@ -550,6 +556,9 @@ def main():
         article["title"] = clean_text(article.get("title", ""))
         article["summary"] = clean_text(article.get("summary", ""))[:500]
         article["imageUrl"] = clean_url(article.get("imageUrl", ""))
+        article["imageUrl"] = improve_image_url(
+            article["imageUrl"], article.get("title", ""), url
+        )
         if not is_india_relevant(article):
             continue
         if image_is_generic(article.get("imageUrl", ""), article.get("source", "")):
