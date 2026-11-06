@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T16:10:42.009657+00:00",
+  "updatedAt": "2026-11-06T17:15:55.469653+00:00",
   "featuredArticleUrl": null,
   "articles": [
     {
@@ -118,6 +118,26 @@
       "tags": [
         "innovation",
         "et government - defence"
+      ],
+      "isSample": false,
+      "isFeatured": false
+    },
+    {
+      "title": "Airtel Nxtra plans to invest ₹220 crore in 10 MW data centre in Prayagraj",
+      "category": "Development",
+      "date": "2026-11-06",
+      "source": "ET Government - Smart Infrastructure",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/smart-infra/airtel-nxtra-plans-to-invest-220-crore-in-10-mw-data-centre-in-prayagraj/135613588",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135613626.cms?mod=45194",
+      "summary": "The proposed facility will come up at Saraswati Hi-Tech City and is expected to create around 300 employment opportunities, including in ancillary IT and related services.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "et government - smart infrastructure"
       ],
       "isSample": false,
       "isFeatured": false
@@ -1972,26 +1992,6 @@
       "articleUrl": "https://solarquarter.com/2026/11/02/aeeg-seeks-industrial-off-taker-for-49-mw-solar-and-bess-project-in-south-africa/",
       "imageUrl": "",
       "summary": "The African Earth Energy Group (AEEG) is seeking an industrial off-taker for a 49 MW solar and battery storage project in Mpumalanga, South Africa. This project aims to provide reliable, competitively priced renewable energy for industrial consumers, addressing power costs and national grid challenges while promoting cleaner electricity in the region. The post AEEG Seeks Industrial Off-Taker For 49 MW Solar And BESS Project In South Africa appeared first on SolarQuarter .",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "Indian Green Energy Stocks Rally As Sensex Surges 1.7% On November 2",
-      "category": "Innovation",
-      "date": "2026-11-02",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/11/02/indian-green-energy-stocks-rally-as-sensex-surges-1-7-on-november-2/",
-      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/solarquarter-6ae88150aa448.png?fit=1376%2C768&quality=80&ssl=1",
-      "summary": "On November 2, 2026, the Indian stock market experienced a robust trading session, with benchmark indices rising due to strong buying in industrial and renewable energy stocks. The S&P BSE SENSEX gained 1.7%, led by notable increases in Praj Industries and Reliance Industries. Although several companies thrived, a few faced selling pressure. The post Indian Green Energy Stocks Rally As Sensex Surges 1.7% On November 2 appeared first on SolarQuarter .",
       "icon": "📰",
       "visualBg": "#e2f0ed",
       "visualInk": "#276b5c",
