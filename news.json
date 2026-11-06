@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T04:17:03.530222+00:00",
+  "updatedAt": "2026-11-06T05:20:26.220276+00:00",
   "featuredArticleUrl": null,
   "articles": [
     {
@@ -18,6 +18,26 @@
       "tags": [
         "innovation",
         "et government - digital india"
+      ],
+      "isSample": false,
+      "isFeatured": false
+    },
+    {
+      "title": "Bondada Group Plans INR 3,000 Crore Renewable Energy Investment in Goa, Targeting 700+ Jobs",
+      "category": "Innovation",
+      "date": "2026-11-06",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/06/bondada-group-plans-inr-3000-crore-renewable-energy-investment-in-goa-targeting-700-jobs/",
+      "imageUrl": "",
+      "summary": "Bondada Group has signed a non-binding MoU with Goa’s Investment Promotion and Facilitation Board to develop solar and biogas projects backed by a proposed ₹3,000 crore investment. The initiative could create over 700 jobs, expand Goa’s clean energy capacity, and receive assistance with approvals and incentives, subject to further evaluation and clearances. The post Bondada Group Plans INR 3,000 Crore Renewable Energy Investment in Goa, Targeting 700+ Jobs appeared first on SolarQuarter .",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
       ],
       "isSample": false,
       "isFeatured": false
@@ -1972,26 +1992,6 @@
       "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/ups-next-big-companies-will-come-from-its-smaller-cities-nses-ashishkumar-chauhan/135401219",
       "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-3822325/135401219.cms",
       "summary": "At ET Vision Conclave 5.0 in Lucknow, NSE chief highlights capital markets as a catalyst for MSME growth, wealth creation and Uttar Pradesh’s journey towards a $1 trillion-plus economy.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "markets",
-        "et government - economy"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "Uttar Pradesh looks beyond Lucknow, Noida to expand startup ecosystem",
-      "category": "Markets",
-      "date": "2026-10-31",
-      "source": "ET Government - Economy",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/uttar-pradesh-looks-beyond-lucknow-noida-to-expand-startup-ecosystem/135402783",
-      "imageUrl": "https://etimg.etb2bimg.com/thumb/img-size-136872/135402783.cms",
-      "summary": "Two partnerships announced at Sankalp Bharat 2026 aim to connect entrepreneurs with investors, mentors and markets, while taking people-first AI to 25 districts in eastern UP.",
       "icon": "📰",
       "visualBg": "#e2f0ed",
       "visualInk": "#276b5c",
