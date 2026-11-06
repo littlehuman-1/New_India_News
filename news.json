@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T17:15:55.469653+00:00",
+  "updatedAt": "2026-11-06T18:04:40.680295+00:00",
   "featuredArticleUrl": null,
   "articles": [
     {
@@ -18,6 +18,26 @@
       "tags": [
         "innovation",
         "et government - digital india"
+      ],
+      "isSample": false,
+      "isFeatured": false
+    },
+    {
+      "title": "Centre opens Semicon 2.0 portal, clears 12 electronics component projects worth ₹7,503 crore",
+      "category": "Innovation",
+      "date": "2026-11-06",
+      "source": "ET Government - Technology",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/technology/centre-opens-semicon-2-0-portal-clears-12-electronics-component-projects-worth-7503-crore/135612646",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135614582.cms?mod=9094515",
+      "summary": "Union IT Minister Ashwini Vaishnaw said India's electronics manufacturing journey has moved beyond assembly towards building a comprehensive domestic value chain spanning modules, components, materials and advanced technologies.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "et government - technology"
       ],
       "isSample": false,
       "isFeatured": false
@@ -178,6 +198,26 @@
       "tags": [
         "markets",
         "et government - economy"
+      ],
+      "isSample": false,
+      "isFeatured": false
+    },
+    {
+      "title": "Centre plans second telecom PLI scheme to boost local value addition",
+      "category": "Innovation",
+      "date": "2026-11-06",
+      "source": "ET Government - Technology",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/technology/centre-plans-second-telecom-pli-scheme-to-boost-local-value-addition/135612667",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135614743.cms?mod=105380",
+      "summary": "The government had rolled out the first edition of the telecom PLI scheme with an outlay of ₹12,195 crore. The scheme ended in March 2026.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "et government - technology"
       ],
       "isSample": false,
       "isFeatured": false
@@ -1952,46 +1992,6 @@
       "articleUrl": "https://solarquarter.com/2026/11/02/ntpc-reports-25-71-growth-in-h1-fy27-consolidated-pat-declares-inr-3-interim-dividend/",
       "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/solarquarter-6ae810a82bc97.png?fit=1376%2C768&quality=80&ssl=1",
       "summary": "NTPC Limited, India's largest integrated power generation company, reported strong financial results for Q2 and the first half of FY27, with standalone income rising 15.12% to ₹46,842 crore and PAT increasing by approximately 14%. Consolidated PAT rose 40.68% to ₹7,351 crore, driven by subsidiary performance. The company declared a 30% interim dividend. The post NTPC Reports 25.71% Growth in H1 FY27 Consolidated PAT, Declares INR 3 Interim Dividend appeared first on SolarQuarter .",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "CIL Appoints Neopulse Energy As Owner’s Engineer For 80 MW 320 Mwh BESS Project In Odisha",
-      "category": "Innovation",
-      "date": "2026-11-02",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/11/02/cil-appoints-neopulse-energy-as-owners-engineer-for-80-mw-320-mwh-bess-project-in-odisha/",
-      "imageUrl": "",
-      "summary": "Neopulse Energy Private Limited has been designated as Owner’s Engineer for Coal India's 80 MW / 320 MWh Battery Energy Storage System project in Odisha. They will offer technical support during all stages of the Engineering, Procurement and Construction contract, enhancing energy storage infrastructure and renewable energy integration in India. The post CIL Appoints Neopulse Energy As Owner’s Engineer For 80 MW 320 Mwh BESS Project In Odisha appeared first on SolarQuarter .",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "AEEG Seeks Industrial Off-Taker For 49 MW Solar And BESS Project In South Africa",
-      "category": "Innovation",
-      "date": "2026-11-02",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/11/02/aeeg-seeks-industrial-off-taker-for-49-mw-solar-and-bess-project-in-south-africa/",
-      "imageUrl": "",
-      "summary": "The African Earth Energy Group (AEEG) is seeking an industrial off-taker for a 49 MW solar and battery storage project in Mpumalanga, South Africa. This project aims to provide reliable, competitively priced renewable energy for industrial consumers, addressing power costs and national grid challenges while promoting cleaner electricity in the region. The post AEEG Seeks Industrial Off-Taker For 49 MW Solar And BESS Project In South Africa appeared first on SolarQuarter .",
       "icon": "📰",
       "visualBg": "#e2f0ed",
       "visualInk": "#276b5c",
