@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T05:12:25.518569+00:00",
+  "updatedAt": "2026-11-07T11:50:38.575763+00:00",
   "featuredArticleUrl": null,
   "articles": [
     {
@@ -18,6 +18,26 @@
       "tags": [
         "markets",
         "et government - economy"
+      ],
+      "isSample": false,
+      "isFeatured": false
+    },
+    {
+      "title": "IAF's IL-76 transport aircraft lands in Nyoma airbase in Ladakh",
+      "category": "Innovation",
+      "date": "2026-11-07",
+      "source": "ET Government - Defence",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/defence/iafs-il-76-transport-aircraft-lands-in-nyoma-airbase-in-ladakh/135630891",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135630950.cms?mod=69736",
+      "summary": "The Indian Air Force marked a new pinnacle of achievement with its IL-76MD transport aircraft landing at Nyoma airbase, which sits at an altitude of roughly 13,000 feet near the Line of Actual Control with China.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "et government - defence"
       ],
       "isSample": false,
       "isFeatured": false
@@ -1972,26 +1992,6 @@
       "articleUrl": "https://solarquarter.com/2026/11/02/from-complex-models-to-real-world-impact-comsol-webinar-to-spotlight-renewable-energy-simulation/",
       "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/1440x680_SimulApps_DigiTwins.png?fit=1440%2C680&quality=80&ssl=1",
       "summary": "The webinar on 18 November 2026, hosted by COMSOL® and SolarQuarter, will focus on utilising accessible simulation apps in the renewable energy sector. It aims to empower engineering teams by simplifying complex models, enhancing collaboration through digital twins, and improving app performance with surrogate models. Registration is now open for interested professionals. The post From Complex Models to Real-World Impact: COMSOL Webinar to Spotlight Renewable Energy Simulation appeared first on",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "Sungrow Showcases Residential, Commercial and Utility-Scale Energy Solutions at All-Energy Australia 2026",
-      "category": "Innovation",
-      "date": "2026-11-02",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/11/02/sungrow-showcases-residential-commercial-and-utility-scale-energy-solutions-at-all-energy-australia-2026/",
-      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/unnamed-13.jpg?fit=400%2C225&quality=89&ssl=1",
-      "summary": "Sungrow showcased its energy solutions at All-Energy Australia 2026, focusing on residential, commercial, and utility-scale systems to enhance Australia's sustainable energy future. Key highlights included the PowerHarbour residential battery, PowerKeeper for C&I applications, and PowerTitan 3.0 for large-scale deployments, underscoring Sungrow's commitment to renewable energy integration and grid resilience. The post Sungrow Showcases Residential, Commercial and Utility-Scale Energy Soluti",
       "icon": "📰",
       "visualBg": "#e2f0ed",
       "visualInk": "#276b5c",
