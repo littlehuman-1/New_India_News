@@ -1,7 +1,27 @@
 {
-  "updatedAt": "2026-11-07T01:27:42.225635+00:00",
+  "updatedAt": "2026-11-07T03:10:01.411367+00:00",
   "featuredArticleUrl": null,
   "articles": [
+    {
+      "title": "Deepotsav: From a festival of lights to a ₹55-crore economic opportunity for Ayodhya",
+      "category": "Markets",
+      "date": "2026-11-07",
+      "source": "ET Government - Economy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/deepotsav-from-a-festival-of-lights-to-a-55-crore-economic-opportunity-for-ayodhya/135624783",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135624820.cms?mod=800972",
+      "summary": "Jaiveer Singh, Minister of Tourism & Culture, Government of Uttar Pradesh, on how Deepotsav is transforming Ayodhya into a global tourism destination while creating livelihoods, attracting investment and strengthening the local economy.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "markets",
+        "et government - economy"
+      ],
+      "isSample": false,
+      "isFeatured": false
+    },
     {
       "title": "From digital public infrastructure to public intelligence: Building sovereign, AI-ready services for India",
       "category": "Innovation",
@@ -1972,26 +1992,6 @@
       "articleUrl": "https://solarquarter.com/2026/11/02/sungrow-showcases-residential-commercial-and-utility-scale-energy-solutions-at-all-energy-australia-2026/",
       "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/unnamed-13.jpg?fit=400%2C225&quality=89&ssl=1",
       "summary": "Sungrow showcased its energy solutions at All-Energy Australia 2026, focusing on residential, commercial, and utility-scale systems to enhance Australia's sustainable energy future. Key highlights included the PowerHarbour residential battery, PowerKeeper for C&I applications, and PowerTitan 3.0 for large-scale deployments, underscoring Sungrow's commitment to renewable energy integration and grid resilience. The post Sungrow Showcases Residential, Commercial and Utility-Scale Energy Soluti",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "NTPC Reports 25.71% Growth in H1 FY27 Consolidated PAT, Declares INR 3 Interim Dividend",
-      "category": "Innovation",
-      "date": "2026-11-02",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/11/02/ntpc-reports-25-71-growth-in-h1-fy27-consolidated-pat-declares-inr-3-interim-dividend/",
-      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/solarquarter-6ae810a82bc97.png?fit=1376%2C768&quality=80&ssl=1",
-      "summary": "NTPC Limited, India's largest integrated power generation company, reported strong financial results for Q2 and the first half of FY27, with standalone income rising 15.12% to ₹46,842 crore and PAT increasing by approximately 14%. Consolidated PAT rose 40.68% to ₹7,351 crore, driven by subsidiary performance. The company declared a 30% interim dividend. The post NTPC Reports 25.71% Growth in H1 FY27 Consolidated PAT, Declares INR 3 Interim Dividend appeared first on SolarQuarter .",
       "icon": "📰",
       "visualBg": "#e2f0ed",
       "visualInk": "#276b5c",
