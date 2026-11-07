@@ -2,6 +2,8 @@ import json
 import re
 import html
 import urllib.request
+import os
+import hashlib
 import xml.etree.ElementTree as ET
 from html.parser import HTMLParser
 from datetime import datetime, timezone
@@ -710,7 +712,174 @@ def valid_recent_article(article, today):
 
     age_days = (today - parsed_date_value).days
     return 0 <= age_days <= MAX_AGE_DAYS
+def translate_articles(articles):
+    """Add cached IndicTrans2 headline and summary translations."""
+    languages = {
+        "hi": "hin_Deva",
+        "ta": "tam_Taml",
+        "ml": "mal_Mlym",
+        "kn": "kan_Knda",
+        "te": "tel_Telu",
+    }
 
+    def source_hash(article):
+        original = (
+            article.get("title", "") + "\n" +
+            article.get("summary", "")
+        )
+        return hashlib.sha256(original.encode("utf-8")).hexdigest()
+
+    # Keep translations only when their original English text still matches.
+    pending_articles = []
+    for article in articles:
+        current_hash = source_hash(article)
+
+        if article.get("translationSourceHash") != current_hash:
+            article["translations"] = {}
+
+        article.setdefault("translations", {})
+
+        complete = all(
+            isinstance(article["translations"].get(lang), dict)
+            and article["translations"][lang].get("title") is not None
+            and article["translations"][lang].get("summary") is not None
+            for lang in languages
+        )
+
+        if not complete:
+            pending_articles.append(article)
+
+    if not pending_articles:
+        print("All published article translations are already up to date.")
+        return
+
+    hf_token = os.environ.get("HF_TOKEN")
+    if not hf_token:
+        print("HF_TOKEN is missing. Keeping English stories unchanged.")
+        return
+
+    try:
+        import torch
+        from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
+        from IndicTransToolkit import IndicProcessor
+
+        model_id = "ai4bharat/indictrans2-en-indic-dist-200M"
+
+        torch.set_num_threads(2)
+        device = torch.device("cpu")
+
+        print(f"Loading translation model {model_id} on CPU...")
+
+        tokenizer = AutoTokenizer.from_pretrained(
+            model_id,
+            trust_remote_code=True,
+            token=hf_token,
+        )
+        model = AutoModelForSeq2SeqLM.from_pretrained(
+            model_id,
+            trust_remote_code=True,
+            token=hf_token,
+            low_cpu_mem_usage=True,
+        )
+        model.to(device)
+        model.eval()
+
+        processor = IndicProcessor(inference=True)
+
+    except Exception as error:
+        print(f"Translation model could not be loaded: {error}")
+        print("Continuing with the English news feed.")
+        return
+
+    # Translate each language in batches rather than loading the model
+    # separately for every article.
+    for short_code, language_code in languages.items():
+        jobs = []
+
+        for article in pending_articles:
+            translated = article["translations"].setdefault(
+                short_code, {}
+            )
+
+            for field in ("title", "summary"):
+                original_text = article.get(field, "")
+
+                if field not in translated:
+                    if not original_text:
+                        translated[field] = ""
+                    else:
+                        jobs.append((article, field, original_text))
+
+        for start in range(0, len(jobs), 8):
+            batch_jobs = jobs[start:start + 8]
+            batch_texts = [job[2] for job in batch_jobs]
+
+            try:
+                prepared = processor.preprocess_batch(
+                    batch_texts,
+                    src_lang="eng_Latn",
+                    tgt_lang=language_code,
+                    visualize=False,
+                )
+
+                inputs = tokenizer(
+                    prepared,
+                    padding="longest",
+                    truncation=True,
+                    max_length=256,
+                    return_tensors="pt",
+                ).to(device)
+
+                with torch.inference_mode():
+                    generated = model.generate(
+                        **inputs,
+                        num_beams=3,
+                        num_return_sequences=1,
+                        max_length=256,
+                    )
+
+                decoded = tokenizer.batch_decode(
+                    generated,
+                    skip_special_tokens=True,
+                    clean_up_tokenization_spaces=True,
+                )
+                results = processor.postprocess_batch(
+                    decoded,
+                    lang=language_code,
+                )
+
+                for job, result in zip(batch_jobs, results):
+                    article, field, original_text = job
+                    if result and result.strip():
+                        article["translations"][short_code][field] = (
+                            result.strip()
+                        )
+
+            except Exception as error:
+                print(
+                    f"Translation batch failed for {short_code}: {error}"
+                )
+
+        print(f"Finished translation pass: {short_code}")
+
+    # Mark only fully translated stories as cached.
+    translated_count = 0
+    for article in articles:
+        complete = all(
+            isinstance(article.get("translations", {}).get(lang), dict)
+            and article["translations"][lang].get("title") is not None
+            and article["translations"][lang].get("summary") is not None
+            for lang in languages
+        )
+
+        if complete:
+            article["translationSourceHash"] = source_hash(article)
+            translated_count += 1
+
+    print(
+        f"Translations complete for {translated_count} "
+        f"of {len(articles)} published stories."
+    )
 
 def main():
     if OUTPUT_FILE.exists():
@@ -750,7 +919,19 @@ def main():
         try:
             fetched_articles = fetch_feed(feed)
             for article in fetched_articles:
-                by_url[article["articleUrl"]] = article
+                url = article["articleUrl"]
+
+                # Preserve cached translations when a feed refreshes a story.
+                previous = by_url.get(url)
+                if previous:
+                    if "translations" in previous:
+                        article["translations"] = previous["translations"]
+                    if "translationSourceHash" in previous:
+                        article["translationSourceHash"] = (
+                            previous["translationSourceHash"]
+                        )
+
+                by_url[url] = article
 
             successful_feeds += 1
             print(
@@ -803,6 +984,9 @@ def main():
     ):
         articles[-1] = featured_article
         articles.sort(key=lambda article: article.get("date", ""), reverse=True)
+
+    # Translate only the final published stories.
+    translate_articles(articles)
 
     output = {
         "updatedAt": datetime.now(timezone.utc).isoformat(),
