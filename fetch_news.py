@@ -946,26 +946,30 @@ def main():
             "All feeds failed. Existing news.json was not changed."
         )
 
-   today = datetime.now(timezone.utc).date()
+ 
+    today = datetime.now(timezone.utc).date()
 
-print(f"Total articles collected: {len(by_url)}")
+    print(f"Total articles collected: {len(by_url)}")
 
-fresh_articles = [
-    article for article in by_url.values()
-    if valid_recent_article(article, today)
-]
+    fresh_articles = [
+        article for article in by_url.values()
+        if valid_recent_article(article, today)
+    ]
 
-print(f"Articles within the last {MAX_AGE_DAYS} days: {len(fresh_articles)}")
-
-for article in sorted(
-    fresh_articles,
-    key=lambda item: item.get("date", ""),
-    reverse=True
-)[:10]:
     print(
-        f"NEWS CHECK: {article.get('date')} | "
-        f"{article.get('source')} | {article.get('title')}"
+        f"Articles within the last {MAX_AGE_DAYS} days: "
+        f"{len(fresh_articles)}"
     )
+
+    for article in sorted(
+        fresh_articles,
+        key=lambda item: item.get("date", ""),
+        reverse=True
+    )[:10]:
+        print(
+            f"NEWS CHECK: {article.get('date')} | "
+            f"{article.get('source')} | {article.get('title')}"
+        )
 
     # Reset all old featured flags before selecting the current PIB lead.
     for article in fresh_articles:
@@ -974,6 +978,7 @@ for article in sorted(
     fresh_articles = deduplicate_articles(fresh_articles)
 
     pib_candidates = [
+
         article for article in fresh_articles
         if is_pib_infrastructure(article) and article.get("date")
     ]
