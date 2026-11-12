@@ -1,5 +1,4 @@
-
-name: Fetch Growing India News
+name: Fetch Positive India News
 
 on:
   schedule:
@@ -10,7 +9,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: fetch-growing-india-news
+  group: fetch-positive-india-news
   cancel-in-progress: false
 
 jobs:
@@ -21,8 +20,6 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
-        with:
-          ref: main
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -35,21 +32,25 @@ jobs:
           path: ~/.cache/huggingface
           key: ${{ runner.os }}-indictrans2-en-indic-dist-200M-v1
 
-      - name: Install translation dependencies if enabled
-        if: ${{ secrets.HF_TOKEN != '' }}
+      - name: Install translation dependencies
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: |
-          python -m pip install --upgrade pip
-          python -m pip install torch --index-url https://download.pytorch.org/whl/cpu
-          python -m pip install "transformers>=4.51,<5" accelerate sentencepiece indictranstoolkit
+          if [ -n "$HF_TOKEN" ]; then
+            echo "HF_TOKEN found. Installing translation dependencies."
+            python -m pip install --upgrade pip
+            python -m pip install torch --index-url https://download.pytorch.org/whl/cpu
+            python -m pip install "transformers>=4.51,<5" accelerate sentencepiece indictranstoolkit
+          else
+            echo "HF_TOKEN not configured. Skipping translation dependencies."
+          fi
 
-      - name: Fetch news
+      - name: Fetch news and translate stories
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: python fetch_news.py
 
-      - name: Commit and push updated news
+      - name: Commit updated news
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
