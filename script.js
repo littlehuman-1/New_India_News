@@ -237,12 +237,8 @@ const translations = {
     tryDifferent: "Try a different keyword or choose another category.",
     resetFilters: "Reset filters", visitSource: "Visit source ↗",
     publisher: "Publisher website",
-    featuredLabel: "పీఐబీ ప్రధాన కథనం · మౌలిక సదుపాయాలు",
-    featuredLabel: "ಪಿಐಬಿ ಪ್ರಮುಖ · ಮೂಲಸೌಕರ್ಯ",
-    featuredLabel: "പിഐബി പ്രധാന വാർത്ത · അടിസ്ഥാനസൗകര്യം",
-    featuredLabel: "பிஐபி சிறப்புச் செய்தி · உள்கட்டமைப்பு",
-    featuredLabel: "पीआईबी प्रमुख · बुनियादी ढाँचा",
-    featuredLabel: "PIB FEATURED · INFRASTRUCTURE", demo: "DEMO CONTENT · VERIFY BEFORE USE",
+    featuredLabel: "PIB FEATURED · INFRASTRUCTURE",
+    demo: "DEMO CONTENT · VERIFY BEFORE USE",
     story: "STORY", stories: "stories", storyOne: "story"
   },
   hi: {
@@ -253,7 +249,9 @@ const translations = {
     scienceInnovation: "विज्ञान और नवाचार", noStories: "इस खोज से कोई समाचार नहीं मिला",
     tryDifferent: "दूसरा शब्द खोजें या कोई अन्य श्रेणी चुनें।",
     resetFilters: "फ़िल्टर रीसेट करें", visitSource: "स्रोत देखें ↗",
-    publisher: "प्रकाशक की वेबसाइट", demo: "डेमो सामग्री · प्रकाशित करने से पहले जाँचें",
+    publisher: "प्रकाशक की वेबसाइट",
+    featuredLabel: "पीआईबी प्रमुख · बुनियादी ढाँचा",
+    demo: "डेमो सामग्री · प्रकाशित करने से पहले जाँचें",
     story: "समाचार", stories: "समाचार", storyOne: "समाचार"
   },
   ta: {
@@ -264,7 +262,9 @@ const translations = {
     scienceInnovation: "அறிவியல் மற்றும் புதுமை", noStories: "இந்தத் தேடலுக்குப் பொருத்தமான செய்திகள் இல்லை",
     tryDifferent: "வேறு சொல்லைத் தேடுங்கள் அல்லது வேறு பிரிவைத் தேர்ந்தெடுக்கவும்.",
     resetFilters: "வடிகட்டிகளை மீட்டமை", visitSource: "ஆதாரத்தைப் பார்க்க ↗",
-    publisher: "வெளியீட்டாளர் இணையதளம்", demo: "மாதிரி உள்ளடக்கம் · வெளியிடும் முன் சரிபார்க்கவும்",
+    publisher: "வெளியீட்டாளர் இணையதளம்",
+    featuredLabel: "பிஐபி சிறப்புச் செய்தி · உள்கட்டமைப்பு",
+    demo: "மாதிரி உள்ளடக்கம் · வெளியிடும் முன் சரிபார்க்கவும்",
     story: "செய்தி", stories: "செய்திகள்", storyOne: "செய்தி"
   },
   ml: {
@@ -275,7 +275,9 @@ const translations = {
     scienceInnovation: "ശാസ്ത്രവും നവീകരണവും", noStories: "ഈ തിരയലിന് അനുയോജ്യമായ വാർത്തകളില്ല",
     tryDifferent: "മറ്റൊരു വാക്ക് തിരയുക അല്ലെങ്കിൽ മറ്റൊരു വിഭാഗം തിരഞ്ഞെടുക്കുക.",
     resetFilters: "ഫിൽട്ടറുകൾ പുനഃസജ്ജമാക്കുക", visitSource: "ഉറവിടം കാണുക ↗",
-    publisher: "പ്രസാധകന്റെ വെബ്സൈറ്റ്", demo: "മാതൃകാ ഉള്ളടക്കം · പ്രസിദ്ധീകരിക്കുന്നതിന് മുമ്പ് പരിശോധിക്കുക",
+    publisher: "പ്രസാധകന്റെ വെബ്സൈറ്റ്",
+    featuredLabel: "പിഐബി പ്രധാന വാർത്ത · അടിസ്ഥാനസൗകര്യം",
+    demo: "മാതൃകാ ഉള്ളടക്കം · പ്രസിദ്ധീകരിക്കുന്നതിന് മുമ്പ് പരിശോധിക്കുക",
     story: "വാർത്ത", stories: "വാർത്തകൾ", storyOne: "വാർത്ത"
   },
   kn: {
@@ -286,7 +288,9 @@ const translations = {
     scienceInnovation: "ವಿಜ್ಞಾನ ಮತ್ತು ನಾವೀನ್ಯತೆ", noStories: "ಈ ಹುಡುಕಾಟಕ್ಕೆ ಹೊಂದುವ ಸುದ್ದಿಗಳಿಲ್ಲ",
     tryDifferent: "ಬೇರೆ ಪದವನ್ನು ಹುಡುಕಿ ಅಥವಾ ಬೇರೆ ವರ್ಗವನ್ನು ಆಯ್ಕೆಮಾಡಿ.",
     resetFilters: "ಫಿಲ್ಟರ್ ಮರುಹೊಂದಿಸಿ", visitSource: "ಮೂಲವನ್ನು ನೋಡಿ ↗",
-    publisher: "ಪ್ರಕಾಶಕರ ವೆಬ್‌ಸೈಟ್", demo: "ಮಾದರಿ ವಿಷಯ · ಪ್ರಕಟಿಸುವ ಮೊದಲು ಪರಿಶೀಲಿಸಿ",
+    publisher: "ಪ್ರಕಾಶಕರ ವೆಬ್‌ಸೈಟ್",
+    featuredLabel: "ಪಿಐಬಿ ಪ್ರಮುಖ · ಮೂಲಸೌಕರ್ಯ",
+    demo: "ಮಾದರಿ ವಿಷಯ · ಪ್ರಕಟಿಸುವ ಮೊದಲು ಪರಿಶೀಲಿಸಿ",
     story: "ಸುದ್ದಿ", stories: "ಸುದ್ದಿಗಳು", storyOne: "ಸುದ್ದಿ"
   },
   te: {
@@ -297,7 +301,9 @@ const translations = {
     scienceInnovation: "సైన్స్ మరియు ఆవిష్కరణ", noStories: "ఈ శోధనకు సరిపోయే వార్తలు లేవు",
     tryDifferent: "మరొక పదాన్ని వెతకండి లేదా వేరే వర్గాన్ని ఎంచుకోండి.",
     resetFilters: "ఫిల్టర్లను రీసెట్ చేయండి", visitSource: "మూలాన్ని చూడండి ↗",
-    publisher: "ప్రచురణకర్త వెబ్‌సైట్", demo: "నమూనా కంటెంట్ · ప్రచురించే ముందు ధృవీకరించండి",
+    publisher: "ప్రచురణకర్త వెబ్‌సైట్",
+    featuredLabel: "పీఐబీ ప్రధాన కథనం · మౌలిక సదుపాయాలు",
+    demo: "నమూనా కంటెంట్ · ప్రచురించే ముందు ధృవీకరించండి",
     story: "వార్త", stories: "వార్తలు", storyOne: "వార్త"
   }
 };
