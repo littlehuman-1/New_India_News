@@ -15,7 +15,7 @@ from urllib.parse import urlparse, urljoin, urldefrag
 
 OUTPUT_FILE = Path("news.json")
 MAX_ARTICLES = 100
-MAX_AGE_DAYS = 30
+MAX_AGE_DAYS = 7
 USER_AGENT = "GrowingIndiaNewsBot/1.0"
 
 # A PIB item can be featured only if it is genuinely from PIB and concerns
@@ -946,11 +946,26 @@ def main():
             "All feeds failed. Existing news.json was not changed."
         )
 
-    today = datetime.now(timezone.utc).date()
-    fresh_articles = [
-        article for article in by_url.values()
-        if valid_recent_article(article, today)
-    ]
+   today = datetime.now(timezone.utc).date()
+
+print(f"Total articles collected: {len(by_url)}")
+
+fresh_articles = [
+    article for article in by_url.values()
+    if valid_recent_article(article, today)
+]
+
+print(f"Articles within the last {MAX_AGE_DAYS} days: {len(fresh_articles)}")
+
+for article in sorted(
+    fresh_articles,
+    key=lambda item: item.get("date", ""),
+    reverse=True
+)[:10]:
+    print(
+        f"NEWS CHECK: {article.get('date')} | "
+        f"{article.get('source')} | {article.get('title')}"
+    )
 
     # Reset all old featured flags before selecting the current PIB lead.
     for article in fresh_articles:
