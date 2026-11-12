@@ -1,7 +1,1276 @@
 {
-  "updatedAt": "2026-11-07T11:50:38.575763+00:00",
+  "updatedAt": "2026-11-12T15:31:37.650611+00:00",
   "featuredArticleUrl": null,
   "articles": [
+    {
+      "title": "CII President urges industry to use FTAs to build joint ventures, explore investments",
+      "category": "Markets",
+      "date": "2026-11-12",
+      "source": "ET Government - Economy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/cii-president-urges-industry-to-use-ftas-to-build-joint-ventures-explore-investments/135758196",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135758280.cms?mod=74723",
+      "summary": "CII President R Mukundan highlighted the importance of domestic industries leveraging India's free trade agreements for growth. He urged businesses to establish joint ventures and strengthen investment opportunities through these agreements.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "markets",
+        "et government - economy"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "First phase of Musi River rejuvenation to start soon: CM Revanth Reddy",
+      "category": "Development",
+      "date": "2026-11-12",
+      "source": "ET Government - Smart Infrastructure",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/smart-infra/first-phase-of-musi-river-rejuvenation-to-start-soon-cm-revanth-reddy/135755577",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135755561.cms?mod=76936",
+      "summary": "Telangana Chief Minister A Revanth Reddy has unveiled ambitious plans to improve the Musi River over a stretch of 21 kilometers. This initiative aims to clean the river and rejuvenate the surrounding environment in Hyderabad.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "et government - smart infrastructure"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Keralam to set up 10 research-driven incubators, nurture 100 high-revenue startups: CM Satheesan",
+      "category": "Markets",
+      "date": "2026-11-12",
+      "source": "ET Government - Economy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/keralam-to-set-up-10-research-driven-incubators-nurture-100-high-revenue-startups-cm-satheesan/135762963",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135763012.cms?mod=1796528",
+      "summary": "Keralam's Chief Minister V D Satheesan unveiled a bold initiative aimed at concentrating on high-revenue startups. This approach intends to cultivate globally competitive businesses by supporting revenue-generating startups.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "markets",
+        "et government - economy"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "UP attracts over ₹50 lakh crore in investments in 9.5 years: CM Yogi Adityanath",
+      "category": "Markets",
+      "date": "2026-11-12",
+      "source": "ET Government - Economy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/up-attracts-over-50-lakh-crore-in-investments-in-9-5-years-cm-yogi-adityanath/135758517",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135758590.cms?mod=19236",
+      "summary": "In Uttar Pradesh, investment proposals have surged past ₹50 lakh crore over the last nine-and-a-half years, with Chief Minister Yogi Adityanath confirming projects worth over ₹15 lakh crore moving ahead.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "markets",
+        "et government - economy"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Fraud through calls, messages a global threat: MoS Telecom",
+      "category": "Innovation",
+      "date": "2026-11-12",
+      "source": "ET Government - Technology",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/technology/fraud-through-calls-messages-a-global-threat-mos-telecom/135757279",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135757317.cms?mod=58366",
+      "summary": "Minister Chandra Sekhar Pemmasani highlighted the global threat of fraudulent activities via calls and messages at the ITU Plenipotentiary Conference.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "et government - technology"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Retail inflation hits two-year high of 6.09% in October, breaches RBI ceiling",
+      "category": "Markets",
+      "date": "2026-11-12",
+      "source": "ET Government - Economy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/retail-inflation-hits-two-year-high-of-6-09-in-october-breaches-rbi-ceiling/135770021",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135770087.cms?mod=318952",
+      "summary": "The consumer price index (CPI) based headline retail inflation was 5.54 per cent in September.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "markets",
+        "et government - economy"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "HAL Q2 net profit rises 16% to ₹1,936 crore, revenue grows 15%",
+      "category": "Innovation",
+      "date": "2026-11-12",
+      "source": "ET Government - Defence",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/defence/hal-q2-net-profit-rises-16-to-1936-crore-revenue-grows-15/135763017",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135762997.cms?mod=461306",
+      "summary": "The defence PSU’s revenue from operations rose 14.9 per cent to ₹7,613.25 crore in Q2 FY27",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "et government - defence"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Wildlife trade discourse overlooks trade in plants and other natural resources [Commentary]",
+      "category": "Development",
+      "date": "2026-11-12",
+      "source": "Mongabay India",
+      "sourceShort": "MON",
+      "sourceUrl": "https://india.mongabay.com/",
+      "articleUrl": "https://india.mongabay.com/2026/11/wildlife-trade-discourse-overlooks-trade-in-plants-and-other-natural-resources-commentary/",
+      "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/11/12122839/Paris_polyphylla_BotGardBln07122011I-e1794466742440-768x512.jpg",
+      "summary": "A simple question during a panel discussion on illegal wildlife trade at the Indian Wildlife Ecology Conference (IWEC) in 2024 got us thinking: What about plants and its trade? The panel admitted to the prevailing problem of “plant blindness”. While illegal wildlife trade brings to mind trafficking of orangutans, parrots, elephant ivory, and other endangered […]",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "mongabay india"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "POWERGRID Secures INR 243 Crore Karnataka Transmission Project For New 400/220 kV Substation",
+      "category": "Innovation",
+      "date": "2026-11-12",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/12/powergrid-secures-inr-243-crore-karnataka-transmission-project-for-new-400220-kv-substation/",
+      "imageUrl": "",
+      "summary": "Representational image. Credit: Canva \" /> Power Grid Corporation of India has won a Karnataka intra-state transmission project under the TBCB framework, quoting annual charges of Rs. 243.34 crore. The BOOT project includes a 3X500MVA 400/220kV substation at Humnabad, Bidar, and associated transmission lines. It is POWERGRID’s eleventh TBCB project in FY2026-27, taking cumulative charges to Rs. 8,106.97 crore. The post POWERGRID Secures INR 243 Crore Karnataka Transmission Project For New 400/22",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Indian Green Energy Stocks Show Mixed Trends As Select Counters Gain Amid Market-Wide Selling Pressure (12 November 2026)",
+      "category": "Innovation",
+      "date": "2026-11-12",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/12/indian-green-energy-stocks-show-mixed-trends-as-select-counters-gain-amid-market-wide-selling-pressure-12-november-2026/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/indian-green-energy-stocks-visual-without-company-names-6af5a82e073b6.png?fit=1376%2C768&quality=80&ssl=1",
+      "summary": "A large trading-floor display presents the NSE Green Energy Index live performance, with five tickers, rupee prices, percentage changes and trading volumes. Green upward figures dominate the table, while adjacent candlestick and line charts show rising market trends. NSE branding and additional market monitors appear in the background, with a trader working at computer screens in a modern financial office. \" /> India’s stock market was flat on November 12, 2026, with the Sensex closing at 81,911",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "South Africa Registers 2,045 MW Of Solar Capacity As Renewable Energy Investment Reaches $4.7 Billion",
+      "category": "Innovation",
+      "date": "2026-11-12",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/12/south-africa-registers-2045-mw-of-solar-capacity-as-renewable-energy-investment-reaches-4-7-billion/",
+      "imageUrl": "",
+      "summary": "\", }\" /> South Africa registered 3,129MW of new private generation capacity worth R78.16 billion in the second quarter of 2026/27. Solar led with 2,045MW across 139 projects, alongside wind, battery storage and co-generation. Regulatory reforms boosted investment, but financing, grid connections and transmission constraints remain challenges to delivering operational capacity. The post South Africa Registers 2,045 MW Of Solar Capacity As Renewable Energy Investment Reaches $4.7 Billion appeared ",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Nigeria Launches $300 Million Renewable Energy Fund To Expand Mini-Grids And Solar Access",
+      "category": "Innovation",
+      "date": "2026-11-12",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/12/nigeria-launches-300-million-renewable-energy-fund-to-expand-mini-grids-and-solar-access/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2022/10/1-5.png?fit=1200%2C675&quality=80&ssl=1",
+      "summary": "Nigeria’s Sovereign Investment Authority and institutional partners have launched a $300 million fund to expand distributed renewable energy. Supporting mini-grids and standalone solar systems, the initiative targets underserved communities, attracts private investment, and strengthens local power generation. It aims to improve livelihoods, businesses, employment, and Nigeria’s broader clean energy transition. The post Nigeria Launches $300 Million Renewable Energy Fund To Expand Mini-Grids And ",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "CleanMax Plans INR 50,000 Crore Investment In Andhra Pradesh For 2 GW Green Compute Factory",
+      "category": "Innovation",
+      "date": "2026-11-12",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/12/cleanmax-plans-inr-50000-crore-investment-in-andhra-pradesh-for-2-gw-green-compute-factory/",
+      "imageUrl": "",
+      "summary": "CleanMax Enviro Energy Solutions will invest nearly ₹50,000 crore in Andhra Pradesh to develop an integrated clean energy complex supporting Neysa’s 2 GW Green Compute Factory in Kurnool. The project includes 3 GW of wind and solar capacity, 1 GW of pumped storage, batteries and dedicated distribution infrastructure, with phased commissioning beginning by 2029. The post CleanMax Plans INR 50,000 Crore Investment In Andhra Pradesh For 2 GW Green Compute Factory appeared first on SolarQuarter .",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "India's ₹127500 crore semiconductor push: Can Semicon 2.0 overcome decades of missed opportunities?",
+      "category": "Innovation",
+      "date": "2026-11-11",
+      "source": "ET Government - Digital India",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/digital-india/indias-127500-crore-semiconductor-push-can-semicon-2-0-overcome-decades-of-missed-opportunities/135722809",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135722827.cms?mod=273882",
+      "summary": "India's ₹1.27 lakh crore semiconductor push seeks to move beyond chip assembly towards domestic fabrication, design and advanced manufacturing. But technological dependence, infrastructure gaps and decades of missed opportunities remain formidable challenges.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "et government - digital india"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Centre extends Stand-Up India Scheme till March 31, 2031",
+      "category": "Development",
+      "date": "2026-11-11",
+      "source": "ET Government - Policy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/centre-extends-stand-up-india-scheme-till-march-31-2031/135742414",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135742611.cms?mod=146818",
+      "summary": "Eligible sectors for such loans include manufacturing, services, trading and agri allied activities, and credit guarantee covers 85 per cent of the loan amount with standard guarantee fee of 0.50 per cent.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "et government - policy"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "India well on track to achieve $1 trillion exports target for FY27: Piyush Goyal",
+      "category": "Markets",
+      "date": "2026-11-11",
+      "source": "ET Government - Economy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/india-well-on-track-to-achieve-1-trillion-exports-target-for-fy27-piyush-goyal/135727862",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135727915.cms?mod=51506",
+      "summary": "Commerce Minister Piyush Goyal said India is on track to achieve its $1 trillion goods and services export target in FY27, having already recorded nearly $480 billion in exports during April-September.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "markets",
+        "et government - economy"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Moody's ups India's FY27 growth estimate to 7% on broad-based momentum",
+      "category": "Markets",
+      "date": "2026-11-11",
+      "source": "ET Government - Economy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/moodys-ups-indias-fy27-growth-estimate-to-7-on-broad-based-momentum/135731742",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135731890.cms?mod=229608",
+      "summary": "Moody's Ratings has forecasted that the Indian economy will grow at a rate of 7 percent this fiscal year. This growth is supported by strong economic momentum and resilience to energy supply shocks.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "markets",
+        "et government - economy"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Andhra CM seeks WIPO partnership to boost global recognition for state innovations",
+      "category": "Innovation",
+      "date": "2026-11-11",
+      "source": "ET Government - Technology",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/technology/andhra-cm-seeks-wipo-partnership-to-boost-global-recognition-for-state-innovations/135742774",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135743481.cms?mod=55154",
+      "summary": "The Chief Minister sought to enhance awareness of Intellectual Property Rights (IPR) among startups and entrepreneurs in the southern state, said an official press release.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "et government - technology"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Andhra CM invites UAE firms to invest in state's food processing sector",
+      "category": "Markets",
+      "date": "2026-11-11",
+      "source": "ET Government - Economy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/andhra-cm-invites-uae-firms-to-invest-in-states-food-processing-sector/135742777",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135745065.cms?mod=55154",
+      "summary": "During the meeting, the CM highlighted that fruits grown in the Rayalaseema region of the southern state were already being exported to international markets.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "markets",
+        "et government - economy"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Open genetic data and unclear rules keep biodiversity fund largely empty",
+      "category": "Development",
+      "date": "2026-11-11",
+      "source": "Mongabay India",
+      "sourceShort": "MON",
+      "sourceUrl": "https://india.mongabay.com/",
+      "articleUrl": "https://india.mongabay.com/2026/11/open-genetic-data-and-unclear-rules-keep-biodiversity-fund-largely-empty/",
+      "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/11/11123050/1280px-APMC-768x512.jpg",
+      "summary": "A decade after countries first agreed to discuss the issue, the sharing of benefits from digital sequence information (DSI), the genetic data of plants, animals and microbes stored in online databases, has made little progress. This is despite a fund set up under the United Nations in 2024, which seeks to make corporations share part […]",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "mongabay india"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Reimagining citizen experience with digital service delivery in the AI era",
+      "category": "Innovation",
+      "date": "2026-11-10",
+      "source": "ET Government - Digital India",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/news/reimagining-citizen-experience-with-digital-service-delivery-in-the-ai-era/135709350",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135709816.cms?mod=183183",
+      "summary": "In the past decade, India’s digital transformation has fundamentally evolved the way citizens access government services. With digital portals and integrated digital public infrastructure, the Government of India is making digital public services accessible, responsive, and secure.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "et government - digital india"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Bihar to host convention in January to draw up roadmap for state's development",
+      "category": "Markets",
+      "date": "2026-11-10",
+      "source": "ET Government - Economy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/bihar-to-host-convention-in-january-to-draw-up-roadmap-for-states-development/135703516",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135703601.cms?mod=72095",
+      "summary": "Patna is set to host the 'Global Convention on Transforming Bihar 2027' on January 12 and 13, 2024. This significant event aims to bring together 1,500 scholars, policymakers, and industry leaders to explore key topics in economic development.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "markets",
+        "et government - economy"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "DGTR suo motu initiates probe into dumping of aluminium products from China, Malaysia, Vietnam",
+      "category": "Markets",
+      "date": "2026-11-10",
+      "source": "ET Government - Economy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/dgtr-suo-motu-initiates-probe-into-dumping-of-aluminium-products-from-china-malaysia-vietnam/135703094",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135703181.cms?mod=119246",
+      "summary": "India's Directorate General of Trade Remedies has launched investigations into aluminium product dumping by several countries. This action aims to safeguard domestic manufacturers from increased competition posed by cheaper imports.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "markets",
+        "et government - economy"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Haryana govt raises solar subsidy limit for shrimp farmers to 30 KW",
+      "category": "Development",
+      "date": "2026-11-10",
+      "source": "ET Government - Policy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/haryana-govt-raises-solar-subsidy-limit-for-shrimp-farmers-to-30-kw/135716472",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135716478.cms?mod=135224",
+      "summary": "The move is expected to substantially reduce energy costs and improve the profitability of shrimp cultivation across the state, Haryana Agriculture and Farmers' Welfare and Fisheries Minister Shyam Singh Rana said on Tuesday.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "et government - policy"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "India's NMDC in talks with Russia's Rosatom over lithium investments, sources say",
+      "category": "Markets",
+      "date": "2026-11-10",
+      "source": "ET Government - Economy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/indias-nmdc-in-talks-with-russias-rosatom-over-lithium-investments-sources-say/135709750",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135709659.cms?mod=437649",
+      "summary": "NMDC Ltd is exploring investment opportunities in Russian lithium projects to enhance India's supply chain. Officials from NMDC recently visited Russia to discuss potential collaborations with Rosatom and other companies.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "markets",
+        "et government - economy"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "India, Oman begin naval exercise as Arabian Sea security takes centre stage",
+      "category": "Innovation",
+      "date": "2026-11-10",
+      "source": "ET Government - Defence",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/defence/india-oman-begin-naval-exercise-as-arabian-sea-security-takes-centre-stage/135705928",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135705988.cms?mod=5181981",
+      "summary": "INS Surat arrived in Muscat to join the 15th edition of Naseem Al Bahr and conduct joint patrols. The exercise fosters interoperability and strengthens cooperation between the Indian Navy and the Royal Navy of Oman.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "et government - defence"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "RBI extends supersession of Abhyudaya Co-operative Bank Board for one more year",
+      "category": "Markets",
+      "date": "2026-11-10",
+      "source": "ET Government - Economy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/rbi-extends-supersession-of-abhyudaya-co-operative-bank-board-for-one-more-year/135700104",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135700141.cms?mod=1454186",
+      "summary": "The Reserve Bank of India has extended the supersession of the Board of Directors of Abhyudaya Co-operative Bank. This extension will be effective until November 24, 2025, continuing a period of oversight.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "markets",
+        "et government - economy"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "India is an important partner for Slovenia’s economic growth: Ambassador Tomaž Mencin",
+      "category": "Development",
+      "date": "2026-11-10",
+      "source": "ET Government - Policy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/india-is-an-important-partner-for-slovenias-economic-growth-ambassador-toma-mencin/135682369",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135682854.cms?mod=1570667",
+      "summary": "Slovenian Ambassador Tomaž Mencin outlines opportunities in trade, investment, technology and manufacturing, as the EU–India FTA promises to deepen economic cooperation between the two countries.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "et government - policy"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "India to provide grant for expansion of Sri Lanka's emergency ambulance service",
+      "category": "Development",
+      "date": "2026-11-10",
+      "source": "ET Government - Policy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/india-to-provide-grant-for-expansion-of-sri-lankas-emergency-ambulance-service/135716565",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135716642.cms?mod=948682",
+      "summary": "Sri Lanka's Cabinet spokesperson and Minister Nalinda Jayathissa said the cabinet had approved the proposal to enter into a memorandum of understanding (MoU) with India for the grant.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "et government - policy"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Global credit conditions to weaken in 2027: Moody's",
+      "category": "Markets",
+      "date": "2026-11-10",
+      "source": "ET Government - Economy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/global-credit-conditions-to-weaken-in-2027-moodys/135710134",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135710367.cms?mod=229608",
+      "summary": "Moody's Ratings said AI investment will remain massive, but investors will increasingly focus on whether revenues and productivity gains justify the scale of spending.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "markets",
+        "et government - economy"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Kashmir musk deer face steep habitat losses under high emissions scenarios",
+      "category": "Development",
+      "date": "2026-11-10",
+      "source": "Mongabay India",
+      "sourceShort": "MON",
+      "sourceUrl": "https://india.mongabay.com/",
+      "articleUrl": "https://india.mongabay.com/2026/11/kashmir-musk-deer-face-steep-habitat-losses-under-high-emissions-scenarios/",
+      "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/11/10105711/The-Kashmir-musk-deer-is-a-small-solitary-antlerless-mountain-species-native-to-the-western-Himalaya.-Photo-Credit-Mohsin-Javid-scaled-e1794288511499-768x512.jpg",
+      "summary": "The Kashmir musk deer is a small, solitary, antlerless mountain species native to the western Himalaya, with a range extending across parts of Afghanistan, India and Pakistan. Unlike other deer, male Kashmir musk deer lack antlers, but possess elongated upper canines used primarily for territorial defence and competition for mates during the breeding season. Classified […]",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "mongabay india"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Amit Shah, CM Naidu to attend CII Partnership Summit in Visakhapatnam on Nov 12, 13",
+      "category": "Markets",
+      "date": "2026-11-09",
+      "source": "ET Government - Economy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/amit-shah-cm-naidu-to-attend-cii-partnership-summit-in-visakhapatnam-on-nov-12-13/135684536",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135686285.cms?mod=150867",
+      "summary": "The summit, themed 'Navigating New World Order', will bring together international policymakers, industry leaders and technology experts to discuss trade, investments, technological partnerships and emerging opportunities in the changing global economy.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "markets",
+        "et government - economy"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Israel after Netanyahu? Eisenkot’s rise and the implications for the Gulf War and India",
+      "category": "Development",
+      "date": "2026-11-09",
+      "source": "ET Government - Policy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/israel-after-netanyahu-eisenkots-rise-and-the-implications-for-the-gulf-war-and-india/135668254",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135668311.cms?mod=1539742",
+      "summary": "Former military chief Gadi Eisenkot’s emergence as Israel’s prospective prime minister raises questions about the country’s military strategy, relations with Iran, the future of the Gulf conflict and its expanding strategic partnership with India.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "et government - policy"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Assam CM says defence park will bring arms manufacturing closer to eastern frontiers",
+      "category": "Innovation",
+      "date": "2026-11-09",
+      "source": "ET Government - Defence",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/defence/assam-cm-says-defence-park-will-bring-arms-manufacturing-closer-to-eastern-frontiers/135684969",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135684979.cms?mod=121228",
+      "summary": "\"Bharat ke Raksha ke liye samarpit (dedicated to the security of Bharat): Defence Park, Nellie, Assam,\" Assam Chief Minister Himanta Biswa Sarma said in a social media post, referring to the proposed facility in the central Assam district.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "et government - defence"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Commerce Ministry for imposition of antidumping duty on Thai, Malaysian medical grade rubber gloves",
+      "category": "Markets",
+      "date": "2026-11-09",
+      "source": "ET Government - Economy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/commerce-ministry-for-imposition-of-antidumping-duty-on-thai-malaysian-medical-grade-rubber-gloves/135679091",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135679233.cms?mod=51800",
+      "summary": "The Directorate General of Trade Remedies has recommended imposing an anti-dumping duty on rubber gloves imports. This recommendation follows an investigation into alleged dumping by suppliers in Thailand and Malaysia.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "markets",
+        "et government - economy"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Delhi to launch first recreational Yamuna cruise service on Tuesday",
+      "category": "Development",
+      "date": "2026-11-09",
+      "source": "ET Government - Smart Infrastructure",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/smart-infra/delhi-to-launch-first-recreational-yamuna-cruise-service-on-tuesday/135684529",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135686044.cms?mod=4995857",
+      "summary": "Ahead of the launch, trial runs of the cruise vessel were successfully conducted last month in the presence of senior officials from the Inland Waterways Authority of India (IWAI) and the Delhi government.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "et government - smart infrastructure"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Bengal plans coastal tourism hub, ₹5 lakh homestay subsidy, helicopter service to Digha",
+      "category": "Development",
+      "date": "2026-11-09",
+      "source": "ET Government - Policy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/bengal-plans-coastal-tourism-hub-5-lakh-homestay-subsidy-helicopter-service-to-digha/135677440",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135677420.cms?mod=100154",
+      "summary": "West Bengal's Chief Minister Suvendu Adhikari announced plans to develop a 27 km stretch of coastline. This initiative aims to create job opportunities for locals and make holidays affordable for families.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "et government - policy"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "From mapping to AI-powered spatial intelligence: India's geospatial sector enters a new era of growth",
+      "category": "Innovation",
+      "date": "2026-11-09",
+      "source": "ET Government - Digital India",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/digital-india/from-mapping-to-ai-powered-spatial-intelligence-indias-geospatial-sector-enters-a-new-era-of-growth/135671994",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135672159.cms?mod=1185581",
+      "summary": "As geospatial technology evolves from mapping to AI-powered intelligence, India must invest in foundational data, indigenous innovation and spatial literacy to emerge as a global technology leader.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "et government - digital india"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Defence minister Rajnath Singh pays homage to war heroes in Sikkim",
+      "category": "Innovation",
+      "date": "2026-11-09",
+      "source": "ET Government - Defence",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/defence/defence-minister-rajnath-singh-pays-homage-to-war-heroes-in-sikkim/135674749",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135674804.cms?mod=38768",
+      "summary": "During his visit to Sherathang in Sikkim, Defence Minister Rajnath Singh paid tribute at the war memorial, recognizing the immense sacrifices made by soldiers and their families.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "et government - defence"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "India, EU agree to boost trade, investment and technology ties ahead of landmark trade deal",
+      "category": "Markets",
+      "date": "2026-11-09",
+      "source": "ET Government - Economy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/india-eu-agree-to-boost-trade-investment-and-technology-ties-ahead-of-landmark-trade-deal/135685266",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135685329.cms?mod=145496",
+      "summary": "A comprehensive scrutiny of the two-way engagement was carried out at the seventh India-EU Strategic Partnership Review Meeting (SPRM) held in New Delhi.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "markets",
+        "et government - economy"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Great Nicobar’s leatherbacks carry a unique genetic record that a megaport could bury",
+      "category": "Development",
+      "date": "2026-11-09",
+      "source": "Mongabay India",
+      "sourceShort": "MON",
+      "sourceUrl": "https://india.mongabay.com/",
+      "articleUrl": "https://india.mongabay.com/2026/11/great-nicobars-leatherbacks-carry-a-unique-genetic-record-that-a-megaport-could-bury/",
+      "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/11/09131217/leatherback-hatchlings-768x512.jpg",
+      "summary": "Last winter, female leatherbacks heaved themselves onto a beach bordering Galathea Bay on Great Nicobar Island to dig and lay eggs in 869 nests, according to data from the Andaman and Nicobar Forest Department obtained through the Right to Information Act. That is the highest number of leatherback nests recorded on any beach in the […]",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "mongabay india"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Early warning must also reach farmers without institutional support [Commentary]",
+      "category": "Development",
+      "date": "2026-11-09",
+      "source": "Mongabay India",
+      "sourceShort": "MON",
+      "sourceUrl": "https://india.mongabay.com/",
+      "articleUrl": "https://india.mongabay.com/2026/11/early-warning-must-also-reach-farmers-without-institutional-support-commentary/",
+      "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/11/09102119/AP745000730138-768x512.jpg",
+      "summary": "For India, an El Niño year has usually meant a weaker monsoon. That relationship is a tendency rather than a rule, and there have been El Niño years that ended with normal rain, but the odds move, and they move against us. This year the signal was unusually emphatic. The India Meteorological Department put the […]",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "mongabay india"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Aviation history: At 13,629 ft, IAF lands heavy-lifter ‘Gajraj’ near LAC in Ladakh in record high-altitude touchdown",
+      "category": "Innovation",
+      "date": "2026-11-08",
+      "source": "ET Government - Defence",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/defence/aviation-history-at-13629-ft-iaf-lands-heavy-lifter-gajraj-near-lac-in-ladakh-in-record-high-altitude-touchdown/135655362",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135655305.cms?mod=47992",
+      "summary": "The Indian Air Force's IL-76MD aircraft made a groundbreaking landing at Nyoma airfield in Ladakh, reaching an altitude of 13,629 feet. This feat established a new world record for this aircraft type. Demonstrating exceptional performance despite high-altitude challenges, the IL-76MD plays a critical role in logistical support for the armed forces, reinforcing its operational significance.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "et government - defence"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Defence Forces must maintain highest level of operational readiness: Rajnath Singh at Air Force Station, Bagdogra",
+      "category": "Innovation",
+      "date": "2026-11-08",
+      "source": "ET Government - Defence",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/defence/defence-forces-must-maintain-highest-level-of-operational-readiness-rajnath-singh-at-air-force-station-bagdogra/135653089",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135653168.cms?mod=99530",
+      "summary": "Defence Minister Rajnath Singh addressed Indian Air Force personnel to ensure high levels of operational readiness. He highlighted the complex security landscape including cyber threats and asymmetric warfare challenges. Singh emphasized the importance of local community engagement to diminish adversary influence and misinformation.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "et government - defence"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "MVDA plans new four-lane road to ease traffic in Mathura and Vrindavan, boosting pilgrimage access",
+      "category": "Development",
+      "date": "2026-11-08",
+      "source": "ET Government - Smart Infrastructure",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/smart-infra/mvda-plans-new-four-lane-road-to-ease-traffic-in-mathura-and-vrindavan-boosting-pilgrimage-access/135659221",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135659207.cms?mod=308648",
+      "summary": "MVDA is initiating a project to construct a four-lane road along the old railway track. This road will connect significant religious sites in Mathura and Vrindavan, enhancing travel for pilgrims. The first phase involves an elevated road between Machhli Phatak and Masani, while the second phase will cover the remaining stretch.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "et government - smart infrastructure"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Goa Maritime Board study initiated by state government to improve port regulations",
+      "category": "Development",
+      "date": "2026-11-08",
+      "source": "ET Government - Policy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/goa-maritime-board-study-initiated-by-state-government-to-improve-port-regulations/135655705",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135655643.cms?mod=149398",
+      "summary": "Captain of Ports Octavio Rodrigues has spearheaded this effort to collate statutory regulations from other regions. Meanwhile, Deputy Captain of Ports Premlal Sirsaiker will engage with officials and assess existing port laws established under the Indian Ports Act, 2025.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "et government - policy"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "From four-year service to military career: How Agnipath is adapting to the realities of modern military service",
+      "category": "Innovation",
+      "date": "2026-11-08",
+      "source": "ET Government - Defence",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/defence/from-four-year-service-to-military-career-how-agnipath-is-adapting-to-the-realities-of-modern-military-service/135649679",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135649691.cms?mod=128414",
+      "summary": "The government's decision to extend Agniveer service to six years and open regular enrolment to all eligible recruits marks a fundamental shift in India's military recruitment policy, balancing operational requirements with career aspirations.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "et government - defence"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
     {
       "title": "Deepotsav: From a festival of lights to a ₹55-crore economic opportunity for Ayodhya",
       "category": "Markets",
@@ -20,7 +1289,14 @@
         "et government - economy"
       ],
       "isSample": false,
-      "isFeatured": false
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
     },
     {
       "title": "IAF's IL-76 transport aircraft lands in Nyoma airbase in Ladakh",
@@ -40,7 +1316,14 @@
         "et government - defence"
       ],
       "isSample": false,
-      "isFeatured": false
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
     },
     {
       "title": "From digital public infrastructure to public intelligence: Building sovereign, AI-ready services for India",
@@ -60,7 +1343,14 @@
         "et government - digital india"
       ],
       "isSample": false,
-      "isFeatured": false
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
     },
     {
       "title": "Centre opens Semicon 2.0 portal, clears 12 electronics component projects worth ₹7,503 crore",
@@ -80,7 +1370,14 @@
         "et government - technology"
       ],
       "isSample": false,
-      "isFeatured": false
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
     },
     {
       "title": "India set to join EU's €93.5 billion Horizon Europe programme, boosting scientific collaboration",
@@ -100,7 +1397,14 @@
         "et government - digital india"
       ],
       "isSample": false,
-      "isFeatured": false
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
     },
     {
       "title": "US midterm verdict: Oil prices to AI trade, 5 things that matter for India after Democrats’ sweep",
@@ -120,7 +1424,14 @@
         "et government - economy"
       ],
       "isSample": false,
-      "isFeatured": false
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
     },
     {
       "title": "RITES eyes ₹10000 crore order book, accelerates project execution and global expansion: Rahul Mithal CMD",
@@ -140,7 +1451,14 @@
         "et government - digital india"
       ],
       "isSample": false,
-      "isFeatured": false
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
     },
     {
       "title": "UIDAI adds 300 offline verification entities; Aadhaar App nears 7.5 crore downloads nationwide",
@@ -160,7 +1478,14 @@
         "et government - digital india"
       ],
       "isSample": false,
-      "isFeatured": false
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
     },
     {
       "title": "IAF hands over 39.5-acre sports complex land to Centre",
@@ -180,7 +1505,14 @@
         "et government - defence"
       ],
       "isSample": false,
-      "isFeatured": false
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
     },
     {
       "title": "Airtel Nxtra plans to invest ₹220 crore in 10 MW data centre in Prayagraj",
@@ -200,7 +1532,14 @@
         "et government - smart infrastructure"
       ],
       "isSample": false,
-      "isFeatured": false
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
     },
     {
       "title": "Rajasthan plans to develop additional 300 hectares at Jodhpur-Pali-Marwar Industrial Area",
@@ -220,7 +1559,14 @@
         "et government - smart infrastructure"
       ],
       "isSample": false,
-      "isFeatured": false
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
     },
     {
       "title": "DGTR recommends imposition of quantitative restrictions on soda ash imports for 2 years",
@@ -240,7 +1586,14 @@
         "et government - economy"
       ],
       "isSample": false,
-      "isFeatured": false
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
     },
     {
       "title": "Centre plans second telecom PLI scheme to boost local value addition",
@@ -260,7 +1613,14 @@
         "et government - technology"
       ],
       "isSample": false,
-      "isFeatured": false
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
     },
     {
       "title": "Rajasthan records highest-ever monthly GST, VAT collection of ₹7,047 crore in October",
@@ -280,7 +1640,14 @@
         "et government - economy"
       ],
       "isSample": false,
-      "isFeatured": false
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
     },
     {
       "title": "Rajasthan govt targets October 2027 completion of Kota-Bundi new greenfield airport",
@@ -300,7 +1667,14 @@
         "et government - smart infrastructure"
       ],
       "isSample": false,
-      "isFeatured": false
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
     },
     {
       "title": "As wars reshape priorities, climate cooperation faces a test at the UN Climate Summit",
@@ -320,7 +1694,14 @@
         "mongabay india"
       ],
       "isSample": false,
-      "isFeatured": false
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
     },
     {
       "title": "Two losses this year, but authorities say great Indian bustard’s rewilding is on track",
@@ -340,7 +1721,14 @@
         "mongabay india"
       ],
       "isSample": false,
-      "isFeatured": false
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
     },
     {
       "title": "BERC Directs BSPGCL To Revise Tender Documents For 150 MW Solar Project With 300 MWh BESS In Bihar",
@@ -360,7 +1748,14 @@
         "solarquarter"
       ],
       "isSample": false,
-      "isFeatured": false
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
     },
     {
       "title": "India Targets 530 GW Renewable Energy Capacity By 2030 As Solar Manufacturing Expands To 225 GW",
@@ -380,7 +1775,14 @@
         "solarquarter"
       ],
       "isSample": false,
-      "isFeatured": false
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
     },
     {
       "title": "Bondada Group Plans INR 3,000 Crore Renewable Energy Investment in Goa, Targeting 700+ Jobs",
@@ -400,7 +1802,14 @@
         "solarquarter"
       ],
       "isSample": false,
-      "isFeatured": false
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
     },
     {
       "title": "Indian Green Energy Stocks Witness Mixed Trading As Sensex Rallies 1.9% On November 6",
@@ -420,7 +1829,14 @@
         "solarquarter"
       ],
       "isSample": false,
-      "isFeatured": false
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
     },
     {
       "title": "Pentagreen Capital and Candi Solar Sign US$50 Million Deal for 400 MW Solar and BESS Projects in India",
@@ -440,7 +1856,14 @@
         "solarquarter"
       ],
       "isSample": false,
-      "isFeatured": false
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
     },
     {
       "title": "Centre issues advisory to states to boost fodder production, livestock infra under VB-G RAM G",
@@ -460,7 +1883,14 @@
         "et government - policy"
       ],
       "isSample": false,
-      "isFeatured": false
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
     },
     {
       "title": "Allocate 25% of corporate CSR funds to agriculture to improve farmer incomes: Jagjeet Kandal",
@@ -480,7 +1910,14 @@
         "et government - economy"
       ],
       "isSample": false,
-      "isFeatured": false
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
     },
     {
       "title": "Tamil Nadu registration department records ₹1,950 cr revenue in Oct 2026",
@@ -500,7 +1937,14 @@
         "et government - economy"
       ],
       "isSample": false,
-      "isFeatured": false
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
     },
     {
       "title": "Bengal CM pledges power subsidy to four lakh farmers, special package for cultivators in 3 districts",
@@ -520,7 +1964,14 @@
         "et government - policy"
       ],
       "isSample": false,
-      "isFeatured": false
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
     },
     {
       "title": "New study examines effect of artificial light at night in protected areas",
@@ -540,7 +1991,14 @@
         "mongabay india"
       ],
       "isSample": false,
-      "isFeatured": false
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
     },
     {
       "title": "Mammals of India [Interview]",
@@ -560,7 +2018,14 @@
         "mongabay india"
       ],
       "isSample": false,
-      "isFeatured": false
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
     },
     {
       "title": "A native tarantula as a seasonal food",
@@ -580,7 +2045,14 @@
         "mongabay india"
       ],
       "isSample": false,
-      "isFeatured": false
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
     },
     {
       "title": "REMC And ISA Partner To Accelerate Solar Energy, Battery Storage And Indian Railways’ Net Zero Ambitions",
@@ -600,7 +2072,14 @@
         "solarquarter"
       ],
       "isSample": false,
-      "isFeatured": false
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
     },
     {
       "title": "India’s Solar Revolution Beyond 200 GW: Industry Leaders Highlight Manufacturing Gaps, Storage Needs, And the Road To Global Leadership",
@@ -620,7 +2099,14 @@
         "solarquarter"
       ],
       "isSample": false,
-      "isFeatured": false
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
     },
     {
       "title": "PM Surya Ghar Becomes Mass Movement As India Advances Solar Capacity To 172 GW",
@@ -640,7 +2126,14 @@
         "solarquarter"
       ],
       "isSample": false,
-      "isFeatured": false
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
     },
     {
       "title": "IB Solar Signs MoU with German Companies to Establish Centre of Excellence for Solar Technology and R&D in Greater Noida",
@@ -660,7 +2153,14 @@
         "solarquarter"
       ],
       "isSample": false,
-      "isFeatured": false
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
     },
     {
       "title": "Masdar And Endesa Invest €25.2 Million In 60.16 MW Battery Storage Projects Across Spain",
@@ -680,7 +2180,14 @@
         "solarquarter"
       ],
       "isSample": false,
-      "isFeatured": false
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
     },
     {
       "title": "Polycab’s 5 kWh LFP Battery Pack Offers Scalable Energy Storage for Solar and Backup Applications",
@@ -700,7 +2207,14 @@
         "solarquarter"
       ],
       "isSample": false,
-      "isFeatured": false
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
     },
     {
       "title": "AboitizPower Acquires 60% Stake in 191 MW Solar and Battery Storage Project In the Philippines",
@@ -720,7 +2234,14 @@
         "solarquarter"
       ],
       "isSample": false,
-      "isFeatured": false
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
     },
     {
       "title": "Pentagreen Capital and Candi Solar Announce US$50 Million Financing Partnership for 400 MWp Solar and Battery Storage Projects in India",
@@ -740,7 +2261,14 @@
         "solarquarter"
       ],
       "isSample": false,
-      "isFeatured": false
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
     },
     {
       "title": "NTPC Invites Bids For Solar Projects With 75% Local Content Requirement Across Belize, Trinidad And Tobago, And Jamaica",
@@ -760,1247 +2288,14 @@
         "solarquarter"
       ],
       "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "India's services growth accelerates to 55.8 in October, cost pressures ease to six-year low",
-      "category": "Markets",
-      "date": "2026-11-04",
-      "source": "ET Government - Economy",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/indias-services-growth-accelerates-to-55-8-in-october-cost-pressures-ease-to-six-year-low/135528183",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135528279.cms?mod=1577980",
-      "summary": "India's services sector activity expanded at its fastest pace in four months in October, with the HSBC India Services Purchasing Managers' Index (PMI) rising to 55.8 from 55.2 in September, while input cost inflation eased to its lowest level in more than six years, according to data released by S&P Global on Wednesday.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "markets",
-        "et government - economy"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "SEBI inks MoU with Digital India BHASHINI Division to deliver services in regional languages",
-      "category": "Innovation",
-      "date": "2026-11-04",
-      "source": "ET Government - Digital India",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/digital-india/sebi-inks-mou-with-digital-india-bhashini-division-to-deliver-services-in-regional-languages/135523799",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135523850.cms?mod=4002032",
-      "summary": "The Securities and Exchange Board of India (SEBI) entered into a Memorandum of Understanding (MoU) with the Digital India BHASHINI Division (DIBD) on Tuesday to expand investor access across regional Indian languages, according to an official SEBI press release.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "et government - digital india"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "Cabinet okays ₹2,814 crore capex support scheme for domestic lithium, nickel processing",
-      "category": "Development",
-      "date": "2026-11-04",
-      "source": "ET Government - Policy",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/cabinet-okays-2814-crore-capex-support-scheme-for-domestic-lithium-nickel-processing/135540455",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135537660.cms?mod=313642",
-      "summary": "The scheme will provide a 30 per cent capital subsidy for setting up four critical mineral processing plants, comprising two lithium facilities and two nickel facilities, to reduce import dependence and strengthen domestic supply chains.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "et government - policy"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "MeitY unveils indigenous AI Models EKA-1, Dhīr 2B and 5B under IndiaAI mission",
-      "category": "Innovation",
-      "date": "2026-11-04",
-      "source": "ET Government - Technology",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/technology/meity-unveils-indigenous-ai-models-eka-1-dhr-2b-and-5b-under-indiaai-mission/135523266",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135523395.cms?mod=472087",
-      "summary": "The IndiaAI Mission, part of the Ministry of Electronics and IT, recently unveiled three indigenous AI models. EKA-1 is designed for banking and cybersecurity, while Dhīr 2B and Dhīr 5B focus on low-connectivity environments.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "et government - technology"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "Assam Cabinet approves 6,000-bigha Defence Park in Nagaon",
-      "category": "Innovation",
-      "date": "2026-11-04",
-      "source": "ET Government - Defence",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/defence/assam-cabinet-approves-6000-bigha-defence-park-in-nagaon/135533593",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135533708.cms?mod=1438897",
-      "summary": "The Assam Cabinet on Tuesday approved the allocation of 6,000 bighas of land near Nellie in Nagaon district for the establishment of a Defence Park aimed at promoting defence equipment manufacturing in the state.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "et government - defence"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "India plans indigenous GPU chips in 24 months, says MeitY Secretary S Krishnan on AI strategy",
-      "category": "Innovation",
-      "date": "2026-11-04",
-      "source": "ET Government - Digital India",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/digital-india/india-plans-indigenous-gpu-chips-in-24-months-says-meity-secretary-s-krishnan-on-ai-strategy/135508818",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135508929.cms?mod=1767966",
-      "summary": "MeitY Secretary S Krishnan outlines India's plans for indigenous GPU chips, Semicon 2.0, sovereign AI, data protection and new opportunities for the IT industry amid AI-driven transformation.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "et government - digital india"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "India's Solar Manufacturing Sector Could Generate 32 Lakh Jobs, Attract $89 Billion by 2047: ISMA",
-      "category": "Development",
-      "date": "2026-11-04",
-      "source": "ET Government - Smart Infrastructure",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/smart-infra/indias-solar-manufacturing-sector-could-generate-32-lakh-jobs-attract-89-billion-by-2047-isma/135518986",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135519047.cms?mod=2435223",
-      "summary": "India’s solar manufacturing sector could attract $89 billion in investment, generate 32 lakh jobs and eliminate solar imports by 2041, according to ISMA’s Vision 2047 report.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "et government - smart infrastructure"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "Cabinet approves ₹4,371 crore VISTAR scheme to upgrade India’s statistical system",
-      "category": "Development",
-      "date": "2026-11-04",
-      "source": "ET Government - Policy",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/cabinet-approves-4371-crore-vistar-scheme-to-upgrade-indias-statistical-system/135543289",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135543479.cms?mod=50967",
-      "summary": "The Viksit Bharat Initiative for statistical transformation, analytics and research (VISTAR) scheme is for five years till 2030-31. It will be a central sector scheme.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "et government - policy"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "Cabinet clears ₹14,500 crore VGF scheme to develop 92 GWh grid-scale energy storage capacity",
-      "category": "Development",
-      "date": "2026-11-04",
-      "source": "ET Government - Smart Infrastructure",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/smart-infra/cabinet-clears-14500-crore-vgf-scheme-to-develop-92-gwh-grid-scale-energy-storage-capacity/135540376",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135537876.cms?mod=72392",
-      "summary": "The scheme aims to support new energy storage capacities that are yet to be commissioned, equivalent to 170% of India's present grid-scale energy storage capacity.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "et government - smart infrastructure"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "The world’s largest bovine",
-      "category": "Development",
-      "date": "2026-11-04",
-      "source": "Mongabay India",
-      "sourceShort": "MON",
-      "sourceUrl": "https://india.mongabay.com/",
-      "articleUrl": "https://india.mongabay.com/short-article/2026/11/the-worlds-largest-bovine/",
-      "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/11/04150443/gaur-768x512.jpg",
-      "summary": "Species File: Exploring India’s biodiversity, one species at a time. Decades after disappearing from Bandhavgarh Tiger Reserve in Madhya Pradesh, the gaur or Indian bison made a comeback following conservation efforts, according to media reports. In 2011-12, a herd of 40 gaur were reintroduced from Kanha Tiger Reserve, and today, Bandhavgarh’s gaur population stands at […]",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "mongabay india"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "Jinko Solar Celebrates 20 Years of Innovation with the Official Launch of Tiger Neo 3 in Morocco",
-      "category": "Innovation",
-      "date": "2026-11-04",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/11/04/jinko-solar-celebrates-20-years-of-innovation-with-the-official-launch-of-tiger-neo-3-in-morocco/",
-      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/JINKO-Casablanca-le-31-10-20268853.jpg?fit=5477%2C3651&quality=89&ssl=1",
-      "summary": "Jinko Solar celebrated its 20th anniversary and launched its latest photovoltaic technology, Tiger Neo 3, in Morocco. The event, which included industry stakeholders and technical presentations, highlighted innovations such as enhanced low-light performance and anti-shading capabilities. This milestone reinforces Jinko Solar's commitment to advancing renewable energy and strengthening partnerships in Morocco. The post Jinko Solar Celebrates 20 Years of Innovation with the Official Launch of Tige",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "India’s Solar Manufacturing Sector Targets 32.3 Lakh Jobs And USD 89 Billion Investment By 2047 ISMA Report",
-      "category": "Innovation",
-      "date": "2026-11-04",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/11/04/indias-solar-manufacturing-sector-targets-32-3-lakh-jobs-and-usd-89-billion-investment-by-2047-isma-report/",
-      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/solar-energy-workers-installing-rooftop-panels-6aeab472d8a0b.png?fit=1376%2C768&quality=80&ssl=1",
-      "summary": "India's solar manufacturing industry aims to become a global leader by 2047, potentially generating 32.3 lakh jobs and attracting USD 89 billion in investments. The Vision 2047 report outlines a comprehensive strategy for building an integrated solar ecosystem, reducing import reliance, and increasing domestic production capacity significantly. Essential policy support and investment are vital for success. The post India’s Solar Manufacturing Sector Targets 32.3 Lakh Jobs And USD 89 Billion Inve",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "Essar to Invest INR 4,500 Crore In 300 MW FDRE Renewable Energy Project With NHPC",
-      "category": "Innovation",
-      "date": "2026-11-04",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/11/04/essar-to-invest-inr-4500-crore-in-300-mw-fdre-renewable-energy-project-with-nhpc/",
-      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/Essam.png?fit=1376%2C768&quality=80&ssl=1",
-      "summary": "Essar Renewables Limited has signed a Power Purchase Agreement with NHPC Limited for a 300 MW Firm and Dispatchable Renewable Energy project in Andhra Pradesh, investing ₹4,500 crore. This initiative combines solar, wind, and Battery Energy Storage Systems, contributing to India's renewable energy goals and enhancing grid reliability while supporting Essar's energy portfolio expansion. The post Essar to Invest INR 4,500 Crore In 300 MW FDRE Renewable Energy Project With NHPC appeared first on So",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "Polycab India Expands Solar Portfolio with Hybrid Inverter and Battery Pack Launches at REI Expo 2026",
-      "category": "Innovation",
-      "date": "2026-11-04",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/11/04/polycab-india-expands-solar-portfolio-with-hybrid-inverter-and-battery-pack-launches-at-rei-expo-2026/",
-      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/7H9A0210.jpg?fit=6000%2C4000&quality=89&ssl=1",
-      "summary": "Polycab India showcased its expanded solar energy offerings at the Renewable Energy India Expo 2026, introducing hybrid inverters and battery packs alongside existing products. CEO Anurag Agarwal emphasised the company’s commitment to supporting India's clean energy goals. The participation allowed Polycab to connect with industry stakeholders and highlight its comprehensive solar solutions. The post Polycab India Expands Solar Portfolio with Hybrid Inverter and Battery Pack Launches at REI Expo",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "SPML Infra Secures INR 186.41 Crore POWERGRID Order For 765 kV Substation Expansion In Rajasthan",
-      "category": "Innovation",
-      "date": "2026-11-04",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/11/04/spml-infra-secures-inr-186-41-crore-powergrid-order-for-765-kv-substation-expansion-in-rajasthan/",
-      "imageUrl": "",
-      "summary": "SPML Infra Limited has received a ₹186.41 crore order from Power Grid Corporation to extend the Bhadla-III and Ramgarh Pooling Station substations in Rajasthan. This project enhances India's high-voltage power transmission infrastructure, supporting renewable energy integration and strengthening grid connectivity. The company aims to expand its capabilities in energy transmission and storage. The post SPML Infra Secures INR 186.41 Crore POWERGRID Order For 765 kV Substation Expansion In Rajastha",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "AFC And Green Climate Fund Launch US$690 Million Africa Climate Facility To Support Resilient Development",
-      "category": "Innovation",
-      "date": "2026-11-04",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/11/04/afc-and-green-climate-fund-launch-us690-million-africa-climate-facility-to-support-resilient-development/",
-      "imageUrl": "",
-      "summary": "The Africa Sovereign Climate Facility (ASCF) has been launched by Africa Finance Corporation and the Green Climate Fund, allocating US$690 million for low-carbon development and climate resilience in Africa. Initial support for Angola, Benin, Côte d'Ivoire, and Nigeria will enhance infrastructure, promote clean energy, and address climate challenges, benefiting millions. The post AFC And Green Climate Fund Launch US$690 Million Africa Climate Facility To Support Resilient Development appeared fi",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "Vietnam Approves $355 Million 452 MW Floating Solar Project In Dak Lak Province",
-      "category": "Innovation",
-      "date": "2026-11-04",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/11/04/vietnam-approves-355-million-452-mw-floating-solar-project-in-dak-lak-province/",
-      "imageUrl": "",
-      "summary": "Dak Lak Province in Vietnam has approved a VND9.149 trillion floating solar power project, aiming for a capacity of 452 MW on the Ea Sup Thuong Reservoir. Covering 526 hectares, it includes advanced solar panels and a dedicated transmission line. The project, developed by a consortium, will enhance renewable energy and support Vietnam's clean energy goals, with completion expected by late 2028. The post Vietnam Approves $355 Million 452 MW Floating Solar Project In Dak Lak Province appeared firs",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "Indus Towers Deploys 50,000 Solar-Powered Telecom Sites With 300 MW Capacity, Targets 100,000 Sites",
-      "category": "Innovation",
-      "date": "2026-11-04",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/11/04/indus-towers-deploys-50000-solar-powered-telecom-sites-with-300-mw-capacity-targets-100000-sites/",
-      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/solar-powered-telecom-towers-with-renewable-energy-6aeab18aceddb.png?fit=1376%2C768&quality=80&ssl=1",
-      "summary": "Indus Towers Limited has deployed 50,000 solar-powered telecom sites in India, becoming the first in its sector to achieve this. With about 300 MW of solar capacity, this initiative significantly lowers carbon emissions, equating to planting nearly 2 crore trees. The company plans to expand to 100,000 sites, enhancing sustainability and energy efficiency. The post Indus Towers Deploys 50,000 Solar-Powered Telecom Sites With 300 MW Capacity, Targets 100,000 Sites appeared first on SolarQuarter .",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "India’s Battery Component Manufacturers Face Up To 61% Cost Gap Against Global Imports, Study Recommends Targeted Incentives—Report",
-      "category": "Innovation",
-      "date": "2026-11-04",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/11/04/indias-battery-component-manufacturers-face-up-to-61-cost-gap-against-global-imports-study-recommends-targeted-incentives-report/",
-      "imageUrl": "",
-      "summary": "India's battery component manufacturing industry faces cost disadvantages of 18% to 61% compared to global suppliers, primarily due to high raw material prices and financing costs. A study suggests targeted policy support to strengthen domestic production, highlighting the necessity of developing capabilities to meet rising battery demand projected to reach 600 GWh by 2037. The post India’s Battery Component Manufacturers Face Up To 61% Cost Gap Against Global Imports, Study Recommends Targeted",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "Green Energy Stocks Surge As Renewable And Power Sector Shares Rally Across Indian Markets (04 November 2026)",
-      "category": "Innovation",
-      "date": "2026-11-04",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/11/04/green-energy-stocks-surge-as-renewable-and-power-sector-shares-rally-across-indian-markets-04-november-2026/",
-      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/indian-green-energy-stocks-rally-with-renewable-power-6aeb1a333e71c.png?fit=1376%2C768&quality=80&ssl=1",
-      "summary": "On November 4, 2026, Indian equity markets closed positively, driven by gains in green energy and power stocks. The S&P BSE SENSEX rose 0.5%, led by strong performances from Insolation Energy and Inox Wind. Increased investor interest in renewable energy, battery storage, and utilities highlights significant growth opportunities in India's energy sector. The post Green Energy Stocks Surge As Renewable And Power Sector Shares Rally Across Indian Markets (04 November 2026) appeared first on So",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "Waaree Renewable Technologies Secures Five-Year O&M Contract For 360 MWp Solar Project",
-      "category": "Innovation",
-      "date": "2026-11-04",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/11/04/waaree-renewable-technologies-secures-five-year-om-contract-for-360-mwp-solar-project/",
-      "imageUrl": "",
-      "summary": "Waaree Renewable Technologies Limited has obtained a five-year Operation and Maintenance contract for a 360 MWp solar power project in India from a leading Independent Power Producer. This agreement will enhance the company's position in the growing solar O&M market, ensuring efficient performance and reliability of solar installations amidst increasing renewable energy capacity. The post Waaree Renewable Technologies Secures Five-Year O&M Contract For 360 MWp Solar Project appeared firs",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "NTPC Green Energy Plans 10 GW/40 GWh BESS Procurement With 15-Year Maintenance Contract",
-      "category": "Innovation",
-      "date": "2026-11-04",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/11/04/ntpc-green-energy-plans-10-gw-40-gwh-bess-procurement-with-15-year-maintenance-contract/",
-      "imageUrl": "",
-      "summary": "NTPC Green Energy Limited plans to invite bids for battery containers and power conversion systems for a 10 GW/40 GWh Battery Energy Storage System project. This effort aims to enhance renewable energy integration and includes equipment supply, installation supervision, and a 15-year maintenance agreement. Interested suppliers must register on the ETS portal. The post NTPC Green Energy Plans 10 GW/40 GWh BESS Procurement With 15-Year Maintenance Contract appeared first on SolarQuarter .",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "Zimbabwe To Develop 278 MW Hybrid Renewable Energy Project With Wind, Solar And Battery Storage",
-      "category": "Innovation",
-      "date": "2026-11-04",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/11/04/zimbabwe-to-develop-278-mw-hybrid-renewable-energy-project-with-wind-solar-and-battery-storage/",
-      "imageUrl": "",
-      "summary": "Modaso Energy and Tatanga Energy are collaborating on the Guruve-Mazowe Hybrid Renewable Energy Project in Zimbabwe, featuring 128 MW wind, 100 MW solar, and a 50 MW battery storage system. This first utility-scale renewable project in Zimbabwe aims to generate 550 GWh annually, create 1,000 jobs, and reduce carbon emissions significantly. The post Zimbabwe To Develop 278 MW Hybrid Renewable Energy Project With Wind, Solar And Battery Storage appeared first on SolarQuarter .",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "IOI Partners With TNB To Develop 500 MW Solar Project With 1,000 MWh Battery Storage In Malaysia",
-      "category": "Innovation",
-      "date": "2026-11-04",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/11/04/ioi-partners-with-tnb-to-develop-500-mw-solar-project-with-1000-mwh-battery-storage-in-malaysia/",
-      "imageUrl": "",
-      "summary": "IOI Corporation Berhad has partnered with Tenaga Nasional Berhad and SMEs to develop a 500 MWac solar project with a 250 MW/1,000 MWh battery storage in Malaysia. This marks IOI's entry into large-scale renewable energy. The project aims to meet rising electricity demands, aligning with IOI's strategic focus on renewable energy. The post IOI Partners With TNB To Develop 500 MW Solar Project With 1,000 MWh Battery Storage In Malaysia appeared first on SolarQuarter .",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "Odisha Secures INR 1.17 Lakh Crore Investment Proposals For 11,742 MW Clean Energy Projects",
-      "category": "Innovation",
-      "date": "2026-11-04",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/11/04/odisha-secures-inr-1-17-lakh-crore-investment-proposals-for-11742-mw-clean-energy-projects/",
-      "imageUrl": "",
-      "summary": "Odisha has attracted investment proposals totaling ₹1,17,557 crore through 18 MoUs at the Bharat Renewable Energy Summit 2026. These investments aim to develop 11,742 MW of clean energy capacity and enhance the state's renewable energy sector. The initiatives support Odisha’s goal to become a major renewable energy hub by 2047. The post Odisha Secures INR 1.17 Lakh Crore Investment Proposals For 11,742 MW Clean Energy Projects appeared first on SolarQuarter .",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "CERC Adopts Tariffs For SECI’s 400 MW Solar Projects At INR 2.42–2.54 Per kWh",
-      "category": "Innovation",
-      "date": "2026-11-04",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/11/04/cerc-adopts-tariffs-for-secis-400-mw-solar-projects-at-inr-2-42-2-54-per-kwh/",
-      "imageUrl": "",
-      "summary": "The Central Electricity Regulatory Commission (CERC) has approved tariffs for 400 MW of solar power capacity, as per a request from the Solar Energy Corporation of India (SECI). This decision, based on a competitive bidding process, includes two project packages with tariffs set at ₹2.54 and ₹2.42 per kWh. The post CERC Adopts Tariffs For SECI’s 400 MW Solar Projects At INR 2.42–2.54 Per kWh appeared first on SolarQuarter .",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "₹53866 crore corvette deal: India strengthens naval power, indigenous shipbuilding and maritime security",
-      "category": "Innovation",
-      "date": "2026-11-03",
-      "source": "ET Government - Defence",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/defence/53866-crore-corvette-deal-india-strengthens-naval-power-indigenous-shipbuilding-and-maritime-security/135479465",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135479511.cms?mod=2019432",
-      "summary": "The Indian Navy’s acquisition of eight Next Generation Corvettes marks a major investment in maritime security and domestic defence manufacturing. The programme’s success will depend on timely delivery, indigenous technology integration and operational effectiveness.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "et government - defence"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "Karnataka signs LoI with Finland's Business Tampere to explore creative corridor",
-      "category": "Innovation",
-      "date": "2026-11-03",
-      "source": "ET Government - Technology",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/technology/karnataka-signs-loi-with-finlands-business-tampere-to-explore-creative-corridor/135500344",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135501057.cms?mod=1413451",
-      "summary": "The LoI has been signed by the state government, under the Global Innovation Alliance (GIA) initiative of the Department of Electronics, Information Technology and Biotechnology, through the Karnataka Innovation and Technology Society (KITS), officials said.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "et government - technology"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "India has never allowed import of GM products, will not do so in future: Goyal",
-      "category": "Markets",
-      "date": "2026-11-03",
-      "source": "ET Government - Economy",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/india-has-never-allowed-import-of-gm-products-will-not-do-so-in-future-goyal/135489279",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135492079.cms?mod=74000",
-      "summary": "India's Commerce and Industry Minister Piyush Goyal reiterated that the country will not allow genetically modified products. He emphasized the sensitivity of the dairy sector, stating there have been no duty concessions in free trade agreements.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "markets",
-        "et government - economy"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "Bihar CM says Farakka Treaty restricts state's industrial water access",
-      "category": "Development",
-      "date": "2026-11-03",
-      "source": "ET Government - Policy",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/bihar-cm-says-farakka-treaty-restricts-states-industrial-water-access/135492473",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135492527.cms?mod=97565",
-      "summary": "Bihar Chief Minister Samrat Choudhary highlighted the need for adequate water to promote economic development. He pointed out that the Farakka Water Treaty restricts Bihar to receive water for only four months each year.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "et government - policy"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "Indian Navy rescues hijacked fishing vessel off Somalia coast",
-      "category": "Innovation",
-      "date": "2026-11-03",
-      "source": "ET Government - Defence",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/defence/indian-navy-rescues-hijacked-fishing-vessel-off-somalia-coast/135484684",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135484807.cms?mod=369478",
-      "summary": "The Indian Navy successfully executed a rescue operation for the hijacked vessel Azini off the coast of Somalia. A total of 20 crew members were safely released with no reported casualties during the operation.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "et government - defence"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "Tamil Nadu tops states in research publications on Niti Aayog's S&T scoreboard",
-      "category": "Innovation",
-      "date": "2026-11-03",
-      "source": "ET Government - Technology",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/technology/tamil-nadu-tops-states-in-research-publications-on-niti-aayogs-st-scoreboard/135503527",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135504458.cms?mod=122868",
-      "summary": "Releasing the 'India S&T Scoreboard' report, Niti Aayog vice chairman Ashok Kumar Lahiri said India's further progress in science and technology requires a more active role by states.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "et government - technology"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "MEA condemns attack on vessel off Oman coast that kills one Indian national",
-      "category": "Development",
-      "date": "2026-11-03",
-      "source": "ET Government - Policy",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/mea-condemns-attack-on-vessel-off-oman-coast-that-kills-one-indian-national/135504976",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135490332.cms?mod=37144",
-      "summary": "India condemns the attack on MSV AL JUSUFI near Limah, Oman, as 13 of the 14 Indian nationals onboard are rescued; Embassy coordinates repatriation of survivors and mortal remains.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "et government - policy"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "When livelihoods adapt to a changing wetland",
-      "category": "Development",
-      "date": "2026-11-03",
-      "source": "Mongabay India",
-      "sourceShort": "MON",
-      "sourceUrl": "https://india.mongabay.com/",
-      "articleUrl": "https://india.mongabay.com/2026/11/when-livelihoods-adapt-to-a-changing-wetland/",
-      "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/11/03101613/IMG202308151709312-768x512.jpg",
-      "summary": "Each year, as winter begins around mid November, Arup Das looks out across the marsh surrounding his home in Dargarbond, one of the many villages around Son Beel, a seasonal wetland in Assam. The land around him was submerged under water just a couple of months ago. Now, as the water recedes, he releases his […]",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "mongabay india"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "PM Narendra Modi Inaugurates Bharat Renewable Energy Summit 2026, Highlights India’s 310 GW Non-Fossil Capacity",
-      "category": "Innovation",
-      "date": "2026-11-03",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/11/03/pm-narendra-modi-inaugurates-bharat-renewable-energy-summit-2026-highlights-indias-310-gw-non-fossil-capacity/",
-      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2020/10/renewable-1989416_640.jpg?fit=640%2C426&quality=89&ssl=1",
-      "summary": "Prime Minister Narendra Modi inaugurated the Bharat Renewable Energy Summit 2026 in New Delhi to enhance India's renewable energy investment ecosystem and international cooperation. He emphasized the importance of clean energy for economic security and encouraged innovation in solar technologies. Union Minister Joshi highlighted significant progress and investments in the renewable sector, urging global investors to engage. The post PM Narendra Modi Inaugurates Bharat Renewable Energy Summit 202",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "RAYZON Solar to Commission 5.1 GW TOPCon Cell Facility in December 2026",
-      "category": "Innovation",
-      "date": "2026-11-03",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/11/03/rayzon-solar-to-commission-5-1-gw-topcon-cell-facility-in-december-2026/",
-      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/Facility-Image-1.png?fit=1672%2C941&quality=80&ssl=1",
-      "summary": "RAYZON Solar Limited, India's second-largest solar module supplier, plans to launch a 5.1 GW TOPCon solar cell manufacturing facility in December 2026, with initial deliveries in early 2027. The company aims to enhance domestic manufacturing and reduce reliance on imports. Future projects include an ingot casting and wafer slicing facility by 2028, supporting India's renewable energy goals. The post RAYZON Solar to Commission 5.1 GW TOPCon Cell Facility in December 2026 appeared first on SolarQu",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "CERC Restores 925 MW Nokh Solar Park BESS Connectivity Application After Stamp Paper Dispute",
-      "category": "Innovation",
-      "date": "2026-11-03",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/11/03/cerc-restores-925-mw-nokh-solar-park-bess-connectivity-application-after-stamp-paper-dispute/",
-      "imageUrl": "",
-      "summary": "The Central Electricity Regulatory Commission (CERC) overturned a closure decision by the Central Transmission Utility of India Limited (CTUIL) against Rajasthan Solarpark Development Company Limited (RSDCL). The ruling allows RSDCL to restore its application for battery energy storage at the Nokh Solar Park, emphasizing the rectification of a minor administrative error. The post CERC Restores 925 MW Nokh Solar Park BESS Connectivity Application After Stamp Paper Dispute appeared first on SolarQ",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "CEA Marks 50 Years Since October 15, 1975, Highlighting One Nation One Grid Achievement and India’s 500 GW Clean Energy Target",
-      "category": "Innovation",
-      "date": "2026-11-03",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/11/03/cea-marks-50-years-since-october-15-1975-highlighting-one-nation-one-grid-achievement-and-indias-500-gw-clean-energy-target/",
-      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2019/10/electricity-1330214_1920.jpg?fit=1920%2C1277&quality=89&ssl=1",
-      "summary": "The Central Electricity Authority (CEA) celebrated its 50th anniversary with a special edition of Vidyut Vahini, showcasing India's power sector evolution. Highlights include major achievements, the development of a national grid, efforts towards renewable energy, and technical advancements. The edition also features literary contributions, emphasizing the CEA's dedication to a sustainable energy future. The post CEA Marks 50 Years Since October 15, 1975, Highlighting One Nation One Grid Achieve",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "Terra Clean Invites EPC Contractors For Solar Projects Above 500 MWp",
-      "category": "Innovation",
-      "date": "2026-11-03",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/11/03/terra-clean-invites-epc-contractors-for-solar-projects-above-500-mwp/",
-      "imageUrl": "",
-      "summary": "Terra Clean Limited, a subsidiary of Indian Oil Corporation, has announced domestic tenders for empaneling Engineering, Procurement and Construction (EPC) contractors for solar photovoltaic projects in India. The initiative categorizes contractors based on project capacity and aims to create a pool of qualified professionals. Bidders must meet specific qualifications and submit documents by November 30, 2026. The post Terra Clean Invites EPC Contractors For Solar Projects Above 500 MWp appeared",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "IEX Records 13.1 Billion Units Electricity Trading Volume In October 2026, Up 16.5% Yoy",
-      "category": "Innovation",
-      "date": "2026-11-03",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/11/03/iex-records-13-1-billion-units-electricity-trading-volume-in-october-2026-up-16-5-yoy/",
-      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/indian-power-exchange-graphs-6ae9dbfc905f8.png?fit=1376%2C768&quality=80&ssl=1",
-      "summary": "In October 2026, the Indian Energy Exchange reported a 16.5% increase in electricity traded volume, reaching 13,092 million units, driven by rising demand. India's electricity consumption surged by 21.9%, with notable increases in market prices. Despite varying demand, trading in Renewable Energy Certificates rose significantly, indicating heightened market activity. The post IEX Records 13.1 Billion Units Electricity Trading Volume In October 2026, Up 16.5% Yoy appeared first on SolarQuarter .",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "Noida Power Company Invites Bids For 320 MWh Standalone BESS Project In Greater Noida Under 12-Year BOOT Model",
-      "category": "Innovation",
-      "date": "2026-11-03",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/11/03/noida-power-company-invites-bids-for-320-mwh-standalone-bess-project-in-greater-noida-under-12-year-boot-model/",
-      "imageUrl": "",
-      "summary": "Noida Power Company Limited has announced a Request for Selection for a 320 MWh Battery Energy Storage System in Greater Noida, with an 80 MW capacity to last four hours. Developed under a 12-year BOOT model, the project aims to enhance local power infrastructure. Bidders must meet performance standards and submit bids by December 2026. The post Noida Power Company Invites Bids For 320 MWh Standalone BESS Project In Greater Noida Under 12-Year BOOT Model appeared first on SolarQuarter .",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "RenewSys Signs 1.2 GW Supply Agreement with Kosol Energie for POE Encapsulants and Backsheets",
-      "category": "Innovation",
-      "date": "2026-11-03",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/11/03/renewsys-signs-1-2-gw-supply-agreement-with-kosol-energie-for-poe-encapsulants-and-backsheets/",
-      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/solar-encapsulant-manufacturing-in-a-modern-facility-6ae9b98019399.png?fit=1376%2C768&quality=80&ssl=1",
-      "summary": "RenewSys India Pvt. Ltd. has signed a 1.2 GW supply agreement with Kosol Energie Pvt. Ltd. to provide encapsulants and backsheets for solar module production from October 2026 to September 2027. This agreement builds on a prior contract, supporting the scaling of TOPCon solar module manufacturing in India while enhancing domestic supply chains. The post RenewSys Signs 1.2 GW Supply Agreement with Kosol Energie for POE Encapsulants and Backsheets appeared first on SolarQuarter .",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "Borosil Renewables Reports 53.1% Profit Growth in Q2 FY27, Expands Solar Glass Capacity to 1,600 TPD",
-      "category": "Innovation",
-      "date": "2026-11-03",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/11/03/borosil-renewables-reports-53-1-profit-growth-in-q2-fy27-expands-solar-glass-capacity-to-1600-tpd/",
-      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2022/10/18-4.png?fit=1200%2C675&quality=80&ssl=1",
-      "summary": "Borosil Renewables Limited showed strong financial results in FY2027's second quarter and first half, with a 12.8% revenue increase to ₹801.8 crore. Profit After Tax reached ₹157.8 crore. The company is expanding its solar glass capacity by 60% and aims to reduce reliance on imports, supporting India's growing renewable energy sector. The post Borosil Renewables Reports 53.1% Profit Growth in Q2 FY27, Expands Solar Glass Capacity to 1,600 TPD appeared first on SolarQuarter .",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "CLA Town Center Mall Commissions Rooftop Solar Project, Secures 860 MWh Annual Clean Energy In Philippines",
-      "category": "Innovation",
-      "date": "2026-11-03",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/11/03/cla-town-center-mall-commissions-rooftop-solar-project-secures-860-mwh-annual-clean-energy-in-philippines/",
-      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/CLA-mall.png?fit=1376%2C768&quality=80&ssl=1",
-      "summary": "CLA Town Center Mall in Pagsanjan has partnered with Peak Energy to install a 0.6 MWp rooftop solar power system, generating about 860 MWh of clean electricity annually. The project, under a 10-year agreement, aims to cut energy costs and reduce carbon emissions, showcasing renewable energy's benefits for commercial properties. The post CLA Town Center Mall Commissions Rooftop Solar Project, Secures 860 MWh Annual Clean Energy In Philippines appeared first on SolarQuarter .",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "WattPower Secures 1 GW Utility-Scale Solar Inverter Supply Order from ReNew",
-      "category": "Innovation",
-      "date": "2026-11-03",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/11/03/wattpower-secures-1-gw-utility-scale-solar-inverter-supply-order-from-renew/",
-      "imageUrl": "",
-      "summary": "WattPower has secured a 1 GW order for utility-scale solar inverters from ReNew, including the WP-330KTL and the new WP-506KTL grid-forming models. The agreement, signed at the Renewable Energy India Expo 2026, underscores growing demands for inverter technologies that enhance grid stability and support large-scale solar deployments in evolving power grids. The post WattPower Secures 1 GW Utility-Scale Solar Inverter Supply Order from ReNew appeared first on SolarQuarter .",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "SWELECT Energy Invests INR 4.36 Crore in 4.5 MWp Group Captive Solar Project In Keralam",
-      "category": "Innovation",
-      "date": "2026-11-03",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/11/03/swelect-energy-invests-inr-4-36-crore-in-4-5-mwp-group-captive-solar-project-in-keralam/",
-      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2022/10/6-2.png?fit=1200%2C675&quality=80&ssl=1",
-      "summary": "SWELECT Energy Systems Limited plans to invest up to ₹4.36 crore in its subsidiary, SWELECT Radiant Power Private Limited, for a 4.5 MWp DC solar power plant in Kerala. This move aims to enhance its renewable energy portfolio, transitioning the subsidiary from wholly-owned to majority-owned, while supporting clean energy initiatives. The post SWELECT Energy Invests INR 4.36 Crore in 4.5 MWp Group Captive Solar Project In Keralam appeared first on SolarQuarter .",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "Resolven Secures 70 MW Wind Project From SJVN At INR 3.65/kWh, Expands Pipeline To 2.2 GW",
-      "category": "Innovation",
-      "date": "2026-11-03",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/11/03/resolven-secures-70-mw-wind-project-from-sjvn-at-inr-3-65-kwh-expands-pipeline-to-2-2-gw/",
-      "imageUrl": "",
-      "summary": "Resolven has won a 70 MW wind power project in Karnataka at a tariff of ₹3.65 per kWh, part of a 600 MW tender by SJVN Limited, scheduled for December 2027. This marks Resolven’s second consecutive wind energy win, enhancing its 2.2 GW project pipeline and reinforcing its commitment to renewable energy expansion in India. The post Resolven Secures 70 MW Wind Project From SJVN At INR 3.65/kWh, Expands Pipeline To 2.2 GW appeared first on SolarQuarter .",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "India likely to meet FY27 fiscal deficit target despite spending pressures: Goldman Sachs",
-      "category": "Markets",
-      "date": "2026-11-02",
-      "source": "ET Government - Economy",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/india-likely-to-meet-fy27-fiscal-deficit-target-despite-spending-pressures-goldman-sachs/135449158",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135449217.cms?mod=457660",
-      "summary": "The Centre is likely to meet its fiscal deficit target of 4.3 per cent of GDP for FY27 despite the deficit reaching 42.6 per cent of the full-year estimate in the first six months, as stronger corporate tax collections are helping offset revenue pressures, according to a report by Goldman Sachs Research.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "markets",
-        "et government - economy"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "Sebi allows REITs, InvITs to issue depository receipts",
-      "category": "Markets",
-      "date": "2026-11-02",
-      "source": "ET Government - Economy",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/sebi-allows-reits-invits-to-issue-depository-receipts/135467096",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135467159.cms?mod=56004",
-      "summary": "Sebi has permitted the issuance of Depository Receipts against the units of Real Estate Investment Trusts and Infrastructure Investment Trusts. This move aims to draw more foreign investment into these financial instruments, enhancing capital inflow.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "markets",
-        "et government - economy"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "India-France defence ties poised for new phase, with 114 Rafales in focus",
-      "category": "Innovation",
-      "date": "2026-11-02",
-      "source": "ET Government - Defence",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/defence/india-france-defence-ties-poised-for-new-phase-with-114-rafales-in-focus/135466757",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135466824.cms?mod=266550",
-      "summary": "India and France are advancing their defence relationship with proposals for new fighter aircraft and submarines. The two nations are collaborating on advanced technologies and strategic partnerships essential for regional security.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "et government - defence"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "Tatas important for economy; differences should be settled amicably: FM",
-      "category": "Markets",
-      "date": "2026-11-02",
-      "source": "ET Government - Economy",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/tatas-important-for-economy-differences-should-be-settled-amicably-fm/135465364",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135465594.cms?mod=92422",
-      "summary": "Finance Minister Nirmala Sitharaman highlighted the importance of resolving the differences between Tata Sons and Tata Trusts. She stated that the matter is crucial for the Indian economy and should not be publicized further.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "markets",
-        "et government - economy"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "Bengaluru to digitise TDR system to speed up road widening",
-      "category": "Development",
-      "date": "2026-11-02",
-      "source": "ET Government - Smart Infrastructure",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/smart-infra/bengaluru-to-digitise-tdr-system-to-speed-up-road-widening/135468017",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135468040.cms?mod=240315",
-      "summary": "The entire process, from application and verification to certificate issuance and subsequent transactions, will be brought online, officials said.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "et government - smart infrastructure"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "NTPC to set up India's first ceramic-based project to generate solar power at night in Rajasthan's Bhadla",
-      "category": "Development",
-      "date": "2026-11-02",
-      "source": "ET Government - Policy",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/ntpc-to-set-up-indias-first-ceramic-based-project-to-generate-solar-power-at-night-in-rajasthans-bhadla/135453875",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135453954.cms?mod=125485",
-      "summary": "The project aims to assess the possibility of generating solar power at night while reducing dependence on conventional battery storage.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "et government - policy"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "Study maps foot-and-mouth disease risk zones where livestock and wildlife overlap",
-      "category": "Development",
-      "date": "2026-11-02",
-      "source": "Mongabay India",
-      "sourceShort": "MON",
-      "sourceUrl": "https://india.mongabay.com/",
-      "articleUrl": "https://india.mongabay.com/2026/11/study-maps-foot-and-mouth-disease-risk-zones-where-livestock-and-wildlife-overlap/",
-      "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/11/02135852/Markhor-1-768x512.jpg",
-      "summary": "Every summer, Gujjar and Bakarwal pastoralists in Jammu and Kashmir move their livestock to the mountains in search of pastures. These routes bring the cattle closer to habitats of rare wild ungulates such as the endangered hangul (Kashmir red deer) and the markhor (wild goat). This is risky, as foot-and-mouth disease (FMD) outbreaks have been […]",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "mongabay india"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "India’s emissions growth slows as renewable energy begins replacing coal, UNEP report finds",
-      "category": "Development",
-      "date": "2026-11-02",
-      "source": "Mongabay India",
-      "sourceShort": "MON",
-      "sourceUrl": "https://india.mongabay.com/",
-      "articleUrl": "https://india.mongabay.com/2026/11/indias-emissions-growth-slows-as-renewable-energy-begins-replacing-coal-unep-report-finds/",
-      "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/11/02114510/AP23269090407095-768x512.jpg",
-      "summary": "The upward trend of greenhouse gas emissions in India showed a significant change in 2025. The trend, which was indicating a longer period of rapid growth, has pivoted from this path and is now showing a slight decline in India’s emissions. This has been reported in the United Nations Environment Programme’s (UNEP) new report Emissions […]",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "mongabay india"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "Avaada Electro Achieves 7.1 GW ALMM Enlistment for TOPCon Solar Cell Manufacturing Capacity in Maharashtra",
-      "category": "Innovation",
-      "date": "2026-11-02",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/11/02/avaada-electro-achieves-7-1-gw-almm-enlistment-for-topcon-solar-cell-manufacturing-capacity-in-maharashtra/",
-      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/solarquarter-6ae810f4792e3.png?fit=1376%2C768&quality=80&ssl=1",
-      "summary": "Avaada Electro Limited has achieved a significant milestone by securing 7,117 MW of N-type TOPCon solar cell manufacturing capacity under India's Ministry of New and Renewable Energy. This advancement aims to enhance India's solar manufacturing ecosystem and promote self-reliance while emphasizing technology development, operational efficiency, and consistent product quality. The post Avaada Electro Achieves 7.1 GW ALMM Enlistment for TOPCon Solar Cell Manufacturing Capacity in Maharashtra appea",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "“The Sun Is Africa’s Gold”: Jinko Solar’s Adama Cissé on West Africa’s Solar Growth, Technology and Opportunities",
-      "category": "Innovation",
-      "date": "2026-11-02",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/11/02/the-sun-is-africas-gold-jinko-solars-adama-cisse-on-west-africas-solar-growth-technology-and-opportunities/",
-      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/Jinko-Tiger-Neo-III-Solar-Banner.png?fit=1672%2C941&quality=80&ssl=1",
-      "summary": "West Africa's solar PV market is growing due to increasing electricity demand and utility-scale projects, although diverse regulations and climatic challenges persist. In a discussion with Adama Cissé of Jinko Solar, she highlights the importance of technology choice and local partnerships in driving adoption, along with the successful introduction of the Tiger Neo 3.0 technology. The post “The Sun Is Africa’s Gold”: Jinko Solar’s Adama Cissé on West Africa’s Solar Growth, Technology and Opportu",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "From Rooftops to Utility-Scale Solar: HYXI Highlights Smart Energy Solutions at REI Expo 2026",
-      "category": "Innovation",
-      "date": "2026-11-02",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/11/02/from-rooftops-to-utility-scale-solar-hyxi-highlights-smart-energy-solutions-at-rei-expo-2026/",
-      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/Hyxi2.jpg?fit=4016%2C2681&quality=89&ssl=1",
-      "summary": "HYXI showcased its diverse solar and energy storage solutions at the Renewable Energy India Expo 2026, promoting its vision of \"Smarter Energy for All.\" The company displayed products across various market segments, including the HYXI Cloud for energy monitoring. This participation aimed to enhance brand recognition and explore new business opportunities in India’s renewable energy sector. The post From Rooftops to Utility-Scale Solar: HYXI Highlights Smart Energy Solutions at REI Expo 2026 appe",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "GERC Notifies 2026 Distributed Renewable Energy Regulations, Introduces Five Metering Options and BESS Requirements In Gujarat",
-      "category": "Innovation",
-      "date": "2026-11-02",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/11/02/gerc-notifies-2026-distributed-renewable-energy-regulations-introduces-five-metering-options-and-bess-requirements-in-gujarat/",
-      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2022/10/8-2.png?fit=1200%2C675&quality=80&ssl=1",
-      "summary": "The Gujarat Electricity Regulatory Commission has issued new regulations for grid-connected distributed renewable energy systems, replacing 2016 provisions. The regulations introduce various metering mechanisms, set battery storage requirements for larger prosumers, and establish energy settlement mechanisms. Consumers will also benefit from carbon credits and must comply with safety and monitoring standards. The post GERC Notifies 2026 Distributed Renewable Energy Regulations, Introduces Five M",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "NTPC To Set Up India’s First 320 kW Ceramic Thermal Storage-Based Solar Project In Rajasthan",
-      "category": "Innovation",
-      "date": "2026-11-02",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/11/02/ntpc-to-set-up-indias-first-320-kw-ceramic-thermal-storage-based-solar-project-in-rajasthan/",
-      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/solarquarter-6ae865981d2f2.png?fit=1376%2C768&quality=80&ssl=1",
-      "summary": "NTPC plans to establish India's first ceramic thermal energy storage-based concentrated solar power pilot project at Bhadla Solar Park, Rajasthan. This 320 kW project aims to generate electricity after sunset using stored solar heat, reducing reliance on conventional battery systems. Successful implementation could enhance solar power efficiency and support India's renewable energy goals. The post NTPC To Set Up India’s First 320 kW Ceramic Thermal Storage-Based Solar Project In Rajasthan appear",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "Oman Strengthens Clean Energy And Green Hydrogen Cooperation With Singapore To Attract Strategic Investments",
-      "category": "Innovation",
-      "date": "2026-11-02",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/11/02/oman-strengthens-clean-energy-and-green-hydrogen-cooperation-with-singapore-to-attract-strategic-investments/",
-      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/solarquarter-6ae87cde76026.png?fit=1376%2C768&quality=80&ssl=1",
-      "summary": "Oman seeks to enhance economic and energy ties with Singapore, focusing on clean energy and green hydrogen. At a summit, Omani officials promoted investment opportunities and technological collaboration, highlighting Oman’s regulatory stability and renewable resources. Delegations visited Singaporean facilities for knowledge exchange, aiming to position Oman as a competitive destination for clean energy investments. The post Oman Strengthens Clean Energy And Green Hydrogen Cooperation With Singa",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false
-    },
-    {
-      "title": "From Complex Models to Real-World Impact: COMSOL Webinar to Spotlight Renewable Energy Simulation",
-      "category": "Innovation",
-      "date": "2026-11-02",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/11/02/from-complex-models-to-real-world-impact-comsol-webinar-to-spotlight-renewable-energy-simulation/",
-      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/1440x680_SimulApps_DigiTwins.png?fit=1440%2C680&quality=80&ssl=1",
-      "summary": "The webinar on 18 November 2026, hosted by COMSOL® and SolarQuarter, will focus on utilising accessible simulation apps in the renewable energy sector. It aims to empower engineering teams by simplifying complex models, enhancing collaboration through digital twins, and improving app performance with surrogate models. Registration is now open for interested professionals. The post From Complex Models to Real-World Impact: COMSOL Webinar to Spotlight Renewable Energy Simulation appeared first on",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
     }
   ]
 }
