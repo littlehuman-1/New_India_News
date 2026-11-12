@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T15:31:37.650611+00:00",
+  "updatedAt": "2026-11-12T22:23:19.724277+00:00",
   "featuredArticleUrl": null,
   "articles": [
     {
@@ -84,6 +84,33 @@
       }
     },
     {
+      "title": "Indian agriculture grows over 4% annually for first time since Independence, says PM Modi",
+      "category": "Markets",
+      "date": "2026-11-12",
+      "source": "ET Government - Economy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/indian-agriculture-grows-over-4-annually-for-first-time-since-independence-says-pm-modi/135777251",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135777628.cms?mod=203636",
+      "summary": "\"Agriculture is our culture, our tradition and the basis of our social life,\" Prime Minister Narendra Modi said, adding that a developed India is not possible without making agriculture \"smarter\" and farmers \"self-reliant\".",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "markets",
+        "et government - economy"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
       "title": "UP attracts over ₹50 lakh crore in investments in 9.5 years: CM Yogi Adityanath",
       "category": "Markets",
       "date": "2026-11-12",
@@ -99,6 +126,33 @@
       "tags": [
         "markets",
         "et government - economy"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Odisha signs pact for ₹1,000 crore desalination plant at Gopalpur",
+      "category": "Development",
+      "date": "2026-11-12",
+      "source": "ET Government - Smart Infrastructure",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/smart-infra/odisha-signs-pact-for-1000-crore-desalination-plant-at-gopalpur/135778187",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135778397.cms?mod=869284",
+      "summary": "The proposed 100 MLD (million litres per day) facility will come up at Gopalpur Industrial Park and cater to the water requirements of industries in the region.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "et government - smart infrastructure"
       ],
       "isSample": false,
       "isFeatured": false,
