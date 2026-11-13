@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T02:45:39.330858+00:00",
+  "updatedAt": "2026-11-13T11:19:32.387683+00:00",
   "featuredArticleUrl": null,
   "articles": [
     {
@@ -18,6 +18,114 @@
       "tags": [
         "innovation",
         "et government - digital india"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Argentina emerging as India's reliable partner in food security: Ambassador Caucino",
+      "category": "Markets",
+      "date": "2026-11-13",
+      "source": "ET Government - Economy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/argentina-emerging-as-indias-reliable-partner-in-food-security-ambassador-caucino/135792396",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135792479.cms?mod=74806",
+      "summary": "Argentina is strengthening India's food security through edible oil supplies while expanding bilateral cooperation in agricultural technology, farm machinery, mining and trade, says Ambassador Caucino.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "markets",
+        "et government - economy"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Geopolitical shocks put energy security and clean energy transition in focus",
+      "category": "Development",
+      "date": "2026-11-13",
+      "source": "Mongabay India",
+      "sourceShort": "MON",
+      "sourceUrl": "https://india.mongabay.com/",
+      "articleUrl": "https://india.mongabay.com/2026/11/geopolitical-shocks-put-energy-security-and-clean-energy-transition-in-focus/",
+      "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/11/13123631/AP26316733211275-768x512.jpg",
+      "summary": "The wars disrupting global energy markets have exposed the strategic weakness of an economy built on fossil fuels. Countries dependent on imported oil and gas can find their growth, public finances and energy supplies hostage to conflicts thousands of kilometres away. A threatened shipping route or an interruption in supplies can quickly raise the cost […]",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "mongabay india"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Nigeria Commissions 1.6 MW Solar Hybrid Project At Federal University of Lafia",
+      "category": "Innovation",
+      "date": "2026-11-13",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/13/nigeria-commissions-1-6-mw-solar-hybrid-project-at-federal-university-of-lafia/",
+      "imageUrl": "",
+      "summary": "\", }\" /> Federal University of Lafia has commissioned a 1.6-megawatt captive solar hybrid power project under Phase III of the Federal Government’s Energising Education Programme. The facility is expected to improve electricity reliability, support digital learning, laboratories, teaching and research, and strengthen the university’s infrastructure while advancing renewable energy and human capital development. The post Nigeria Commissions 1.6 MW Solar Hybrid Project At Federal University of Laf",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Connecting Nuclear Power, Hydrogen Innovation and Global Partnerships : Kong Young-gon, Vice President, KHNP HyNew",
+      "category": "Innovation",
+      "date": "2026-11-13",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/13/connecting-nuclear-power-hydrogen-innovation-and-global-partnerships-kong-young-gon-vice-president-khnp-hynew/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/KHNP.png?fit=3200%2C1436&quality=80&ssl=1",
+      "summary": "Mr. Kong Young-gon, Vice President, Head of H2 & Smart Business Development, KHNP HyNew \" /> KHNP is developing clean hydrogen production using nuclear and renewable electricity, with projects including the commissioning of a Korean production base and a 10 MW low-temperature electrolysis demonstration. It is also advancing high-temperature electrolysis, strengthening the full hydrogen value chain and pursuing international partnerships. Commercial success will depend on costs, infrastructure, r",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
       ],
       "isSample": false,
       "isFeatured": false,
@@ -354,33 +462,6 @@
       }
     },
     {
-      "title": "South Africa Registers 2,045 MW Of Solar Capacity As Renewable Energy Investment Reaches $4.7 Billion",
-      "category": "Innovation",
-      "date": "2026-11-12",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/11/12/south-africa-registers-2045-mw-of-solar-capacity-as-renewable-energy-investment-reaches-4-7-billion/",
-      "imageUrl": "",
-      "summary": "\", }\" /> South Africa registered 3,129MW of new private generation capacity worth R78.16 billion in the second quarter of 2026/27. Solar led with 2,045MW across 139 projects, alongside wind, battery storage and co-generation. Regulatory reforms boosted investment, but financing, grid connections and transmission constraints remain challenges to delivering operational capacity. The post South Africa Registers 2,045 MW Of Solar Capacity As Renewable Energy Investment Reaches $4.7 Billion appeared ",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false,
-      "translations": {
-        "hi": {},
-        "ta": {},
-        "ml": {},
-        "kn": {},
-        "te": {}
-      }
-    },
-    {
       "title": "Nigeria Launches $300 Million Renewable Energy Fund To Expand Mini-Grids And Solar Access",
       "category": "Innovation",
       "date": "2026-11-12",
@@ -389,7 +470,7 @@
       "sourceUrl": "https://solarquarter.com/",
       "articleUrl": "https://solarquarter.com/2026/11/12/nigeria-launches-300-million-renewable-energy-fund-to-expand-mini-grids-and-solar-access/",
       "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2022/10/1-5.png?fit=1200%2C675&quality=80&ssl=1",
-      "summary": "Nigeria’s Sovereign Investment Authority and institutional partners have launched a $300 million fund to expand distributed renewable energy. Supporting mini-grids and standalone solar systems, the initiative targets underserved communities, attracts private investment, and strengthens local power generation. It aims to improve livelihoods, businesses, employment, and Nigeria’s broader clean energy transition. The post Nigeria Launches $300 Million Renewable Energy Fund To Expand Mini-Grids And ",
+      "summary": "Nigeria’s Sovereign Investment Authority and institutional partners have launched a $300 million fund to expand distributed renewable energy. Supporting mini-grids and standalone solar systems, the initiative targets underserved communities, attracts private investment, and strengthens local power generation. It aims to improve livelihoods, businesses, employment, and Nigeria’s broader clean energy transition. The post Nigeria Launches $300 Million Renewable Energy Fund To Expand Mini-Grids And",
       "icon": "📰",
       "visualBg": "#e2f0ed",
       "visualInk": "#276b5c",
@@ -417,6 +498,33 @@
       "articleUrl": "https://solarquarter.com/2026/11/12/cleanmax-plans-inr-50000-crore-investment-in-andhra-pradesh-for-2-gw-green-compute-factory/",
       "imageUrl": "",
       "summary": "CleanMax Enviro Energy Solutions will invest nearly ₹50,000 crore in Andhra Pradesh to develop an integrated clean energy complex supporting Neysa’s 2 GW Green Compute Factory in Kurnool. The project includes 3 GW of wind and solar capacity, 1 GW of pumped storage, batteries and dedicated distribution infrastructure, with phased commissioning beginning by 2029. The post CleanMax Plans INR 50,000 Crore Investment In Andhra Pradesh For 2 GW Green Compute Factory appeared first on SolarQuarter .",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "South Africa Registers 2,045 MW Of Solar Capacity As Renewable Energy Investment Reaches $4.7 Billion",
+      "category": "Innovation",
+      "date": "2026-11-12",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/12/south-africa-registers-2045-mw-of-solar-capacity-as-renewable-energy-investment-reaches-4-7-billion/",
+      "imageUrl": "",
+      "summary": "\" South Africa registered 3,129MW of new private generation capacity worth R78.16 billion in the second quarter of 2026/27. Solar led with 2,045MW across 139 projects, alongside wind, battery storage and co-generation. Regulatory reforms boosted investment, but financing, grid connections and transmission constraints remain challenges to delivering operational capacity. The post South Africa Registers 2,045 MW Of Solar Capacity As Renewable Energy Investment Reaches $4.7 Billion appeared",
       "icon": "📰",
       "visualBg": "#e2f0ed",
       "visualInk": "#276b5c",
