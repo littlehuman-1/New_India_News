@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T11:19:32.387683+00:00",
+  "updatedAt": "2026-11-13T18:39:49.910527+00:00",
   "featuredArticleUrl": null,
   "articles": [
     {
@@ -18,6 +18,33 @@
       "tags": [
         "innovation",
         "et government - digital india"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Andhra Pradesh signs investment MoUs worth ₹9.02 lakh crore at Vizag summit",
+      "category": "Markets",
+      "date": "2026-11-13",
+      "source": "ET Government - Economy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/andhra-pradesh-signs-investment-mous-worth-9-02-lakh-crore-at-vizag-summit/135810960",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135811744.cms?mod=1014630",
+      "summary": "Addressing the media at the conclusion of the Summit, Andhra Pradesh Chief Minister Chandrababu Naidu said that the state was able to sign MoUs of ₹32.5 lakh crore in the last two CII partnership summits.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "markets",
+        "et government - economy"
       ],
       "isSample": false,
       "isFeatured": false,
@@ -57,6 +84,114 @@
       }
     },
     {
+      "title": "India's October merchandise trade deficit rose to one-year high of $39.88 billion",
+      "category": "Markets",
+      "date": "2026-11-13",
+      "source": "ET Government - Economy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/indias-october-merchandise-trade-deficit-rose-to-one-year-high-of-39-88-billion/135803664",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135803647.cms?mod=397649",
+      "summary": "India's merchandise trade deficit rose to a one-year high of $39.88 billion in October, according to a Reuters calculation based on government export and import data released on Friday.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "markets",
+        "et government - economy"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Punjab Governor calls for technological self-reliance, indigenous defence production",
+      "category": "Innovation",
+      "date": "2026-11-13",
+      "source": "ET Government - Defence",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/defence/punjab-governor-calls-for-technological-self-reliance-indigenous-defence-production/135811957",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135812077.cms?mod=33698",
+      "summary": "Governor Kataria underscored Chandigarh's unique connection with the armed forces, given the significant presence of serving and retired defence personnel in the city.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "et government - defence"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Odisha signs friendship pact with Japan’s Tottori, eyes Japanese investment and skilled jobs",
+      "category": "Markets",
+      "date": "2026-11-13",
+      "source": "ET Government - Economy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/odisha-signs-friendship-pact-with-japans-tottori-eyes-japanese-investment-and-skilled-jobs/135800973",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135801095.cms?mod=215613",
+      "summary": "The agreements cover industrial cooperation, startup exchanges and vocational training, with a focus on manufacturing and nursing care jobs in Japan.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "markets",
+        "et government - economy"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Rajasthan CM Bhajan Lal Sharma lays foundation stone for new state terminal building at Jaipur airport",
+      "category": "Development",
+      "date": "2026-11-13",
+      "source": "ET Government - Smart Infrastructure",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/smart-infra/rajasthan-cm-bhajan-lal-sharma-lays-foundation-stone-for-new-state-terminal-building-at-jaipur-airport/135808164",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135808694.cms?mod=1344365",
+      "summary": "The CM said work was underway to expand air connectivity in Kota, Kishangarh, Barmer and Bikaner.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "et government - smart infrastructure"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
       "title": "Geopolitical shocks put energy security and clean energy transition in focus",
       "category": "Development",
       "date": "2026-11-13",
@@ -84,15 +219,15 @@
       }
     },
     {
-      "title": "Nigeria Commissions 1.6 MW Solar Hybrid Project At Federal University of Lafia",
+      "title": "Connecting Nuclear Power, Hydrogen Innovation and Global Partnerships : Kong Young-gon, Vice President, KHNP HyNew",
       "category": "Innovation",
       "date": "2026-11-13",
       "source": "SolarQuarter",
       "sourceShort": "SOL",
       "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/11/13/nigeria-commissions-1-6-mw-solar-hybrid-project-at-federal-university-of-lafia/",
-      "imageUrl": "",
-      "summary": "\", }\" /> Federal University of Lafia has commissioned a 1.6-megawatt captive solar hybrid power project under Phase III of the Federal Government’s Energising Education Programme. The facility is expected to improve electricity reliability, support digital learning, laboratories, teaching and research, and strengthen the university’s infrastructure while advancing renewable energy and human capital development. The post Nigeria Commissions 1.6 MW Solar Hybrid Project At Federal University of Laf",
+      "articleUrl": "https://solarquarter.com/2026/11/13/connecting-nuclear-power-hydrogen-innovation-and-global-partnerships-kong-young-gon-vice-president-khnp-hynew/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/KHNP.png?fit=3200%2C1436&quality=80&ssl=1",
+      "summary": "Mr. Kong Young-gon, Vice President, Head of H2 & Smart Business Development, KHNP HyNew \" /> KHNP is developing clean hydrogen production using nuclear and renewable electricity, with projects including the commissioning of a Korean production base and a 10 MW low-temperature electrolysis demonstration. It is also advancing high-temperature electrolysis, strengthening the full hydrogen value chain and pursuing international partnerships. Commercial success will depend on costs, infrastructure, r",
       "icon": "📰",
       "visualBg": "#e2f0ed",
       "visualInk": "#276b5c",
@@ -111,15 +246,96 @@
       }
     },
     {
-      "title": "Connecting Nuclear Power, Hydrogen Innovation and Global Partnerships : Kong Young-gon, Vice President, KHNP HyNew",
+      "title": "ReNew Announces INR 80,000 Crore Investment In Andhra Pradesh For Green Data Centre And Solar Manufacturing",
       "category": "Innovation",
       "date": "2026-11-13",
       "source": "SolarQuarter",
       "sourceShort": "SOL",
       "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/11/13/connecting-nuclear-power-hydrogen-innovation-and-global-partnerships-kong-young-gon-vice-president-khnp-hynew/",
-      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/KHNP.png?fit=3200%2C1436&quality=80&ssl=1",
-      "summary": "Mr. Kong Young-gon, Vice President, Head of H2 & Smart Business Development, KHNP HyNew \" /> KHNP is developing clean hydrogen production using nuclear and renewable electricity, with projects including the commissioning of a Korean production base and a 10 MW low-temperature electrolysis demonstration. It is also advancing high-temperature electrolysis, strengthening the full hydrogen value chain and pursuing international partnerships. Commercial success will depend on costs, infrastructure, r",
+      "articleUrl": "https://solarquarter.com/2026/11/13/renew-announces-inr-80000-crore-investment-in-andhra-pradesh-for-green-data-centre-and-solar-manufacturing/",
+      "imageUrl": "",
+      "summary": "ReNew Energy Global plans to invest approximately INR 80,000 crore in Andhra Pradesh across green data infrastructure, solar and advanced manufacturing, and technical education. Projects include a 1 GW renewable-powered data centre, silicon and permanent magnet facilities, and a technical excellence centre. The investments aim to strengthen digitalisation, clean-energy supply chains, employment, and workforce skills. The post ReNew Announces INR 80,000 Crore Investment In Andhra Pradesh For Gree",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Hoymiles Launches the MIT-6000-S in India: The World’s First 12-in-1 Microinverter, Built for Indian C&I Rooftops",
+      "category": "Innovation",
+      "date": "2026-11-13",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/13/hoymiles-launches-the-mit-6000-s-in-india-the-worlds-first-12-in-1-microinverter-built-for-indian-ci-rooftops/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/Sunset-Solar-Facility-with-Microinverter-Banner.png?fit=1928%2C816&quality=80&ssl=1",
+      "summary": "Hoymiles’ MIT-6000-S microinverter is designed for India’s challenging commercial and industrial rooftops. Supporting up to 12 modules, 6000W three-phase output and four independent MPPTs, it improves performance in shade and varied orientations. Low-voltage DC enhances safety, while IP67 protection, simple installation, remote monitoring and a 25-year warranty support reliable, cost-effective operation. The post Hoymiles Launches the MIT-6000-S in India: The World’s First 12-in-1 Microinverter,",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "PVH Showcases AxoneDuo Infinity Solar Tracker at REI Expo 2026, Strengthens Engagement with Indian Solar Industry",
+      "category": "Innovation",
+      "date": "2026-11-13",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/13/pvh-showcases-axoneduo-infinity-solar-tracker-at-rei-expo-2026-strengthens-engagement-with-indian-solar-industry-2/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/7H9A0077.jpg?fit=6000%2C4000&quality=89&ssl=1",
+      "summary": "PVH showcased its AxoneDuo Infinity solar tracker at India’s REI Expo 2026 in Greater Noida, highlighting technology designed to improve energy generation and efficiency in utility-scale projects. The event enabled PVH to engage customers, strengthen partnerships and explore market opportunities, reaffirming its commitment to supporting India’s expanding renewable energy sector. The post PVH Showcases AxoneDuo Infinity Solar Tracker at REI Expo 2026, Strengthens Engagement with Indian Solar Indu",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Nigeria Commissions 1.6 MW Solar Hybrid Project At Federal University of Lafia",
+      "category": "Innovation",
+      "date": "2026-11-13",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/13/nigeria-commissions-1-6-mw-solar-hybrid-project-at-federal-university-of-lafia/",
+      "imageUrl": "",
+      "summary": "\" Federal University of Lafia has commissioned a 1.6-megawatt captive solar hybrid power project under Phase III of the Federal Government’s Energising Education Programme. The facility is expected to improve electricity reliability, support digital learning, laboratories, teaching and research, and strengthen the university’s infrastructure while advancing renewable energy and human capital development. The post Nigeria Commissions 1.6 MW Solar Hybrid Project At Federal University of Laf",
       "icon": "📰",
       "visualBg": "#e2f0ed",
       "visualInk": "#276b5c",
