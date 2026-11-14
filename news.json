@@ -1,7 +1,142 @@
 {
-  "updatedAt": "2026-11-14T00:27:49.321641+00:00",
+  "updatedAt": "2026-11-14T07:43:42.890316+00:00",
   "featuredArticleUrl": null,
   "articles": [
+    {
+      "title": "Visakhapatnam's semiconductor SEZ: Can India move beyond assembly to advanced chip packaging?",
+      "category": "Innovation",
+      "date": "2026-11-14",
+      "source": "ET Government - Digital India",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/digital-india/visakhapatnams-semiconductor-sez-can-india-move-beyond-assembly-to-advanced-chip-packaging/135820491",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135820528.cms?mod=2390582",
+      "summary": "The Centre's notification of a 12.14-hectare semiconductor SEZ in Andhra Pradesh strengthens the regulatory and customs framework for chip manufacturing. The challenge now is to translate investment and policy support into globally competitive production capabilities.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "et government - digital india"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "India well on track to achieve USD 1 trillion target for exports this fiscal: Goyal",
+      "category": "Markets",
+      "date": "2026-11-14",
+      "source": "ET Government - Economy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/india-well-on-track-to-achieve-usd-1-trillion-target-for-exports-this-fiscal-goyal/135824986",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135825026.cms?mod=83352",
+      "summary": "Commerce Minister Piyush Goyal expressed confidence that India will meet its USD 1 trillion export goal this financial year. He highlighted the growth in merchandise and services exports, amounting to nearly USD 90 billion in October 2026.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "markets",
+        "et government - economy"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "DPIIT, commerce department authorised to issue defence industrial licences",
+      "category": "Innovation",
+      "date": "2026-11-14",
+      "source": "ET Government - Defence",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/defence/dpiit-commerce-department-authorised-to-issue-defence-industrial-licences/135825315",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135825462.cms?mod=177091",
+      "summary": "The Department for Promotion of Industry and Internal Trade, alongside the Department of Commerce, oversees the issuance of licenses for defense-related activities under the Industries (Development and Regulation) Act of 1951.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "et government - defence"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "FICCI calls for comprehensive India-Africa trade framework",
+      "category": "Markets",
+      "date": "2026-11-14",
+      "source": "ET Government - Economy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/ficci-calls-for-comprehensive-india-africa-trade-framework/135824609",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135824691.cms?mod=51832",
+      "summary": "India and Africa are encouraged to develop a comprehensive trade arrangement to enhance economic cooperation. Ficci emphasizes the importance of a predictable framework to address trade barriers and promote investment.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "markets",
+        "et government - economy"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Goyal visits Egypt; both sides to discuss cooperation in infrastructure, manufacturing and logistics",
+      "category": "Markets",
+      "date": "2026-11-14",
+      "source": "ET Government - Economy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/goyal-visits-egypt-both-sides-to-discuss-cooperation-in-infrastructure-manufacturing-and-logistics/135824842",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135824884.cms?mod=83352",
+      "summary": "Piyush Goyal's upcoming two-day visit to Egypt aims to bolster bilateral commerce and investment channels, with a delegation of over 140 Indian business magnates in tow.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "markets",
+        "et government - economy"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
     {
       "title": "India bans battery waste exports: A strategic move to encourage recycling & reduce dependence on China",
       "category": "Innovation",
