@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T20:01:40.241954+00:00",
+  "updatedAt": "2026-11-15T00:02:14.893350+00:00",
   "featuredArticleUrl": null,
   "articles": [
     {
@@ -1821,60 +1821,6 @@
       "articleUrl": "https://government.economictimes.indiatimes.com/news/defence/from-four-year-service-to-military-career-how-agnipath-is-adapting-to-the-realities-of-modern-military-service/135649679",
       "imageUrl": "https://etimg.etb2bimg.com/photo/135649691.cms?mod=128414",
       "summary": "The government's decision to extend Agniveer service to six years and open regular enrolment to all eligible recruits marks a fundamental shift in India's military recruitment policy, balancing operational requirements with career aspirations.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "et government - defence"
-      ],
-      "isSample": false,
-      "isFeatured": false,
-      "translations": {
-        "hi": {},
-        "ta": {},
-        "ml": {},
-        "kn": {},
-        "te": {}
-      }
-    },
-    {
-      "title": "Deepotsav: From a festival of lights to a ₹55-crore economic opportunity for Ayodhya",
-      "category": "Markets",
-      "date": "2026-11-07",
-      "source": "ET Government - Economy",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/deepotsav-from-a-festival-of-lights-to-a-55-crore-economic-opportunity-for-ayodhya/135624783",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135624820.cms?mod=800972",
-      "summary": "Jaiveer Singh, Minister of Tourism & Culture, Government of Uttar Pradesh, on how Deepotsav is transforming Ayodhya into a global tourism destination while creating livelihoods, attracting investment and strengthening the local economy.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "markets",
-        "et government - economy"
-      ],
-      "isSample": false,
-      "isFeatured": false,
-      "translations": {
-        "hi": {},
-        "ta": {},
-        "ml": {},
-        "kn": {},
-        "te": {}
-      }
-    },
-    {
-      "title": "IAF's IL-76 transport aircraft lands in Nyoma airbase in Ladakh",
-      "category": "Innovation",
-      "date": "2026-11-07",
-      "source": "ET Government - Defence",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/defence/iafs-il-76-transport-aircraft-lands-in-nyoma-airbase-in-ladakh/135630891",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135630950.cms?mod=69736",
-      "summary": "The Indian Air Force marked a new pinnacle of achievement with its IL-76MD transport aircraft landing at Nyoma airbase, which sits at an altitude of roughly 13,000 feet near the Line of Actual Control with China.",
       "icon": "📰",
       "visualBg": "#e2f0ed",
       "visualInk": "#276b5c",
