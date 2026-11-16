@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T08:08:09.996386+00:00",
+  "updatedAt": "2026-11-16T18:44:59.950675+00:00",
   "featuredArticleUrl": null,
   "articles": [
     {
@@ -57,7 +57,34 @@
       }
     },
     {
-      "title": "India's youth do not lack enterprise–they lack the right ecosystem: Lakshmi Venkatesan",
+      "title": "Karnataka to make meters mandatory in all taxis, ban half helmets",
+      "category": "Development",
+      "date": "2026-11-16",
+      "source": "ET Government - Policy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/karnataka-to-make-meters-mandatory-in-all-taxis-ban-half-helmets/135894131",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135895045.cms?mod=66082",
+      "summary": "Addressing a press conference, Karnataka Transport Minister Byrathi Suresh said the government was taking steps to protect the interests of taxi owners and drivers, who had submitted him a memorandum in this regard.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "et government - policy"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "India's youth do not lack enterprise–they lack the right ecosystem: Lakshmi Venkataraman",
       "category": "Development",
       "date": "2026-11-16",
       "source": "ET Government - Policy",
@@ -66,6 +93,33 @@
       "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/indias-youth-do-not-lack-enterprisethey-lack-the-right-ecosystem-lakshmi-v-venkatesan/135858055",
       "imageUrl": "https://etimg.etb2bimg.com/photo/135858158.cms?mod=148543",
       "summary": "Lakshmi Venkataraman Venkatesan, Founder of BYST, calls for larger loans, institutionalised mentorship, regulatory reforms and AI adoption to transform India's Grampreneurs into engines of growth and jobs.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "et government - policy"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Rajasthan earmarks ₹3,200 crore for tribal development over three years",
+      "category": "Development",
+      "date": "2026-11-16",
+      "source": "ET Government - Policy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/rajasthan-earmarks-3200-crore-for-tribal-development-over-three-years/135893253",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135893461.cms?mod=558522",
+      "summary": "Chief Minister Bhajanlal Sharma says funds will support education, healthcare, infrastructure and economic empowerment; development initiatives cover 6,235 villages and 55 lakh tribal people.",
       "icon": "📰",
       "visualBg": "#e2f0ed",
       "visualInk": "#276b5c",
@@ -111,6 +165,87 @@
       }
     },
     {
+      "title": "Rajasthan announces ₹9,321 crore relief package for drought-hit areas",
+      "category": "Development",
+      "date": "2026-11-16",
+      "source": "ET Government - Policy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/rajasthan-announces-9321-crore-relief-package-for-drought-hit-areas/135892506",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135892621.cms?mod=121486",
+      "summary": "Package covers 87 tehsils across 15 districts; state government directs departments to ensure drinking water, fodder, irrigation and livelihood support.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "et government - policy"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "India's trade deficit likely to ease in November as oil, gold imports cool: Emkay",
+      "category": "Markets",
+      "date": "2026-11-16",
+      "source": "ET Government - Economy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/indias-trade-deficit-likely-to-ease-in-november-as-oil-gold-imports-cool-emkay/135877332",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135877243.cms?mod=253504",
+      "summary": "Despite the widening merchandise trade gap, Emkay sees scope for a lower current account deficit amid softer crude prices and stronger capital inflows.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "markets",
+        "et government - economy"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "India's unemployment rate eases to 4.9% in October; female participation rises",
+      "category": "Markets",
+      "date": "2026-11-16",
+      "source": "ET Government - Economy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/indias-unemployment-rate-eases-to-4-9-in-october-female-participation-rises/135893687",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135893943.cms?mod=95626",
+      "summary": "Overall urban unemployment declined to 6.7 per cent from 6.9 per cent in September, while rural unemployment remained unchanged at 4.2 per cent.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "markets",
+        "et government - economy"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
       "title": "Climate movement takes its fight beyond emissions at Türkiye summit",
       "category": "Development",
       "date": "2026-11-16",
@@ -120,6 +255,33 @@
       "articleUrl": "https://india.mongabay.com/2026/11/climate-movement-takes-its-fight-beyond-emissions-at-turkiye-summit/",
       "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/11/16111909/Photo-4-768x512.jpg",
       "summary": "A grey, rain-soaked day in Antalya in Türkiye burst into a riot of colour, music and slogans on November 14, when civil society called for a global day of action, held alongside COP31, the ongoing UN climate conference. Bright flags, hand-painted banners, giant street installations and costumed performers filled the city centre as thousands of […]",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "mongabay india"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Türkiye climate summit’s finance gap threatens its promise of action",
+      "category": "Development",
+      "date": "2026-11-16",
+      "source": "Mongabay India",
+      "sourceShort": "MON",
+      "sourceUrl": "https://india.mongabay.com/",
+      "articleUrl": "https://india.mongabay.com/2026/11/turkiye-climate-summits-finance-gap-threatens-its-promise-of-action/",
+      "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/11/16150113/AP24305652930016-768x512.jpg",
+      "summary": "Halfway through the annual United Nations climate summit being held in Türkiye’s Antalya, nearly 200 governments face the familiar question of where is the money to turn their promises into action? The meeting was billed as a turning point, a chance to move beyond pledges and start delivering results. However, as ministers prepare to take […]",
       "icon": "📰",
       "visualBg": "#e2f0ed",
       "visualInk": "#276b5c",
@@ -624,15 +786,15 @@
       }
     },
     {
-      "title": "Hoymiles Launches the MIT-6000-S in India: The World’s First 12-in-1 Microinverter, Built for Indian C&I Rooftops",
+      "title": "PVH Showcases AxoneDuo Infinity Solar Tracker at REI Expo 2026, Strengthens Engagement with Indian Solar Industry",
       "category": "Innovation",
       "date": "2026-11-13",
       "source": "SolarQuarter",
       "sourceShort": "SOL",
       "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/11/13/hoymiles-launches-the-mit-6000-s-in-india-the-worlds-first-12-in-1-microinverter-built-for-indian-ci-rooftops/",
-      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/Sunset-Solar-Facility-with-Microinverter-Banner.png?fit=1928%2C816&quality=80&ssl=1",
-      "summary": "Hoymiles’ MIT-6000-S microinverter is designed for India’s challenging commercial and industrial rooftops. Supporting up to 12 modules, 6000W three-phase output and four independent MPPTs, it improves performance in shade and varied orientations. Low-voltage DC enhances safety, while IP67 protection, simple installation, remote monitoring and a 25-year warranty support reliable, cost-effective operation. The post Hoymiles Launches the MIT-6000-S in India: The World’s First 12-in-1 Microinverter,",
+      "articleUrl": "https://solarquarter.com/2026/11/13/pvh-showcases-axoneduo-infinity-solar-tracker-at-rei-expo-2026-strengthens-engagement-with-indian-solar-industry-2/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/7H9A0077.jpg?fit=6000%2C4000&quality=89&ssl=1",
+      "summary": "PVH showcased its AxoneDuo Infinity solar tracker at India’s REI Expo 2026 in Greater Noida, highlighting technology designed to improve energy generation and efficiency in utility-scale projects. The event enabled PVH to engage customers, strengthen partnerships and explore market opportunities, reaffirming its commitment to supporting India’s expanding renewable energy sector. The post PVH Showcases AxoneDuo Infinity Solar Tracker at REI Expo 2026, Strengthens Engagement with Indian Solar Indu",
       "icon": "📰",
       "visualBg": "#e2f0ed",
       "visualInk": "#276b5c",
@@ -651,15 +813,15 @@
       }
     },
     {
-      "title": "PVH Showcases AxoneDuo Infinity Solar Tracker at REI Expo 2026, Strengthens Engagement with Indian Solar Industry",
+      "title": "Hoymiles Launches the MIT-6000-S in India: The World’s First 12-in-1 Microinverter, Built for Indian C&I Rooftops",
       "category": "Innovation",
       "date": "2026-11-13",
       "source": "SolarQuarter",
       "sourceShort": "SOL",
       "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/11/13/pvh-showcases-axoneduo-infinity-solar-tracker-at-rei-expo-2026-strengthens-engagement-with-indian-solar-industry-2/",
-      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/7H9A0077.jpg?fit=6000%2C4000&quality=89&ssl=1",
-      "summary": "PVH showcased its AxoneDuo Infinity solar tracker at India’s REI Expo 2026 in Greater Noida, highlighting technology designed to improve energy generation and efficiency in utility-scale projects. The event enabled PVH to engage customers, strengthen partnerships and explore market opportunities, reaffirming its commitment to supporting India’s expanding renewable energy sector. The post PVH Showcases AxoneDuo Infinity Solar Tracker at REI Expo 2026, Strengthens Engagement with Indian Solar Indu",
+      "articleUrl": "https://solarquarter.com/2026/11/13/hoymiles-launches-the-mit-6000-s-in-india-the-worlds-first-12-in-1-microinverter-built-for-indian-ci-rooftops/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/Sunset-Solar-Facility-with-Microinverter-Banner.png?fit=1928%2C816&quality=80&ssl=1",
+      "summary": "Hoymiles’ MIT-6000-S microinverter is designed for India’s challenging commercial and industrial rooftops. Supporting up to 12 modules, 6000W three-phase output and four independent MPPTs, it improves performance in shade and varied orientations. Low-voltage DC enhances safety, while IP67 protection, simple installation, remote monitoring and a 25-year warranty support reliable, cost-effective operation. The post Hoymiles Launches the MIT-6000-S in India: The World’s First 12-in-1 Microinverter",
       "icon": "📰",
       "visualBg": "#e2f0ed",
       "visualInk": "#276b5c",
