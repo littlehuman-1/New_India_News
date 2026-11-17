@@ -1,9 +1,36 @@
 {
-  "updatedAt": "2026-11-17T02:35:13.800297+00:00",
+  "updatedAt": "2026-11-17T12:10:16.834116+00:00",
   "featuredArticleUrl": null,
   "articles": [
     {
-      "title": "NIELIT launches indigenous cybersecurity tools, Plans Quantum and AI University Campus in Amaravati",
+      "title": "India joins US-led AI supply chain alliance: Can it break China's grip on AI and semiconductor supply chains?",
+      "category": "Innovation",
+      "date": "2026-11-17",
+      "source": "ET Government - Digital India",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/digital-india/india-joins-us-led-ai-supply-chain-alliance-can-it-break-chinas-grip-on-ai-and-semiconductor-supply-chains/135907716",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135907855.cms?mod=443659",
+      "summary": "India’s signing of the San Francisco Declaration strengthens cooperation with nine partner countries on semiconductors, critical minerals and AI infrastructure, but its strategic value will depend on translating commitments into manufacturing capacity and secure supply chains.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "et government - digital india"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "NIELIT launches indigenous cybersecurity tools, plans Quantum and AI University Campus in Amaravati",
       "category": "Innovation",
       "date": "2026-11-17",
       "source": "ET Government - Digital India",
@@ -18,6 +45,276 @@
       "tags": [
         "innovation",
         "et government - digital india"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "India remains committed to 'secure energy future' for Asia: Foreign Secretary Misri",
+      "category": "Markets",
+      "date": "2026-11-17",
+      "source": "ET Government - Economy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/india-remains-committed-to-secure-energy-future-for-asia-foreign-secretary-misri/135921401",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135921495.cms?mod=97718",
+      "summary": "India is dedicated to working with like-minded nations on energy resilience and economic security. Foreign Secretary Vikram Misri emphasized the importance of strong supply chains for Asia's energy future.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "markets",
+        "et government - economy"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "India, Egypt may start talks for trade pact in next 90 days: Goyal",
+      "category": "Markets",
+      "date": "2026-11-17",
+      "source": "ET Government - Economy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/india-egypt-may-start-talks-for-trade-pact-in-next-90-days-goyal/135913141",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135913185.cms?mod=48470",
+      "summary": "India and Egypt are finalizing the terms of reference for a trade agreement, with negotiations expected soon. The two countries aim to boost trade and investment through various collaborative initiatives.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "markets",
+        "et government - economy"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Transport ministry preparing safety standards for e-rickshaws on lines of Bharat NCAP: Gadkari",
+      "category": "Development",
+      "date": "2026-11-17",
+      "source": "ET Government - Policy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/transport-ministry-preparing-safety-standards-for-e-rickshaws-on-lines-of-bharat-ncap-gadkari/135920230",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135920320.cms?mod=111980",
+      "summary": "Nitin Gadkari, the Minister of Union Road Transport and Highways, revealed exciting new safety standards for e-rickshaws, inspired by the Bharat New Car Assessment Program launched in 2023.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "et government - policy"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Institutional campuses could expand India’s conservation network, but challenges remain",
+      "category": "Development",
+      "date": "2026-11-17",
+      "source": "Mongabay India",
+      "sourceShort": "MON",
+      "sourceUrl": "https://india.mongabay.com/",
+      "articleUrl": "https://india.mongabay.com/2026/11/institutional-campuses-could-expand-indias-conservation-network-but-challenges-remain/",
+      "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/11/17140518/18965172263_336f0219b2_k-768x512.jpg",
+      "summary": "At the 2022 United Nations Biodiversity Conference (COP15), world governments, including India, adopted the historic Kunming-Montreal Global Biodiversity Framework, whereby signatories agreed to protect and conserve at least 30% of the world’s land, coastal areas, and oceans by 2030. According to a recent analysis, India’s protected area network covers roughly 28% of its geographical area […]",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "mongabay india"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Motherhood changes how sloth bears use forests in central India",
+      "category": "Development",
+      "date": "2026-11-17",
+      "source": "Mongabay India",
+      "sourceShort": "MON",
+      "sourceUrl": "https://india.mongabay.com/",
+      "articleUrl": "https://india.mongabay.com/2026/11/motherhood-changes-how-sloth-bears-use-forests-in-central-india/",
+      "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/11/17102013/Image-2_Lone-Adult-Male-768x512.jpg",
+      "summary": "Sloth bear mothers go weeks without food or water while nursing their young in caves or rocky crevices, eventually emerging from their maternal dens with cubs clinging to their backs. But how reproduction shapes their behavioural patterns remains poorly understood. A new study finds differences in how female sloth bears with offspring and lone adults […]",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "mongabay india"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Green Energy Stocks Gain as Renewable and Battery Shares Drive Market Momentum (17 November 2026)",
+      "category": "Innovation",
+      "date": "2026-11-17",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/17/green-energy-stocks-gain-as-renewable-and-battery-shares-drive-market-momentum-17-november-2026/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/green-energy-stocks-rising-in-positive-market-sentiment-6afc3cdd68b2d.png?fit=1376%2C768&quality=80&ssl=1",
+      "summary": "Three financial presenters sit behind a curved illuminated desk in a modern market-news studio. A large screen displays “GREEN ENERGY STOCKS SURGE HIGHER” with percentage gains for Exide Industries, Reliance Industries, and Adani Green, while trading screens glow in the background. The scene uses cool blue lighting with vivid green graphics, creating a polished, energetic broadcast atmosphere. \" /> Green energy stocks mostly gained on November 17, 2026, following broader market strength as the S",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "RECPDCL Invites Bids For 42.55 MWp Rooftop Solar Projects Across West Bengal Government Buildings",
+      "category": "Innovation",
+      "date": "2026-11-17",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/17/recpdcl-invites-bids-for-42-55-mwp-rooftop-solar-projects-across-west-bengal-government-buildings/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2022/10/18.png?fit=1200%2C675&quality=80&ssl=1",
+      "summary": "Representational image. Credit: Canva \" /> West Bengal has invited GeM bids to develop 42.55 MWp of grid-connected rooftop solar capacity across government buildings in 17 regions under Phase I of its renewable energy programme. Implemented through the RESCO model with state-funded VGF support, the initiative promotes decentralised clean energy, reduces conventional power dependence, and encourages private participation. Bids close December 14, 2026. The post RECPDCL Invites Bids For 42.55 MWp R",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Zambia Launches 25 MW Rooftop Solar Programme Across Government Buildings and Universities",
+      "category": "Innovation",
+      "date": "2026-11-17",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/17/zambia-launches-25-mw-rooftop-solar-programme-across-government-buildings-and-universities/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2022/10/16.png?fit=1200%2C675&quality=80&ssl=1",
+      "summary": "Representational image. Credit: Canva \" /> Zambia has launched a 25 MW rooftop solar programme for government buildings, universities and state facilities, beginning with a 500 kW installation at Mulungushi House. Developed by Sunflow and Kiyona Energy, the initiative includes battery storage equivalent to 20% of capacity and supports Zambia’s goal of reaching 10,000 MW generation capacity by 2031. The post Zambia Launches 25 MW Rooftop Solar Programme Across Government Buildings and Universitie",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "India Takes Stronger Climate Commitments At COP31, Targets 60% Non-Fossil Electricity Capacity By 2035 – RUBIX",
+      "category": "Innovation",
+      "date": "2026-11-17",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/17/india-takes-stronger-climate-commitments-at-cop31-targets-60-non-fossil-electricity-capacity-by-2035-rubix/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2022/10/8-3.png?fit=1200%2C675&quality=80&ssl=1",
+      "summary": "Representational image. Credit: Canva \" /> India will present stronger 2031–2035 climate targets at COP31, including a 47% reduction in GDP emissions intensity, 60% non-fossil electricity capacity, and expanded carbon sinks. While progress is evident, renewable integration, storage, transmission, and finance remain challenges. India will advocate climate equity, technology transfer, adaptation support, and fair international responsibility. The post India Takes Stronger Climate Commitments At CO",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Malaysia Revises CRESS Grid Charges To Boost Renewable Energy Economics Ahead Of 2028 Deadline",
+      "category": "Innovation",
+      "date": "2026-11-17",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/17/malaysia-revises-cress-grid-charges-to-boost-renewable-energy-economics-ahead-of-2028-deadline/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/malaysia-renewable-energy-grid-charges-illustration-6afc090fbe6d4.png?fit=1376%2C768&quality=80&ssl=1",
+      "summary": "A polished infographic announces that Malaysia is revising CRESS grid charges under the Corporate Green Power Programme to support renewable energy economics ahead of a 2028 deadline. Solar panels, wind turbines, electricity pylons, a substation, Malaysian flags and financial symbols illustrate the renewable energy network, while glowing arrows and rising bars suggest economic growth. Large labels state “REVISED CRESS CRESS CHARGES” and “IMPROVED RE ECONOMICS”, alongside a digital countdown and ",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
       ],
       "isSample": false,
       "isFeatured": false,
