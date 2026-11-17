@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T12:10:16.834116+00:00",
+  "updatedAt": "2026-11-17T21:09:41.042351+00:00",
   "featuredArticleUrl": null,
   "articles": [
     {
@@ -84,6 +84,33 @@
       }
     },
     {
+      "title": "India targets 600 million tonnes of steel by 2047; Naveen Jindal calls for policy reforms",
+      "category": "Development",
+      "date": "2026-11-17",
+      "source": "ET Government - Smart Infrastructure",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/smart-infra/india-targets-600-million-tonnes-of-steel-by-2047-naveen-jindal-calls-for-policy-reforms/135934597",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135934652.cms?mod=151263",
+      "summary": "India is formulating National Steel Policy 2047 as crude steel output reaches 168.4 million tonnes. At ISA Steel Conclave, Naveen Jindal called for fair trade, raw material security and sustainable growth.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "et government - smart infrastructure"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
       "title": "India, Egypt may start talks for trade pact in next 90 days: Goyal",
       "category": "Markets",
       "date": "2026-11-17",
@@ -93,6 +120,87 @@
       "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/india-egypt-may-start-talks-for-trade-pact-in-next-90-days-goyal/135913141",
       "imageUrl": "https://etimg.etb2bimg.com/photo/135913185.cms?mod=48470",
       "summary": "India and Egypt are finalizing the terms of reference for a trade agreement, with negotiations expected soon. The two countries aim to boost trade and investment through various collaborative initiatives.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "markets",
+        "et government - economy"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Delhi govt plans to provide financial assistance to modernise over 800 PUC centres",
+      "category": "Development",
+      "date": "2026-11-17",
+      "source": "ET Government - Policy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/delhi-govt-plans-to-provide-financial-assistance-to-modernise-over-800-puc-centres/135931062",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135931393.cms?mod=281239",
+      "summary": "According to transport department officials, around 827 authorised PUC centres are operating at nearly 500 locations across Delhi, conducting pollution tests for petrol, CNG and diesel vehicles.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "et government - policy"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Maharashtra CM Devendra Fadnavis to lead Bharat Scouts and Guides as its new National President",
+      "category": "Development",
+      "date": "2026-11-17",
+      "source": "ET Government - Policy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/maharashtra-cm-devendra-fadnavis-to-lead-bharat-scouts-and-guides-as-its-new-national-president/135934808",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135934946.cms?mod=151805",
+      "summary": "Maharashtra CM Devendra Fadnavis has been elected National President of Bharat Scouts and Guides, with K.K. Khandelwal as Chief National Commissioner, marking a new phase in youth development.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "et government - policy"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Nitin Gadkari honours grassroots entrepreneurs at JRD Tata Awards 2026, calls for job creation in rural India",
+      "category": "Markets",
+      "date": "2026-11-17",
+      "source": "ET Government - Economy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/nitin-gadkari-honours-grassroots-entrepreneurs-at-jrd-tata-awards-2026-calls-for-job-creation-in-rural-india/135934460",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135934563.cms?mod=472496",
+      "summary": "Union Minister Nitin Gadkari honours grassroots entrepreneurs at JRD Tata Awards 2026, highlighting their role in job creation, rural economic growth, innovation and India's MSME development.",
       "icon": "📰",
       "visualBg": "#e2f0ed",
       "visualInk": "#276b5c",
@@ -138,6 +246,33 @@
       }
     },
     {
+      "title": "UP sends proposal to Centre for rooftop solar systems in 5 lakh homes under PM Surya Ghar Yojana",
+      "category": "Development",
+      "date": "2026-11-17",
+      "source": "ET Government - Policy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/up-sends-proposal-to-centre-for-rooftop-solar-systems-in-5-lakh-homes-under-pm-surya-ghar-yojana/135932167",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135932169.cms?mod=135224",
+      "summary": "The proposal has been submitted under the utility-led aggregation (ULA) model, aiming to develop an additional 750 MW of solar power capacity in the state, an official statement said.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "et government - policy"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
       "title": "Institutional campuses could expand India’s conservation network, but challenges remain",
       "category": "Development",
       "date": "2026-11-17",
@@ -147,6 +282,33 @@
       "articleUrl": "https://india.mongabay.com/2026/11/institutional-campuses-could-expand-indias-conservation-network-but-challenges-remain/",
       "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/11/17140518/18965172263_336f0219b2_k-768x512.jpg",
       "summary": "At the 2022 United Nations Biodiversity Conference (COP15), world governments, including India, adopted the historic Kunming-Montreal Global Biodiversity Framework, whereby signatories agreed to protect and conserve at least 30% of the world’s land, coastal areas, and oceans by 2030. According to a recent analysis, India’s protected area network covers roughly 28% of its geographical area […]",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "mongabay india"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "No land to call their own, migrants and elephants share Teesta’s shifting sandbars",
+      "category": "Development",
+      "date": "2026-11-17",
+      "source": "Mongabay India",
+      "sourceShort": "MON",
+      "sourceUrl": "https://india.mongabay.com/",
+      "articleUrl": "https://india.mongabay.com/video/2026/11/migrants-and-elephants-share-shifting-sandbars/",
+      "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/11/17160215/featured-elephant-final-768x512.jpg",
+      "summary": "On the shifting sandbars of the Teesta in West Bengal, migrant farmers cultivate seasonal crops that are increasingly attracting elephants from nearby forests. The elephants feed on these crops, bringing people and wildlife into close contact. As the Teesta changes course, floods and erosion reshape the sandbars, forcing farmers to move their fields and adapt […]",
       "icon": "📰",
       "visualBg": "#e2f0ed",
       "visualInk": "#276b5c",
@@ -308,7 +470,34 @@
       "sourceUrl": "https://solarquarter.com/",
       "articleUrl": "https://solarquarter.com/2026/11/17/malaysia-revises-cress-grid-charges-to-boost-renewable-energy-economics-ahead-of-2028-deadline/",
       "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/malaysia-renewable-energy-grid-charges-illustration-6afc090fbe6d4.png?fit=1376%2C768&quality=80&ssl=1",
-      "summary": "A polished infographic announces that Malaysia is revising CRESS grid charges under the Corporate Green Power Programme to support renewable energy economics ahead of a 2028 deadline. Solar panels, wind turbines, electricity pylons, a substation, Malaysian flags and financial symbols illustrate the renewable energy network, while glowing arrows and rising bars suggest economic growth. Large labels state “REVISED CRESS CRESS CHARGES” and “IMPROVED RE ECONOMICS”, alongside a digital countdown and ",
+      "summary": "A polished infographic announces that Malaysia is revising CRESS grid charges under the Corporate Green Power Programme to support renewable energy economics ahead of a 2028 deadline. Solar panels, wind turbines, electricity pylons, a substation, Malaysian flags and financial symbols illustrate the renewable energy network, while glowing arrows and rising bars suggest economic growth. Large labels state “REVISED CRESS CRESS CHARGES” and “IMPROVED RE ECONOMICS”, alongside a digital countdown and",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Masdar City Generates 10,797 MWh Of Renewable Energy, Cuts Emissions By 2,517 Tonnes",
+      "category": "Innovation",
+      "date": "2026-11-17",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/17/masdar-city-generates-10797-mwh-of-renewable-energy-cuts-emissions-by-2517-tonnes/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2022/10/7-3.png?fit=1200%2C675&quality=80&ssl=1",
+      "summary": "Masdar City generated 10,797 MWh of renewable electricity, exporting 9,906 MWh to the grid and avoiding 2,517 tonnes of CO2e emissions. Energy-use intensity fell 42 percent, while over 93 percent of waste was diverted from landfills. Nearly 300,000 square metres of green spaces further support its integrated, sustainable urban development model. The post Masdar City Generates 10,797 MWh Of Renewable Energy, Cuts Emissions By 2,517 Tonnes appeared first on SolarQuarter .",
       "icon": "📰",
       "visualBg": "#e2f0ed",
       "visualInk": "#276b5c",
