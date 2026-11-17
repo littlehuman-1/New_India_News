@@ -1,7 +1,34 @@
 {
-  "updatedAt": "2026-11-16T18:44:59.950675+00:00",
+  "updatedAt": "2026-11-17T02:35:13.800297+00:00",
   "featuredArticleUrl": null,
   "articles": [
+    {
+      "title": "NIELIT launches indigenous cybersecurity tools, Plans Quantum and AI University Campus in Amaravati",
+      "category": "Innovation",
+      "date": "2026-11-17",
+      "source": "ET Government - Digital India",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/digital-india/nielit-launches-indigenous-cybersecurity-tools-plans-quantum-and-ai-university-campus-in-amaravati/135907670",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135907686.cms?mod=54004",
+      "summary": "CyberVitals and Net Anveshak aim to strengthen citizen cybersecurity and institutional network security, while the proposed Amaravati campus could expand India's capabilities in quantum computing, artificial intelligence and advanced technology education.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "et government - digital india"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
     {
       "title": "India, US, eight other nations sign declaration to safeguard AI supply chains",
       "category": "Innovation",
@@ -1767,303 +1794,6 @@
       "articleUrl": "https://india.mongabay.com/2026/11/kashmir-musk-deer-face-steep-habitat-losses-under-high-emissions-scenarios/",
       "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/11/10105711/The-Kashmir-musk-deer-is-a-small-solitary-antlerless-mountain-species-native-to-the-western-Himalaya.-Photo-Credit-Mohsin-Javid-scaled-e1794288511499-768x512.jpg",
       "summary": "The Kashmir musk deer is a small, solitary, antlerless mountain species native to the western Himalaya, with a range extending across parts of Afghanistan, India and Pakistan. Unlike other deer, male Kashmir musk deer lack antlers, but possess elongated upper canines used primarily for territorial defence and competition for mates during the breeding season. Classified […]",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "mongabay india"
-      ],
-      "isSample": false,
-      "isFeatured": false,
-      "translations": {
-        "hi": {},
-        "ta": {},
-        "ml": {},
-        "kn": {},
-        "te": {}
-      }
-    },
-    {
-      "title": "Amit Shah, CM Naidu to attend CII Partnership Summit in Visakhapatnam on Nov 12, 13",
-      "category": "Markets",
-      "date": "2026-11-09",
-      "source": "ET Government - Economy",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/amit-shah-cm-naidu-to-attend-cii-partnership-summit-in-visakhapatnam-on-nov-12-13/135684536",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135686285.cms?mod=150867",
-      "summary": "The summit, themed 'Navigating New World Order', will bring together international policymakers, industry leaders and technology experts to discuss trade, investments, technological partnerships and emerging opportunities in the changing global economy.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "markets",
-        "et government - economy"
-      ],
-      "isSample": false,
-      "isFeatured": false,
-      "translations": {
-        "hi": {},
-        "ta": {},
-        "ml": {},
-        "kn": {},
-        "te": {}
-      }
-    },
-    {
-      "title": "Israel after Netanyahu? Eisenkot’s rise and the implications for the Gulf War and India",
-      "category": "Development",
-      "date": "2026-11-09",
-      "source": "ET Government - Policy",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/israel-after-netanyahu-eisenkots-rise-and-the-implications-for-the-gulf-war-and-india/135668254",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135668311.cms?mod=1539742",
-      "summary": "Former military chief Gadi Eisenkot’s emergence as Israel’s prospective prime minister raises questions about the country’s military strategy, relations with Iran, the future of the Gulf conflict and its expanding strategic partnership with India.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "et government - policy"
-      ],
-      "isSample": false,
-      "isFeatured": false,
-      "translations": {
-        "hi": {},
-        "ta": {},
-        "ml": {},
-        "kn": {},
-        "te": {}
-      }
-    },
-    {
-      "title": "Assam CM says defence park will bring arms manufacturing closer to eastern frontiers",
-      "category": "Innovation",
-      "date": "2026-11-09",
-      "source": "ET Government - Defence",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/defence/assam-cm-says-defence-park-will-bring-arms-manufacturing-closer-to-eastern-frontiers/135684969",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135684979.cms?mod=121228",
-      "summary": "\"Bharat ke Raksha ke liye samarpit (dedicated to the security of Bharat): Defence Park, Nellie, Assam,\" Assam Chief Minister Himanta Biswa Sarma said in a social media post, referring to the proposed facility in the central Assam district.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "et government - defence"
-      ],
-      "isSample": false,
-      "isFeatured": false,
-      "translations": {
-        "hi": {},
-        "ta": {},
-        "ml": {},
-        "kn": {},
-        "te": {}
-      }
-    },
-    {
-      "title": "Commerce Ministry for imposition of antidumping duty on Thai, Malaysian medical grade rubber gloves",
-      "category": "Markets",
-      "date": "2026-11-09",
-      "source": "ET Government - Economy",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/commerce-ministry-for-imposition-of-antidumping-duty-on-thai-malaysian-medical-grade-rubber-gloves/135679091",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135679233.cms?mod=51800",
-      "summary": "The Directorate General of Trade Remedies has recommended imposing an anti-dumping duty on rubber gloves imports. This recommendation follows an investigation into alleged dumping by suppliers in Thailand and Malaysia.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "markets",
-        "et government - economy"
-      ],
-      "isSample": false,
-      "isFeatured": false,
-      "translations": {
-        "hi": {},
-        "ta": {},
-        "ml": {},
-        "kn": {},
-        "te": {}
-      }
-    },
-    {
-      "title": "Delhi to launch first recreational Yamuna cruise service on Tuesday",
-      "category": "Development",
-      "date": "2026-11-09",
-      "source": "ET Government - Smart Infrastructure",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/smart-infra/delhi-to-launch-first-recreational-yamuna-cruise-service-on-tuesday/135684529",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135686044.cms?mod=4995857",
-      "summary": "Ahead of the launch, trial runs of the cruise vessel were successfully conducted last month in the presence of senior officials from the Inland Waterways Authority of India (IWAI) and the Delhi government.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "et government - smart infrastructure"
-      ],
-      "isSample": false,
-      "isFeatured": false,
-      "translations": {
-        "hi": {},
-        "ta": {},
-        "ml": {},
-        "kn": {},
-        "te": {}
-      }
-    },
-    {
-      "title": "Bengal plans coastal tourism hub, ₹5 lakh homestay subsidy, helicopter service to Digha",
-      "category": "Development",
-      "date": "2026-11-09",
-      "source": "ET Government - Policy",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/bengal-plans-coastal-tourism-hub-5-lakh-homestay-subsidy-helicopter-service-to-digha/135677440",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135677420.cms?mod=100154",
-      "summary": "West Bengal's Chief Minister Suvendu Adhikari announced plans to develop a 27 km stretch of coastline. This initiative aims to create job opportunities for locals and make holidays affordable for families.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "et government - policy"
-      ],
-      "isSample": false,
-      "isFeatured": false,
-      "translations": {
-        "hi": {},
-        "ta": {},
-        "ml": {},
-        "kn": {},
-        "te": {}
-      }
-    },
-    {
-      "title": "From mapping to AI-powered spatial intelligence: India's geospatial sector enters a new era of growth",
-      "category": "Innovation",
-      "date": "2026-11-09",
-      "source": "ET Government - Digital India",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/digital-india/from-mapping-to-ai-powered-spatial-intelligence-indias-geospatial-sector-enters-a-new-era-of-growth/135671994",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135672159.cms?mod=1185581",
-      "summary": "As geospatial technology evolves from mapping to AI-powered intelligence, India must invest in foundational data, indigenous innovation and spatial literacy to emerge as a global technology leader.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "et government - digital india"
-      ],
-      "isSample": false,
-      "isFeatured": false,
-      "translations": {
-        "hi": {},
-        "ta": {},
-        "ml": {},
-        "kn": {},
-        "te": {}
-      }
-    },
-    {
-      "title": "Defence minister Rajnath Singh pays homage to war heroes in Sikkim",
-      "category": "Innovation",
-      "date": "2026-11-09",
-      "source": "ET Government - Defence",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/defence/defence-minister-rajnath-singh-pays-homage-to-war-heroes-in-sikkim/135674749",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135674804.cms?mod=38768",
-      "summary": "During his visit to Sherathang in Sikkim, Defence Minister Rajnath Singh paid tribute at the war memorial, recognizing the immense sacrifices made by soldiers and their families.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "et government - defence"
-      ],
-      "isSample": false,
-      "isFeatured": false,
-      "translations": {
-        "hi": {},
-        "ta": {},
-        "ml": {},
-        "kn": {},
-        "te": {}
-      }
-    },
-    {
-      "title": "India, EU agree to boost trade, investment and technology ties ahead of landmark trade deal",
-      "category": "Markets",
-      "date": "2026-11-09",
-      "source": "ET Government - Economy",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/india-eu-agree-to-boost-trade-investment-and-technology-ties-ahead-of-landmark-trade-deal/135685266",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135685329.cms?mod=145496",
-      "summary": "A comprehensive scrutiny of the two-way engagement was carried out at the seventh India-EU Strategic Partnership Review Meeting (SPRM) held in New Delhi.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "markets",
-        "et government - economy"
-      ],
-      "isSample": false,
-      "isFeatured": false,
-      "translations": {
-        "hi": {},
-        "ta": {},
-        "ml": {},
-        "kn": {},
-        "te": {}
-      }
-    },
-    {
-      "title": "Great Nicobar’s leatherbacks carry a unique genetic record that a megaport could bury",
-      "category": "Development",
-      "date": "2026-11-09",
-      "source": "Mongabay India",
-      "sourceShort": "MON",
-      "sourceUrl": "https://india.mongabay.com/",
-      "articleUrl": "https://india.mongabay.com/2026/11/great-nicobars-leatherbacks-carry-a-unique-genetic-record-that-a-megaport-could-bury/",
-      "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/11/09131217/leatherback-hatchlings-768x512.jpg",
-      "summary": "Last winter, female leatherbacks heaved themselves onto a beach bordering Galathea Bay on Great Nicobar Island to dig and lay eggs in 869 nests, according to data from the Andaman and Nicobar Forest Department obtained through the Right to Information Act. That is the highest number of leatherback nests recorded on any beach in the […]",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "mongabay india"
-      ],
-      "isSample": false,
-      "isFeatured": false,
-      "translations": {
-        "hi": {},
-        "ta": {},
-        "ml": {},
-        "kn": {},
-        "te": {}
-      }
-    },
-    {
-      "title": "Early warning must also reach farmers without institutional support [Commentary]",
-      "category": "Development",
-      "date": "2026-11-09",
-      "source": "Mongabay India",
-      "sourceShort": "MON",
-      "sourceUrl": "https://india.mongabay.com/",
-      "articleUrl": "https://india.mongabay.com/2026/11/early-warning-must-also-reach-farmers-without-institutional-support-commentary/",
-      "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/11/09102119/AP745000730138-768x512.jpg",
-      "summary": "For India, an El Niño year has usually meant a weaker monsoon. That relationship is a tendency rather than a rule, and there have been El Niño years that ended with normal rain, but the odds move, and they move against us. This year the signal was unusually emphatic. The India Meteorological Department put the […]",
       "icon": "📰",
       "visualBg": "#e2f0ed",
       "visualInk": "#276b5c",
