@@ -1,7 +1,34 @@
 {
-  "updatedAt": "2026-11-17T21:09:41.042351+00:00",
+  "updatedAt": "2026-11-18T03:01:25.315081+00:00",
   "featuredArticleUrl": null,
   "articles": [
+    {
+      "title": "ET Viksit West Bengal Summit 2026 to spotlight state’s roadmap for unlocking new frontiers of growth",
+      "category": "Development",
+      "date": "2026-11-18",
+      "source": "ET Government - Policy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/et-viksit-west-bengal-summit-2026-to-spotlight-states-roadmap-for-unlocking-new-frontiers-of-growth/135945498",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135945515.cms?mod=1165635",
+      "summary": "The summit will bring together senior government leaders, policymakers, industry captains, investors and technology experts to deliberate on West Bengal's economic transformation and its role in advancing the vision of Viksit Bharat 2047.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "et government - policy"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
     {
       "title": "India joins US-led AI supply chain alliance: Can it break China's grip on AI and semiconductor supply chains?",
       "category": "Innovation",
@@ -1983,303 +2010,6 @@
       "articleUrl": "https://india.mongabay.com/2026/11/open-genetic-data-and-unclear-rules-keep-biodiversity-fund-largely-empty/",
       "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/11/11123050/1280px-APMC-768x512.jpg",
       "summary": "A decade after countries first agreed to discuss the issue, the sharing of benefits from digital sequence information (DSI), the genetic data of plants, animals and microbes stored in online databases, has made little progress. This is despite a fund set up under the United Nations in 2024, which seeks to make corporations share part […]",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "mongabay india"
-      ],
-      "isSample": false,
-      "isFeatured": false,
-      "translations": {
-        "hi": {},
-        "ta": {},
-        "ml": {},
-        "kn": {},
-        "te": {}
-      }
-    },
-    {
-      "title": "Reimagining citizen experience with digital service delivery in the AI era",
-      "category": "Innovation",
-      "date": "2026-11-10",
-      "source": "ET Government - Digital India",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/news/reimagining-citizen-experience-with-digital-service-delivery-in-the-ai-era/135709350",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135709816.cms?mod=183183",
-      "summary": "In the past decade, India’s digital transformation has fundamentally evolved the way citizens access government services. With digital portals and integrated digital public infrastructure, the Government of India is making digital public services accessible, responsive, and secure.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "et government - digital india"
-      ],
-      "isSample": false,
-      "isFeatured": false,
-      "translations": {
-        "hi": {},
-        "ta": {},
-        "ml": {},
-        "kn": {},
-        "te": {}
-      }
-    },
-    {
-      "title": "Bihar to host convention in January to draw up roadmap for state's development",
-      "category": "Markets",
-      "date": "2026-11-10",
-      "source": "ET Government - Economy",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/bihar-to-host-convention-in-january-to-draw-up-roadmap-for-states-development/135703516",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135703601.cms?mod=72095",
-      "summary": "Patna is set to host the 'Global Convention on Transforming Bihar 2027' on January 12 and 13, 2024. This significant event aims to bring together 1,500 scholars, policymakers, and industry leaders to explore key topics in economic development.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "markets",
-        "et government - economy"
-      ],
-      "isSample": false,
-      "isFeatured": false,
-      "translations": {
-        "hi": {},
-        "ta": {},
-        "ml": {},
-        "kn": {},
-        "te": {}
-      }
-    },
-    {
-      "title": "DGTR suo motu initiates probe into dumping of aluminium products from China, Malaysia, Vietnam",
-      "category": "Markets",
-      "date": "2026-11-10",
-      "source": "ET Government - Economy",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/dgtr-suo-motu-initiates-probe-into-dumping-of-aluminium-products-from-china-malaysia-vietnam/135703094",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135703181.cms?mod=119246",
-      "summary": "India's Directorate General of Trade Remedies has launched investigations into aluminium product dumping by several countries. This action aims to safeguard domestic manufacturers from increased competition posed by cheaper imports.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "markets",
-        "et government - economy"
-      ],
-      "isSample": false,
-      "isFeatured": false,
-      "translations": {
-        "hi": {},
-        "ta": {},
-        "ml": {},
-        "kn": {},
-        "te": {}
-      }
-    },
-    {
-      "title": "Haryana govt raises solar subsidy limit for shrimp farmers to 30 KW",
-      "category": "Development",
-      "date": "2026-11-10",
-      "source": "ET Government - Policy",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/haryana-govt-raises-solar-subsidy-limit-for-shrimp-farmers-to-30-kw/135716472",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135716478.cms?mod=135224",
-      "summary": "The move is expected to substantially reduce energy costs and improve the profitability of shrimp cultivation across the state, Haryana Agriculture and Farmers' Welfare and Fisheries Minister Shyam Singh Rana said on Tuesday.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "et government - policy"
-      ],
-      "isSample": false,
-      "isFeatured": false,
-      "translations": {
-        "hi": {},
-        "ta": {},
-        "ml": {},
-        "kn": {},
-        "te": {}
-      }
-    },
-    {
-      "title": "India's NMDC in talks with Russia's Rosatom over lithium investments, sources say",
-      "category": "Markets",
-      "date": "2026-11-10",
-      "source": "ET Government - Economy",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/indias-nmdc-in-talks-with-russias-rosatom-over-lithium-investments-sources-say/135709750",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135709659.cms?mod=437649",
-      "summary": "NMDC Ltd is exploring investment opportunities in Russian lithium projects to enhance India's supply chain. Officials from NMDC recently visited Russia to discuss potential collaborations with Rosatom and other companies.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "markets",
-        "et government - economy"
-      ],
-      "isSample": false,
-      "isFeatured": false,
-      "translations": {
-        "hi": {},
-        "ta": {},
-        "ml": {},
-        "kn": {},
-        "te": {}
-      }
-    },
-    {
-      "title": "India, Oman begin naval exercise as Arabian Sea security takes centre stage",
-      "category": "Innovation",
-      "date": "2026-11-10",
-      "source": "ET Government - Defence",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/defence/india-oman-begin-naval-exercise-as-arabian-sea-security-takes-centre-stage/135705928",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135705988.cms?mod=5181981",
-      "summary": "INS Surat arrived in Muscat to join the 15th edition of Naseem Al Bahr and conduct joint patrols. The exercise fosters interoperability and strengthens cooperation between the Indian Navy and the Royal Navy of Oman.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "et government - defence"
-      ],
-      "isSample": false,
-      "isFeatured": false,
-      "translations": {
-        "hi": {},
-        "ta": {},
-        "ml": {},
-        "kn": {},
-        "te": {}
-      }
-    },
-    {
-      "title": "RBI extends supersession of Abhyudaya Co-operative Bank Board for one more year",
-      "category": "Markets",
-      "date": "2026-11-10",
-      "source": "ET Government - Economy",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/rbi-extends-supersession-of-abhyudaya-co-operative-bank-board-for-one-more-year/135700104",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135700141.cms?mod=1454186",
-      "summary": "The Reserve Bank of India has extended the supersession of the Board of Directors of Abhyudaya Co-operative Bank. This extension will be effective until November 24, 2025, continuing a period of oversight.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "markets",
-        "et government - economy"
-      ],
-      "isSample": false,
-      "isFeatured": false,
-      "translations": {
-        "hi": {},
-        "ta": {},
-        "ml": {},
-        "kn": {},
-        "te": {}
-      }
-    },
-    {
-      "title": "India is an important partner for Slovenia’s economic growth: Ambassador Tomaž Mencin",
-      "category": "Development",
-      "date": "2026-11-10",
-      "source": "ET Government - Policy",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/india-is-an-important-partner-for-slovenias-economic-growth-ambassador-toma-mencin/135682369",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135682854.cms?mod=1570667",
-      "summary": "Slovenian Ambassador Tomaž Mencin outlines opportunities in trade, investment, technology and manufacturing, as the EU–India FTA promises to deepen economic cooperation between the two countries.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "et government - policy"
-      ],
-      "isSample": false,
-      "isFeatured": false,
-      "translations": {
-        "hi": {},
-        "ta": {},
-        "ml": {},
-        "kn": {},
-        "te": {}
-      }
-    },
-    {
-      "title": "India to provide grant for expansion of Sri Lanka's emergency ambulance service",
-      "category": "Development",
-      "date": "2026-11-10",
-      "source": "ET Government - Policy",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/india-to-provide-grant-for-expansion-of-sri-lankas-emergency-ambulance-service/135716565",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135716642.cms?mod=948682",
-      "summary": "Sri Lanka's Cabinet spokesperson and Minister Nalinda Jayathissa said the cabinet had approved the proposal to enter into a memorandum of understanding (MoU) with India for the grant.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "et government - policy"
-      ],
-      "isSample": false,
-      "isFeatured": false,
-      "translations": {
-        "hi": {},
-        "ta": {},
-        "ml": {},
-        "kn": {},
-        "te": {}
-      }
-    },
-    {
-      "title": "Global credit conditions to weaken in 2027: Moody's",
-      "category": "Markets",
-      "date": "2026-11-10",
-      "source": "ET Government - Economy",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/global-credit-conditions-to-weaken-in-2027-moodys/135710134",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135710367.cms?mod=229608",
-      "summary": "Moody's Ratings said AI investment will remain massive, but investors will increasingly focus on whether revenues and productivity gains justify the scale of spending.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "markets",
-        "et government - economy"
-      ],
-      "isSample": false,
-      "isFeatured": false,
-      "translations": {
-        "hi": {},
-        "ta": {},
-        "ml": {},
-        "kn": {},
-        "te": {}
-      }
-    },
-    {
-      "title": "Kashmir musk deer face steep habitat losses under high emissions scenarios",
-      "category": "Development",
-      "date": "2026-11-10",
-      "source": "Mongabay India",
-      "sourceShort": "MON",
-      "sourceUrl": "https://india.mongabay.com/",
-      "articleUrl": "https://india.mongabay.com/2026/11/kashmir-musk-deer-face-steep-habitat-losses-under-high-emissions-scenarios/",
-      "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/11/10105711/The-Kashmir-musk-deer-is-a-small-solitary-antlerless-mountain-species-native-to-the-western-Himalaya.-Photo-Credit-Mohsin-Javid-scaled-e1794288511499-768x512.jpg",
-      "summary": "The Kashmir musk deer is a small, solitary, antlerless mountain species native to the western Himalaya, with a range extending across parts of Afghanistan, India and Pakistan. Unlike other deer, male Kashmir musk deer lack antlers, but possess elongated upper canines used primarily for territorial defence and competition for mates during the breeding season. Classified […]",
       "icon": "📰",
       "visualBg": "#e2f0ed",
       "visualInk": "#276b5c",
