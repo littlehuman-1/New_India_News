@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T03:01:25.315081+00:00",
+  "updatedAt": "2026-11-18T12:01:05.219172+00:00",
   "featuredArticleUrl": null,
   "articles": [
     {
@@ -18,6 +18,222 @@
       "tags": [
         "development",
         "et government - policy"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Comm Min amends certain rules of Export Promotion Mission initiative to support exporters",
+      "category": "Development",
+      "date": "2026-11-18",
+      "source": "ET Government - Policy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/comm-min-amends-certain-rules-of-export-promotion-mission-initiative-to-support-exporters/135957015",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135957078.cms?mod=199642",
+      "summary": "The Commerce Ministry has modified guidelines to expand participation of exporters in international trade events. These changes include increased airfare reimbursements for exporters to encourage their participation in trade fairs.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "et government - policy"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Karnataka bets on AI, robotics and semiconductors with 6 new technology initiatives at BTS 2026",
+      "category": "Innovation",
+      "date": "2026-11-18",
+      "source": "ET Government - Technology",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/technology/karnataka-bets-on-ai-robotics-and-semiconductors-with-6-new-technology-initiatives-at-bts-2026/135952209",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135952327.cms?mod=8126304",
+      "summary": "Chief Minister D K Shivakumar outlines plans to position the state as a global deep-tech hub, with new innovation centres, semiconductor research facilities and startup support programmes.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "et government - technology"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "India, Japan set to review defence ties as Rajnath, Jaishankar arrive in Tokyo",
+      "category": "Innovation",
+      "date": "2026-11-18",
+      "source": "ET Government - Defence",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/defence/india-japan-set-to-review-defence-ties-as-rajnath-jaishankar-arrive-in-tokyo/135951633",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/135951706.cms?mod=4162514",
+      "summary": "India and Japan are reviewing their bilateral defence and strategic cooperation in Tokyo through the 2+2 ministerial dialogue.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "et government - defence"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "The secretive salamanders of the Himalayas",
+      "category": "Development",
+      "date": "2026-11-18",
+      "source": "Mongabay India",
+      "sourceShort": "MON",
+      "sourceUrl": "https://india.mongabay.com/",
+      "articleUrl": "https://india.mongabay.com/short-article/2026/11/the-secretive-salamanders-of-the-himalayas/",
+      "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/11/18123158/salamander-1-768x512.jpg",
+      "summary": "Species File: Exploring India’s biodiversity, one species at a time. Every monsoon in Darjeeling, the Himalayan salamander emerges from the forest floor to breed in small ponds known locally as pokhris. Males and females engage in a delicate courtship dance, after which fertilised eggs are laid on half-submerged vegetation. The larvae hatch into the water […]",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "mongabay india"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Airtrunk And European Energy Advance 1 GW Renewable Energy And Storage Partnership In Australia",
+      "category": "Innovation",
+      "date": "2026-11-18",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/18/airtrunk-and-european-energy-advance-1-gw-renewable-energy-and-storage-partnership-in-australia/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/solar-panels-with-battery-energy-storage-6afd79b46cc02.png?fit=1376%2C768&quality=80&ssl=1",
+      "summary": "A suburban house with a large array of blue solar panels covering its sloped roof stands beneath a bright, partly cloudy sky. Beside the exterior wall, a woman points towards a Tesla Powerwall and associated solar equipment while a man holds a tablet. The neatly maintained lawn, neighbouring homes, trees, and fencing create a residential setting, highlighting household renewable energy and battery storage technology. \" /> AirTrunk and European Energy Australia signed an exclusivity agreement to ",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Australia And South Korea Sign Clean Energy Pact To Unlock $1 Trillion Investment Opportunities By 2035",
+      "category": "Innovation",
+      "date": "2026-11-18",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/18/australia-and-south-korea-sign-clean-energy-pact-to-unlock-1-trillion-investment-opportunities-by-2035/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2022/10/20-3.png?fit=1200%2C675&quality=80&ssl=1",
+      "summary": "Australia and South Korea signed an MoU at COP31 to accelerate decarbonization, attract investment and expand cooperation in renewable energy, hydrogen, green metals and critical minerals. The partnership aims to strengthen supply chains, support regional Australian industries, create jobs and connect Australia’s resources with Korea’s projected $1 trillion clean energy transformation through 2035. The post Australia And South Korea Sign Clean Energy Pact To Unlock $1 Trillion Investment Opportu",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Sineng Electric Showcases Advanced Grid-Forming Technology and Energy Storage Solutions for AI Data Center at RE+ 2026",
+      "category": "Innovation",
+      "date": "2026-11-18",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/18/sineng-electric-showcases-advanced-grid-forming-technology-and-energy-storage-solutions-for-ai-data-center-at-re-2026/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/11-2.jpg?fit=1793%2C1152&quality=89&ssl=1",
+      "summary": "At RE+ 2026, Sineng Electric showcased grid-forming, power conversion and power quality technologies for AI data centres, utility-scale storage, solar PV and critical infrastructure. Its solutions address fluctuating loads, weak-grid conditions and power quality challenges through advanced energy storage, efficient inverters, rapid-response controls and harmonic mitigation, supporting reliable, resilient energy systems. The post Sineng Electric Showcases Advanced Grid-Forming Technology and Ener",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "ACME Solar Signs PPA For 220 MW Solar Project With BESS At Morena Solar Park In Madhya Pradesh",
+      "category": "Innovation",
+      "date": "2026-11-18",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/18/acme-solar-signs-ppa-for-220-mw-solar-project-with-bess-at-morena-solar-park-in-madhya-pradesh/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/solar-panels-with-battery-energy-storage-6afd597dc00b9.png?fit=1376%2C768&quality=80&ssl=1",
+      "summary": "A modern grey stucco home is fitted with extensive dark rooftop solar panels and two Tesla home battery units mounted beside the garage. A white electric car is parked on the driveway, while neat drought-tolerant landscaping surrounds the property. Bright sunlight, blue skies, mature trees, and distant hills create a clean, sustainable suburban setting. \" /> ACME Solar’s subsidiary, ACME Greentech Sixteen, signed a 25-year PPA with RUMSL to develop a 220 MW solar project with battery storage at ",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
       ],
       "isSample": false,
       "isFeatured": false,
@@ -1989,6 +2205,33 @@
       "tags": [
         "markets",
         "et government - economy"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Nature’s tiny cleanup crew",
+      "category": "Development",
+      "date": "2026-11-11",
+      "source": "Mongabay India",
+      "sourceShort": "MON",
+      "sourceUrl": "https://india.mongabay.com/",
+      "articleUrl": "https://india.mongabay.com/short-article/2026/11/natures-tiny-cleanup-crew/",
+      "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/11/18123117/Dung-beetle-768x512.jpg",
+      "summary": "Species File: Exploring India’s biodiversity, one species at a time. A recent study of Kerala’s Vypin-Kadamakkudy barrier island system recorded 20,927 dung beetles from 29 species, far more diversity than researchers expected in such an urbanising landscape. Dung beetles are scarab beetles, mostly of the subfamily Scarabaeinae, that feed, breed and nest in animal dung. […]",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "mongabay india"
       ],
       "isSample": false,
       "isFeatured": false,
