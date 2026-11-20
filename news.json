@@ -1,7 +1,331 @@
 {
-  "updatedAt": "2026-11-20T02:29:50.098551+00:00",
+  "updatedAt": "2026-11-20T11:58:44.752770+00:00",
   "featuredArticleUrl": null,
   "articles": [
+    {
+      "title": "BHASHINI–NIELIT partnership: Can India bridge the language divide in digital governance?",
+      "category": "Innovation",
+      "date": "2026-11-20",
+      "source": "ET Government - Digital India",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/digital-india/bhashininielit-partnership-can-india-bridge-the-language-divide-in-digital-governance/136010422",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/136010456.cms?mod=2240491",
+      "summary": "The BHASHINI–NIELIT partnership seeks to expand multilingual AI across education and public services. Its success will depend on translation accuracy, voice-enabled access, regional datasets and effective integration with government platforms.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "et government - digital india"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Government to examine steel levies outside GST as industry seeks greater global competitiveness",
+      "category": "Development",
+      "date": "2026-11-20",
+      "source": "ET Government - Smart Infrastructure",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/smart-infra/government-to-examine-steel-levies-outside-gst-as-industry-seeks-greater-global-competitiveness/136018255",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/136018300.cms?mod=114245",
+      "summary": "At ISA Steel Conclave 2026, Commerce Minister Piyush Goyal called for a shift towards high-quality, value-added steel, while industry leaders highlighted taxation, raw material costs and import dependence as major challenges.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "et government - smart infrastructure"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Karnataka plans dedicated drone testing facility in Chikkaballapur to accelerate indigenous drone innovation",
+      "category": "Innovation",
+      "date": "2026-11-20",
+      "source": "ET Government - Technology",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/technology/karnataka-plans-dedicated-drone-testing-facility-in-chikkaballapur-to-accelerate-indigenous-drone-innovation/136023215",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/136023381.cms?mod=93964",
+      "summary": "New facility near Bengaluru to provide flight testing, validation and research infrastructure for startups and drone companies, opening new opportunities across defence, agriculture, logistics and urban planning.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "et government - technology"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Israel seeks to expand technology collaboration with India: Alon Stopel",
+      "category": "Innovation",
+      "date": "2026-11-20",
+      "source": "ET Government - Digital India",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/digital-india/israel-seeks-to-expand-technology-collaboration-with-india-alon-stopel/136015250",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/136015577.cms?mod=1574987",
+      "summary": "Israel Innovation Authority Chairman Alon Stopel discusses expanding India-Israel R&D funding, joint opportunities in AI, quantum computing and semiconductors, and the future of bilateral technology ties.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "et government - digital india"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Karnataka attracts ₹1,050 crore deeptech investment from 24 VCs at Bengaluru Tech Summit",
+      "category": "Markets",
+      "date": "2026-11-20",
+      "source": "ET Government - Economy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/karnataka-attracts-1050-crore-deeptech-investment-from-24-vcs-at-bengaluru-tech-summit/136021793",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/136021890.cms?mod=162047",
+      "summary": "The latest announcements build on last year's Future Makers Conclave, where the Karnataka government and venture capitalists came together to disburse ₹400 crore towards AI and deeptech startups.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "markets",
+        "et government - economy"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Karnataka to set up India’s first govt sports technology centre with Amagi in Bengaluru",
+      "category": "Innovation",
+      "date": "2026-11-20",
+      "source": "ET Government - Technology",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/technology/karnataka-to-set-up-indias-first-govt-sports-technology-centre-with-amagi-in-bengaluru/136022171",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/136023010.cms?mod=183268",
+      "summary": "Proposed Centre to focus on sports analytics, DeepTech, biomechanics and athlete development; industry-led model aims to bring technology and scientific research into sports.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "et government - technology"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Forest villagers protest tourism curbs after tiger translocation",
+      "category": "Development",
+      "date": "2026-11-20",
+      "source": "Mongabay India",
+      "sourceShort": "MON",
+      "sourceUrl": "https://india.mongabay.com/",
+      "articleUrl": "https://india.mongabay.com/2026/11/forest-villagers-protest-tourism-curbs-after-tiger-translocation/",
+      "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/11/20111946/Bengal_tiger_Panthera_tigris_tigris_female_3-768x512.jpg",
+      "summary": "A three year old tigress, T138 was released in Buxa Tiger Reserve in West Bengal on October 2. While the translocation has been lauded as an important step in wildlife conservation, people living in forest villages have protested restrictions on tourism activities imposed to minimise disturbance and allow the tigress to acclimatise. The translocation was the […]",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "mongabay india"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Global electrification push meets resistance over money and fairness",
+      "category": "Development",
+      "date": "2026-11-20",
+      "source": "Mongabay India",
+      "sourceShort": "MON",
+      "sourceUrl": "https://india.mongabay.com/",
+      "articleUrl": "https://india.mongabay.com/2026/11/global-electrification-push-meets-resistance-over-money-and-fairness/",
+      "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/11/20103219/49047378107_0d8d4c0adf_k-768x512.jpg",
+      "summary": "The UN climate summit in Türkiye’s Antalya has been pushing an ambitious global goal of raising electricity’s share of total final energy use to 35% by 2035. However, the latest draft suggests the final outcome may be weaker. The second and latest draft of the COP31 cover decision, the summit’s main political text, was released […]",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "mongabay india"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Join Us in Harare for Zimbabwe Clean Energy Week 2026: Sponsor, Exhibit, Speak, Showcase Your Brand, Nominate or Attend",
+      "category": "Innovation",
+      "date": "2026-11-20",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/20/join-us-in-harare-for-zimbabwe-clean-energy-week-2026-sponsor-exhibit-speak-showcase-your-brand-nominate-or-attend/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/Harare-Clean-Energy-Week-Invitation.png?fit=1734%2C907&quality=80&ssl=1",
+      "summary": "Zimbabwe Clean Energy Week 2026 takes place on 3 December at Hyatt Regency Harare The Meikles, bringing together policymakers, financiers, developers, technology providers and energy users. Its panels and roundtables will address utility-scale renewables, storage, rooftop solar, industrial transition, engineering, asset performance and green finance. Delegates can exchange insights, build partnerships and explore investment opportunities. The post Join Us in Harare for Zimbabwe Clean Energy Week",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Industry Leaders Assess India’s INR 14,500 Crore Push To Develop 92 GWh Energy Storage Capacity",
+      "category": "Innovation",
+      "date": "2026-11-20",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/20/industry-leaders-assess-indias-inr-14500-crore-push-to-develop-92-gwh-energy-storage-capacity/",
+      "imageUrl": "",
+      "summary": "India’s Cabinet approved a ₹14,500 crore VGF scheme to develop 92 GWh of grid-scale storage by FY2030-31, including pumped hydro, BESS and emerging technologies. The initiative aims to stabilize the grid, integrate renewables, attract private investment and promote domestic manufacturing through a 40% BESS content requirement. Experts stress timely clearances, transparent bidding and effective implementation. The post Industry Leaders Assess India’s INR 14,500 Crore Push To Develop 92 GWh Energy",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Balmer Lawrie Invites Bids For 522 kWh BESS With Solar Project In Navi Mumbai",
+      "category": "Innovation",
+      "date": "2026-11-20",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/20/balmer-lawrie-invites-bids-for-522-kwh-bess-with-solar-project-in-navi-mumbai/",
+      "imageUrl": "",
+      "summary": "Representational image. Credit: Canva \" /> Balmer Lawrie has invited bids to install a 522 kWh LFP battery storage system alongside its 600 kW solar plant at Taloja, Navi Mumbai. Eligible bidders need relevant experience, financial turnover of ₹90 lakh, Maharashtra presence and a mandatory site visit. Proposals are due November 27, 2026, with completion required within 10 weeks. The post Balmer Lawrie Invites Bids For 522 kWh BESS With Solar Project In Navi Mumbai appeared first on SolarQuarter ",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "ACME Solar Commissions 57.69 MW FDRE Capacity With 265.38 MWh BESS In Rajasthan",
+      "category": "Innovation",
+      "date": "2026-11-20",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/20/acme-solar-commissions-57-69-mw-fdre-capacity-with-265-38-mwh-bess-in-rajasthan/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/fre-and-bess-projects-in-rajasthan-6affe9498f0a6.png?fit=1376%2C768&quality=80&ssl=1",
+      "summary": "A large solar farm stretches across a dry, sandy landscape, with rows of photovoltaic panels in the foreground and numerous wind turbines across the horizon. A fenced battery energy storage system contains white BESS containers beside an electrical substation and transmission infrastructure. Low rocky mountains sit beneath a broad blue, lightly clouded sky, creating a bright, arid setting. \" /> ACME Solar Holdings commissioned 57.69 MW of battery-backed FDRE capacity in Rajasthan on November 19,",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
     {
       "title": "Indian Navy's Barak missile systems to get ₹1976 crore upgrade: Modernising air defence amid rising maritime threats",
       "category": "Innovation",
@@ -192,33 +516,6 @@
       }
     },
     {
-      "title": "ADB And Bangladesh Expand Clean Energy Partnership For Over 1,000 MW Solar And Battery Storage Projects",
-      "category": "Innovation",
-      "date": "2026-11-19",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/11/19/adb-and-bangladesh-expand-clean-energy-partnership-for-over-1000-mw-solar-and-battery-storage-projects/",
-      "imageUrl": "",
-      "summary": "Representational image. Credit: Canva \" /> The Asian Development Bank and Bangladesh have expanded their partnership to develop five additional solar and battery storage projects, bringing planned capacity across six projects above 1,000 MW. The programme could attract over $1 billion in private investment, support renewable energy targets, enhance energy security, and establish a framework for competitive clean-energy development. The post ADB And Bangladesh Expand Clean Energy Partnership For ",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false,
-      "translations": {
-        "hi": {},
-        "ta": {},
-        "ml": {},
-        "kn": {},
-        "te": {}
-      }
-    },
-    {
       "title": "India’s Perovskite Solar Push Could Generate INR 74,000 Crore In Domestic Value Addition Over 15 Years – Study",
       "category": "Innovation",
       "date": "2026-11-19",
@@ -282,6 +579,33 @@
       "articleUrl": "https://solarquarter.com/2026/11/19/green-energy-stocks-rise-as-battery-and-power-shares-gain-amid-strong-market-rally-19-november-2026/",
       "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/indian-green-energy-stock-market-scene-6afeed5bdd49d.png?fit=1376%2C768&quality=80&ssl=1",
       "summary": "Two men stand in front of large financial-market displays at the National Stock Exchange in India. The screens show stock tickers, the NSE India Green Energy Index, and a bar chart comparing year-to-date performance for solar, wind, hydro, bioenergy, hybrid, and storage sectors. Cool blue lighting contrasts with bright green and orange data graphics, creating a focused, modern financial atmosphere. \" /> Green energy stocks mostly rose on November 19, 2026, following a strong rally in Indian equi",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "ADB And Bangladesh Expand Clean Energy Partnership For Over 1,000 MW Solar And Battery Storage Projects",
+      "category": "Innovation",
+      "date": "2026-11-19",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/19/adb-and-bangladesh-expand-clean-energy-partnership-for-over-1000-mw-solar-and-battery-storage-projects/",
+      "imageUrl": "",
+      "summary": "Representational image. Credit: Canva \" /> The Asian Development Bank and Bangladesh have expanded their partnership to develop five additional solar and battery storage projects, bringing planned capacity across six projects above 1,000 MW. The programme could attract over $1 billion in private investment, support renewable energy targets, enhance energy security, and establish a framework for competitive clean-energy development. The post ADB And Bangladesh Expand Clean Energy Partnership For",
       "icon": "📰",
       "visualBg": "#e2f0ed",
       "visualInk": "#276b5c",
