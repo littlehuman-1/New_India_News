@@ -1,7 +1,34 @@
 {
-  "updatedAt": "2026-11-20T11:58:44.752770+00:00",
+  "updatedAt": "2026-11-20T20:37:58.477096+00:00",
   "featuredArticleUrl": null,
   "articles": [
+    {
+      "title": "Karnataka CM announces ₹16,000 crore rural development push, warns against fund misuse",
+      "category": "Development",
+      "date": "2026-11-20",
+      "source": "ET Government - Smart Infrastructure",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/smart-infra/karnataka-cm-announces-16000-crore-rural-development-push-warns-against-fund-misuse/136035491",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/136035569.cms?mod=126650",
+      "summary": "\"Before starting any work, officials must take photographs and videos of the site and maintain them in the records. Photographs of the completed work must also be preserved. The exact geographical coordinates of the work site should be recorded,\" Karnataka Chief Minister D K Shivakumar said.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "et government - smart infrastructure"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
     {
       "title": "BHASHINI–NIELIT partnership: Can India bridge the language divide in digital governance?",
       "category": "Innovation",
@@ -111,6 +138,33 @@
       }
     },
     {
+      "title": "Uttar Pradesh: Building a global frontier for defense manufacturing and industrialisation",
+      "category": "Innovation",
+      "date": "2026-11-20",
+      "source": "ET Government - Defence",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/defence/uttar-pradesh-building-a-global-frontier-for-defense-manufacturing-and-industrialisation/136027800",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/136030089.cms?mod=56923",
+      "summary": "Expressways, the Defence Industrial Corridor and Jewar International Airport are opening new possibilities for positioning Uttar Pradesh as a major global hub for manufacturing, logistics and investment.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "et government - defence"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
       "title": "Karnataka attracts ₹1,050 crore deeptech investment from 24 VCs at Bengaluru Tech Summit",
       "category": "Markets",
       "date": "2026-11-20",
@@ -120,6 +174,33 @@
       "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/karnataka-attracts-1050-crore-deeptech-investment-from-24-vcs-at-bengaluru-tech-summit/136021793",
       "imageUrl": "https://etimg.etb2bimg.com/photo/136021890.cms?mod=162047",
       "summary": "The latest announcements build on last year's Future Makers Conclave, where the Karnataka government and venture capitalists came together to disburse ₹400 crore towards AI and deeptech startups.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "markets",
+        "et government - economy"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "India's core infrastructure output hits new-series high of 10.9% in October",
+      "category": "Markets",
+      "date": "2026-11-20",
+      "source": "ET Government - Economy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/indias-core-infrastructure-output-hits-new-series-high-of-10-9-in-october/136032642",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/136032456.cms?mod=642778",
+      "summary": "According to the official data released by the Commerce and Industry Ministry on Friday, core sector production expanded by 0.8 per cent in October last year and 8.2 per cent in September 2026.",
       "icon": "📰",
       "visualBg": "#e2f0ed",
       "visualInk": "#276b5c",
@@ -300,6 +381,87 @@
       }
     },
     {
+      "title": "Infinity Power And EDM Partner To Develop 160 MW Renewable Energy Projects In Mozambique",
+      "category": "Innovation",
+      "date": "2026-11-20",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/20/infinity-power-and-edm-partner-to-develop-160-mw-renewable-energy-projects-in-mozambique/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2019/10/electricity-1330214_1920.jpg?fit=1920%2C1277&quality=89&ssl=1",
+      "summary": "Representational image. Credit: Canva \" /> Infinity Power and Mozambique’s state utility EDM signed an MoU to develop up to 160 MW of solar, battery storage and hybrid renewable energy projects nationwide. The initiative aims to meet rising industrial and residential electricity demand, strengthen clean-energy infrastructure, and improve power availability. It expands their renewable-energy partnership established in 2023. The post Infinity Power And EDM Partner To Develop 160 MW Renewable Energ",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Indian Green Energy Stocks Trade Mixed Despite Strong Gains In Benchmark Market As Solar and Wind Shares Face Selling Pressure (20 November 2026)",
+      "category": "Innovation",
+      "date": "2026-11-20",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/20/indian-green-energy-stocks-trade-mixed-despite-strong-gains-in-benchmark-market-as-solar-and-wind-shares-face-selling-pressure-20-november-2026/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/indian-green-energy-stock-market-visual-6b0040599e076.png?fit=1376%2C768&quality=80&ssl=1",
+      "summary": "A large electronic trading board in an Indian stock exchange displays positive performance for green energy listings, including electricity, solar, wind power and hydropower. All four entries show gains in bright green text against a black background. A man in a light blue shirt stands in the foreground, while traders and additional market screens occupy the industrial-looking trading hall behind him. \" /> Indian green energy stocks witnessed mixed performance on Friday, November 20, 2026, despi",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Jinko Solar Hosts Jinko Academy in Lebanon With the Order of Engineers and Architects – Beirut",
+      "category": "Innovation",
+      "date": "2026-11-20",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/20/jinko-solar-hosts-jinko-academy-in-lebanon-with-the-order-of-engineers-and-architects-beirut/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-10-at-19.59.16-1.jpeg?fit=1600%2C709&quality=89&ssl=1",
+      "summary": "Jinko Solar held its Jinko Academy in Lebanon with the Order of Engineers and Architects – Beirut, bringing together professionals to explore photovoltaic advances, company solutions and renewable energy trends. The event promoted technical development, knowledge-sharing and collaboration, strengthening Lebanon’s solar community and reaffirming Jinko Solar’s commitment to innovation and sustainable energy. The post Jinko Solar Hosts Jinko Academy in Lebanon With the Order of Engineers and Archit",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
       "title": "ACME Solar Commissions 57.69 MW FDRE Capacity With 265.38 MWh BESS In Rajasthan",
       "category": "Innovation",
       "date": "2026-11-20",
@@ -308,7 +470,7 @@
       "sourceUrl": "https://solarquarter.com/",
       "articleUrl": "https://solarquarter.com/2026/11/20/acme-solar-commissions-57-69-mw-fdre-capacity-with-265-38-mwh-bess-in-rajasthan/",
       "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/fre-and-bess-projects-in-rajasthan-6affe9498f0a6.png?fit=1376%2C768&quality=80&ssl=1",
-      "summary": "A large solar farm stretches across a dry, sandy landscape, with rows of photovoltaic panels in the foreground and numerous wind turbines across the horizon. A fenced battery energy storage system contains white BESS containers beside an electrical substation and transmission infrastructure. Low rocky mountains sit beneath a broad blue, lightly clouded sky, creating a bright, arid setting. \" /> ACME Solar Holdings commissioned 57.69 MW of battery-backed FDRE capacity in Rajasthan on November 19,",
+      "summary": "A large solar farm stretches across a dry, sandy landscape, with rows of photovoltaic panels in the foreground and numerous wind turbines across the horizon. A fenced battery energy storage system contains white BESS containers beside an electrical substation and transmission infrastructure. Low rocky mountains sit beneath a broad blue, lightly clouded sky, creating a bright, arid setting. \" /> ACME Solar Holdings commissioned 57.69 MW of battery-backed FDRE capacity in Rajasthan on November 19",
       "icon": "📰",
       "visualBg": "#e2f0ed",
       "visualInk": "#276b5c",
@@ -2523,33 +2685,6 @@
       "articleUrl": "https://solarquarter.com/2026/11/13/nigeria-commissions-1-6-mw-solar-hybrid-project-at-federal-university-of-lafia/",
       "imageUrl": "",
       "summary": "\" Federal University of Lafia has commissioned a 1.6-megawatt captive solar hybrid power project under Phase III of the Federal Government’s Energising Education Programme. The facility is expected to improve electricity reliability, support digital learning, laboratories, teaching and research, and strengthen the university’s infrastructure while advancing renewable energy and human capital development. The post Nigeria Commissions 1.6 MW Solar Hybrid Project At Federal University of Laf",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false,
-      "translations": {
-        "hi": {},
-        "ta": {},
-        "ml": {},
-        "kn": {},
-        "te": {}
-      }
-    },
-    {
-      "title": "Indian Renewable Energy Stocks Witness Mixed Trading as Sensex Falls 0.4% on November 13",
-      "category": "Innovation",
-      "date": "2026-11-13",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/11/13/indian-renewable-energy-stocks-witness-mixed-trading-as-sensex-falls-0-4-on-november-13/",
-      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/simple-indian-green-energy-stocks-6af6fcfce8fef.png?fit=1376%2C768&quality=80&ssl=1",
-      "summary": "India’s stock market closed lower on November 13, 2026, with the Sensex falling 0.4% amid broad selling pressure. Renewable energy, solar, battery, wind and traditional power stocks mostly declined, including Adani Green, Borosil Renewables and JSW Energy. However, EKI Energy Services and Indian Energy Exchange gained, highlighting mixed sector sentiment. The post Indian Renewable Energy Stocks Witness Mixed Trading as Sensex Falls 0.4% on November 13 appeared first on SolarQuarter .",
       "icon": "📰",
       "visualBg": "#e2f0ed",
       "visualInk": "#276b5c",
