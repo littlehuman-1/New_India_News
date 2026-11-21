@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T11:30:51.174248+00:00",
+  "updatedAt": "2026-11-21T19:33:30.136310+00:00",
   "featuredArticleUrl": null,
   "articles": [
     {
@@ -99,6 +99,33 @@
       "tags": [
         "innovation",
         "et government - digital india"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Indian startups must focus on market readiness, talent, partnerships for global expansion: BRICS CCI",
+      "category": "Development",
+      "date": "2026-11-21",
+      "source": "ET Government - Policy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/indian-startups-must-focus-on-market-readiness-talent-partnerships-for-global-expansion-brics-cci/136054434",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/136054501.cms?mod=1114377",
+      "summary": "Industry leaders at Bengaluru Tech Summit 2026 examine the role of investment, technology adoption, regulatory preparedness and cross-border collaboration in building globally competitive enterprises.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "et government - policy"
       ],
       "isSample": false,
       "isFeatured": false,
