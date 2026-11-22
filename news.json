@@ -1,7 +1,34 @@
 {
-  "updatedAt": "2026-11-22T00:32:52.372187+00:00",
+  "updatedAt": "2026-11-22T08:17:09.866494+00:00",
   "featuredArticleUrl": null,
   "articles": [
+    {
+      "title": "RBI governer Sanjay Malhotra urges banks to step up small-business lending for greater economic gains",
+      "category": "Markets",
+      "date": "2026-11-22",
+      "source": "ET Government - Economy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/rbi-governer-sanjay-malhotra-urges-banks-to-step-up-small-business-lending-for-greater-economic-gains/136067695",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/136067753.cms?mod=145276",
+      "summary": "Speaking at an event organised by Bank of Maharashtra in Pune district earlier in the day, Reserve Bank of India Governor Sanjay Malhotra said writing a high-value loan of ₹1,000 crore to a large business enterprise will benefit only a single individual or a business.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "markets",
+        "et government - economy"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
     {
       "title": "India and Singapore hold defence technology talks in Kochi, focus on underwater domain awareness and quantum tech",
       "category": "Innovation",
