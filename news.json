@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T08:17:09.866494+00:00",
+  "updatedAt": "2026-11-22T16:30:33.719441+00:00",
   "featuredArticleUrl": null,
   "articles": [
     {
@@ -18,6 +18,87 @@
       "tags": [
         "markets",
         "et government - economy"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "West Bengal CM announces infrastructure push to develop Nabadwip as global pilgrimage hub",
+      "category": "Development",
+      "date": "2026-11-22",
+      "source": "ET Government - Smart Infrastructure",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/smart-infra/west-bengal-cm-announces-infrastructure-push-to-develop-nabadwip-as-global-pilgrimage-hub/136074523",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/136075178.cms?mod=4433598",
+      "summary": "Drawing a comparison with Mayapur, which has gained international prominence as a pilgrimage destination, West Bengal Chief Minister Suvendu Adhikari said that Nabadwip, as the birthplace of Sri Chaitanya Mahaprabhu, also deserved global recognition.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "et government - smart infrastructure"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "UP CM Yogi Adityanath directs officials to meet deadlines for expressway, infrastructure projects",
+      "category": "Development",
+      "date": "2026-11-22",
+      "source": "ET Government - Smart Infrastructure",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/smart-infra/up-cm-yogi-adityanath-directs-officials-to-meet-deadlines-for-expressway-infrastructure-projects/136074391",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/136075002.cms?mod=335310",
+      "summary": "The chief minister directed officials to expedite land acquisition for the Meerut-Haridwar Expressway, Vindhya Expressway and Vindhya-Purvanchal Spur, for which verification work has been completed.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "et government - smart infrastructure"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "The future of warfare: How networks and data are reshaping India's defence strategy",
+      "category": "Innovation",
+      "date": "2026-11-22",
+      "source": "ET Government - Defence",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/defence/the-future-of-warfare-how-networks-and-data-are-reshaping-indias-defence-strategy/136069766",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/136069813.cms?mod=1185748",
+      "summary": "A review of Strategic Reflections Yearbook 2026, examining how networks, data, joint operations and technological sovereignty are reshaping India's military doctrine and defence preparedness.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "et government - defence"
       ],
       "isSample": false,
       "isFeatured": false,
