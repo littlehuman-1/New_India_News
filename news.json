@@ -1,7 +1,34 @@
 {
-  "updatedAt": "2026-11-22T22:39:13.518577+00:00",
+  "updatedAt": "2026-11-23T03:52:19.991732+00:00",
   "featuredArticleUrl": null,
   "articles": [
+    {
+      "title": "India's space ambitions need private investment, global partnerships: Lt General A K Bhatt",
+      "category": "Innovation",
+      "date": "2026-11-23",
+      "source": "ET Government - Digital India",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/digital-india/indias-space-ambitions-need-private-investment-global-partnerships-lt-general-a-k-bhatt/136076230",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/136076284.cms?mod=1524313",
+      "summary": "Lt Gen A.K. Bhatt discusses India's $44 billion space economy target, private investment, satellite communications, strategic autonomy and global partnerships ahead of Space Conclave 2026.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "et government - digital india"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
     {
       "title": "RBI governer Sanjay Malhotra urges banks to step up small-business lending for greater economic gains",
       "category": "Markets",
@@ -2556,60 +2583,6 @@
       "tags": [
         "innovation",
         "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false,
-      "translations": {
-        "hi": {},
-        "ta": {},
-        "ml": {},
-        "kn": {},
-        "te": {}
-      }
-    },
-    {
-      "title": "Drone industry targets ₹97300 crore by 2031 as DFI pushes for indigenous components",
-      "category": "Innovation",
-      "date": "2026-11-15",
-      "source": "ET Government - Defence",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/defence/drone-industry-targets-97300-crore-by-2031-as-dfi-pushes-for-indigenous-components/135861952",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135862076.cms?mod=290229",
-      "summary": "Drone Federation India has proposed 22 policy reforms to strengthen indigenous component manufacturing, reduce import dependence and support India's projected ₹97,300 crore drone industry by 2031.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "et government - defence"
-      ],
-      "isSample": false,
-      "isFeatured": false,
-      "translations": {
-        "hi": {},
-        "ta": {},
-        "ml": {},
-        "kn": {},
-        "te": {}
-      }
-    },
-    {
-      "title": "India eyes bigger trade, investment ties with Egypt, says Piyush Goyal",
-      "category": "Markets",
-      "date": "2026-11-15",
-      "source": "ET Government - Economy",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/india-eyes-bigger-trade-investment-ties-with-egypt-says-piyush-goyal/135848316",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135848306.cms?mod=299174",
-      "summary": "Goyal emphasised the importance of two-way trade and investment opportunities for both nations. India has focused on expanding its global trade agreements, aiming for increased market access.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "markets",
-        "et government - economy"
       ],
       "isSample": false,
       "isFeatured": false,
