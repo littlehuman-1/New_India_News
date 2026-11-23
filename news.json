@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T03:52:19.991732+00:00",
+  "updatedAt": "2026-11-23T15:02:00.692693+00:00",
   "featuredArticleUrl": null,
   "articles": [
     {
@@ -18,6 +18,249 @@
       "tags": [
         "innovation",
         "et government - digital india"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Pushkar Fair 2026 draws tourists, devotees and livestock breeders from across India",
+      "category": "Markets",
+      "date": "2026-11-23",
+      "source": "ET Government - Economy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/pushkar-fair-2026-draws-tourists-devotees-and-livestock-breeders-from-across-india/136094538",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/136094566.cms?mod=124196",
+      "summary": "The November 17-24 fair features livestock trading, folk performances and handicrafts, while creating business opportunities for local traders and tourism operators.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "markets",
+        "et government - economy"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "The climate risks behind pumped-storage expansion",
+      "category": "Development",
+      "date": "2026-11-23",
+      "source": "Mongabay India",
+      "sourceShort": "MON",
+      "sourceUrl": "https://india.mongabay.com/",
+      "articleUrl": "https://india.mongabay.com/2026/11/the-climate-risks-behind-pumped-storage-expansion/",
+      "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/11/23120856/pexels-dipinder-rainu-247864103-12435661-scaled-e1795416075233-768x512.jpg",
+      "summary": "In June 2005, heavy rainfall triggered a landslide at the site of Maharashtra’s Ghatghar pumped-storage project, then under construction in Thane district. Water, rocks and debris rapidly flowed into the project’s tailrace tunnel, trapping nearly 22 workers. Nearly two decades later, as India seeks to expand renewable energy and build storage capacity, the country is […]",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "mongabay india"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Fossil fuel divide fractures consensus at climate talks in Antalya",
+      "category": "Development",
+      "date": "2026-11-23",
+      "source": "Mongabay India",
+      "sourceShort": "MON",
+      "sourceUrl": "https://india.mongabay.com/",
+      "articleUrl": "https://india.mongabay.com/2026/11/fossil-fuel-divide-fractures-consensus-at-climate-talks-in-antalya/",
+      "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/11/23155529/55666926641_83a05485aa_k-768x512.jpg",
+      "summary": "The UN climate summit in Antalya in Türkiye ended in a deadlock after nations could not agree even to reaffirm a transition away from fossil fuels. Three days earlier, leaders of China, Russia and the U.S. declared that their countries planned to increase production and supply of refined petroleum products. One meeting was a climate […]",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "mongabay india"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Why deforestation science gets shifting cultivation wrong [Commentary]",
+      "category": "Development",
+      "date": "2026-11-23",
+      "source": "Mongabay India",
+      "sourceShort": "MON",
+      "sourceUrl": "https://india.mongabay.com/",
+      "articleUrl": "https://india.mongabay.com/2026/11/why-deforestation-science-gets-shifting-cultivation-wrong-commentary/",
+      "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/11/23081616/Amit_MI-03-768x512.jpg",
+      "summary": "Estimating deforestation — the permanent conversion of forest to another land use — is only as reliable as our ability to distinguish one land use from another. If we get that wrong, we misjudge not only how much forest is being lost but also what is driving the loss. Consider shifting cultivation, also known as […]",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "mongabay india"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "LevelTen Energy Expands Into Asia-Pacific To Scale Global Clean Power Markets",
+      "category": "Innovation",
+      "date": "2026-11-23",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/23/levelten-energy-expands-into-asia-pacific-to-scale-global-clean-power-markets/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2020/10/renewable-1989416_640.jpg?fit=640%2C426&quality=89&ssl=1",
+      "summary": "Representational image. Credit: Canva \" /> LevelTen Energy is expanding its clean energy marketplace into Asia-Pacific, beginning with India and a 500 MW corporate RFP launching in December. The initiative aims to bring greater transparency, standardization, and liquidity to regional procurement. With APAC responsible for half of global electricity use, LevelTen seeks to support decarbonization amid rapidly growing energy demand. The post LevelTen Energy Expands Into Asia-Pacific To Scale Global",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Indian Green Energy Stocks Fall Amid Market Sell-Off as Sensex Declines 1.8%, Select Renewable Shares Buck Trend (23 November 2026)",
+      "category": "Innovation",
+      "date": "2026-11-23",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/23/indian-green-energy-stocks-fall-amid-market-sell-off-as-sensex-declines-1-8-select-renewable-shares-buck-trend-23-november-2026/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/artistic-bar-chart-of-indian-green-energy-stocks-6b0428c09c1ef.png?fit=1376%2C768&quality=80&ssl=1",
+      "summary": "An illustrated bar chart presents Indian green energy stock market growth from 2021 to 2028, with values increasing from ₹65 Cr to ₹1150 Cr. The years 2025 and 2026 are marked as projected, while 2027 and 2028 are identified as future estimates. Solar panels, wind turbines, a hydroelectric dam, greenery and a rising arrow form a colourful renewable-energy landscape behind the chart. \" /> Indian green energy and power stocks faced broad selling pressure on November 23, 2026, as the Sensex fell 1.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Sterling and Wilson Renewable Energy Secures Orders Worth Over INR 2,050 Crore for Solar and BESS Projects",
+      "category": "Innovation",
+      "date": "2026-11-23",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/23/sterling-and-wilson-renewable-energy-secures-orders-worth-over-inr-2050-crore-for-solar-and-bess-projects/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/large-solar-farm-with-battery-storage-facilities-6b0425c691b31.png?fit=1376%2C768&quality=80&ssl=1",
+      "summary": "An aerial view shows an expansive solar power facility in a dry desert landscape, with thousands of dark photovoltaic panels arranged in long, orderly rows. Numerous white battery storage containers occupy the central area beside broad service roads, while an electrical substation and transmission towers stand nearby. Rugged brown mountains line the horizon beneath a clear pale-blue sky, creating a sense of scale and highlighting the site’s renewable energy infrastructure. \" /> Sterling and Wils",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "India Records Highest-Ever Solar Power Generation In October 2026 As Clean Energy Milestones Rise Globally – CREA",
+      "category": "Innovation",
+      "date": "2026-11-23",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/23/india-records-highest-ever-solar-power-generation-in-october-2026-as-clean-energy-milestones-rise-globally-crea/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2022/10/6-2.png?fit=1200%2C675&quality=80&ssl=1",
+      "summary": "Representational image. Credit: Canva \" /> India set a record for solar generation in October 2026, supplying 12% of its electricity despite greater coal use caused by weaker hydropower. Argentina, Sweden, Finland, the UK, China and others also achieved clean-energy milestones. Yet fossil fuels remained significant, underscoring the need for storage, stronger grids and diversified renewables. The post India Records Highest-Ever Solar Power Generation In October 2026 As Clean Energy Milestones Ri",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "APTRANSCO Invites Bids for 1,000 MW/4,000 MWh Standalone Battery Storage Projects in Andhra Pradesh",
+      "category": "Innovation",
+      "date": "2026-11-23",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/23/aptransco-invites-bids-for-1000-mw-4000-mwh-standalone-battery-storage-projects-in-andhra-pradesh/",
+      "imageUrl": "",
+      "summary": "Andhra Pradesh has invited bids for 1,000 MW/4,000 MWh of four-hour standalone battery storage under APTRANSCO’s Phase-II programme. Developed through BOO and tariff-based competitive bidding, half the capacity will receive PSDF viability-gap funding. The tender, published November 19, 2026, closes December 14, with opportunities spanning storage equipment, integration, construction, and operations. The post APTRANSCO Invites Bids for 1,000 MW/4,000 MWh Standalone Battery Storage Projects in And",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
       ],
       "isSample": false,
       "isFeatured": false,
@@ -327,33 +570,6 @@
       }
     },
     {
-      "title": "SECI Cancels Tender for Two Agri-PV Projects on Agricultural Land in Delhi",
-      "category": "Innovation",
-      "date": "2026-11-21",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/11/21/seci-cancels-tender-for-two-agri-pv-projects-on-agricultural-land-in-delhi/",
-      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2022/10/8-5.png?fit=1200%2C675&quality=80&ssl=1",
-      "summary": "Representational image. Credit: Canva \" /> The Solar Energy Corporation of India has annulled its tender for leasing two agricultural land parcels in Delhi to develop agri-photovoltaic power plants. Issued on September 9, 2026, the procurement aimed to combine farming with solar generation. SECI provided no cancellation reason or confirmed plans for a replacement tender, urging bidders to monitor future announcements. The post SECI Cancels Tender for Two Agri-PV Projects on Agricultural Land in ",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false,
-      "translations": {
-        "hi": {},
-        "ta": {},
-        "ml": {},
-        "kn": {},
-        "te": {}
-      }
-    },
-    {
       "title": "National Wealth Fund And Matrix Renewables Partner On 1 GW Battery Storage Projects In Scotland",
       "category": "Innovation",
       "date": "2026-11-21",
@@ -417,6 +633,33 @@
       "articleUrl": "https://solarquarter.com/2026/11/21/blupine-energy-signs-50-mwp-renewable-energy-ppa-with-godawari-power-and-ispat-in-chhattisgarh/",
       "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/Blupine.png?fit=1376%2C768&quality=80&ssl=1",
       "summary": "BluPine Energy has signed a Power Purchase Agreement with AA-rated Godawari Power and Ispat for 50 MWp of renewable energy in Chhattisgarh. The deal expands BluPine’s commercial and industrial portfolio, strengthens its regional presence, and supports industrial clean-energy adoption. The company plans further partnerships to advance energy transition and decarbonization across India. The post BluPine Energy Signs 50 MWp Renewable Energy PPA With Godawari Power And Ispat In Chhattisgarh appeared",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "SECI Cancels Tender for Two Agri-PV Projects on Agricultural Land in Delhi",
+      "category": "Innovation",
+      "date": "2026-11-21",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/21/seci-cancels-tender-for-two-agri-pv-projects-on-agricultural-land-in-delhi/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2022/10/8-5.png?fit=1200%2C675&quality=80&ssl=1",
+      "summary": "Representational image. Credit: Canva \" /> The Solar Energy Corporation of India has annulled its tender for leasing two agricultural land parcels in Delhi to develop agri-photovoltaic power plants. Issued on September 9, 2026, the procurement aimed to combine farming with solar generation. SECI provided no cancellation reason or confirmed plans for a replacement tender, urging bidders to monitor future announcements. The post SECI Cancels Tender for Two Agri-PV Projects on Agricultural Land in",
       "icon": "📰",
       "visualBg": "#e2f0ed",
       "visualInk": "#276b5c",
@@ -2448,141 +2691,6 @@
       "tags": [
         "development",
         "et government - policy"
-      ],
-      "isSample": false,
-      "isFeatured": false,
-      "translations": {
-        "hi": {},
-        "ta": {},
-        "ml": {},
-        "kn": {},
-        "te": {}
-      }
-    },
-    {
-      "title": "India's trade deficit likely to ease in November as oil, gold imports cool: Emkay",
-      "category": "Markets",
-      "date": "2026-11-16",
-      "source": "ET Government - Economy",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/indias-trade-deficit-likely-to-ease-in-november-as-oil-gold-imports-cool-emkay/135877332",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135877243.cms?mod=253504",
-      "summary": "Despite the widening merchandise trade gap, Emkay sees scope for a lower current account deficit amid softer crude prices and stronger capital inflows.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "markets",
-        "et government - economy"
-      ],
-      "isSample": false,
-      "isFeatured": false,
-      "translations": {
-        "hi": {},
-        "ta": {},
-        "ml": {},
-        "kn": {},
-        "te": {}
-      }
-    },
-    {
-      "title": "India's unemployment rate eases to 4.9% in October; female participation rises",
-      "category": "Markets",
-      "date": "2026-11-16",
-      "source": "ET Government - Economy",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/indias-unemployment-rate-eases-to-4-9-in-october-female-participation-rises/135893687",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135893943.cms?mod=95626",
-      "summary": "Overall urban unemployment declined to 6.7 per cent from 6.9 per cent in September, while rural unemployment remained unchanged at 4.2 per cent.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "markets",
-        "et government - economy"
-      ],
-      "isSample": false,
-      "isFeatured": false,
-      "translations": {
-        "hi": {},
-        "ta": {},
-        "ml": {},
-        "kn": {},
-        "te": {}
-      }
-    },
-    {
-      "title": "Climate movement takes its fight beyond emissions at Türkiye summit",
-      "category": "Development",
-      "date": "2026-11-16",
-      "source": "Mongabay India",
-      "sourceShort": "MON",
-      "sourceUrl": "https://india.mongabay.com/",
-      "articleUrl": "https://india.mongabay.com/2026/11/climate-movement-takes-its-fight-beyond-emissions-at-turkiye-summit/",
-      "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/11/16111909/Photo-4-768x512.jpg",
-      "summary": "A grey, rain-soaked day in Antalya in Türkiye burst into a riot of colour, music and slogans on November 14, when civil society called for a global day of action, held alongside COP31, the ongoing UN climate conference. Bright flags, hand-painted banners, giant street installations and costumed performers filled the city centre as thousands of […]",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "mongabay india"
-      ],
-      "isSample": false,
-      "isFeatured": false,
-      "translations": {
-        "hi": {},
-        "ta": {},
-        "ml": {},
-        "kn": {},
-        "te": {}
-      }
-    },
-    {
-      "title": "Türkiye climate summit’s finance gap threatens its promise of action",
-      "category": "Development",
-      "date": "2026-11-16",
-      "source": "Mongabay India",
-      "sourceShort": "MON",
-      "sourceUrl": "https://india.mongabay.com/",
-      "articleUrl": "https://india.mongabay.com/2026/11/turkiye-climate-summits-finance-gap-threatens-its-promise-of-action/",
-      "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/11/16150113/AP24305652930016-768x512.jpg",
-      "summary": "Halfway through the annual United Nations climate summit being held in Türkiye’s Antalya, nearly 200 governments face the familiar question of where is the money to turn their promises into action? The meeting was billed as a turning point, a chance to move beyond pledges and start delivering results. However, as ministers prepare to take […]",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "mongabay india"
-      ],
-      "isSample": false,
-      "isFeatured": false,
-      "translations": {
-        "hi": {},
-        "ta": {},
-        "ml": {},
-        "kn": {},
-        "te": {}
-      }
-    },
-    {
-      "title": "BII, FinDev Canada and Norfund join forces to deliver $10 billion in climate finance by 2030",
-      "category": "Innovation",
-      "date": "2026-11-16",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/11/16/bii-findev-canada-and-norfund-join-forces-to-deliver-10-billion-in-climate-finance-by-2030/",
-      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/solar-panels-and-wind-turbines-at-golden-hour-6afab056ac2c8.png?fit=1376%2C768&quality=80&ssl=1",
-      "summary": "A modern wood-clad building marked “INVESTMENT HUB” stands in a green mountain valley at sunset. Large solar panels spread across the hillside, while several wind turbines rise behind them. A winding road, smaller buildings and four workers in high-visibility clothing complete the renewable-energy landscape, illuminated by warm golden light. \" /> UK, Norwegian and Canadian development finance institutions have launched “10by30”, aiming to deliver $10 billion in climate finance, including mobilis",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
       ],
       "isSample": false,
       "isFeatured": false,
