@@ -1,7 +1,61 @@
 {
-  "updatedAt": "2026-11-24T12:48:49.297927+00:00",
+  "updatedAt": "2026-11-24T23:11:12.155507+00:00",
   "featuredArticleUrl": null,
   "articles": [
+    {
+      "title": "Haryana CM Saini reviews development works in Gurugram",
+      "category": "Development",
+      "date": "2026-11-24",
+      "source": "ET Government - Smart Infrastructure",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/smart-infra/haryana-cm-saini-reviews-development-works-in-gurugram/136134511",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/136135138.cms?mod=891690",
+      "summary": "Stating that there is no shortage of funds for development works, Haryana Chief Minister Nayab Singh Saini asked the officials to implement government schemes and development projects on the ground with utmost integrity, responsibility and commitment.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "et government - smart infrastructure"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Paradip Port poised to emerge as major industrial hub, says Odisha CM",
+      "category": "Development",
+      "date": "2026-11-24",
+      "source": "ET Government - Smart Infrastructure",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/smart-infra/paradip-port-poised-to-emerge-as-major-industrial-hub-says-odisha-cm/136134662",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/136138972.cms?mod=146636",
+      "summary": "Addressing the Boita Bandana festival, a day after inaugurating the Kalinga Bali Jatra in the town, Odisha Chief Minister Mohan Charan Majhi said Paradip Port had played a pivotal role in India's maritime and trade growth.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "et government - smart infrastructure"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
     {
       "title": "India’s $44 billion space ambition hinges on capital, industrial scale and policy reforms: ISpA Conclave",
       "category": "Innovation",
@@ -12,6 +66,60 @@
       "articleUrl": "https://government.economictimes.indiatimes.com/news/technology/indias-44-billion-space-ambition-hinges-on-capital-industrial-scale-and-policy-reforms-ispa-conclave/136120645",
       "imageUrl": "https://etimg.etb2bimg.com/photo/136120776.cms?mod=394257",
       "summary": "At the India International Space Conclave 2026, global leaders called for patient capital, industrial expansion, regulatory certainty and international partnerships to scale India’s $44 billion space economy.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "et government - technology"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Space reforms have unlocked India’s entrepreneurial and technological potential: Jitendra Singh",
+      "category": "Innovation",
+      "date": "2026-11-24",
+      "source": "ET Government - Technology",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/technology/space-reforms-have-unlocked-indias-entrepreneurial-and-technological-potential-jitendra-singh/136133915",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/136133955.cms?mod=311764",
+      "summary": "India’s space sector is entering a new phase of growth, with policymakers and industry leaders emphasising demand creation, patient capital, indigenous capabilities, policy stability and global partnerships.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "et government - technology"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Dev Deepawali puts Kashi on tourism-tech map with 15-language audio tour, 2,100-drone spectacle",
+      "category": "Innovation",
+      "date": "2026-11-24",
+      "source": "ET Government - Technology",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/technology/dev-deepawali-puts-kashi-on-tourism-tech-map-with-15-language-audio-tour-2100-drone-spectacle/136135890",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/136135959.cms?mod=415272",
+      "summary": "A GPS-enabled audio guide covering 84 ghats, a first-of-its-kind drone show and 21 lakh diyas marked the celebrations in Varanasi, with the festival expected to generate ₹400-500 crore in local business.",
       "icon": "📰",
       "visualBg": "#e2f0ed",
       "visualInk": "#276b5c",
@@ -57,6 +165,60 @@
       }
     },
     {
+      "title": "EU seeks stronger maritime security cooperation with India and Indian Ocean Rim countries",
+      "category": "Development",
+      "date": "2026-11-24",
+      "source": "ET Government - Policy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/eu-seeks-stronger-maritime-security-cooperation-with-india-and-indian-ocean-rim-countries/136133797",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/136133823.cms?mod=118617",
+      "summary": "The EU seeks stronger maritime security cooperation with India and IORA members to combat maritime crime, protect vital shipping routes and strengthen operational coordination across the Indian Ocean.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "et government - policy"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "J&K govt approves land for modern fruit and vegetable markets in three districts of Kashmir",
+      "category": "Development",
+      "date": "2026-11-24",
+      "source": "ET Government - Smart Infrastructure",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/smart-infra/jk-govt-approves-land-for-modern-fruit-and-vegetable-markets-in-three-districts-of-kashmir/136135517",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/136135730.cms?mod=4057466",
+      "summary": "The proposed sites include 50 kanals in village Palhallan in Baramulla, 20 kanals and 4 marlas in village Nowdal in Pulwama, and 250 kanals in Kulgam, an official spokesman said on Tuesday.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "et government - smart infrastructure"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
       "title": "Work on Sahityaratna Lokshahir Annabhau Sathe Research and Training Institute at Chirag Nagar gains momentum",
       "category": "Development",
       "date": "2026-11-24",
@@ -66,6 +228,33 @@
       "articleUrl": "https://government.economictimes.indiatimes.com/news/smart-infra/work-on-sahityaratna-lokshahir-annabhau-sathe-research-and-training-institute-at-chirag-nagar-gains-momentum/136127124",
       "imageUrl": "https://etimg.etb2bimg.com/photo/136127150.cms?mod=183599",
       "summary": "Physical work on the first phase of the project begins following the foundation stone ceremony; over 80 per cent of shoring piling work completed, excavation for basements underway.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "et government - smart infrastructure"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "After Supreme Court rap, MCD plans annual checks of 1,318 heritage sites",
+      "category": "Development",
+      "date": "2026-11-24",
+      "source": "ET Government - Smart Infrastructure",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/smart-infra/after-supreme-court-rap-mcd-plans-annual-checks-of-1318-heritage-sites/136134635",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/136139713.cms?mod=641236",
+      "summary": "The inspections will document cracks, seepage, vegetation, unsafe portions, encroachments and even changes in the use of a heritage building, the official added.",
       "icon": "📰",
       "visualBg": "#e2f0ed",
       "visualInk": "#276b5c",
@@ -174,6 +363,33 @@
       "articleUrl": "https://solarquarter.com/2026/11/24/uperc-approves-375-mw-1500-mwh-battery-storage-projects-at-tariffs-of-inr-6-45-6-46-per-kwh-in-uttar-pradesh/",
       "imageUrl": "",
       "summary": "Representational image. Credit: Canva \" /> UPERC has approved power procurement agreements and tariffs for 375 MW/1,500 MWh of standalone BESS projects in Uttar Pradesh. Three developers will supply stored energy for 15 years under VGF support, with tariffs of Rs. 6.45–6.46 per kWh. Scheduled for commissioning by December 7, 2027, the projects will enhance renewable integration, peak-demand management, and grid stability. The post UPERC Approves 375 MW/1,500 MWh Battery Storage Projects At Tarif",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Green Energy Stocks Slide As Sensex Drops 1.8% Amid Broad Market Selling Pressure (24 November 2026)",
+      "category": "Innovation",
+      "date": "2026-11-24",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/24/green-energy-stocks-slide-as-sensex-drops-1-8-amid-broad-market-selling-pressure-24-november-2026/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/indian-green-energy-stocks-slide-animation-6b05881277319.png?fit=1376%2C768&quality=80&ssl=1",
+      "summary": "Indian green energy and power stocks broadly declined on November 23, 2026, following an 1.8% fall in the Sensex. Sterling and Wilson Renewable Energy gained 4.5%, while Websol Energy rose 1.1%. Inox Wind, Tata Power, Indian Oil, IEX, Adani Green, GAIL and JSW Energy posted notable losses, while battery and solar companies saw moderate declines. The post Green Energy Stocks Slide As Sensex Drops 1.8% Amid Broad Market Selling Pressure (24 November 2026) appeared first on SolarQuarter .",
       "icon": "📰",
       "visualBg": "#e2f0ed",
       "visualInk": "#276b5c",
@@ -2475,222 +2691,6 @@
       "tags": [
         "development",
         "et government - policy"
-      ],
-      "isSample": false,
-      "isFeatured": false,
-      "translations": {
-        "hi": {},
-        "ta": {},
-        "ml": {},
-        "kn": {},
-        "te": {}
-      }
-    },
-    {
-      "title": "Nitin Gadkari honours grassroots entrepreneurs at JRD Tata Awards 2026, calls for job creation in rural India",
-      "category": "Markets",
-      "date": "2026-11-17",
-      "source": "ET Government - Economy",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/nitin-gadkari-honours-grassroots-entrepreneurs-at-jrd-tata-awards-2026-calls-for-job-creation-in-rural-india/135934460",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135934563.cms?mod=472496",
-      "summary": "Union Minister Nitin Gadkari honours grassroots entrepreneurs at JRD Tata Awards 2026, highlighting their role in job creation, rural economic growth, innovation and India's MSME development.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "markets",
-        "et government - economy"
-      ],
-      "isSample": false,
-      "isFeatured": false,
-      "translations": {
-        "hi": {},
-        "ta": {},
-        "ml": {},
-        "kn": {},
-        "te": {}
-      }
-    },
-    {
-      "title": "Transport ministry preparing safety standards for e-rickshaws on lines of Bharat NCAP: Gadkari",
-      "category": "Development",
-      "date": "2026-11-17",
-      "source": "ET Government - Policy",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/transport-ministry-preparing-safety-standards-for-e-rickshaws-on-lines-of-bharat-ncap-gadkari/135920230",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135920320.cms?mod=111980",
-      "summary": "Nitin Gadkari, the Minister of Union Road Transport and Highways, revealed exciting new safety standards for e-rickshaws, inspired by the Bharat New Car Assessment Program launched in 2023.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "et government - policy"
-      ],
-      "isSample": false,
-      "isFeatured": false,
-      "translations": {
-        "hi": {},
-        "ta": {},
-        "ml": {},
-        "kn": {},
-        "te": {}
-      }
-    },
-    {
-      "title": "UP sends proposal to Centre for rooftop solar systems in 5 lakh homes under PM Surya Ghar Yojana",
-      "category": "Development",
-      "date": "2026-11-17",
-      "source": "ET Government - Policy",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/up-sends-proposal-to-centre-for-rooftop-solar-systems-in-5-lakh-homes-under-pm-surya-ghar-yojana/135932167",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135932169.cms?mod=135224",
-      "summary": "The proposal has been submitted under the utility-led aggregation (ULA) model, aiming to develop an additional 750 MW of solar power capacity in the state, an official statement said.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "et government - policy"
-      ],
-      "isSample": false,
-      "isFeatured": false,
-      "translations": {
-        "hi": {},
-        "ta": {},
-        "ml": {},
-        "kn": {},
-        "te": {}
-      }
-    },
-    {
-      "title": "Institutional campuses could expand India’s conservation network, but challenges remain",
-      "category": "Development",
-      "date": "2026-11-17",
-      "source": "Mongabay India",
-      "sourceShort": "MON",
-      "sourceUrl": "https://india.mongabay.com/",
-      "articleUrl": "https://india.mongabay.com/2026/11/institutional-campuses-could-expand-indias-conservation-network-but-challenges-remain/",
-      "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/11/17140518/18965172263_336f0219b2_k-768x512.jpg",
-      "summary": "At the 2022 United Nations Biodiversity Conference (COP15), world governments, including India, adopted the historic Kunming-Montreal Global Biodiversity Framework, whereby signatories agreed to protect and conserve at least 30% of the world’s land, coastal areas, and oceans by 2030. According to a recent analysis, India’s protected area network covers roughly 28% of its geographical area […]",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "mongabay india"
-      ],
-      "isSample": false,
-      "isFeatured": false,
-      "translations": {
-        "hi": {},
-        "ta": {},
-        "ml": {},
-        "kn": {},
-        "te": {}
-      }
-    },
-    {
-      "title": "No land to call their own, migrants and elephants share Teesta’s shifting sandbars",
-      "category": "Development",
-      "date": "2026-11-17",
-      "source": "Mongabay India",
-      "sourceShort": "MON",
-      "sourceUrl": "https://india.mongabay.com/",
-      "articleUrl": "https://india.mongabay.com/video/2026/11/migrants-and-elephants-share-shifting-sandbars/",
-      "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/11/17160215/featured-elephant-final-768x512.jpg",
-      "summary": "On the shifting sandbars of the Teesta in West Bengal, migrant farmers cultivate seasonal crops that are increasingly attracting elephants from nearby forests. The elephants feed on these crops, bringing people and wildlife into close contact. As the Teesta changes course, floods and erosion reshape the sandbars, forcing farmers to move their fields and adapt […]",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "mongabay india"
-      ],
-      "isSample": false,
-      "isFeatured": false,
-      "translations": {
-        "hi": {},
-        "ta": {},
-        "ml": {},
-        "kn": {},
-        "te": {}
-      }
-    },
-    {
-      "title": "Motherhood changes how sloth bears use forests in central India",
-      "category": "Development",
-      "date": "2026-11-17",
-      "source": "Mongabay India",
-      "sourceShort": "MON",
-      "sourceUrl": "https://india.mongabay.com/",
-      "articleUrl": "https://india.mongabay.com/2026/11/motherhood-changes-how-sloth-bears-use-forests-in-central-india/",
-      "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/11/17102013/Image-2_Lone-Adult-Male-768x512.jpg",
-      "summary": "Sloth bear mothers go weeks without food or water while nursing their young in caves or rocky crevices, eventually emerging from their maternal dens with cubs clinging to their backs. But how reproduction shapes their behavioural patterns remains poorly understood. A new study finds differences in how female sloth bears with offspring and lone adults […]",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "mongabay india"
-      ],
-      "isSample": false,
-      "isFeatured": false,
-      "translations": {
-        "hi": {},
-        "ta": {},
-        "ml": {},
-        "kn": {},
-        "te": {}
-      }
-    },
-    {
-      "title": "Green Energy Stocks Gain as Renewable and Battery Shares Drive Market Momentum (17 November 2026)",
-      "category": "Innovation",
-      "date": "2026-11-17",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/11/17/green-energy-stocks-gain-as-renewable-and-battery-shares-drive-market-momentum-17-november-2026/",
-      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/green-energy-stocks-rising-in-positive-market-sentiment-6afc3cdd68b2d.png?fit=1376%2C768&quality=80&ssl=1",
-      "summary": "Three financial presenters sit behind a curved illuminated desk in a modern market-news studio. A large screen displays “GREEN ENERGY STOCKS SURGE HIGHER” with percentage gains for Exide Industries, Reliance Industries, and Adani Green, while trading screens glow in the background. The scene uses cool blue lighting with vivid green graphics, creating a polished, energetic broadcast atmosphere. \" /> Green energy stocks mostly gained on November 17, 2026, following broader market strength as the S",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false,
-      "translations": {
-        "hi": {},
-        "ta": {},
-        "ml": {},
-        "kn": {},
-        "te": {}
-      }
-    },
-    {
-      "title": "RECPDCL Invites Bids For 42.55 MWp Rooftop Solar Projects Across West Bengal Government Buildings",
-      "category": "Innovation",
-      "date": "2026-11-17",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/11/17/recpdcl-invites-bids-for-42-55-mwp-rooftop-solar-projects-across-west-bengal-government-buildings/",
-      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2022/10/18.png?fit=1200%2C675&quality=80&ssl=1",
-      "summary": "Representational image. Credit: Canva \" /> West Bengal has invited GeM bids to develop 42.55 MWp of grid-connected rooftop solar capacity across government buildings in 17 regions under Phase I of its renewable energy programme. Implemented through the RESCO model with state-funded VGF support, the initiative promotes decentralised clean energy, reduces conventional power dependence, and encourages private participation. Bids close December 14, 2026. The post RECPDCL Invites Bids For 42.55 MWp R",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
       ],
       "isSample": false,
       "isFeatured": false,
