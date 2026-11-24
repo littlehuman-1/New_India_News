@@ -1,7 +1,88 @@
 {
-  "updatedAt": "2026-11-23T15:02:00.692693+00:00",
+  "updatedAt": "2026-11-24T02:26:24.354818+00:00",
   "featuredArticleUrl": null,
   "articles": [
+    {
+      "title": "Himachal to procure 1,000 e-buses to improve HRTC’s financial health, says CM Sukhu",
+      "category": "Development",
+      "date": "2026-11-23",
+      "source": "ET Government - Smart Infrastructure",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/smart-infra/himachal-to-procure-1000-e-buses-to-improve-hrtcs-financial-health-says-cm-sukhu/136110599",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/136111072.cms?mod=6510531",
+      "summary": "Inaugurating a new bus route connecting Sera with Hamirpur via Majhyar in the Nadaun area, Chief Minister Sukhvinder Singh Sukhu said the corporation was burdened with substantial liabilities towards pensions, salaries and other expenses, making it essential to bring down its operational costs.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "et government - smart infrastructure"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Piyush Goyal pitches auction reforms, export push, branding of Darjeeling Tea",
+      "category": "Markets",
+      "date": "2026-11-23",
+      "source": "ET Government - Economy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/piyush-goyal-pitches-auction-reforms-export-push-branding-of-darjeeling-tea/136108379",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/136109390.cms?mod=75912",
+      "summary": "Union Commerce and Industry Minister Piyush Goyal said the government plans a global marketing campaign under the Export Promotion Mission and support for inland freight -- particularly from Darjeeling to ports -- to help exporters and improve realisation for producers.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "markets",
+        "et government - economy"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Uttarakhand CM announces Science City in Srinagar, chopper connectivity to Dehradun soon",
+      "category": "Development",
+      "date": "2026-11-23",
+      "source": "ET Government - Smart Infrastructure",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/smart-infra/uttarakhand-cm-announces-science-city-in-srinagar-chopper-connectivity-to-dehradun-soon/136108192",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/136108525.cms?mod=260283",
+      "summary": "Uttarakhand Chief Minister Pushkar Singh Dhami said that a modern bus stand and parking facilities are being developed in the town. Furthermore, the process of widening the Kotdwar-Pauri-Srinagar road into a two-lane highway is progressing.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "et government - smart infrastructure"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
     {
       "title": "India's space ambitions need private investment, global partnerships: Lt General A K Bhatt",
       "category": "Innovation",
@@ -2502,195 +2583,6 @@
       "tags": [
         "innovation",
         "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false,
-      "translations": {
-        "hi": {},
-        "ta": {},
-        "ml": {},
-        "kn": {},
-        "te": {}
-      }
-    },
-    {
-      "title": "India, US, eight other nations sign declaration to safeguard AI supply chains",
-      "category": "Innovation",
-      "date": "2026-11-16",
-      "source": "ET Government - Technology",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/technology/india-us-eight-other-nations-sign-declaration-to-safeguard-ai-supply-chains/135875513",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135875567.cms?mod=502262",
-      "summary": "Washington and nine other nations recently signed the San Francisco Declaration to safeguard AI supply chains. This initiative aims to enhance economic and national security through collaboration and shared goals among the member countries.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "et government - technology"
-      ],
-      "isSample": false,
-      "isFeatured": false,
-      "translations": {
-        "hi": {},
-        "ta": {},
-        "ml": {},
-        "kn": {},
-        "te": {}
-      }
-    },
-    {
-      "title": "WPI inflation rises to 12.29% in October on sharp spike in fuel, crude prices",
-      "category": "Markets",
-      "date": "2026-11-16",
-      "source": "ET Government - Economy",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/wpi-inflation-rises-to-12-29-in-october-on-sharp-spike-in-fuel-crude-prices/135876128",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135876181.cms?mod=1763391",
-      "summary": "Wholesale price inflation accelerated to 12.29 per cent in October from 11.39 per cent in September, driven largely by a sharp rise in fuel and power prices, according to data released by the Ministry of Commerce and Industry on Monday.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "markets",
-        "et government - economy"
-      ],
-      "isSample": false,
-      "isFeatured": false,
-      "translations": {
-        "hi": {},
-        "ta": {},
-        "ml": {},
-        "kn": {},
-        "te": {}
-      }
-    },
-    {
-      "title": "Karnataka to make meters mandatory in all taxis, ban half helmets",
-      "category": "Development",
-      "date": "2026-11-16",
-      "source": "ET Government - Policy",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/karnataka-to-make-meters-mandatory-in-all-taxis-ban-half-helmets/135894131",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135895045.cms?mod=66082",
-      "summary": "Addressing a press conference, Karnataka Transport Minister Byrathi Suresh said the government was taking steps to protect the interests of taxi owners and drivers, who had submitted him a memorandum in this regard.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "et government - policy"
-      ],
-      "isSample": false,
-      "isFeatured": false,
-      "translations": {
-        "hi": {},
-        "ta": {},
-        "ml": {},
-        "kn": {},
-        "te": {}
-      }
-    },
-    {
-      "title": "India's youth do not lack enterprise–they lack the right ecosystem: Lakshmi Venkataraman",
-      "category": "Development",
-      "date": "2026-11-16",
-      "source": "ET Government - Policy",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/indias-youth-do-not-lack-enterprisethey-lack-the-right-ecosystem-lakshmi-v-venkatesan/135858055",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135858158.cms?mod=148543",
-      "summary": "Lakshmi Venkataraman Venkatesan, Founder of BYST, calls for larger loans, institutionalised mentorship, regulatory reforms and AI adoption to transform India's Grampreneurs into engines of growth and jobs.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "et government - policy"
-      ],
-      "isSample": false,
-      "isFeatured": false,
-      "translations": {
-        "hi": {},
-        "ta": {},
-        "ml": {},
-        "kn": {},
-        "te": {}
-      }
-    },
-    {
-      "title": "Rajasthan earmarks ₹3,200 crore for tribal development over three years",
-      "category": "Development",
-      "date": "2026-11-16",
-      "source": "ET Government - Policy",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/rajasthan-earmarks-3200-crore-for-tribal-development-over-three-years/135893253",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135893461.cms?mod=558522",
-      "summary": "Chief Minister Bhajanlal Sharma says funds will support education, healthcare, infrastructure and economic empowerment; development initiatives cover 6,235 villages and 55 lakh tribal people.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "et government - policy"
-      ],
-      "isSample": false,
-      "isFeatured": false,
-      "translations": {
-        "hi": {},
-        "ta": {},
-        "ml": {},
-        "kn": {},
-        "te": {}
-      }
-    },
-    {
-      "title": "India, Egypt discuss steps to boost trade, address non-tariff barriers",
-      "category": "Markets",
-      "date": "2026-11-16",
-      "source": "ET Government - Economy",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/india-egypt-discuss-steps-to-boost-trade-address-non-tariff-barriers/135875266",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135875397.cms?mod=148994",
-      "summary": "Cairo and India have engaged in discussions to boost bilateral trade to USD 12 billion. A Joint Working Group will be established to explore trade agreements and facilitate market access.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "markets",
-        "et government - economy"
-      ],
-      "isSample": false,
-      "isFeatured": false,
-      "translations": {
-        "hi": {},
-        "ta": {},
-        "ml": {},
-        "kn": {},
-        "te": {}
-      }
-    },
-    {
-      "title": "Rajasthan announces ₹9,321 crore relief package for drought-hit areas",
-      "category": "Development",
-      "date": "2026-11-16",
-      "source": "ET Government - Policy",
-      "sourceShort": "ET ",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/",
-      "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/rajasthan-announces-9321-crore-relief-package-for-drought-hit-areas/135892506",
-      "imageUrl": "https://etimg.etb2bimg.com/photo/135892621.cms?mod=121486",
-      "summary": "Package covers 87 tehsils across 15 districts; state government directs departments to ensure drinking water, fodder, irrigation and livelihood support.",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "development",
-        "et government - policy"
       ],
       "isSample": false,
       "isFeatured": false,
