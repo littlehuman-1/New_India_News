@@ -1,7 +1,88 @@
 {
-  "updatedAt": "2026-11-26T11:11:39.913871+00:00",
+  "updatedAt": "2026-11-26T20:21:46.847855+00:00",
   "featuredArticleUrl": null,
   "articles": [
+    {
+      "title": "Rajnath Singh calls for anticipating emerging risks, preparing institutions for security environment",
+      "category": "Innovation",
+      "date": "2026-11-26",
+      "source": "ET Government - Defence",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/defence/rajnath-singh-calls-for-anticipating-emerging-risks-preparing-institutions-for-security-environment/136196317",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/136197355.cms?mod=4719322",
+      "summary": "Defence Minister Rajnath Singh emphasised that strategic leadership lies not in waiting for perfect information or ideal circumstances, but in making well-considered decisions while remaining conscious of their \"wider operational, economic, diplomatic and institutional implications\".",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "et government - defence"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Mizoram govt working to increase farmers' income: CM Lalduhoma",
+      "category": "Development",
+      "date": "2026-11-26",
+      "source": "ET Government - Policy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/mizoram-govt-working-to-increase-farmers-income-cm-lalduhoma/136196282",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/136197073.cms?mod=139108",
+      "summary": "Addressing the Ginger Festival at Vangtlang in Khawzawl district, Mizoram Chief Minister Lalduhoma said the state government was continuously working to improve the livelihood of farmers and ensure better returns from agricultural activities.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "et government - policy"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Maharashtra govt proposes separate property cards for individual flats",
+      "category": "Development",
+      "date": "2026-11-26",
+      "source": "ET Government - Policy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/maharashtra-govt-proposes-separate-property-cards-for-individual-flats/136196376",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/136198552.cms?mod=5644437",
+      "summary": "The records will include the unit number, name of the holder, sanctioned area, associated rights and liabilities. Details of the building's sanctioned area, common spaces, open spaces and areas under roads will also be incorporated.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "et government - policy"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
     {
       "title": "Sarvam Token Factory controversy: Why India needs clearer rules for sovereign AI and subsidised compute",
       "category": "Innovation",
@@ -12,6 +93,60 @@
       "articleUrl": "https://government.economictimes.indiatimes.com/news/digital-india/sarvam-token-factory-controversy-why-india-needs-clearer-rules-for-sovereign-ai-and-subsidised-compute/136176464",
       "imageUrl": "https://etimg.etb2bimg.com/photo/136176487.cms?mod=1858419",
       "summary": "Sarvam’s deployment of foreign AI models raises questions about sovereign compute, public funding, data localisation and the need for greater transparency in India’s indigenous AI development ecosystem.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "et government - digital india"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Himachal to provide surplus raw water to neighbouring states, govt agencies at uniform rates",
+      "category": "Development",
+      "date": "2026-11-26",
+      "source": "ET Government - Policy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/policy/himachal-to-provide-surplus-raw-water-to-neighbouring-states-govt-agencies-at-uniform-rates/136196506",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/136197888.cms?mod=3986498",
+      "summary": "The policy aims to ensure transparent and economically rational valuation of the state's water resources while safeguarding its financial interests, a statement issued on Thursday said.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "et government - policy"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "6th India Internet Governance Forum 2026 to be held at IIT Madras",
+      "category": "Innovation",
+      "date": "2026-11-26",
+      "source": "ET Government - Digital India",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/digital-india/6th-india-internet-governance-forum-2026-to-be-held-at-iit-madras/136196060",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/136196162.cms?mod=67272",
+      "summary": "The forum will provide an opportunity for different stakeholders to exchange ideas and discuss the opportunities and challenges facing India's internet ecosystem.",
       "icon": "📰",
       "visualBg": "#e2f0ed",
       "visualInk": "#276b5c",
@@ -66,6 +201,33 @@
       "articleUrl": "https://india.mongabay.com/2026/11/large-scale-climate-drivers-influence-sardine-and-anchovy-fisheries/",
       "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/11/26122903/Weighing_each_sardine_basket_at_Rameswaram_port_in_India-scaled-e1795676377805-768x512.jpg",
       "summary": "Global and local climate drivers can affect marine conditions, which in turn affect marine life and habitats, and subsequently the fish catch. But these effects are not always uniform: different fish groups respond differently to shifts in temperature, winds, upwelling and food availability. Fishing pressure and other ecological factors also shape their abundance. These fluctuations […]",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "mongabay india"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Translocated tigress’ miscarriage and injuries raise welfare concerns",
+      "category": "Development",
+      "date": "2026-11-26",
+      "source": "Mongabay India",
+      "sourceShort": "MON",
+      "sourceUrl": "https://india.mongabay.com/",
+      "articleUrl": "https://india.mongabay.com/2026/11/translocated-tigress-miscarriage-and-injuries-raise-welfare-concerns/",
+      "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/11/26161435/Tigress_with_cubs_in_Kanha_Tiger_reserve-e1795692293358-768x512.jpg",
+      "summary": "T138 was a healthy three-year-old tigress roaming the forests of Bihar’s Valmiki Tiger Reserve until she was selected for a reintroduction programme at Buxa Tiger Reserve (BTR) in West Bengal, about 760 km away. Buxa had been without a resident tiger population for decades, following depletion due to poaching and habitat degradation. Following her translocation […]",
       "icon": "📰",
       "visualBg": "#e2f0ed",
       "visualInk": "#276b5c",
@@ -192,33 +354,6 @@
       }
     },
     {
-      "title": "Moglix Launches End-to-End Rooftop Solar Business Targeting Industrial, Commercial, and Residential Customers",
-      "category": "Innovation",
-      "date": "2026-11-26",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/11/26/moglix-launches-end-to-end-rooftop-solar-business-targeting-industrial-commercial-and-residential-customers/",
-      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/Deep.png?fit=1376%2C768&quality=80&ssl=1",
-      "summary": "Moglix has launched Moglix Solar, offering end-to-end rooftop solar solutions for industrial, commercial, residential and MSME customers across India. The company will provide financing without upfront costs, equipment, installation, approvals, maintenance and eventual system ownership through one platform. Leveraging its extensive solar supply chain, Moglix aims to accelerate affordable rooftop adoption nationwide. The post Moglix Launches End-to-End Rooftop Solar Business Targeting Industrial,",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false,
-      "translations": {
-        "hi": {},
-        "ta": {},
-        "ml": {},
-        "kn": {},
-        "te": {}
-      }
-    },
-    {
       "title": "Indian Banks Face Pressure to Strengthen Climate Lending Policies Amid Rising Industrial Credit—Report",
       "category": "Innovation",
       "date": "2026-11-26",
@@ -255,6 +390,114 @@
       "articleUrl": "https://solarquarter.com/2026/11/26/bspgcl-invites-bids-for-500-mwh-standalone-battery-storage-project-at-kajra-in-bihar/",
       "imageUrl": "",
       "summary": "Representational image. Credit: Canva \" /> BSPGCL has invited bids to develop a 125 MW/500 MWh standalone BESS at Kajra, Lakhisarai, under a BOOT-based TBCB framework. The tender requires a ₹13 crore EMD, with bids due by November 27, 2026. Individual or consortium bidders must meet specified financial and technical eligibility criteria, including grid-connected BESS experience. The post BSPGCL Invites Bids For 500 MWh Standalone Battery Storage Project At Kajra In Bihar appeared first on SolarQ",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Green Energy Stocks Witness Mixed Trading As Solar And Wind Shares Gain While Battery Stocks Decline (26 November 2026)",
+      "category": "Innovation",
+      "date": "2026-11-26",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/26/green-energy-stocks-witness-mixed-trading-as-solar-and-wind-shares-gain-while-battery-stocks-decline-26-november-2026/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/solar-and-wind-energy-market-with-declining-batteries-6b08280636250.png?fit=1376%2C768&quality=80&ssl=1",
+      "summary": "A futuristic financial infographic titled “GREEN ENERGY STOCKS: MIXED TRADING DAY” presents market performance across renewable-energy sectors. Green charts show gains for solar shares, solar energy generators, photovoltaic technology, wind shares, offshore wind projects and wind farm operators, while red charts show declines in lithium-ion battery makers, energy storage systems and battery material suppliers. Neon blue, green and red graphics, arrows, bar charts, line graphs and energy-related ",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Philippines Expands Government Solarization Programme As 38 LGUs Commit To Clean Energy Adoption",
+      "category": "Innovation",
+      "date": "2026-11-26",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/26/philippines-expands-government-solarization-programme-as-38-lgus-commit-to-clean-energy-adoption/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2022/10/6-2.png?fit=1200%2C675&quality=80&ssl=1",
+      "summary": "Representational image. Credit: Canva \" /> The Philippines’ DOE has enrolled 38 local government units in its Solar Solutions for Government initiative, with four recently signing participation agreements. The programme supports rooftop solar installations and energy-efficiency measures in public buildings, providing technical assistance to reduce electricity costs, ease grid pressure during El Niño, improve services, and advance national renewable-energy targets. The post Philippines Expands Go",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Egypt Targets 31.9 GW Renewable Energy Capacity and 14.42 GWh Battery Storage by 2030",
+      "category": "Innovation",
+      "date": "2026-11-26",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/26/egypt-targets-31-9-gw-renewable-energy-capacity-and-14-42-gwh-battery-storage-by-2030/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2020/04/3.png?fit=1200%2C675&quality=80&ssl=1",
+      "summary": "Representational image. Credit: Canva \" /> Egypt plans to expand renewable energy capacity to 31,905 MW by 2030, supported by private investment, major projects and 14,420 MWh of battery storage. The government is accelerating implementation, localising clean-energy industries, promoting rooftop solar, and strengthening regional electricity interconnections. These measures aim to diversify energy sources, improve grid reliability, attract investment and establish Egypt as a regional energy hub. ",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Moglix Launches End-to-End Rooftop Solar Business Targeting Industrial, Commercial, and Residential Customers",
+      "category": "Innovation",
+      "date": "2026-11-26",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/26/moglix-launches-end-to-end-rooftop-solar-business-targeting-industrial-commercial-and-residential-customers/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/Deep.png?fit=1376%2C768&quality=80&ssl=1",
+      "summary": "Moglix has launched Moglix Solar, offering end-to-end rooftop solar solutions for industrial, commercial, residential and MSME customers across India. The company will provide financing without upfront costs, equipment, installation, approvals, maintenance and eventual system ownership through one platform. Leveraging its extensive solar supply chain, Moglix aims to accelerate affordable rooftop adoption nationwide. The post Moglix Launches End-to-End Rooftop Solar Business Targeting Industrial",
       "icon": "📰",
       "visualBg": "#e2f0ed",
       "visualInk": "#276b5c",
@@ -2442,87 +2685,6 @@
       "articleUrl": "https://solarquarter.com/2026/11/19/penoles-and-atlas-renewable-energy-sign-20-year-solar-and-battery-storage-agreement-in-mexico/",
       "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/large-solar-farm-with-battery-storage-6afef447c95fa.png?fit=1376%2C768&quality=80&ssl=1",
       "summary": "An aerial view shows a vast solar energy facility covering a broad, arid valley, with thousands of dark photovoltaic panels arranged in orderly rows. Clusters of white battery storage units and utility buildings occupy the central compound, while access roads, vehicles, fencing and power infrastructure surround the site. Rugged mountains form the background beneath a bright blue sky with scattered clouds, creating a spacious, industrial yet peaceful desert landscape. \" /> Peñoles has signed a 20",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false,
-      "translations": {
-        "hi": {},
-        "ta": {},
-        "ml": {},
-        "kn": {},
-        "te": {}
-      }
-    },
-    {
-      "title": "Green Energy Stocks Rise As Battery And Power Shares Gain Amid Strong Market Rally (19 November 2026)",
-      "category": "Innovation",
-      "date": "2026-11-19",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/11/19/green-energy-stocks-rise-as-battery-and-power-shares-gain-amid-strong-market-rally-19-november-2026/",
-      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/indian-green-energy-stock-market-scene-6afeed5bdd49d.png?fit=1376%2C768&quality=80&ssl=1",
-      "summary": "Two men stand in front of large financial-market displays at the National Stock Exchange in India. The screens show stock tickers, the NSE India Green Energy Index, and a bar chart comparing year-to-date performance for solar, wind, hydro, bioenergy, hybrid, and storage sectors. Cool blue lighting contrasts with bright green and orange data graphics, creating a focused, modern financial atmosphere. \" /> Green energy stocks mostly rose on November 19, 2026, following a strong rally in Indian equi",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false,
-      "translations": {
-        "hi": {},
-        "ta": {},
-        "ml": {},
-        "kn": {},
-        "te": {}
-      }
-    },
-    {
-      "title": "ADB And Bangladesh Expand Clean Energy Partnership For Over 1,000 MW Solar And Battery Storage Projects",
-      "category": "Innovation",
-      "date": "2026-11-19",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/11/19/adb-and-bangladesh-expand-clean-energy-partnership-for-over-1000-mw-solar-and-battery-storage-projects/",
-      "imageUrl": "",
-      "summary": "Representational image. Credit: Canva \" /> The Asian Development Bank and Bangladesh have expanded their partnership to develop five additional solar and battery storage projects, bringing planned capacity across six projects above 1,000 MW. The programme could attract over $1 billion in private investment, support renewable energy targets, enhance energy security, and establish a framework for competitive clean-energy development. The post ADB And Bangladesh Expand Clean Energy Partnership For",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false,
-      "translations": {
-        "hi": {},
-        "ta": {},
-        "ml": {},
-        "kn": {},
-        "te": {}
-      }
-    },
-    {
-      "title": "KKR Makes Minority Investment In Gentari’s 8 GW Renewable Energy Platform In India",
-      "category": "Innovation",
-      "date": "2026-11-19",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/11/19/kkr-makes-minority-investment-in-gentaris-8-gw-renewable-energy-platform-in-india/",
-      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2022/10/20-3.png?fit=1200%2C675&quality=80&ssl=1",
-      "summary": "Gentari and global investment firm KKR have announced a strategic partnership through which capital accounts advised by KKR have made a minority investment in Gentari Renewables India Pte Ltd, the […] The post KKR Makes Minority Investment In Gentari’s 8 GW Renewable Energy Platform In India appeared first on SolarQuarter .",
       "icon": "📰",
       "visualBg": "#e2f0ed",
       "visualInk": "#276b5c",
