@@ -1,7 +1,304 @@
 {
-  "updatedAt": "2026-11-26T01:55:10.295203+00:00",
+  "updatedAt": "2026-11-26T11:11:39.913871+00:00",
   "featuredArticleUrl": null,
   "articles": [
+    {
+      "title": "Sarvam Token Factory controversy: Why India needs clearer rules for sovereign AI and subsidised compute",
+      "category": "Innovation",
+      "date": "2026-11-26",
+      "source": "ET Government - Digital India",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/digital-india/sarvam-token-factory-controversy-why-india-needs-clearer-rules-for-sovereign-ai-and-subsidised-compute/136176464",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/136176487.cms?mod=1858419",
+      "summary": "Sarvam’s deployment of foreign AI models raises questions about sovereign compute, public funding, data localisation and the need for greater transparency in India’s indigenous AI development ecosystem.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "et government - digital india"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "USTR proposes up to 25% tariff on Indian goods; brokerages see room to negotiate down to 17%",
+      "category": "Markets",
+      "date": "2026-11-26",
+      "source": "ET Government - Economy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/ustr-proposes-up-to-25-tariff-on-indian-goods-brokerages-see-room-to-negotiate-down-to-17/136182228",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/136182181.cms?mod=139892",
+      "summary": "The USTR has proposed Section 301 tariffs of up to 25% on Indian goods, with a possible reduction to 17% if India seals a reciprocal trade deal.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "markets",
+        "et government - economy"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Large-scale climate drivers influence sardine and anchovy fisheries",
+      "category": "Development",
+      "date": "2026-11-26",
+      "source": "Mongabay India",
+      "sourceShort": "MON",
+      "sourceUrl": "https://india.mongabay.com/",
+      "articleUrl": "https://india.mongabay.com/2026/11/large-scale-climate-drivers-influence-sardine-and-anchovy-fisheries/",
+      "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/11/26122903/Weighing_each_sardine_basket_at_Rameswaram_port_in_India-scaled-e1795676377805-768x512.jpg",
+      "summary": "Global and local climate drivers can affect marine conditions, which in turn affect marine life and habitats, and subsequently the fish catch. But these effects are not always uniform: different fish groups respond differently to shifts in temperature, winds, upwelling and food availability. Fishing pressure and other ecological factors also shape their abundance. These fluctuations […]",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "mongabay india"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Gambia Signs US$68 Million Deal For 52 MW Solar And 40.9 MWh Battery Storage Project",
+      "category": "Innovation",
+      "date": "2026-11-26",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/26/gambia-signs-us68-million-deal-for-52-mw-solar-and-40-9-mwh-battery-storage-project/",
+      "imageUrl": "",
+      "summary": "Representational image. Credit: Canva \" /> The Gambia has signed agreements for a US$68 million, 52 MWp solar power plant with a 40.9 MWh battery storage system in Soma. Expected to generate 101 GWh annually, the project includes a 25-year PPA with NAWEC and aims to strengthen renewable energy capacity, improve grid reliability, expand electricity access, and reduce reliance on conventional power. The post Gambia Signs US$68 Million Deal For 52 MW Solar And 40.9 MWh Battery Storage Project appea",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Cleantech Solar Plans INR 8,140 Crore Investment For 1.1 GW Renewable Energy Projects In Tamil Nadu",
+      "category": "Innovation",
+      "date": "2026-11-26",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/26/cleantech-solar-plans-inr-8140-crore-investment-for-1-1-gw-renewable-energy-projects-in-tamil-nadu/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/clean-tech.png?fit=1376%2C768&quality=80&ssl=1",
+      "summary": "Cleantech Solar signed an MoU with Tamil Nadu to invest approximately INR 8,140 crore in developing 1.1 GW of solar, wind and battery storage projects between 2027 and 2031. The portfolio will generate 2.49 billion kWh annually, avoid 1.84 million tonnes of CO₂ emissions, support industrial energy needs and create employment, building on the company’s existing 400 MWp presence. The post Cleantech Solar Plans INR 8,140 Crore Investment For 1.1 GW Renewable Energy Projects In Tamil Nadu appeared f",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "IWTMA Partners With Germany’s BWE To Accelerate Wind Turbine Repowering In India",
+      "category": "Innovation",
+      "date": "2026-11-26",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/26/iwtma-partners-with-germanys-bwe-to-accelerate-wind-turbine-repowering-in-india/",
+      "imageUrl": "",
+      "summary": "Photo by Tom Swinnen on \" /> India’s IWTMA and Germany’s BWE have signed an MoU to advance wind turbine repowering in India. The partnership will promote knowledge sharing and cooperation on policies, permitting, technology, grid integration, land use, financing and asset life extension. By modernizing aging turbines, the initiative aims to improve generation, efficiency and India’s renewable energy competitiveness. The post IWTMA Partners With Germany’s BWE To Accelerate Wind Turbine Repowering",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Juniper Green Energy Signs 150 MW Hybrid Renewable Energy PPA With NTPC, Expands Portfolio To 6.4 GWp",
+      "category": "Innovation",
+      "date": "2026-11-26",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/26/juniper-green-energy-signs-150-mw-hybrid-renewable-energy-ppa-with-ntpc-expands-portfolio-to-6-4-gwp/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2022/10/14-2.png?fit=1200%2C675&quality=80&ssl=1",
+      "summary": "Representational image. Credit: Canva \" /> Juniper Green Energy signed a 25-year PPA with NTPC for a 150 MW hybrid renewable energy project, scheduled for commercial operation by June 2028. The agreement raises its contracted renewable capacity to approximately 6.4 GWp and BESS capacity to 4.3 GWh. The project strengthens the company’s hybrid portfolio and supports India’s energy transition. The post Juniper Green Energy Signs 150 MW Hybrid Renewable Energy PPA With NTPC, Expands Portfolio To 6.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Moglix Launches End-to-End Rooftop Solar Business Targeting Industrial, Commercial, and Residential Customers",
+      "category": "Innovation",
+      "date": "2026-11-26",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/26/moglix-launches-end-to-end-rooftop-solar-business-targeting-industrial-commercial-and-residential-customers/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/Deep.png?fit=1376%2C768&quality=80&ssl=1",
+      "summary": "Moglix has launched Moglix Solar, offering end-to-end rooftop solar solutions for industrial, commercial, residential and MSME customers across India. The company will provide financing without upfront costs, equipment, installation, approvals, maintenance and eventual system ownership through one platform. Leveraging its extensive solar supply chain, Moglix aims to accelerate affordable rooftop adoption nationwide. The post Moglix Launches End-to-End Rooftop Solar Business Targeting Industrial,",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Indian Banks Face Pressure to Strengthen Climate Lending Policies Amid Rising Industrial Credit—Report",
+      "category": "Innovation",
+      "date": "2026-11-26",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/26/indian-banks-face-pressure-to-strengthen-climate-lending-policies-amid-rising-industrial-credit-report/",
+      "imageUrl": "",
+      "summary": "Indian banks are expanding industrial lending, but a new ARE report warns that climate policies lag behind financing growth in high-emitting sectors. Six major lenders show progress in emissions measurement, risk assessment and green finance, yet lack consistent targets, restrictions and reporting standards. Stronger sectoral policies and coal-financing controls are needed to meet India’s climate goals. The post Indian Banks Face Pressure to Strengthen Climate Lending Policies Amid Rising Indust",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "BSPGCL Invites Bids For 500 MWh Standalone Battery Storage Project At Kajra In Bihar",
+      "category": "Innovation",
+      "date": "2026-11-26",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/26/bspgcl-invites-bids-for-500-mwh-standalone-battery-storage-project-at-kajra-in-bihar/",
+      "imageUrl": "",
+      "summary": "Representational image. Credit: Canva \" /> BSPGCL has invited bids to develop a 125 MW/500 MWh standalone BESS at Kajra, Lakhisarai, under a BOOT-based TBCB framework. The tender requires a ₹13 crore EMD, with bids due by November 27, 2026. Individual or consortium bidders must meet specified financial and technical eligibility criteria, including grid-connected BESS experience. The post BSPGCL Invites Bids For 500 MWh Standalone Battery Storage Project At Kajra In Bihar appeared first on SolarQ",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "L&T Secures Significant Order For 300 MW/900 MWh Battery Storage Project in Gujarat",
+      "category": "Innovation",
+      "date": "2026-11-26",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/26/lt-secures-significant-order-for-300-mw-900-mwh-battery-storage-project-in-gujarat/",
+      "imageUrl": "",
+      "summary": "Larsen & Toubro has won an order to develop a 300 MW/900 MWh battery energy storage system at Khavda, Gujarat. Jointly executed by its Renewables and LTEPS divisions, the three-hour facility will use liquid-cooling technology to store surplus renewable power, stabilize the grid, improve supply reliability, and support India’s clean-energy integration. The post L&T Secures Significant Order For 300 MW/900 MWh Battery Storage Project in Gujarat appeared first on SolarQuarter .",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
     {
       "title": "Uttarakhand CM announces women's degree college, bridge and other development projects in Manglaur",
       "category": "Development",
@@ -524,7 +821,7 @@
       "sourceUrl": "https://india.mongabay.com/",
       "articleUrl": "https://india.mongabay.com/2026/11/india-thought-it-eliminated-kala-azar-the-disease-now-gets-reported-from-a-non-endemic-state/",
       "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/11/24141834/IMG20260427133710-768x512.jpg",
-      "summary": "Thirty kilometres from Pauri, the nearest hill town, the road gives out. It ends at a solar farm, narrows into rubble and eventually becomes a stony footpath that winds downhill for about 20 minutes to Chair Talla, a village in Uttarakhand situated at an altitude of 1,100 metres. Nine years ago, Chair Talla recorded what […]",
+      "summary": "Thirty kilometres from Pauri, the nearest hill town, the road gives out. It ends at a solar farm, narrows into rubble and eventually becomes a stony footpath that winds downhill for about 20 minutes to Chair Talla, a village in Uttarakhand situated at an altitude of 1,100 metres. Nine years ago, Chair Malla recorded what […]",
       "icon": "📰",
       "visualBg": "#e2f0ed",
       "visualInk": "#276b5c",
