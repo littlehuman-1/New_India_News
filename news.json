@@ -1,7 +1,277 @@
 {
-  "updatedAt": "2026-11-27T03:01:57.757296+00:00",
+  "updatedAt": "2026-11-27T12:52:07.043835+00:00",
   "featuredArticleUrl": null,
   "articles": [
+    {
+      "title": "IORA nations must enhance collaboration: EAM Jaishankar",
+      "category": "Markets",
+      "date": "2026-11-27",
+      "source": "ET Government - Economy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/iora-nations-must-enhance-collaboration-eam-jaishankar/136218840",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/136218874.cms?mod=137054",
+      "summary": "S Jaishankar, the External Affairs Minister, underscored the Indian Ocean's strategic significance for global trade and energy security. He called on coastal nations to unite for a promising future within the region.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "markets",
+        "et government - economy"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Odisha govt clears 19 projects worth ₹3,810 crore, tourism sector to attract ₹607 crore",
+      "category": "Markets",
+      "date": "2026-11-27",
+      "source": "ET Government - Economy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/odisha-govt-clears-19-projects-worth-3810-crore-tourism-sector-to-attract-607-crore/136220191",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/136220382.cms?mod=1281329",
+      "summary": "The projects will be spread across 10 districts, indicating a wider geographical distribution of investment-led economic activity in the state.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "markets",
+        "et government - economy"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "India-US trade deal is close to culmination: Goyal",
+      "category": "Markets",
+      "date": "2026-11-27",
+      "source": "ET Government - Economy",
+      "sourceShort": "ET ",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/",
+      "articleUrl": "https://government.economictimes.indiatimes.com/news/economy/india-us-trade-deal-is-close-to-culmination-goyal/136210345",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/136210373.cms?mod=75004",
+      "summary": "Commerce and Industry Minister Piyush Goyal indicated that the India-US trade deal is nearing completion and negotiations have advanced.",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "markets",
+        "et government - economy"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Underused land can support fodder production [Commentary]",
+      "category": "Development",
+      "date": "2026-11-27",
+      "source": "Mongabay India",
+      "sourceShort": "MON",
+      "sourceUrl": "https://india.mongabay.com/",
+      "articleUrl": "https://india.mongabay.com/2026/11/underused-land-can-support-fodder-production-commentary/",
+      "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/11/27112156/Female-farmer-2-768x512.jpeg",
+      "summary": "In March 2024, the fields around Baramati in Maharashtra’s Pune district began to tell a familiar story of a semi-arid region. The maize and sorghum grown for fodder after the monsoon were largely exhausted, summer fields remained dry, and livestock farmers increasingly depended on crop residues, sugarcane tops and purchased feed. During our (ICAR-NIASM) survey of […]",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "mongabay india"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "An overlooked policy could help recognise chemical-free farmland [Commentary]",
+      "category": "Development",
+      "date": "2026-11-27",
+      "source": "Mongabay India",
+      "sourceShort": "MON",
+      "sourceUrl": "https://india.mongabay.com/",
+      "articleUrl": "https://india.mongabay.com/2026/11/an-overlooked-policy-could-help-recognise-chemical-free-farmland-commentary/",
+      "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/11/27163632/77553a69-7ed1-4689-9402-6c20383f854c-768x512.jpg",
+      "summary": "On a sloping hillside in southern Odisha’s Koraput district, Budra, a farmer grows a dense mix of finger millet (mandia), little millet (suan), niger seed, and local pulses in a single plot, exactly the way his father did. When asked about fertiliser use, he simply points to the cattle pen. His field has never seen […]",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "development",
+        "mongabay india"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Green Energy Stocks Witness Mixed Trading as Battery Segment Gains Amid Broader Market Sell-Off (27 November 2026)",
+      "category": "Innovation",
+      "date": "2026-11-27",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/27/green-energy-stocks-witness-mixed-trading-as-battery-segment-gains-amid-broader-market-sell-off-27-november-2026/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/indian-green-energy-market-without-company-branding-6b096878b21da.png?fit=1376%2C768&quality=80&ssl=1",
+      "summary": "A modern trading office is filled with monitors showing stock tickers, performance charts, sector overviews and major market indices. Green and red indicators highlight rising and falling assets, including values such as +3.1% and -1.5%. Silhouetted professionals work in the background near large windows, while plants, desks and office equipment frame the scene. The blue, green and red display colours create a focused, data-driven atmosphere. \" /> Green energy stocks traded mixed on November 27,",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "Sunfraa Global And Advait Greenergy Partner To Develop 0.5–5 MWh C&I BESS Market In Gujarat",
+      "category": "Innovation",
+      "date": "2026-11-27",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/27/sunfraa-global-and-advait-greenergy-partner-to-develop-0-5-5-mwh-ci-bess-market-in-gujarat/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/advait.png?fit=1376%2C768&quality=80&ssl=1",
+      "summary": "Sunfraa Global and Advait Greenergy have partnered to develop customised commercial and industrial battery energy storage systems across Gujarat. Covering projects from 0.5 MWh to 5 MWh, the collaboration combines Sunfraa’s customer and business development expertise with Advait’s technology, engineering and execution capabilities. Solutions will target peak-demand management, cost reduction and improved power reliability. The post Sunfraa Global And Advait Greenergy Partner To Develop 0.5–5 MWh",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "KSERC Finalizes Multi-Year Tariff Regulations 2026 For Kerala’s FY 2027-32 Control Period",
+      "category": "Innovation",
+      "date": "2026-11-27",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/27/kserc-finalizes-multi-year-tariff-regulations-2026-for-keralas-fy-2027-32-control-period/",
+      "imageUrl": "",
+      "summary": "Representational image. Credit: Canva \" /> KSERC finalized the Multi Year Tariff Regulations, 2026, governing Kerala’s electricity tariffs from FY 2027-28 to FY 2031-32. Key measures include phased recovery of regulatory assets through a uniform surcharge, monthly fuel-cost adjustments exempting BPL consumers, updated renewable and battery-storage provisions, and retained evening peak ToD periods. The regulations prioritize financial sustainability and reliable supply. The post KSERC Finalizes M",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "JinkoSolar Named ‘Solar Technology Provider of the Year’ at the AFSIA Solar Awards 2026",
+      "category": "Innovation",
+      "date": "2026-11-27",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/27/jinkosolar-named-solar-technology-provider-of-the-year-at-the-afsia-solar-awards-2026/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/Jinko-Africa.jpg?fit=933%2C747&quality=89&ssl=1",
+      "summary": "JinkoSolar was named Solar Technology Provider of the Year at the 2026 AFSIA Solar Awards in Lagos, recognising its innovation and contribution to Africa’s renewable energy transition. Its Tiger Neo 3.0 N-type TOPCon technology delivers higher output and improved real-world performance. The company reaffirmed its commitment to supporting African markets with advanced solar solutions. The post JinkoSolar Named ‘Solar Technology Provider of the Year’ at the AFSIA Solar Awards 2026 appeared first o",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
+      "title": "How to Choose the Best Grid Tie Inverter in India: A Buyer’s Guide for Homes and Businesses",
+      "category": "Innovation",
+      "date": "2026-11-27",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/27/how-to-choose-the-best-grid-tie-inverter-in-india-a-buyers-guide-for-homes-and-businesses/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/Eastman1.jpeg?fit=1600%2C900&quality=89&ssl=1",
+      "summary": "A grid-tie inverter converts solar DC into grid-synchronised AC, enabling on-site use and surplus export. Selecting one requires comparing capacity and DC-to-AC ratio, efficiency, MPPTs, compliance, monitoring, warranty and local service. Eastman offers Indian-made models from 3–110 kW. Standard inverters shut down during outages; backup requires a hybrid system. The post How to Choose the Best Grid Tie Inverter in India: A Buyer’s Guide for Homes and Businesses appeared first on SolarQuarter .",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
     {
       "title": "Rajnath Singh calls for anticipating emerging risks, preparing institutions for security environment",
       "category": "Innovation",
@@ -408,33 +678,6 @@
       }
     },
     {
-      "title": "Green Energy Stocks Witness Mixed Trading As Solar And Wind Shares Gain While Battery Stocks Decline (26 November 2026)",
-      "category": "Innovation",
-      "date": "2026-11-26",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/11/26/green-energy-stocks-witness-mixed-trading-as-solar-and-wind-shares-gain-while-battery-stocks-decline-26-november-2026/",
-      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/solar-and-wind-energy-market-with-declining-batteries-6b08280636250.png?fit=1376%2C768&quality=80&ssl=1",
-      "summary": "A futuristic financial infographic titled “GREEN ENERGY STOCKS: MIXED TRADING DAY” presents market performance across renewable-energy sectors. Green charts show gains for solar shares, solar energy generators, photovoltaic technology, wind shares, offshore wind projects and wind farm operators, while red charts show declines in lithium-ion battery makers, energy storage systems and battery material suppliers. Neon blue, green and red graphics, arrows, bar charts, line graphs and energy-related ",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false,
-      "translations": {
-        "hi": {},
-        "ta": {},
-        "ml": {},
-        "kn": {},
-        "te": {}
-      }
-    },
-    {
       "title": "Philippines Expands Government Solarization Programme As 38 LGUs Commit To Clean Energy Adoption",
       "category": "Innovation",
       "date": "2026-11-26",
@@ -462,6 +705,33 @@
       }
     },
     {
+      "title": "Green Energy Stocks Witness Mixed Trading As Solar And Wind Shares Gain While Battery Stocks Decline (26 November 2026)",
+      "category": "Innovation",
+      "date": "2026-11-26",
+      "source": "SolarQuarter",
+      "sourceShort": "SOL",
+      "sourceUrl": "https://solarquarter.com/",
+      "articleUrl": "https://solarquarter.com/2026/11/26/green-energy-stocks-witness-mixed-trading-as-solar-and-wind-shares-gain-while-battery-stocks-decline-26-november-2026/",
+      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/solar-and-wind-energy-market-with-declining-batteries-6b08280636250.png?fit=1376%2C768&quality=80&ssl=1",
+      "summary": "A futuristic financial infographic titled “GREEN ENERGY STOCKS: MIXED TRADING DAY” presents market performance across renewable-energy sectors. Green charts show gains for solar shares, solar energy generators, photovoltaic technology, wind shares, offshore wind projects and wind farm operators, while red charts show declines in lithium-ion battery makers, energy storage systems and battery material suppliers. Neon blue, green and red graphics, arrows, bar charts, line graphs and energy-related",
+      "icon": "📰",
+      "visualBg": "#e2f0ed",
+      "visualInk": "#276b5c",
+      "tags": [
+        "innovation",
+        "solarquarter"
+      ],
+      "isSample": false,
+      "isFeatured": false,
+      "translations": {
+        "hi": {},
+        "ta": {},
+        "ml": {},
+        "kn": {},
+        "te": {}
+      }
+    },
+    {
       "title": "Egypt Targets 31.9 GW Renewable Energy Capacity and 14.42 GWh Battery Storage by 2030",
       "category": "Innovation",
       "date": "2026-11-26",
@@ -470,7 +740,7 @@
       "sourceUrl": "https://solarquarter.com/",
       "articleUrl": "https://solarquarter.com/2026/11/26/egypt-targets-31-9-gw-renewable-energy-capacity-and-14-42-gwh-battery-storage-by-2030/",
       "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2020/04/3.png?fit=1200%2C675&quality=80&ssl=1",
-      "summary": "Representational image. Credit: Canva \" /> Egypt plans to expand renewable energy capacity to 31,905 MW by 2030, supported by private investment, major projects and 14,420 MWh of battery storage. The government is accelerating implementation, localising clean-energy industries, promoting rooftop solar, and strengthening regional electricity interconnections. These measures aim to diversify energy sources, improve grid reliability, attract investment and establish Egypt as a regional energy hub. ",
+      "summary": "Representational image. Credit: Canva \" /> Egypt plans to expand renewable energy capacity to 31,905 MW by 2030, supported by private investment, major projects and 14,420 MWh of battery storage. The government is accelerating implementation, localising clean-energy industries, promoting rooftop solar, and strengthening regional electricity interconnections. These measures aim to diversify energy sources, improve grid reliability, attract investment and establish Egypt as a regional energy hub.",
       "icon": "📰",
       "visualBg": "#e2f0ed",
       "visualInk": "#276b5c",
@@ -2415,33 +2685,6 @@
       "articleUrl": "https://solarquarter.com/2026/11/20/balmer-lawrie-invites-bids-for-522-kwh-bess-with-solar-project-in-navi-mumbai/",
       "imageUrl": "",
       "summary": "Representational image. Credit: Canva \" /> Balmer Lawrie has invited bids to install a 522 kWh LFP battery storage system alongside its 600 kW solar plant at Taloja, Navi Mumbai. Eligible bidders need relevant experience, financial turnover of ₹90 lakh, Maharashtra presence and a mandatory site visit. Proposals are due November 27, 2026, with completion required within 10 weeks. The post Balmer Lawrie Invites Bids For 522 kWh BESS With Solar Project In Navi Mumbai appeared first on SolarQuarter",
-      "icon": "📰",
-      "visualBg": "#e2f0ed",
-      "visualInk": "#276b5c",
-      "tags": [
-        "innovation",
-        "solarquarter"
-      ],
-      "isSample": false,
-      "isFeatured": false,
-      "translations": {
-        "hi": {},
-        "ta": {},
-        "ml": {},
-        "kn": {},
-        "te": {}
-      }
-    },
-    {
-      "title": "ACME Solar Commissions 57.69 MW FDRE Capacity With 265.38 MWh BESS In Rajasthan",
-      "category": "Innovation",
-      "date": "2026-11-20",
-      "source": "SolarQuarter",
-      "sourceShort": "SOL",
-      "sourceUrl": "https://solarquarter.com/",
-      "articleUrl": "https://solarquarter.com/2026/11/20/acme-solar-commissions-57-69-mw-fdre-capacity-with-265-38-mwh-bess-in-rajasthan/",
-      "imageUrl": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2026/11/fre-and-bess-projects-in-rajasthan-6affe9498f0a6.png?fit=1376%2C768&quality=80&ssl=1",
-      "summary": "A large solar farm stretches across a dry, sandy landscape, with rows of photovoltaic panels in the foreground and numerous wind turbines across the horizon. A fenced battery energy storage system contains white BESS containers beside an electrical substation and transmission infrastructure. Low rocky mountains sit beneath a broad blue, lightly clouded sky, creating a bright, arid setting. \" /> ACME Solar Holdings commissioned 57.69 MW of battery-backed FDRE capacity in Rajasthan on November 19",
       "icon": "📰",
       "visualBg": "#e2f0ed",
       "visualInk": "#276b5c",
